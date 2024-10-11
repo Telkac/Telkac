@@ -18,3 +18,22 @@ https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=707&device=2b6073bc96d5
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=609&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:0,TA 3 HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=773&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
+d57891dc6410d6ab150035&stream_profiles=ottradio&changed_at=1726643016&shaping=0&eta=1&ets=1
+#EXTINF:0,CRo Plus
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=931&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=ottradio&changed_at=1726643016&shaping=0&eta=1&ets=1
+#EXTINF:0,CRo Radiozurnál
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=927&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=ottradio&changed_at=1726643016&shaping=0&eta=1&ets=1
+#EXTINF:0,CRo Region
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=955&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=ottradio&changed_at=1726643016&shaping=0&eta=1&ets=1
+#EXTINF:0,CRo Rádio Junior
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=923&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=ottradio&changed_at=1726643016&shaping=0&eta=1&ets=1
+#EXTINF:0,CRo Rádio Praha
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=953&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=ottradio&changed_at=1726643016&shaping=0&eta=1&ets=1
+#EXTINF:0,CRo Rádio Wave
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=933&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=ottradio&changed_at=1726643016&shaping=0&eta=1&ets=1
+#EXTINF:0,CRo Vltava
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=935&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=ottradio&changed_at=1726643016&shaping=0&eta=1&ets=1
+#EXTINF:0,Šlágr Muzika HD
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2102&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
+#EXTINF:0,Šlágr Originál HD
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2100&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
