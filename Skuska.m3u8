@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/slovakia.xml
 
+#EXTINF:-1 tvg-id="Markiza(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/952-markiza-hd.png" group-title="Všeobecné",Markiza HD
+http://88.212.15.27/live/test_markiza_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Jednotka(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/1024/jednotka.png" group-title="Všeobecné",Jednotka HD
 http://213.81.133.133:8080/jednotka/index.m3u8
 #EXTINF:-1 tvg-id="Dvojka(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Logo_of_Dvojka_%282012-%29.png" group-title="Všeobecné",Dvojka HD
