@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakia.xml.gz,https://www.bevy.be/bevyfiles/czech.xml"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/slovakia.xml, https://www.bevy.be/bevyfiles/slovakia.xml.gz, https://www.bevy.be/bevyfiles/czech.xml"
 
 #EXTINF:-1 tvg-id="Jednotka(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/1024/jednotka.png" group-title="Všeobecné",Jednotka HD
 http://213.81.133.133:8080/jednotka/index.m3u8
