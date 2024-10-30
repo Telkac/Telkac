@@ -100,31 +100,24 @@ http://88.212.15.27/live/test_film_boxextra_hd_hevc/playlist.m3u8
 http://88.212.15.27/live/test_filmbox_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmboxFamily(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmboxfamily.png" group-title="Filmy a seriály / Movies and serials",Filmbox Family
 http://88.212.15.27/live/test_filmbox_family_atk_1200/playlist.m3u8
-#EXTINF:-1,Film1 Premiere HD
-http://78.130.250.2:8023/play/a00l/index.m3u8
-#EXTINF:-1,Film1 Comedy & Kids
-http://78.130.250.2:8023/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="AMC(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/amc.png" group-title="Filmy a seriály / Movies and serials",AMC HD
-http://88.212.15.27/live/test_amc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="AXN(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/axn.png" group-title="Filmy a seriály / Movies and serials",AXN
-http://88.212.15.27/live/test_axn/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmEurope(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmeurope.png" group-title="Filmy a seriály / Movies and serials",Film Europe HD
-http://194.160.135.34:8088/udp/233.10.47.62:1234
-#EXTINF:-1,Filmbox arthouse
-https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="http://46.36.40.22/1023/cinemaxhd.png" group-title="Filmové",Cinemax
 http://88.212.15.27/live/test_cinemax_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinemax 2" tvg-name="Cinemax 2" tvg-logo="http://46.36.40.22/1023/cinemax2hd.png" group-title="Filmové",Cinemax 2
 http://88.212.15.27/live/test_cinemax2_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="Paramount Netvork" tvg-logo="http://46.36.40.22/1023/paramount.png" group-title="Filmové",Paramount Netvork
-http://88.212.15.27/live/prima_comedy_central/playlist.m3u8
+#EXTINF:-1 tvg-id="AMC(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/amc.png" group-title="Filmy a seriály / Movies and serials",AMC HD
+http://88.212.15.27/live/test_amc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="AXN(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/axn.png" group-title="Filmy a seriály / Movies and serials",AXN
+http://88.212.15.27/live/test_axn/playlist.m3u8
 #EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="AXN" tvg-logo="http://46.36.40.22/1023/axn.png" group-title="Filmové",AXN
 http://88.212.15.27/live/test_axn/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" tvg-logo="http://46.36.40.22/1023/axnblack.png" group-title="Filmové",AXN Black
 http://88.212.15.27/live/test_black/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN White" tvg-logo="http://46.36.40.22/1023/axnwhite.png" group-title="Filmové",AXN White
 http://88.212.15.27/live/test_white/playlist.m3u8
-
+#EXTINF:-1 tvg-id="FilmEurope(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmeurope.png" group-title="Filmy a seriály / Movies and serials",Film Europe HD
+http://194.160.135.34:8088/udp/233.10.47.62:1234
+#EXTINF:-1,Filmbox arthouse
+https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NovaInternational(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1-nova-international-hd.png" group-title="Všeobecné",Nova International HD
 http://194.160.135.34:8088/udp/233.10.47.61:1234
@@ -138,9 +131,8 @@ http://88.212.15.27/live/test_joj_family_hevc_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JOJSvet(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1602-joj-svet-hd.png" group-title="Dokumentárné",JOJ Svet HD
 http://88.212.15.27/live/test_joj_svet/playlist.m3u8
-#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="Discovery" tvg-logo="http://46.36.40.22/1023/discovery.png" group-title="Dokumentárne",Discovery
+#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="Discovery" tvg-logo="http://46.36.40.22/1023/discovery.png" group-title="Dokumentárne",Discovery HD
 http://88.212.15.27/live/test_discovery_hd_hevc/playlist.m3u8
-#EXTINF:0,Discovery Channel HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=937&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:-1 tvg-id="LoveNature(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/lovenature.png" group-title="Dokumentární / Documents",Love Nature HD
 http://95.67.12.82:9098
@@ -374,20 +366,12 @@ http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E9:52&stream=564977&ext
 #EXTINF:-1, Liverpool FC 🇬🇧
 http://6c03a4a9.ottolok.net/iptv/UPSE4VLLPEHXVF/31596/index.m3u8
 
+#EXTINF:0,Real Madrid 🇬🇧
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+
 #EXTINF:0,KHL HD 🇷🇺
 http://6c03a4a9.ottolok.net/iptv/UPSE4VLLPEHXVF/31550/index.m3u8
 
-#EXTINF:0,Real Madrid
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
-
-#EXTINF:-1,CANAL+ EXTRA 1
-http://45.65.112.49:8000/play/a0ow
-#EXTINF:-1,CANAL+ EXTRA 2
-http://45.65.112.49:8000/play/a0ox
-#EXTINF:-1,CANAL+ EXTRA 3
-http://45.65.112.49:8000/play/a0oy
-#EXTINF:-1,CANAL+ EXTRA 4
-http://45.65.112.49:8000/play/a0ov
 #EXTINF:-1,TVP Sport PL 🇵🇱
 http://45.65.112.49:8000/play/a0ko
 #EXTINF:-1,Eleven sport 1 PL 🇵🇱
@@ -515,48 +499,6 @@ http://178.219.128.68:64889/POLSSPORNEWSHD
 #EXTINF:-1, Bein Sports 1 France 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
 
-#EXTINF:-1,Arena Sport 1
-http://89.187.191.99:8080/arena1/index.m3u8
-#EXTINF:-1,Arena Sport 2
-http://89.187.191.99:8080/arena2/index.m3u8
-#EXTINF:-1,Arena Sport 3
-http://89.187.191.99:8080/arena3/index.m3u8
-#EXTINF:-1,Arena Sport 4
-http://89.187.191.99:8080/arena4/index.m3u8
-#EXTINF:-1,Arena Sport 5
-http://89.187.191.99:8080/arena1/index.m3u8
-#EXTINF:-1,Sport Klub 1
-http://89.187.191.99:8080/sk1/index.m3u8
-#EXTINF:-1,Sport Klub 2
-http://89.187.191.99:8080/sk2/index.m3u8
-#EXTINF:-1,Sport Klub 3
-http://89.187.191.99:8080/sk3/index.m3u8
-#EXTINF:-1,Sport Klub 4
-http://89.187.191.99:8080/sk4/index.m3u8
-#EXTINF:-1,Sport Klub 6
-http://89.187.191.99:8080/sk6/index.m3u8
-#EXTINF:-1,K Sport 1
-http://89.187.191.99:8080/ksport1/index.m3u8
-#EXTINF:-1,K Sport 2
-http://89.187.191.99:8080/ksport2/index.m3u8
-#EXTINF:-1,Tring Sport 1
-http://89.187.191.99:8080/tringsport1/index.m3u8
-#EXTINF:-1,Tring Sport 2
-http://89.187.191.99:8080/tringsport2/index.m3u8
-#EXTINF:-1,Tring Sport 3
-http://89.187.191.99:8080/tringsport3/index.m3u8
-#EXTINF:-1,Supersport 1
-http://89.187.191.99:8080/ss1hd/index.m3u8
-#EXTINF:-1,Supersport 2
-http://89.187.191.99:8080/ss2hd/index.m3u8
-#EXTINF:-1,Supersport 3
-http://89.187.191.99:8080/ss3hd/index.m3u8
-#EXTINF:-1,Supersport 4
-http://89.187.191.99:8080/ss4hd/index.m3u8
-#EXTINF:-1,Supersport 5
-http://89.187.191.99:8080/ss5hd/index.m3u8
-
-
 #EXTINF:-1,Ziggo Sport Select HD 🇳🇱
 http://78.130.250.2:8023/play/a00n/index.m3u8
 #EXTINF:-1,Ziggo Sport Voetbal 🇳🇱
@@ -633,138 +575,6 @@ http://88.212.15.27/live/test_erox_hd_hevc/playlist.m3u8
 http://88.212.15.27/live/test_basbes_hd_hevc/playlist.m3u8
 #EXTINF:0,Brazzers TV Europe HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2004&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
-
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/49.png" tvg-name="ch049" timeshift="0" group-title="13. For Adults",Русская ночь
-http://1.1usd.tv:34000/ch049/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdDv42VkX2mAnLQuEWsQlpLcSybOB_aqL0tdMoC_ztMMA
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/50.png" tvg-name="ch050" timeshift="0" group-title="13. For Adults",Playboy
-http://1.1usd.tv:34000/ch050/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBCCqQjQCZ0HelVaZ5Jqyar_gcEZhFyZnhU5DD2Gjn00
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/94.png" tvg-name="ch094" timeshift="0" group-title="13. For Adults",Private TV HD
-http://1.1usd.tv:34000/ch094/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGxqM1stJDgHNp15u9-gNr2OQYlKsGeEl4hMiR3DRUyu
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/93.png" tvg-name="ch093" timeshift="0" group-title="13. For Adults",BRAZZERS TV
-http://1.1usd.tv:34000/ch093/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdF2u2nGUoGGzZzhVXQku7Sa2xG7zZMCuo571G8Z0q9bg
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/96.png" tvg-name="ch096" timeshift="0" group-title="13. For Adults",Hustler HD
-http://1.1usd.tv:34000/ch096/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIqTWLacuDLognKZ8xnSr9NLJQOr7EFHwlp7RDjwVDIF
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/97.png" tvg-name="ch097" timeshift="0" group-title="13. For Adults",Dorcel HD
-http://1.1usd.tv:34000/ch097/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLacBgg_BB0Otetp5227B-N3DFN0Pu804ykqGI_bal-3
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/380.png" tvg-name="ch380" timeshift="0" group-title="13. For Adults",Pornbox A Girls Knows
-http://1.1usd.tv:34000/ch380/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCctEApCcGqe-EQgrszRzfxbvlJz03mOrQH4pT8H1gxZ
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/248.png" tvg-name="ch248" timeshift="0" group-title="13. For Adults",Pornbox Adult Time
-http://1.1usd.tv:34000/ch248/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJJw8QKkbeg4qnq5IJgxA_TJj830dIh8V9tUkZGeHylI
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/810.png" tvg-name="ch810" timeshift="0" group-title="13. For Adults",Pornbox All Group Sex
-http://1.1usd.tv:34000/ch810/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdCx3CqO3a8eWNXOaZLIiM_ChQlEG8ncpQlLNMxLoPp6v
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/793.png" tvg-name="ch793" timeshift="0" group-title="13. For Adults",Pornbox Bums Bus
-http://1.1usd.tv:34000/ch793/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPN2AcYL2yEXvH1Q7g1IDP8EFbGIln0kxCeS1AMLdcQ0
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/51.png" tvg-name="ch051" timeshift="0" group-title="13. For Adults",Pornbox Babes
-http://1.1usd.tv:34000/ch051/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPJdfOdZvTatcbeIzeFwgWvYu9JP8GQ5kJN3rJMwnrp-
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/792.png" tvg-name="ch792" timeshift="0" group-title="13. For Adults",Pornbox Bratty Sis
-http://1.1usd.tv:34000/ch792/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHkABx7xNkLbI-RUrYDkWnBnJwOMbhQ4ePg4vEBO2IG0
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/246.png" tvg-name="ch246" timeshift="0" group-title="13. For Adults",Pornbox Blacked
-http://1.1usd.tv:34000/ch246/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdENKNNPaPEDglrqMAqbOgOnIzfZ8PtDxohyvw8EYpKah
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/53.png" tvg-name="ch053" timeshift="0" group-title="13. For Adults",Pornbox Cum 4K
-http://1.1usd.tv:34000/ch053/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdB4oMa_nWxkuF3PeCKjysmmIuXTmVSseyP7DWAda0_WM
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/795.png" tvg-name="ch795" timeshift="0" group-title="13. For Adults",Pornbox Casting Couch
-http://1.1usd.tv:34000/ch795/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdEuicaTENwfOMjUBAJP9_0bNuu5EPBZzY_plL5ugtlWw
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/377.png" tvg-name="ch377" timeshift="0" group-title="13. For Adults",Pornbox Dogfart Network
-http://1.1usd.tv:34000/ch377/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIxLmvLNAvCdU6Xvm-SycnsntCAsfVgoiBuDLSxkxshh
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/376.png" tvg-name="ch376" timeshift="0" group-title="13. For Adults",Pornbox DDF Busty
-http://1.1usd.tv:34000/ch376/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLNAQWvGEnjLJ88Er0iiMXftdGo01N6tlD-mwTAapcD8
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/291.png" tvg-name="ch291" timeshift="0" group-title="13. For Adults",Pornbox Diabolic
-http://1.1usd.tv:34000/ch291/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAm78kEs6-TEOnwIHUi8Tk7n262tOw_pDuJHhRLitazd
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/52.png" tvg-name="ch052" timeshift="0" group-title="13. For Adults",Pornbox Gender X Films
-http://1.1usd.tv:34000/ch052/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdP_RczWEqQmb-9e61n-A6jTZFEHqwZtowUkW_LFqPdE0
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/801.png" tvg-name="ch801" timeshift="0" group-title="13. For Adults",Pornbox Family Strokes
-http://1.1usd.tv:34000/ch801/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMd3MCR5nujkg6x911MaGjW4zardsZGd-tYPxrBs0ONE
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/803.png" tvg-name="ch803" timeshift="0" group-title="13. For Adults",Pornbox Fake Taxi
-http://1.1usd.tv:34000/ch803/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIwahlfus35wKbnSJF8BMBqQBIuH3kt-YzY9QnCA6CXL
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/794.png" tvg-name="ch794" timeshift="0" group-title="13. For Adults",Pornbox Fake Hostel
-http://1.1usd.tv:34000/ch794/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIrjROGjRF3n8rn-LfTwA2MY1PtScanBknE3aCts127h
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/799.png" tvg-name="ch799" timeshift="0" group-title="13. For Adults",Pornbox First Anal Quest
-http://1.1usd.tv:34000/ch799/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBNayIR7wQRWeYfsRkqj44ArpoK7gShcBdvJCS_QpEj5
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/798.png" tvg-name="ch798" timeshift="0" group-title="13. For Adults",Pornbox Fit 18
-http://1.1usd.tv:34000/ch798/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLwWU_RvljnzJcGzVVLsCfFSdy_Uaba7nu_USrkLmEym
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/800.png" tvg-name="ch800" timeshift="0" group-title="13. For Adults",Pornbox Fapadoo
-http://1.1usd.tv:34000/ch800/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdH8HiS20n1rXvLlXK1cwKRhRWBePGzI1Vob3FTP60zm1
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/824.png" tvg-name="ch824" timeshift="0" group-title="13. For Adults",Pornbox Holed
-http://1.1usd.tv:34000/ch824/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPj0jUfuZNQneHIN2LGeTg7LVNHr-P58uOVl_mzOiq-n
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/250.png" tvg-name="ch250" timeshift="0" group-title="13. For Adults",Pornbox Hentained
-http://1.1usd.tv:34000/ch250/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFaMQa22AN09C7_YgR3R9Wulki1gyv1hPyz1Kw02Fn2T
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/249.png" tvg-name="ch249" timeshift="0" group-title="13. For Adults",Pornbox Jules Jordan
-http://1.1usd.tv:34000/ch249/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAgq9I-IsyMUk04Vm7D0mDHkK4ov6w62dV82JUcHEDQ3
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/290.png" tvg-name="ch290" timeshift="0" group-title="13. For Adults",Pornbox Jays Pov
-http://1.1usd.tv:34000/ch290/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIb3AkYOuOPIN_sAuC3VXxx7P6LcJLZEU9MSWZvvnFuV
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/375.png" tvg-name="ch375" timeshift="0" group-title="13. For Adults",Pornbox Jesh By Jesh
-http://1.1usd.tv:34000/ch375/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIIAM_StMbqUGOFeiNrde1NyK-2EQIq7Qp9zPPIV1h5x
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/823.png" tvg-name="ch823" timeshift="0" group-title="13. For Adults",Pornbox Interracial Pass
-http://1.1usd.tv:34000/ch823/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBOTXPEtSxrpZPY614_32VKhfP1kcMABfMcic2H8LY7n
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/289.png" tvg-name="ch289" timeshift="0" group-title="13. For Adults",Pornbox Kinky Family
-http://1.1usd.tv:34000/ch289/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdA9Fkd2SX8peDhWpqC3fPjHy91ntDxLF5hz3CyRN174e
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/809.png" tvg-name="ch809" timeshift="0" group-title="13. For Adults",Pornbox Lets Do It
-http://1.1usd.tv:34000/ch809/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBNyH0-Av63gskLZNEYqYM9H32M_sKRplj2gOpfSlFwx
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/813.png" tvg-name="ch813" timeshift="0" group-title="13. For Adults",Pornbox Love Her Feet
-http://1.1usd.tv:34000/ch813/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNrm3aS1q-GWwGv6FRcssV1hDRsBJyGrjKmuzKM47vue
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/807.png" tvg-name="ch807" timeshift="0" group-title="13. For Adults",Pornbox Love Home Porn
-http://1.1usd.tv:34000/ch807/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKN2PvEXYv-V_gcs3p27zpZiMXTph_HK4Oa4VxLlqJTJ
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/850.png" tvg-name="ch850" timeshift="0" group-title="13. For Adults",Pornbox Massage Rooms
-http://1.1usd.tv:34000/ch850/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLEcGUOexNzW9V4GTCh1VUUYKQBRD0RkGqMLzlSvM_Ya
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/815.png" tvg-name="ch815" timeshift="0" group-title="13. For Adults",Pornbox My Tiny Wish
-http://1.1usd.tv:34000/ch815/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdLENkmS13o78UQu_gIWG60I00eKTCbjyDmFVLfcgZuow
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/817.png" tvg-name="ch817" timeshift="0" group-title="13. For Adults",Pornbox My Family Pies
-http://1.1usd.tv:34000/ch817/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdC9bunvlL1hW56THWgyolnVRbeAqd9wb1r10OvPL9sv6
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/806.png" tvg-name="ch806" timeshift="0" group-title="13. For Adults",Pornbox Must Not Fap
-http://1.1usd.tv:34000/ch806/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPO0a862Z5QjMlhKSWOGdymEXv4rjpwAf7n87roqOxgC
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/292.png" tvg-name="ch292" timeshift="0" group-title="13. For Adults",Pornbox Model Media Asia
-http://1.1usd.tv:34000/ch292/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAC86TY10i5Qbg5h1TQPShlD7b91vqnHk-AV4d35gotr
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/816.png" tvg-name="ch816" timeshift="0" group-title="13. For Adults",Pornbox Mom Teach Sex
-http://1.1usd.tv:34000/ch816/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdE-Eqm78zNgMOnUtrQLuXmBnVHmE4t26JhrQ2gkNCuEv
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/802.png" tvg-name="ch802" timeshift="0" group-title="13. For Adults",Pornbox Mamacitaz
-http://1.1usd.tv:34000/ch802/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBExuIMP7suBrceY_bAzn6tH910q5OxeuR9utUxL6l5n
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/814.png" tvg-name="ch814" timeshift="0" group-title="13. For Adults",Pornbox My Dirty Hobby
-http://1.1usd.tv:34000/ch814/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdASHt2HVPJ8Tiop0ngWcF2cextw9XUZ9BEILOUvcdA22
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/247.png" tvg-name="ch247" timeshift="0" group-title="13. For Adults",Pornbox Pornochic
-http://1.1usd.tv:34000/ch247/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdK5VSfABdTX99qRphhIgwn5FQ6NXvjvw9tamJcEdsoU7
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/797.png" tvg-name="ch797" timeshift="0" group-title="13. For Adults",Pornbox Public Agent
-http://1.1usd.tv:34000/ch797/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBT0we1nVZPuPtexYtN62M8xrPdAC1X6j0Vxd8TrGDne
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/820.png" tvg-name="ch820" timeshift="0" group-title="13. For Adults",Pornbox Passion
-http://1.1usd.tv:34000/ch820/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdM9_1U54gKFOssI_P8-5D0eos2yi5Btvds10irjDjU0M
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/804.png" tvg-name="ch804" timeshift="0" group-title="13. For Adults",Pornbox Pure Mature
-http://1.1usd.tv:34000/ch804/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdL86hgN2-PCwDy6CxQ7L-U3NlUKDfPxA7LUD2UyLp28S
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/812.png" tvg-name="ch812" timeshift="0" group-title="13. For Adults",Pornbox Princess Cum
-http://1.1usd.tv:34000/ch812/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdI0fVcKrGFldpOkag4tpxHCq_OTICw4_ajDcm3v3bmfk
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/811.png" tvg-name="ch811" timeshift="0" group-title="13. For Adults",Pornbox Real Dirty Videos
-http://1.1usd.tv:34000/ch811/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNNXZg7DmY3NPAKrdEw_pwmLe5MSxJfMetU7sd5Eyxj_
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/821.png" tvg-name="ch821" timeshift="0" group-title="13. For Adults",Pornbox Reality Junkies
-http://1.1usd.tv:34000/ch821/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdKLS4g6z234u2sORO7jlXf9Jy3EAxXw4z77jpjZGJ8-E
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/822.png" tvg-name="ch822" timeshift="0" group-title="13. For Adults",Pornbox Reality Kings
-http://1.1usd.tv:34000/ch822/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGXXVqYDo_3gJRz9HMJG1J-oc4KxftWyGy0VryQTV3D4
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/796.png" tvg-name="ch796" timeshift="0" group-title="13. For Adults",Pornbox Slim 4K
-http://1.1usd.tv:34000/ch796/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIGNerlwfB7fvq8fDjvox_IUU_gtWnJ0cuxg1VdtHEwD
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/818.png" tvg-name="ch818" timeshift="0" group-title="13. For Adults",Pornbox Strokies
-http://1.1usd.tv:34000/ch818/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdD3zcsbCxbIbln1CkvpqIXHWzUq4z18olJu3c4Wv9n_J
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/825.png" tvg-name="ch825" timeshift="0" group-title="13. For Adults",Pornbox True Amatuers
-http://1.1usd.tv:34000/ch825/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdEGP4IgI0o6trwzsX_TuZVssksjWGkWM0JTidx0I5ss0
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/851.png" tvg-name="ch851" timeshift="0" group-title="13. For Adults",Pornbox Elsa Jean Pornstar
-http://1.1usd.tv:34000/ch851/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdAU6EG40GHx1x4o-JX4VlQiA-nF6hCzZaW1mP6D67teb
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/808.png" tvg-name="ch808" timeshift="0" group-title="13. For Adults",Pornbox Riley Reid Pornstar
-http://1.1usd.tv:34000/ch808/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdARFzJABJd3O_VOIgp62oYEC910NDjCGO7hXBZRJFISh
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/819.png" tvg-name="ch819" timeshift="0" group-title="13. For Adults",EU Cinema BDSM
-http://1.1usd.tv:34000/ch819/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdN0mOCmWZxM1l6CFcDxhHv9Ywp5U4qKyRz2aX9Q6hqnx
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/791.png" tvg-name="ch791" timeshift="0" group-title="13. For Adults",EU Cinema Teen
-http://1.1usd.tv:34000/ch791/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFgl7ykGXjLWAzET1gnOv5hkMrnDKVOJSELzLW_ns6jS
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/805.png" tvg-name="ch805" timeshift="0" group-title="13. For Adults",EU Cinema MILF
-http://1.1usd.tv:34000/ch805/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdIVerQMTGCXOeSGwE0Jcgzw7cNJuSp7HuQNKBiwQPJfL
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/836.png" tvg-name="ch836" timeshift="0" group-title="13. For Adults",EU Cinema for Adults 1
-http://1.1usd.tv:34000/ch836/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGIgIjRG0WemjJKT0FmpEdq0K9zMd_wjDS6pwkYlcPcV
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/837.png" tvg-name="ch837" timeshift="0" group-title="13. For Adults",EU Cinema for Adults 2
-http://1.1usd.tv:34000/ch837/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdJl_PIKyPIsd-coOoWmqpliMG154ft6rYR-JiccpdMIV
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/838.png" tvg-name="ch838" timeshift="0" group-title="13. For Adults",EU Cinema for Adults 3
-http://1.1usd.tv:34000/ch838/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMeyS90c7ALeOL1nDUmagUe-lYUWx_Spatg5TtOJmO1z
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/839.png" tvg-name="ch839" timeshift="0" group-title="13. For Adults",EU Cinema for Adults 4
-http://1.1usd.tv:34000/ch839/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNIrndHNIf2jERY29fz8ueOOtd-H845LiDHyB-sKk-ci
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/840.png" tvg-name="ch840" timeshift="0" group-title="13. For Adults",EU Cinema for Adults 5
-http://1.1usd.tv:34000/ch840/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdHDSMWr6zFLnn-h_kqACj38FEo5vDaHPgxD0dDMs1r2n
-#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/841.png" tvg-name="ch841" timeshift="0" group-title="13. For Adults",EU Cinema Defloration 1
-http://1.1usd.tv:34000/ch841/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdGnbW7ZKBmzxjokEkNdNlAiNXEQRNJgeT4BylYwR1rk8
-
 
 #EXTINF:-1 tvg-id="TV8(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="-" group-title="Všeobecné",TV Osem
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
