@@ -2383,6 +2383,46 @@ http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/5077/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/5078/index.m3u8
 
+EXTINF:-1,Arena Sport 1 RS
+http://109.105.201.198/ARENASPORT1/index.m3u8?token=test
+#EXTINF:-1,Arena Sport 2 RS
+http://109.105.201.198/Arenasport2/index.m3u8?token=test
+#EXTINF:-1,Arena Sport 3 RS
+http://109.105.201.198/ARENASPORT3/index.m3u8?token=test
+#EXTINF:-1,Arena Sport 4 RS
+http://109.105.201.198/ARENASPORT4/index.m3u8?token=test
+#EXTINF:-1,Arena Sport 4 RS
+http://109.105.201.198/ARENASPORT4/index.m3u8?token=test
+#EXTINF:-1,SPORTV 1 PT
+https://8r1fp7ro6am.a.trbcdn.net/SportTV1/index.m3u8
+#EXTINF:-1,SPORTV 2 PT
+https://8r1fp7ro6am.a.trbcdn.net/SportTV2/index.m3u8
+#EXTINF:-1,SPORTV 3 PT
+https://8r1fp7ro6am.a.trbcdn.net/SportTV3/index.m3u8
+#EXTINF:-1,SPORTV 4 PT
+https://8r1fp7ro6am.a.trbcdn.net/SportTV4/index.m3u8
+#EXTINF:-1,SPORTV 5 PT
+https://8r1fp7ro6am.a.trbcdn.net/SportTV5/index.m3u8
+#EXTINF:-1,SPORTV 6 PT
+https://8r1fp7ro6am.a.trbcdn.net/SportTV6/index.m3u8
+#EXTINF:-1,NovaSports 1
+http://146.59.85.40:89/novasport1/mono.m3u8
+#EXTINF:-1,NovaSports 2
+http://146.59.85.40:89/novasport2/mono.m3u8
+#EXTINF:-1,NovaSports 3
+http://146.59.85.40:89/novasport3/mono.m3u8
+#EXTINF:-1,NovaSports 4
+http://146.59.85.40:89/novasport4/mono.m3u8
+#EXTINF:-1,DigiSport 1
+http://45.90.106.98/digisport1/playlist.m3u8
+#EXTINF:-1,DigiSport 2
+http://45.90.106.98/digisport2/playlist.m3u8
+#EXTINF:-1,DigiSport 3
+http://45.90.106.98/digisport3/playlist.m3u8
+#EXTINF:-1,EuroSport
+http://45.90.106.98/eurosport/playlist.m3u8
+#EXTINF:-1,EuroSport 2
+http://45.90.106.98:80/eurosport2/playlist.m3u8
 
 #EXTINF:0,1HD Music Television
 #EXTVLCOPT:network-caching=1000
