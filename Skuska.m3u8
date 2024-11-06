@@ -493,6 +493,26 @@ http://178.219.128.68:64889/POLSSPORNEWSHD
 #EXTINF:-1, Bein Sports 1 France 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
 
+#EXTINF:-1,Fox Sports 1 🇪🇸
+http://45.181.123.233:8000/play/a0qm
+#EXTINF:-1,Fox Sports 2  🇪🇸
+http://45.181.123.233:8000/play/a0oj
+#EXTINF:-1,Fox Sports 3 🇪🇸
+http://45.181.123.233:8000/play/a0ok
+#EXTINF:-1,ESPN 🇪🇸
+http://45.181.123.233:8000/play/a0o9
+#EXTINF:-1,ESPN 2 🇪🇸
+http://45.181.123.233:8000/play/a0qt
+#EXTINF:-1,ESPN 3 🇪🇸
+http://45.181.123.233:8000/play/a0p2
+#EXTINF:-1,ESPN 4HD 🇪🇸
+http://45.181.122.46:8090/play/a028
+#EXTINF:-1,ESPN 5HD 🇪🇸
+http://45.181.122.46:8090/play/a01i
+#EXTINF:-1,ESPN 6HD 🇪🇸
+http://45.181.122.46:8090/play/a01u
+#EXTINF:-1,ESPN 7HD 🇪🇸
+http://45.181.122.46:8090/play/a01j
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Tᴇɴɴɪs" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tennistv.webp",Tennis tv 🇺🇸
 http://203.154.243.88:899/TENNIS?u=hh:p=hh@1234
