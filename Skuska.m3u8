@@ -1062,3 +1062,5 @@ https://8r1fp7ro6am.a.trbcdn.net/SportTV5/index.m3u8
 #EXTINF:-1,SPORTV 6 PT
 https://8r1fp7ro6am.a.trbcdn.net/SportTV6/index.m3u8
 
+#EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="Tennis Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tennis-channel-us.png" group-title="SPORTS (DADDY LIVE)" ,Tennis Channel
+https://xyzdddd.mizhls.ru/lb/premium40/index.m3u8
