@@ -362,6 +362,13 @@ http://109.105.201.198/ARENASPORT3/video.m3u8?token=test
 #EXTINF:-1,Arena sport 4 🇷🇴
 http://109.105.201.198/ARENASPORT4/video.m3u8?token=test
 
+EXTINF:-1,Ziggo Sport Golf
+http://78.130.250.2:8023/play/a00g/index.m3u8
+#EXTINF:-1,Ziggo Sport Select HD
+http://78.130.250.2:8023/play/a00n/index.m3u8
+#EXTINF:-1,Ziggo Sport Voetbal
+http://78.130.250.2:8023/play/a00f/index.m3u8
+
 #EXTINF:0,Real Madrid 🇬🇧
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 
@@ -491,6 +498,9 @@ http://178.219.128.68:64889/POLSSPORNEWSHD
 
 #EXTINF:-1, Bein Sports 1 France 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
+
+#EXTINF:-1,Viasat Sport
+http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
 
 #EXTINF:-1,Fox Sports 1 🇪🇸
 http://45.181.123.233:8000/play/a0qm
@@ -1061,6 +1071,3 @@ https://8r1fp7ro6am.a.trbcdn.net/SportTV4/index.m3u8
 https://8r1fp7ro6am.a.trbcdn.net/SportTV5/index.m3u8
 #EXTINF:-1,SPORTV 6 PT
 https://8r1fp7ro6am.a.trbcdn.net/SportTV6/index.m3u8
-
-#EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="Tennis Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tennis-channel-us.png" group-title="SPORTS (DADDY LIVE)" ,Tennis Channel
-https://xyzdddd.mizhls.ru/lb/premium40/index.m3u8
