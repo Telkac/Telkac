@@ -1122,3 +1122,24 @@ http://89.187.191.99:8080/ss6hd/index.m3u8
 http://89.187.191.99:8080/eurosport1/index.m3u8
 #EXTINF:1,Eurosport2
 http://89.187.191.99:8080/eurosport2/index.m3u8
+
+#EXTINF:0,PEMIER SPORTS 1 UHD
+http://7pal.short.gy/prsport1
+#EXTINF:0,ASTRO SPORTS UHD
+http://7pal.short.gy/astrouhd
+#EXTINF:0,BEIN SPORTS UHD
+http://7pal.short.gy/bein-uhd
+#EXTINF:0,NOW SORTS 4K 1
+http://7pal.short.gy/nowsport4k
+#EXTINF:0,V SPORT UHD
+http://7pal.short.gy/VSportUHD
+#EXTINF:0,BT Ultimate
+http://7pal.short.gy/BTUltimate
+#EXTINF:0,SKY SPORTS MAIN EVENT UHD
+http://7pal.short.gy/SSMEuhd
+#EXTINF:0,TNT SPORTS 1
+http://7pal.short.gy/tntspts1
+#EXTINF:0,TNT SPORTS 1
+http://7pal.short.gy/tntspts2
+#EXTINF:0,TNT SPORTS 3
+http://7pal.short.gy/tntspts3
