@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/slovakia.xml, https://www.bevy.be/bevyfiles/slovakia.xml.gz, https://www.bevy.be/bevyfiles/poland.xml, https://www.bevy.be/bevyfiles/romania.xml"
 
+====== SLOVENSKE ======
+
 #EXTINF:-1 tvg-id="Jednotka(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/1024/jednotka.png" group-title="Všeobecné",Jednotka HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=637&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11
 #EXTINF:-1 tvg-id="Dvojka(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Logo_of_Dvojka_%282012-%29.png" group-title="Všeobecné",Dvojka HD
@@ -31,6 +33,8 @@ http://194.160.135.34:8088/udp/233.10.47.8:1234
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=609&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile1
 http://194.160.135.34:8088/udp/233.10.47.6:1234
 
+====== SPRAVODAJSKE ======
+
 #EXTINF:-1 tvg-name="TA3" tvg-logo="https://i.imgur.com/kPFBxc9.png" tvg-id="TA3.sk" group-title="Slovakia",TA3
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=773&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 http://88.212.15.27/live/test_ta3_25p/playlist.m3u8
@@ -44,6 +48,8 @@ http://88.212.15.27/live/test_ct24_hevc/playlist.m3u8
 http://194.160.135.34:8088/udp/233.10.47.118:1234
 #EXTINF:-1 tvg-id="CNNPrimaNews(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/cnnprimanews.png" group-title="Zpravodajské / News",CNN Prima News HD
 http://88.212.15.27/live/test_cnn_pirma_news/playlist.m3u8
+
+====== CESKE ======
 
 #EXTINF:-1 tvg-id="CT1(src01).cz" tvg-url="ct1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ct1hd.png" group-title="Všeobecné",CT 1 HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=643&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile1
@@ -89,6 +95,7 @@ http://194.160.135.34:8088/udp/233.10.47.53:1234
 #EXTINF:-1 tvg-id="CSFilm(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/csfilm.png" group-title="Filmy a seriály / Movies and serials",CS Film / Horror HD
 https://live.cdn.joj.sk/live/andromeda/cs_film-1080.m3u8
 http://78.130.250.2:8023/play/a01z/index.m3u8
+
 #EXTINF:-1 tvg-id="CSMystery(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/csmystery.png" group-title="Dokumentární / Documents",CS Mystery HD
 https://live.cdn.joj.sk/live/andromeda/cs_mystery-1080.m3u8
 #EXTINF:-1 tvg-id="CSHistory(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/cshistory.png" group-title="Dokumentární / Documents",CS History HD
@@ -141,6 +148,7 @@ http://88.212.15.27/live/prima_cool_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJFamily(src01).sk" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/jojfamilyhd.png" group-title="Všeobecné",JOJ Family
 http://88.212.15.27/live/test_joj_family_hevc_25p/playlist.m3u8
 
+====== DOKUMENTARNE ======
 
 #EXTINF:-1 tvg-id="JOJSvet(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1602-joj-svet-hd.png" group-title="Dokumentárné",JOJ Svet HD
 http://88.212.15.27/live/test_joj_svet/playlist.m3u8
