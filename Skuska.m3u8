@@ -1149,3 +1149,41 @@ http://7pal.short.gy/tntspts1
 http://7pal.short.gy/tntspts2
 #EXTINF:0,TNT SPORTS 3
 http://7pal.short.gy/tntspts3
+
+132:9981/stream/channelid/1209024483?profile=pass
+#EXTINF:-1 tvg-id="8bf0bd5c54e66873274fe0772c2c0d65" tvg-chno="26",Sport TV 6 HD
+http://176.65.146.132:9981/stream/channelid/1555951755?profile=pass
+#EXTINF:-1 tvg-id="9cc4f366a61ef86bc0afa906a4ee420f" tvg-chno="29",DAZN 1 HD
+http://176.65.146.132:9981/stream/channelid/1727251612?profile=pass
+#EXTINF:-1 tvg-id="d75379992910d7851f0e7111082c5072" tvg-chno="30",DAZN 2 HD
+http://176.65.146.132:9981/stream/channelid/427381719?profile=pass
+#EXTINF:-1 tvg-id="6bf4897ece754ab7e60c38291ee9e717" tvg-chno="31",DAZN 3
+http://176.65.146.132:9981/stream/channelid/2122970219?profile=pass
+#EXTINF:-1 tvg-id="6d96dd30eadda61d47dae5e2199a1e64" tvg-chno="32",DAZN 4
+http://176.65.146.132:9981/stream/channelid/819828333?profile=pass
+#EXTINF:-1 tvg-id="56237304199c62921901f6f7d4bdf7e7" tvg-chno="33",DAZN 5
+http://176.65.146.132:9981/stream/channelid/74654550?profile=pass
+#EXTINF:-1 tvg-id="aa94f4a228b0c12d303a5786100bec47" tvg-chno="62",DONNA SPORT TV
+http://176.65.146.132:9981/stream/channelid/586454186?profile=pass
+#EXTINF:-1 tvg-id="8ad055438b0d74e53328b1098f6f83e9" tvg-chno="400",Arena Sport 1 HD.
+http://176.65.146.132:9981/stream/channelid/1129697418?profile=pass
+#EXTINF:-1 tvg-id="747b3ddd24a5db047b8c614cf3b18df9" tvg-chno="401",Arena Sport 2 HD
+http://176.65.146.132:9981/stream/channelid/1564310388?profile=pass
+#EXTINF:-1 tvg-id="8eba02c78c942f0701ddffa5cd4fc79f" tvg-chno="402",Arena Sport 3 HD.
+http://176.65.146.132:9981/stream/channelid/1191361166?profile=pass
+#EXTINF:-1 tvg-id="ca1085e3a5e9c6b02098842f0753b3cc" tvg-chno="403",Arena Sport 4 HD
+http://176.65.146.132:9981/stream/channelid/1669664970?profile=pass
+#EXTINF:-1 tvg-id="e1e5756766e4a07e2a104ac1d3228fab" tvg-chno="404",Arena Sport 5 HD.
+http://176.65.146.132:9981/stream/channelid/1735779809?profile=pass
+#EXTINF:-1 tvg-id="12d4a1ef9d06618151939802ee6f3fb4" tvg-chno="405",Arena Sport 6 HD
+http://176.65.146.132:9981/stream/channelid/1872876562?profile=pass
+#EXTINF:-1 tvg-id="9546850fb0dff9f8a618fc482f5ea679" tvg-chno="412",AUTOMOTO
+http://176.65.146.132:9981/stream/channelid/260392597?profile=pass
+#EXTINF:-1 tvg-id="cdf724b7ee5b7b14cb93c26b69908a65" tvg-chno="417",Arena Sport 7 HD.
+http://176.65.146.132:9981/stream/channelid/925169613?profile=pass
+#EXTINF:-1 tvg-id="f3ddefcddf323fd60f27354ce1972924" tvg-chno="418",Arena Sport 8 HD
+http://176.65.146.132:9981/stream/channelid/1307565555?profile=pass
+#EXTINF:-1 tvg-id="c1cfed4377457b2b8d0884f9ade5aa40" tvg-chno="419",Arena Sport 9 HD.
+http://176.65.146.132:9981/stream/channelid/1139658689?profile=pass
+#EXTINF:-1 tvg-id="75beae54c91a79b426b982c6d906cbdc" tvg-chno="703",Era Sport
+http://176.65.146.132:9981/stream/channelid/1420738165?profile=pas
