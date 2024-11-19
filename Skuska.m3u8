@@ -529,14 +529,17 @@ http://45.181.122.46:8090/play/a01u
 #EXTINF:-1,ESPN 7HD 🇪🇸
 http://45.181.122.46:8090/play/a01j
 
+#EXTINF:0,Super Tennis HD
+#EXTVLCOPT:network-caching=1000
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
+#EXTINF:0,Super Tennis HD
+#EXTVLCOPT:network-caching=1000
+http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/6079/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Tᴇɴɴɪs" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tennistv.webp",Tennis tv 🇺🇸
 http://203.154.243.88:899/TENNIS?u=hh:p=hh@1234
 #EXTINF:0,TENNIS HD US
 #EXTVLCOPT:network-caching=1000
 http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/6096/index.m3u8
-#EXTINF:0,Super Tennis HD
-#EXTVLCOPT:network-caching=1000
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/6079/index.m3u8
 
 #EXTINF:-1,Golf Channel
 http://78.130.250.2:8023/play/a02q/index.m3u8
