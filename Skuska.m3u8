@@ -1140,6 +1140,3 @@ http://89.238.193.38:8000/play/a027/index.m3u8
 http://89.238.193.38:8000/play/a028/index.m3u8
 #EXTINF:-1 group-title="-",Sportextra HD
 http://89.238.193.38:8000/play/a029/index.m3u8
-
-#EXTINF:-1 tvg-id="b6842b3284e7f7e79bc94f87298532b8",CANAL+ Sport (CZ)
-http://176.65.146.132:9981/stream/channelid/841712822?profile=pass
