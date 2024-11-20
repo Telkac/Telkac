@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/slovakia.xml"
 
+====== SSLOVENSKE ======
+
 #EXTINF:-1 tvg-id="Jednotka(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/1024/jednotka.png" group-title="Všeobecné",Jednotka HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=637&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11
 #EXTINF:-1 tvg-id="Dvojka(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Logo_of_Dvojka_%282012-%29.png" group-title="Všeobecné",Dvojka HD
@@ -94,6 +96,8 @@ http://194.160.135.34:8088/udp/233.10.47.53:1234
 https://live.cdn.joj.sk/live/andromeda/cs_film-1080.m3u8
 http://78.130.250.2:8023/play/a01z/index.m3u8
 
+====== FILMOVE ======
+
 #EXTINF:-1 tvg-id="CSMystery(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/csmystery.png" group-title="Dokumentární / Documents",CS Mystery HD
 http://348110998266968494.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/968494.ts
 https://live.cdn.joj.sk/live/andromeda/cs_mystery-1080.m3u8
@@ -187,6 +191,8 @@ http://88.212.15.27/live/test_parpika_tv_sd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="MNAM(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/mnam.png" group-title="Vaření / Cooking",Mnam TV
 http://6c03a4a9.ottolok.net/iptv/UPSE4VLLPEHXVF/31612/index.m3u8
 
+====== ROZPRAVKOVE ======
+
 #EXTINF:-1 tvg-id="Jojko(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/815-jojko-hd.png" group-title="Detské",Jojko HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=392&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:-1 tvg-id="RiK(src01).cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/725-rik-tv-hd.png" group-title="Detské",Rik TV HD
@@ -213,6 +219,8 @@ http://88.212.15.27/live/test_minimax/playlist.m3u8
 http://88.212.15.27/live/test_disney/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://staticeu.sweet.tv/images/icons/channels/v2/800-disney-junior.png" group-title="Detské",Disney Junior
 http://88.212.15.27/live/test_disney_junior/playlist.m3u8
+
+====== HUDOBNE ======
 
 #EXTINF:-1 tvg-id="OCKO(src01).cz" tvg-country="CZ;SK" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ocko.png" group-title="Hudobné",Óčko HD
 http://88.212.15.27/live/test_ocko/playlist.m3u8
@@ -305,6 +313,8 @@ https://stream-17.mazana.tv/slagrpremium.m3u
 #EXTINF:-1 tvg-id="360TuneBox(src01).cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/346-360-tunebox-hd.png" group-title="Hudobné",360 TuneBox
 https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 
+====== SPORTOVE SLOVENSKE A CESKE ======
+
 #EXTINF:-1 tvg-id="RTVSSport(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/850-sport.png" group-title="Športové",RTVS Sport HD
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJSport(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/817-joj-sport-hd.png" group-title="Športové",JOJ Sport HD
@@ -331,6 +341,7 @@ http://88.212.15.27/live/test_arenasport/playlist.m3u8
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=681&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile1
 http://88.212.15.27/live/test_arenasport_dva/playlist.m3u8
 
+====== EUROSPORTY ======
 
 #EXTINF:-1,Eurosport 1 HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=661&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13,profile14&changed_at=1726643016&shaping=0&eta=1&ets=1
@@ -341,6 +352,8 @@ http://194.160.135.34:8088/udp/233.10.47.65:1234
 http://45.65.112.49:8000/play/a0kf
 #EXTINF:-1,Eurosport 1 HD 🇬🇧 🇷🇺
 http://45.159.74.14/Eurosport/manifest.m3u8
+
+====== SPORTOVE ZAHRANICNE ======
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Woʀʟᴅ Sᴘoʀᴛs" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ArenaSport.png",Arena Premium Liga 🇬🇧ᴴᴰ
 http://91.132.74.4:7374/play/a00k/index.m3u8
@@ -530,6 +543,8 @@ http://78.130.250.2:8023/play/a018/index.m3u8
 http://185.236.229.62:9981/play/a06l
 #EXTINF:-1 tvg-id="FightBox" tvg-name="Fightbox" tvg-logo="http://46.36.40.22/1023/fightbox.png" group-title="Športové",Fightbox
 http://88.212.15.27/live/test_fightbox_medium_atk/playlist.m3u8
+
+====== EROTICKE ======
 
 #EXTINF:0,Brazzers TV Europe HD 🔞
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2004&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
@@ -1140,3 +1155,35 @@ http://89.238.193.38:8000/play/a027/index.m3u8
 http://89.238.193.38:8000/play/a028/index.m3u8
 #EXTINF:-1 group-title="-",Sportextra HD
 http://89.238.193.38:8000/play/a029/index.m3u8
+
+===SKUSKA===
+
+#EXTINF:0,HOBBY TV SD
+#EXTVLCOPT:network-caching=1000
+http://348110998266968511.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/968511.ts
+#EXTINF:0,FISHING & HUNTING TV HD
+#EXTVLCOPT:network-caching=1000
+http://348110998266965135.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/965135.ts
+#EXTINF:0,JOJ FHD
+#EXTVLCOPT:network-caching=1000
+http://348110998266959180.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/959180.ts
+#EXTINF:0,CZ: JOJ PLUS FHD
+#EXTVLCOPT:network-caching=1000
+http://348110998266962425.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/962425.ts
+#EXTINF:0,CZ: JOJ WAU FHD
+#EXTVLCOPT:network-caching=1000
+http://348110998266929854.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/929854.ts
+#EXTINF:0,CT1 FHD
+#EXTVLCOPT:network-caching=1000
+http://348110998266923744.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/923744.ts
+#EXTINF:0,ČT1 FHD
+#EXTVLCOPT:network-caching=1000
+http://348110998266959231.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/959231.ts
+#EXTINF:0,ČT2 FHD
+#EXTVLCOPT:network-caching=1000
+http://348110998266959232.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/959232.ts
+
+
+
+
+
