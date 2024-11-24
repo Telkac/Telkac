@@ -241,6 +241,8 @@ https://stream.4fun.tv:8888/hls/4f.m3u8
 https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 tvg-id="CityTV.bg" group-title="Hudobné",City TV 🇧🇬 
 https://tv.city.bg/play/tshls/citytv/index.m3u8
+#EXTINF:-1,VH1+ east
+http://fl2.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1,MTV Hits
 http://45.5.117.182:8000/play/a0f1/index.m3u8
 #EXTINF:-1,MTV 00s
@@ -1417,9 +1419,14 @@ http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702
 #EXTINF:-1 tvg-id="" tvg-name="|PT| Motorvision" tvg-logo="" group-title="Portugal",|PT| Motorvision
 http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27066
 
+#EXTINF:-1,Tennis Channel HD
+http://181.114.57.246:4000/play/CuhCF3z5UqBQAt54/index.m3u8
+
 #EXTINF:-1,NBC
 http://181.114.57.246:4000/play/ZAtkbM9v9JDDCwCh/index.m3u8
 #EXTINF:-1,CBS
 http://181.114.57.246:4000/play/SJc3fvCpEhFAv6N2/index.m3u8
 #EXTINF:2 group-title="IPTV1" tvg-id="iptv/abcaustralia" tvg-logo="" provider="IPTV1" provider-logo="" provider-type="iptv",[IPTV1] ABC Australia
 http://iptv.djdoolky76.net/stream/iptv/abcaustralia/master.m3u8?u=djdoolky76&p=f4e49c0ae8a26be9d5b10934f240cc4d4e7ea4f84c7c7e69b071dc3e23868d3a
+#EXTINF:-1,5810 | ABC HD
+http://181.114.57.246:4000/play/bhAmBxmCwn3VLbnJ/index.m3u8
