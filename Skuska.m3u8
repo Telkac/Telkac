@@ -237,6 +237,8 @@ https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
 https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 #EXTINF:-1,4fun music tv 🇵🇱
 https://stream.4fun.tv:8888/hls/4f.m3u8
+#EXTINF:-1,4Fun Dance
+http://188.60.179.180:8000/play/FUnDance
 #EXTINF:-1 tvg-id="MagicTV.bg" group-title="Hudobné",Magic TV 🇧🇬 
 https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 tvg-id="CityTV.bg" group-title="Hudobné",City TV 🇧🇬 
@@ -915,6 +917,11 @@ http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:63:52:A2&stream=11236&extension
 http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:63:52:A2&stream=45307&extension=ts&play_token=VZUid5ljPe
 #EXTINF:-1,DAZN 1 4K DE
 http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:63:52:A2&stream=45307&extension=ts&play_token=Agq0ld2XCv
+
+#EXTINF:-1,SPORT1
+http://188.60.179.180:8000/play/a04g
+#EXTINF:-1,SPORT1+
+http://188.60.179.180:8000/play/Sport1plus
 
 #EXTINF:-1,SKY SPORT AUSTRIA 1
 http://birutv.my.id:80/play/live.php?mac=00:1A:79:87:79:BD&stream=4625&extension=ts&play_token=85S3OrNOFv
