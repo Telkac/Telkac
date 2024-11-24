@@ -338,6 +338,8 @@ http://194.160.135.34:8088/udp/233.10.47.65:1234
 http://45.65.112.49:8000/play/a0kf
 #EXTINF:-1,Eurosport 1 HD 🇬🇧 🇷🇺
 http://45.159.74.14/Eurosport/manifest.m3u8
+#EXTINF:-1,Eurosport 1 Deutschland
+http://188.60.179.180:8000/play/xxEurosport1DExx
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Woʀʟᴅ Sᴘoʀᴛs" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ArenaSport.png",Arena Premium Liga 🇬🇧ᴴᴰ
 http://91.132.74.4:7374/play/a00k/index.m3u8
