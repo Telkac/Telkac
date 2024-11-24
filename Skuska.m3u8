@@ -1300,3 +1300,126 @@ http://89.187.191.99:8080/hrt3/index.m3u8
 #EXTINF:-1,HRT 4
 http://89.187.191.99:8080/hrt4/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV " tvg-logo="" group-title="Portugal",|PT| Sport TV
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27010
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV HD" tvg-logo="" group-title="Portugal",|PT| Sport TV HD
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27011
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 4K" tvg-logo="" group-title="Portugal",|PT| Sport TV 4K
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27012
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 8K" tvg-logo="" group-title="Portugal",|PT| Sport TV 8K
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27013
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 1 HD" tvg-logo="" group-title="Portugal",|PT| Sport TV 1 HD
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27014
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 1 SD" tvg-logo="" group-title="Portugal",|PT| Sport TV 1 SD
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27015
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 1 4K" tvg-logo="" group-title="Portugal",|PT| Sport TV 1 4K
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27016
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 1 8K" tvg-logo="" group-title="Portugal",|PT| Sport TV 1 8K
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27017
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 2 HD" tvg-logo="" group-title="Portugal",|PT| Sport TV 2 HD
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27018
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 2 SD" tvg-logo="" group-title="Portugal",|PT| Sport TV 2 SD
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27019
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 2 4K" tvg-logo="" group-title="Portugal",|PT| Sport TV 2 4K
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27020
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 3 HD" tvg-logo="" group-title="Portugal",|PT| Sport TV 3 HD
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27021
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 3 SD" tvg-logo="" group-title="Portugal",|PT| Sport TV 3 SD
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27022
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 3 4K" tvg-logo="" group-title="Portugal",|PT| Sport TV 3 4K
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27023
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 4 HD" tvg-logo="" group-title="Portugal",|PT| Sport TV 4 HD
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27024
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 4 4K" tvg-logo="" group-title="Portugal",|PT| Sport TV 4 4K
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27025
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 5 HD" tvg-logo="" group-title="Portugal",|PT| Sport TV 5 HD
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27026
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 5 4K" tvg-logo="" group-title="Portugal",|PT| Sport TV 5 4K
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27027
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Eleven Sport 1 HD" tvg-logo="" group-title="Portugal",|PT| Eleven Sport 1 HD
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27028
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Eleven Sport 1 HD" tvg-logo="" group-title="Portugal",|PT| Eleven Sport 1 HD
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27028
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Eleven Sports 1 4K" tvg-logo="" group-title="Portugal",|PT| Eleven Sports 1 4K
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27029
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Eleven Sport 2 HD" tvg-logo="" group-title="Portugal",|PT| Eleven Sport 2 HD
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27030
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Eleven Sports 2 4K" tvg-logo="" group-title="Portugal",|PT| Eleven Sports 2 4K
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27031
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Eleven Sport 3 HD" tvg-logo="" group-title="Portugal",|PT| Eleven Sport 3 HD
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27032
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Eleven Sports 3 4K" tvg-logo="" group-title="Portugal",|PT| Eleven Sports 3 4K
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27033
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Eleven Sport 4 HD" tvg-logo="" group-title="Portugal",|PT| Eleven Sport 4 HD
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27034
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Eleven Sports 4 4K" tvg-logo="" group-title="Portugal",|PT| Eleven Sports 4 4K
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27035
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Eleven Sport 5 HD" tvg-logo="" group-title="Portugal",|PT| Eleven Sport 5 HD
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27036
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Eleven Sports 5 4K" tvg-logo="" group-title="Portugal",|PT| Eleven Sports 5 4K
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27037
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Eleven Sport 6 HD" tvg-logo="" group-title="Portugal",|PT| Eleven Sport 6 HD
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27038
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Eleven Sports 6 HD" tvg-logo="" group-title="Portugal",|PT| Eleven Sports 6 HD
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27039
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Eleven Sports 6 4K" tvg-logo="" group-title="Portugal",|PT| Eleven Sports 6 4K
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27040
+#EXTINF:-1 tvg-id="" tvg-name="|PT| BTV 4K" tvg-logo="" group-title="Portugal",|PT| BTV 4K
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27041
+#EXTINF:-1 tvg-id="" tvg-name="|PT| BTV HD" tvg-logo="" group-title="Portugal",|PT| BTV HD
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27042
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sporting TV" tvg-logo="" group-title="Portugal",|PT| Sporting TV
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27043
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sporting TV 4K" tvg-logo="" group-title="Portugal",|PT| Sporting TV 4K
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27044
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Porto Canal HD" tvg-logo="" group-title="Portugal",|PT| Porto Canal HD
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27045
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Porto Canal 4K" tvg-logo="" group-title="Portugal",|PT| Porto Canal 4K
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27046
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV NBA" tvg-logo="" group-title="Portugal",|PT| Sport TV NBA
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27047
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV NBA 4K" tvg-logo="" group-title="Portugal",|PT| Sport TV NBA 4K
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27048
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Kombat Sport" tvg-logo="" group-title="Portugal",|PT| Kombat Sport
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27049
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Fuel TV" tvg-logo="" group-title="Portugal",|PT| Fuel TV
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27050
+#EXTINF:-1 tvg-id="" tvg-name="|PT| FUEL TV 4K" tvg-logo="" group-title="Portugal",|PT| FUEL TV 4K
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27051
+#EXTINF:-1 tvg-id="" tvg-name="|PT| EuroSport 1" tvg-logo="" group-title="Portugal",|PT| EuroSport 1
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27052
+#EXTINF:-1 tvg-id="" tvg-name="|PT| EuroSport 1 4K" tvg-logo="" group-title="Portugal",|PT| EuroSport 1 4K
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27053
+#EXTINF:-1 tvg-id="" tvg-name="|PT| EuroSport 2" tvg-logo="" group-title="Portugal",|PT| EuroSport 2
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27054
+#EXTINF:-1 tvg-id="" tvg-name="|PT| EuroSport 2 4K" tvg-logo="" group-title="Portugal",|PT| EuroSport 2 4K
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27055
+#EXTINF:-1 tvg-id="" tvg-name="|PT| A Bola TV" tvg-logo="" group-title="Portugal",|PT| A Bola TV
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27056
+#EXTINF:-1 tvg-id="" tvg-name="|PT| A Bola 4K" tvg-logo="" group-title="Portugal",|PT| A Bola 4K
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27057
+#EXTINF:-1 tvg-id="" tvg-name="|PT| CACA PESCA HD" tvg-logo="" group-title="Portugal",|PT| CACA PESCA HD
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27058
+#EXTINF:-1 tvg-id="" tvg-name="|PT| PFC" tvg-logo="" group-title="Portugal",|PT| PFC
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27059
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Benfica HD" tvg-logo="" group-title="Portugal",|PT| Benfica HD
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27060
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Benfica 4K" tvg-logo="" group-title="Portugal",|PT| Benfica 4K
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27061
+#EXTINF:-1 tvg-id="" tvg-name="|PT| FightBox FHD" tvg-logo="" group-title="Portugal",|PT| FightBox FHD
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27062
+#EXTINF:-1 tvg-id="" tvg-name="|PT| FIGHT NETWORK 4K" tvg-logo="" group-title="Portugal",|PT| FIGHT NETWORK 4K
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27063
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Combate HD" tvg-logo="" group-title="Portugal",|PT| Combate HD
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27064
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP ARENA 4K" tvg-logo="" group-title="Portugal",|PT| RTP ARENA 4K
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27065
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Motorvision" tvg-logo="" group-title="Portugal",|PT| Motorvision
+http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27066
+
+#EXTINF:-1,NBC
+http://181.114.57.246:4000/play/ZAtkbM9v9JDDCwCh/index.m3u8
+#EXTINF:-1,CBS
+http://181.114.57.246:4000/play/SJc3fvCpEhFAv6N2/index.m3u8
+#EXTINF:2 group-title="IPTV1" tvg-id="iptv/abcaustralia" tvg-logo="" provider="IPTV1" provider-logo="" provider-type="iptv",[IPTV1] ABC Australia
+http://iptv.djdoolky76.net/stream/iptv/abcaustralia/master.m3u8?u=djdoolky76&p=f4e49c0ae8a26be9d5b10934f240cc4d4e7ea4f84c7c7e69b071dc3e23868d3a
