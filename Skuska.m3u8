@@ -229,6 +229,7 @@ https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
 #EXTINF:0,Mooz Dance HD RO
 #EXTVLCOPT:network-caching=1000
 http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/7056/index.m3u8
+http://europatv.sytes.net:8008/Cristian@Roman/hMNkNg6kaG/33905
 #EXTINF:-1 tvg-id="MoozHits.ro 🇷🇴",MoozHits 🇷🇴
 #EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozHits
 https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
@@ -1428,6 +1429,11 @@ http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702
 #EXTINF:-1 tvg-id="" tvg-name="|PT| Motorvision" tvg-logo="" group-title="Portugal",|PT| Motorvision
 http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27066
 
+#EXTINF:-1,Digi Sport 1
+http://europatv.sytes.net:8008/Cristian@Roman/hMNkNg6kaG/33797
+#EXTINF:-1,Digi Sport 4
+http://europatv.sytes.net:8008/Cristian@Roman/hMNkNg6kaG/33803
+
 #EXTINF:-1,Tennis Channel HD
 http://181.114.57.246:4000/play/CuhCF3z5UqBQAt54/index.m3u8
 
@@ -1439,3 +1445,4 @@ http://181.114.57.246:4000/play/SJc3fvCpEhFAv6N2/index.m3u8
 http://iptv.djdoolky76.net/stream/iptv/abcaustralia/master.m3u8?u=djdoolky76&p=f4e49c0ae8a26be9d5b10934f240cc4d4e7ea4f84c7c7e69b071dc3e23868d3a
 #EXTINF:-1,5810 | ABC HD
 http://181.114.57.246:4000/play/bhAmBxmCwn3VLbnJ/index.m3u8
+
