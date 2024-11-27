@@ -74,16 +74,21 @@ http://88.212.15.27/live/test_nova_lady_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimaCool(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primacoolhd.png" group-title="Filmy a seriály / Movies and serials",Prima COOL HD
 http://gocache4.antik.sk/live/prima_cool_cz_avc/index.m3u8
 #EXTINF:-1 tvg-id="PrimaLOVE(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primalovehd.png" group-title="Pro ženy / For ladies",Prima love HD
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=605&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13,profile14&changed_at=1726643016&shaping=0&eta=1&ets=1
 http://88.212.15.27/live/prima_love_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimaZOOM(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primazoomhd.png" group-title="Dokumentární / Documents",Prima ZOOM HD
 http://194.160.135.34:8088/udp/233.10.47.58:1234
 #EXTINF:-1 tvg-id="PrimaMAX(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primamaxhd.png" group-title="Filmy a seriály / Movies and serials",Prima MAX HD 
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=611&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13,profile14&changed_at=1726643016&shaping=0&eta=1&ets=1
 http://194.160.135.34:8088/udp/233.10.47.59:1234
 #EXTINF:-1 tvg-id="PRIMAKRIMI(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primakrimi.png" group-title="Krimi",Prima KRIMI HD
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=635&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13,profile14&changed_at=1726643016&shaping=0&eta=1&ets=1
 http://88.212.15.27/live/prima_krimi_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimaStar(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primastar.png" group-title="Archivní",Prima Star HD
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2138&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 http://88.212.15.27/live/test_prima_star_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="PRIMASHOW(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primashow.png" group-title="Reality show",Prima Show HD
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2184&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 http://88.212.15.27/live/test_prima_show_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBarrandov(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvbarrandov.png" group-title="Filmy a seriály / Movies and serials",TV Barrandov HD
 http://88.212.15.27/live/test_barrandov/playlist.m3u8
@@ -111,12 +116,14 @@ http://88.212.15.27/live/test_hbo3_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmPlus.cz" tvg-name="Film+" tvg-logo="http://46.36.40.22/1023/filmplus.png" group-title="Filmové",Film+
 http://88.212.15.27/live/test_film_plus_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmbox(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmbox.png" group-title="Filmy a seriály / Movies and serials",Filmbox HD
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=1071&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 http://88.212.15.27/live/test_filmbox/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmboxPremium(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmboxpremium.png" group-title="Filmy a seriály / Movies and serials",Filmbox Premium HD
 http://88.212.15.27/live/test_film_boxpremium_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmboxExtra(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmboxextra.png" group-title="Filmy a seriály / Movies and serials",Filmbox Extra HD
 http://88.212.15.27/live/test_film_boxextra_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmboxStars(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmboxstars.png" group-title="Filmy a seriály / Movies and serials",FilmBox Stars HD
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2288&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 http://88.212.15.27/live/test_filmbox_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmboxFamily(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmboxfamily.png" group-title="Filmy a seriály / Movies and serials",Filmbox Family
 http://88.212.15.27/live/test_filmbox_family_atk_1200/playlist.m3u8
@@ -134,6 +141,8 @@ http://88.212.15.27/live/test_axn/playlist.m3u8
 http://88.212.15.27/live/test_black/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN White" tvg-logo="http://46.36.40.22/1023/axnwhite.png" group-title="Filmové",AXN White
 http://88.212.15.27/live/test_white/playlist.m3u8
+#EXTINF:0,TLC HD
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2178&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:-1 tvg-id="FilmEurope(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmeurope.png" group-title="Filmy a seriály / Movies and serials",Film Europe HD
 http://194.160.135.34:8088/udp/233.10.47.62:1234
 #EXTINF:-1,Filmbox arthouse
@@ -152,6 +161,7 @@ http://88.212.15.27/live/prima_cool_avc_25p/playlist.m3u8
 http://88.212.15.27/live/test_joj_family_hevc_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JOJSvet(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1602-joj-svet-hd.png" group-title="Dokumentárné",JOJ Svet HD
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2364&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 http://88.212.15.27/live/test_joj_svet/playlist.m3u8
 #EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="Discovery" tvg-logo="http://46.36.40.22/1023/discovery.png" group-title="Dokumentárne",Discovery HD
 http://88.212.15.27/live/test_discovery_hd_hevc/playlist.m3u8
@@ -185,6 +195,7 @@ http://78.130.250.2:8023/play/a02c/index.m3u8
 #EXTINF:-1,Fishing and Hunting
 http://78.130.250.2:8023/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="TVPaprika(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvpaprika.png" group-title="Vaření / Cooking",TV Paprika HD
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2372&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 http://88.212.15.27/live/test_parpika_tv_sd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="MNAM(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/mnam.png" group-title="Vaření / Cooking",Mnam TV
 http://6c03a4a9.ottolok.net/iptv/UPSE4VLLPEHXVF/31612/index.m3u8
