@@ -1467,6 +1467,55 @@ http://raalbatros.serv00.net/Gledai.php?ID=maxsport3
 #EXTINF:0,Max Sport 4
 http://raalbatros.serv00.net/Gledai.php?ID=maxsport4
 
+#EXTINF:-1,Rai Sport + HD
+http://188.60.179.180:8000/play/xxRaiSportPlusHDxx
+#EXTINF:-1,SPORT1
+http://188.60.179.180:8000/play/a04g
+#EXTINF:-1,SPORT1+
+http://188.60.179.180:8000/play/Sport1plus
+
+#EXTINF:-0, SPORT TV +
+http://176.65.146.108:8022/play/a07t/index.m3u8
+#EXTINF:-0, SPORT TV 1 HD
+http://176.65.146.108:8022/play/a06h/index.m3u8
+#EXTINF:-0, SPORT TV 2 HD
+http://176.65.146.108:8022/play/a06i/index.m3u8
+#EXTINF:-0, SPORT TV 3 HD
+http://176.65.146.108:8022/play/a06j/index.m3u8
+#EXTINF:-0, SPORT TV 4 HD
+http://176.65.146.108:8022/play/a05z/index.m3u8
+#EXTINF:-0, Sport TV 5 HD
+http://176.65.146.108:8022/play/a06f/index.m3u8
+#EXTINF:-0, Sport TV 6 HD
+http://176.65.146.108:8022/play/a06g/index.m3u8
+#EXTINF:-0, Sport TV 7
+http://176.65.146.108:8022/play/a090/index.m3u8
+#EXTINF:-0, Eurosport 1 HD
+http://176.65.146.108:8022/play/a06n/index.m3u8
+#EXTINF:-0, Eurosport 2
+http://176.65.146.108:8022/play/a063/index.m3u8
+#EXTINF:-0, Eleven 1 HD
+http://176.65.146.108:8022/play/a06r/index.m3u8
+#EXTINF:-0, Eleven 2 HD
+http://176.65.146.108:8022/play/a072/index.m3u8
+#EXTINF:-0, Eleven 3
+http://176.65.146.108:8022/play/a073/index.m3u8
+#EXTINF:-0, Eleven 4
+http://176.65.146.108:8022/play/a06t/index.m3u8
+#EXTINF:-0, Eleven 5
+http://176.65.146.108:8022/play/a06u/index.m3u8
+#EXTINF:-0, Eleven 6
+http://176.65.146.108:8022/play/a074/index.m3u8
+
+#EXTINF:-1,Polsat Sport PL
+https://cdn-nvm-chicago3.lolokoko.tv/polsatsport.stream/chunks.m3u8
+#EXTINF:-1,Polsat Sport Extra PL
+https://cdn-nvm-chicago3.lolokoko.tv/polsatsportextra.stream/chunks.m3u8
+#EXTINF:-1,Polsat Sport News PL
+https://cdn-nvm-chicago3.lolokoko.tv/polsatsportnews.stream/chunks.m3u8
+#EXTINF:-1,Super Polsat PL
+http://cdn-global.lolokoko.tv/SuperPolsat.stream/chunks.m3u8
+
 #EXTINF:-1,NBC
 http://181.114.57.246:4000/play/ZAtkbM9v9JDDCwCh/index.m3u8
 #EXTINF:-1,CBS
