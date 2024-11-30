@@ -200,6 +200,7 @@ http://78.130.250.2:8023/play/a00o/index.m3u8
 #EXTINF:-1,National Geographic HD
 http://78.130.250.2:8023/play/a02e/index.m3u8
 #EXTINF:-1,Fishing and Hunting
+http://193.106.124.204:8002/play/a05d
 http://78.130.250.2:8023/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="TVPaprika(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvpaprika.png" group-title="Vaření / Cooking",TV Paprika HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2372&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
@@ -1506,6 +1507,11 @@ http://176.65.146.108:8022/play/a06t/index.m3u8
 http://176.65.146.108:8022/play/a06u/index.m3u8
 #EXTINF:-0, Eleven 6
 http://176.65.146.108:8022/play/a074/index.m3u8
+
+#EXTINF:-0, PRIMA SPORT 1
+http://193.106.124.204:8002/play/a01l
+#EXTINF:-0, PRIMA SPORT 2
+http://193.106.124.204:8002/play/a034
 
 #EXTINF:-1,Polsat Sport PL
 https://cdn-nvm-chicago3.lolokoko.tv/polsatsport.stream/chunks.m3u8
