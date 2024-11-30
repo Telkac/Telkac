@@ -684,6 +684,10 @@ https://1459594018.rsc.cdn77.org/1459594018/index.m3u8
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 #EXTINF:-1 , Národná rada SR 
 https://n16.stv.livebox.sk/stv-tv/3e712cdc67c8dfc0adcb49c9ec94c241/SK-stv7.smil/chunklist_b5251072.m3u8
+#EXTINF:-1 , Rtvs plus 1
+https://n14.stv.livebox.sk/stv-tv/240019421a965282a53c59d8fba85239/SK-stv6.smil/chunklist_b5251072.m3u8
+#EXTINF:-1 , Rtvs plus 2
+https://n14.stv.livebox.sk/stv-tv/12b1c931ed7dfe0073b631285cee64ee/SK-stv5.smil/chunklist_b5251072.m3u8
 
 #EXTINF:-1 tvg-language="Slovak" tvg-logo="https://img.lovepik.com/png/20231014/Live-online-camera-diffusion-button-play-live-broadcast-play-volume_204572_wh300.png",Tatry HD 🇸🇰
 http://88.212.15.20:16000/udp/232.232.70.2:5004
