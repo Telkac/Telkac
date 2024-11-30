@@ -1618,6 +1618,27 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63ec0b739866
 #EXTINF:-1 tvg-id="65c2424eec452d0008987459" tvg-name="" group-title="Tennis 🎾🏓🏸" tvg-logo="https://images.pluto.tv/channels/65c2424eec452d0008987459/colorLogoPNG.png",PadelTime 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65c2424eec452d0008987459/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
+#EXTINF:0,Diema Sport
+http://raalbatros.serv00.net/Gledai.php?ID=diemasport
+#EXTINF:0,Diema Sport 2
+http://raalbatros.serv00.net/Gledai.php?ID=diemasport2
+#EXTINF:0,Diema Sport 3
+http://raalbatros.serv00.net/Gledai.php?ID=diemasport3
+#EXTINF:0,Nova Sport
+http://raalbatros.serv00.net/Gledai.php?ID=novasport
+#EXTINF:0,Eurosport 1
+http://raalbatros.serv00.net/Gledai.php?ID=eurosport
+#EXTINF:0,Eurosport 2
+http://raalbatros.serv00.net/Gledai.php?ID=eurosport2
+#EXTINF:0,Max Sport 1
+http://raalbatros.serv00.net/Gledai.php?ID=maxsport1
+#EXTINF:0,Max Sport 2
+http://raalbatros.serv00.net/Gledai.php?ID=maxsport2
+#EXTINF:0,Max Sport 3
+http://raalbatros.serv00.net/Gledai.php?ID=maxsport3
+#EXTINF:0,Max Sport 4
+http://raalbatros.serv00.net/Gledai.php?ID=maxsport4
+
 #EXTINF:-1,NBC
 http://181.114.57.246:4000/play/ZAtkbM9v9JDDCwCh/index.m3u8
 #EXTINF:-1,CBS
