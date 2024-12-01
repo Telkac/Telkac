@@ -1418,6 +1418,11 @@ http://89.187.191.99:8080/hrt3/index.m3u8
 #EXTINF:-1,HRT 4
 http://89.187.191.99:8080/hrt4/index.m3u8
 
+#EXTINF:-1, Sky Sports Premier League HD
+http://930617934165812718.ofdgk1124.xyz:80/live/wa419038/ECm9xdBBgg/812718.ts
+#EXTINF:-1, Sky Sports Premier League HD
+http://930617934165942380.ofdgk1124.xyz:80/live/wa419038/ECm9xdBBgg/942380.ts
+
 #EXTINF:0,HOBBY TV SD
 #EXTVLCOPT:network-caching=1000
 http://348110998266968511.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/968511.ts
