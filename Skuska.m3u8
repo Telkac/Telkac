@@ -289,12 +289,12 @@ https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 tvg-id="CityTV.bg" group-title="Hudobné",City TV 🇧🇬 
 https://tv.city.bg/play/tshls/citytv/index.m3u8
 https://tv.city.bg/play/tshls/citytv/3.m3u8
-#EXTINF:-1 tvg-id="DeluxeMusic.de" group-title="Hudobné",Deluxe Music HD
+#EXTINF:-1 tvg-id="DeluxeMusic.de" group-title="Hudobné",Deluxe Music HD 🇩🇪
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:0,Deluxe Music 
+#EXTINF:0,Deluxe Music 🇩🇪
 #EXTVLCOPT:network-caching=1000
 http://013tv.com:8080/F24307/c8111abb/2111
-#EXTINF:-1 tvg-id="DeluxeDance.de" group-title="Hudobné",Deluxe Dance HD
+#EXTINF:-1 tvg-id="DeluxeDance.de" group-title="Hudobné",Deluxe Dance HD 🇩🇪
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-id="KissTV.ro" group-title="Hudobné",Kiss TV HD
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
@@ -331,7 +331,7 @@ http://185.236.229.62:9981/play/a06b
 #EXTINF:0,VOX Music TV 
 #EXTVLCOPT:network-caching=1000
 http://185.236.229.62:9981/play/a02d
-#EXTINF:0,DELUX MUSIC HD 
+#EXTINF:0,DELUX MUSIC HD 🇩🇪
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTVLCOPT:network-caching=1000
@@ -409,7 +409,7 @@ http://194.160.135.34:8088/udp/233.10.47.65:1234
 http://45.65.112.49:8000/play/a0kf
 #EXTINF:-1,Eurosport 1 HD 🇬🇧 🇷🇺
 http://45.159.74.14/Eurosport/manifest.m3u8
-#EXTINF:-1,Eurosport 1 Deutschland
+#EXTINF:-1,Eurosport 1 Deutschland 🇩🇪
 http://188.60.179.180:8000/play/xxEurosport1DExx
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Woʀʟᴅ Sᴘoʀᴛs" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ArenaSport.png",Arena Premium Liga 🇬🇧ᴴᴰ
@@ -876,34 +876,34 @@ http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:63:52:A2&stream=39615&extension
 #EXTINF:-1,ARENA SPORT 1 RS
 http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:63:52:A2&stream=39615&extension=ts&play_token=Jcsxc6L0BF
 
-#EXTINF:-1,DAZN 1 HEVC DE
+#EXTINF:-1,DAZN 1 HEVC DE 🇩🇪
 http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:47:08:6A&stream=11236&extension=ts&play_token=A0tHeQrOi8
-#EXTINF:-1,DAZN 1 HEVC DE
+#EXTINF:-1,DAZN 1 HEVC DE 🇩🇪
 http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:47:08:6A&stream=11236&extension=ts&play_token=f5CMoTZYo9
-#EXTINF:-1,DAZN 1 4K DE
+#EXTINF:-1,DAZN 1 4K DE 🇩🇪
 http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:47:08:6A&stream=45307&extension=ts&play_token=4mXUKoPKdN
-#EXTINF:-1,DAZN 1 4K DE
+#EXTINF:-1,DAZN 1 4K DE 🇩🇪
 http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:47:08:6A&stream=45307&extension=ts&play_token=M4o0UI4tDU
-#EXTINF:-1,DAZN 1 HEVC DE
+#EXTINF:-1,DAZN 1 HEVC DE 🇩🇪
 http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:A2:E7:9E&stream=11236&extension=ts&play_token=NCXub7zxiA
-#EXTINF:-1,DAZN 1 4K DE
+#EXTINF:-1,DAZN 1 4K DE 🇩🇪
 http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:A2:E7:9E&stream=45307&extension=ts&play_token=jCUzmF5Svq
-#EXTINF:-1,DAZN 1 HEVC DE
+#EXTINF:-1,DAZN 1 HEVC DE 🇩🇪
 http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:A2:E7:9E&stream=11236&extension=ts&play_token=bUA6v1EK4V
-#EXTINF:-1,DAZN 1 4K DE
+#EXTINF:-1,DAZN 1 4K DE 🇩🇪
 http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:A2:E7:9E&stream=45307&extension=ts&play_token=gmjyQmhGoS
-#EXTINF:-1,DAZN 1 HEVC DE
+#EXTINF:-1,DAZN 1 HEVC DE 🇩🇪
 http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:63:52:A2&stream=11236&extension=ts&play_token=0hhfUGNMnU
-#EXTINF:-1,DAZN 1 HEVC DE
+#EXTINF:-1,DAZN 1 HEVC DE 🇩🇪
 http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:63:52:A2&stream=11236&extension=ts&play_token=NsNyIuJ6wR
-#EXTINF:-1,DAZN 1 4K DE
+#EXTINF:-1,DAZN 1 4K DE 🇩🇪
 http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:63:52:A2&stream=45307&extension=ts&play_token=VZUid5ljPe
-#EXTINF:-1,DAZN 1 4K DE
+#EXTINF:-1,DAZN 1 4K DE 🇩🇪
 http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:63:52:A2&stream=45307&extension=ts&play_token=Agq0ld2XCv
 
-#EXTINF:-1,SPORT1
+#EXTINF:-1,SPORT1 🇩🇪
 http://188.60.179.180:8000/play/a04g
-#EXTINF:-1,SPORT1+
+#EXTINF:-1,SPORT1+ 🇩🇪
 http://188.60.179.180:8000/play/Sport1plus
 
 #EXTINF:-1,SKY SPORT AUSTRIA 1
@@ -950,7 +950,7 @@ http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:47:08:6A&stream=149581&extensio
 #EXTINF:-1,BLUE SPORT 1 SU
 http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:47:08:6A&stream=150227&extension=ts&play_token=AQFHmry29D
 
-#EXTINF:-1,SPORT2 HD HU
+#EXTINF:-1,SPORT2 HD HU 🇭🇺
 http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:47:08:6A&stream=51221&extension=ts&play_token=U4fGUA5HbZ
 
 #EXTINF:-1,DAZN 1 FHD FR
@@ -1135,11 +1135,11 @@ http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702
 #EXTINF:-1 tvg-id="" tvg-name="|PT| Motorvision" tvg-logo="" group-title="Portugal",|PT| Motorvision
 http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27066
 
-#EXTINF:-1,Digi Sport 1
+#EXTINF:-1,Digi Sport 1 🇷🇴
 http://europatv.sytes.net:8008/Cristian@Roman/hMNkNg6kaG/33797
-#EXTINF:-1,Digi Sport 4
+#EXTINF:-1,Digi Sport 4 🇷🇴
 http://europatv.sytes.net:8008/Cristian@Roman/hMNkNg6kaG/33803
-#EXTINF:-1,Sport 1 HU
+#EXTINF:-1,Sport 1 HU 🇭🇺
 http://354682051597948814.ofds1114.xyz:80/live/vi225045/G@w3Fq3BKGgy/948814.ts
 
 #EXTINF:-1,Tennis Channel HD
@@ -1290,11 +1290,11 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63ec0b739866
 #EXTINF:-1 tvg-id="65c2424eec452d0008987459" tvg-name="" group-title="Tennis 🎾🏓🏸" tvg-logo="https://images.pluto.tv/channels/65c2424eec452d0008987459/colorLogoPNG.png",PadelTime 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65c2424eec452d0008987459/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:0,Diema Sport
+#EXTINF:0,Diema Sport 🇷🇴
 http://raalbatros.serv00.net/Gledai.php?ID=diemasport
-#EXTINF:0,Diema Sport 2
+#EXTINF:0,Diema Sport 2 🇷🇴
 http://raalbatros.serv00.net/Gledai.php?ID=diemasport2
-#EXTINF:0,Diema Sport 3
+#EXTINF:0,Diema Sport 3 🇷🇴
 http://raalbatros.serv00.net/Gledai.php?ID=diemasport3
 #EXTINF:0,Nova Sport
 http://raalbatros.serv00.net/Gledai.php?ID=novasport
@@ -1353,9 +1353,9 @@ http://176.65.146.108:8022/play/a06u/index.m3u8
 #EXTINF:-0, Eleven 6
 http://176.65.146.108:8022/play/a074/index.m3u8
 
-#EXTINF:-0, PRIMA SPORT 1
+#EXTINF:-0, PRIMA SPORT 1 🇷🇴
 http://193.106.124.204:8002/play/a01l
-#EXTINF:-0, PRIMA SPORT 2
+#EXTINF:-0, PRIMA SPORT 2 🇷🇴
 http://193.106.124.204:8002/play/a034
 
 #EXTINF:-1,Polsat Sport PL  🇵🇱
@@ -1426,12 +1426,12 @@ http://89.187.191.99:8080/hrt3/index.m3u8
 #EXTINF:-1,HRT 4
 http://89.187.191.99:8080/hrt4/index.m3u8
 
-#EXTINF:-1,Viasat Sport SD
+#EXTINF:-1,Viasat Sport SD 🇸🇪
 http://flu.ttk.mx:9090/Viasat_Sport/index.m3u8?token=orh6o
 
-#EXTINF:-1, Sky Sports Premier League HD
+#EXTINF:-1, Sky Sports Premier League HD 🇩🇪
 http://930617934165812718.ofdgk1124.xyz:80/live/wa419038/ECm9xdBBgg/812718.ts
-#EXTINF:-1, Sky Sports Premier League HD
+#EXTINF:-1, Sky Sports Premier League HD 🇩🇪
 http://930617934165942380.ofdgk1124.xyz:80/live/wa419038/ECm9xdBBgg/942380.ts
 #EXTINF:-1, Sky Sports Premier League HD 🇬🇧
 http://422684034209971806.ofdgk1124.xyz:80/live/wa419038/ECm9xdBBgg/971806.ts
