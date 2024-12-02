@@ -282,7 +282,7 @@ https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 #EXTINF:-1,4fun music tv 🇵🇱
 https://stream.4fun.tv:8888/hls/4f.m3u8
-#EXTINF:-1,4Fun Dance
+#EXTINF:-1,4Fun Dance  🇵🇱
 http://188.60.179.180:8000/play/FUnDance
 #EXTINF:-1 tvg-id="MagicTV.bg" group-title="Hudobné",Magic TV 🇧🇬 
 https://bss1.neterra.tv/magictv/magictv.m3u8
@@ -325,7 +325,7 @@ http://185.236.229.62:9981/play/a07f
 #EXTINF:0,MTV Live HD 
 #EXTVLCOPT:network-caching=1000
 http://185.236.229.62:9981/play/a063
-#EXTINF:0,MTV Polska HD 
+#EXTINF:0,MTV Polska HD 🇵🇱
 #EXTVLCOPT:network-caching=1000
 http://185.236.229.62:9981/play/a06b
 #EXTINF:0,VOX Music TV 
@@ -426,11 +426,11 @@ http://109.105.201.198/ARENASPORT3/video.m3u8?token=test
 #EXTINF:-1,Arena sport 4 🇷🇴
 http://109.105.201.198/ARENASPORT4/video.m3u8?token=test
 
-EXTINF:-1,Ziggo Sport Golf
+EXTINF:-1,Ziggo Sport Golf 🇳🇱
 http://78.130.250.2:8023/play/a00g/index.m3u8
-#EXTINF:-1,Ziggo Sport Select HD
+#EXTINF:-1,Ziggo Sport Select HD 🇳🇱
 http://78.130.250.2:8023/play/a00n/index.m3u8
-#EXTINF:-1,Ziggo Sport Voetbal
+#EXTINF:-1,Ziggo Sport Voetbal 🇳🇱
 http://78.130.250.2:8023/play/a00f/index.m3u8
 
 #EXTINF:0,Real Madrid 🇬🇧
@@ -1358,13 +1358,13 @@ http://193.106.124.204:8002/play/a01l
 #EXTINF:-0, PRIMA SPORT 2
 http://193.106.124.204:8002/play/a034
 
-#EXTINF:-1,Polsat Sport PL
+#EXTINF:-1,Polsat Sport PL  🇵🇱
 https://cdn-nvm-chicago3.lolokoko.tv/polsatsport.stream/chunks.m3u8
-#EXTINF:-1,Polsat Sport Extra PL
+#EXTINF:-1,Polsat Sport Extra PL  🇵🇱
 https://cdn-nvm-chicago3.lolokoko.tv/polsatsportextra.stream/chunks.m3u8
-#EXTINF:-1,Polsat Sport News PL
+#EXTINF:-1,Polsat Sport News PL 🇵🇱
 https://cdn-nvm-chicago3.lolokoko.tv/polsatsportnews.stream/chunks.m3u8
-#EXTINF:-1,Super Polsat PL
+#EXTINF:-1,Super Polsat PL 🇵🇱
 http://cdn-global.lolokoko.tv/SuperPolsat.stream/chunks.m3u8
 
 #EXTINF:-1,Arena Sport 1
