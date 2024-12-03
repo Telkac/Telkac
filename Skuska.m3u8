@@ -505,6 +505,18 @@ http://109.233.89.166/TVP_Sport_HD/mono.m3u8
 http://178.219.128.68:64889/POLSSPORHD
 #EXTINF:-1,Polsat Sport 3 🇵🇱
 http://178.219.128.68:64889/POLSSPORNEWSHD
+#EXTINF:-1,Eleven Sports 1 Poland HD 🇵🇱
+http://178.219.128.68:64889/ELEVSPOR1HD
+#EXTINF:-1,Eleven Sports 2 Poland HD 🇵🇱 
+http://178.219.128.68:64889/ELEVSPOR2HD
+#EXTINF:-1,Eleven Sports 3 Poland HD 🇵🇱
+http://178.219.128.68:64889/ELEVSPOR3HD
+#EXTINF:-1,Eleven Sports 4 Poland HD 🇵🇱
+http://178.219.128.68:64888/ELEVSPOR4HD
+#EXTINF:-1,Poland_Polsat Sport NEWS 🇵🇱
+http://178.219.128.68:64889/POLSSPORNEWSHD
+#EXTINF:-1,Poland_Polsat SPORT 🇵🇱
+http://178.219.128.68:64889/POLSSPORHD
 
 #EXTINF:-1, Bein Sports 1 France 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
@@ -573,8 +585,8 @@ http://caffe.link:25461/111SelimS/dmE9FI5RpF/1721
 http://caffe.link:25461/111SelimS/dmE9FI5RpF/1720
 #EXTINF:-1 ,Pink Erotic 4 🔞
 http://caffe.link:25461/111SelimS/dmE9FI5RpF/1719
-#EXTINF:-1 ,Pink Erotic 6
-http://caffe.link:25461/11 🔞1SelimS/dmE9FI5RpF/14316
+#EXTINF:-1 ,Pink Erotic 6 🔞
+http://caffe.link:25461/111SelimS/dmE9FI5RpF/14316
 #EXTINF:-1 ,Pink Erotic 7 🔞
 http://caffe.link:25461/111SelimS/dmE9FI5RpF/14317
 #EXTINF:-1 ,Pink Erotic 8 🔞
