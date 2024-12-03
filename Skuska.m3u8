@@ -1470,12 +1470,10 @@ http://348110998266959231.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/959231.ts
 #EXTVLCOPT:network-caching=1000
 http://348110998266959232.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/959232.ts
 
-#EXTINF:-1,NBC
+#EXTINF:-1,NBC  🇺🇸
 http://181.114.57.246:4000/play/ZAtkbM9v9JDDCwCh/index.m3u8
-#EXTINF:-1,CBS
+#EXTINF:-1,CBS 🇺🇸
 http://181.114.57.246:4000/play/SJc3fvCpEhFAv6N2/index.m3u8
-#EXTINF:2 group-title="IPTV1" tvg-id="iptv/abcaustralia" tvg-logo="" provider="IPTV1" provider-logo="" provider-type="iptv",[IPTV1] ABC Australia
-http://iptv.djdoolky76.net/stream/iptv/abcaustralia/master.m3u8?u=djdoolky76&p=f4e49c0ae8a26be9d5b10934f240cc4d4e7ea4f84c7c7e69b071dc3e23868d3a
-#EXTINF:-1,5810 | ABC HD
+#EXTINF:-1,5810 | ABC HD 🇺🇸
 http://181.114.57.246:4000/play/bhAmBxmCwn3VLbnJ/index.m3u8
 
