@@ -338,14 +338,6 @@ http://185.236.229.62:9981/play/a02d
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:CB:86&stream=58168&extension=ts
 
 #EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" tvg-name="" group-title="𝙈𝙪𝙨𝙞𝗰 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png",VH1 Classic
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1
-#EXTINF:-1 tvg-id="6552085aab05240008b05f6c" tvg-name="" group-title="𝙈𝙪𝙨𝙞𝗰 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨" tvg-logo="https://images.pluto.tv/channels/6552085aab05240008b05f6c/colorLogoPNG.png",VH1+Back To 90'S
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6552085aab05240008b05f6c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1
-#EXTINF:-1 tvg-id="6447d08f2858cb0008b9957c" tvg-name="" group-title="𝙈𝙪𝙨𝙞𝗰 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨" tvg-logo="https://images.pluto.tv/channels/6447d08f2858cb0008b9957c/colorLogoPNG.png",VH1+Rock
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6447d08f2858cb0008b9957c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1
-#EXTINF:-1 tvg-id="62e8cc10ca869f00078efca8" tvg-name="" group-title="𝙈𝙪𝙨𝙞𝗰 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨" tvg-logo="https://images.pluto.tv/channels/62e8cc10ca869f00078efca8/colorLogoPNG.png",VH1+Music Legends
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1
-
 #EXTINF:-1 tvg-id="Senzi(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1410-senzi-hd.png" group-title="Hudobné",SENZI HD
 http://88.212.15.27/live/test_senzi_hevc/playlist.m3u8
 #EXTINF:0,Šlágr 1 HD
