@@ -1387,6 +1387,28 @@ http://178.219.128.68:64889/ELEVSPOR3HD
 #EXTINF:-1,Eleven Sports 4 Poland HD 🇵🇱
 http://178.219.128.68:64888/ELEVSPOR4HD
 
+#EXTINF:-1,Canal+ Sport 2 PL
+https://cdn-nvm-chicago3.lolokoko.tv/canalplussport2.stream/chunks.m3u8
+#EXTINF:-1,Canal+ Sport 3 PL
+https://cdn-nvm-chicago3.lolokoko.tv/canalplussport3.stream/chunks.m3u8
+#EXTINF:-1,Canal+ Sport 4 PL
+https://cdn-nvm-chicago3.lolokoko.tv/canalplussport4.stream/chunks.m3u8
+#EXTINF:-1,Eurosport 1
+https://cdn-nvm-chicago3.lolokoko.tv/Eurosport1.stream/playlist.m3u8
+#EXTINF:-1,Eurosport 2
+https://cdn-nvm-chicago3.lolokoko.tv/Eurosport2polska.stream/playlist.m3u8
+#EXTINF:-1,Fightbox HD
+https://cdn-nvm-chicago3.lolokoko.tv/Fightbox.stream/chunks.m3u8
+#EXTINF:-1,Eleven Sports 1
+https://cdn-nvm-chicago3.lolokoko.tv/elevensports1.stream/chunks.m3u8
+#EXTINF:-1,Eleven Sports 2
+https://cdn-nvm-chicago3.lolokoko.tv/elevensports2.stream/chunks.m3u8
+#EXTINF:-1,Eleven Sports 3
+https://cdn-nvm-chicago3.lolokoko.tv/elevensports3.stream/chunks.m3u8
+#EXTINF:-1,Eleven Sports 4
+https://cdn-nvm-chicago3.lolokoko.tv/elevensports4.stream/chunks.m3u8
+
+
 #EXTINF:0,HOBBY TV SD
 #EXTVLCOPT:network-caching=1000
 http://348110998266968511.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/968511.ts
