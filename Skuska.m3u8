@@ -1358,7 +1358,7 @@ http://raalbatros.serv00.net/Gledai.php?ID=maxsport3
 #EXTINF:0,Max Sport 4
 http://raalbatros.serv00.net/Gledai.php?ID=maxsport4
 
-#EXTINF:-1,Rai Sport + HD
+#EXTINF:-1,Rai Sport + HD 🇮🇹
 http://188.60.179.180:8000/play/xxRaiSportPlusHDxx
 #EXTINF:-1 tvg-id="RaiSport.it" group-title="𝙞𝙩𝙖𝙡𝙮 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiSport.webp",Rai Sport 🇮🇹
 http://45.65.112.49:8000/play/a0ma
@@ -1430,53 +1430,31 @@ http://178.219.128.68:64889/ELEVSPOR3HD
 #EXTINF:-1,Eleven Sports 4 Poland HD 🇵🇱
 http://178.219.128.68:64888/ELEVSPOR4HD
 
-#EXTINF:-1,Canal+ Sport 2 PL
+#EXTINF:-1,Canal+ Sport 2 PL 🇵🇱
 https://cdn-nvm-chicago3.lolokoko.tv/canalplussport2.stream/chunks.m3u8
-#EXTINF:-1,Canal+ Sport 3 PL
+#EXTINF:-1,Canal+ Sport 3 PL 🇵🇱
 https://cdn-nvm-chicago3.lolokoko.tv/canalplussport3.stream/chunks.m3u8
-#EXTINF:-1,Canal+ Sport 4 PL
+#EXTINF:-1,Canal+ Sport 4 PL 🇵🇱
 https://cdn-nvm-chicago3.lolokoko.tv/canalplussport4.stream/chunks.m3u8
-#EXTINF:-1,Eurosport 1
+#EXTINF:-1,Eurosport 1 🇵🇱
 https://cdn-nvm-chicago3.lolokoko.tv/Eurosport1.stream/playlist.m3u8
-#EXTINF:-1,Eurosport 2
+#EXTINF:-1,Eurosport 2 🇵🇱
 https://cdn-nvm-chicago3.lolokoko.tv/Eurosport2polska.stream/playlist.m3u8
-#EXTINF:-1,Fightbox HD
+#EXTINF:-1,Fightbox HD 🇵🇱
 https://cdn-nvm-chicago3.lolokoko.tv/Fightbox.stream/chunks.m3u8
-#EXTINF:-1,Eleven Sports 1
+#EXTINF:-1,Eleven Sports 1 🇵🇱
 https://cdn-nvm-chicago3.lolokoko.tv/elevensports1.stream/chunks.m3u8
-#EXTINF:-1,Eleven Sports 2
+#EXTINF:-1,Eleven Sports 2 🇵🇱
 https://cdn-nvm-chicago3.lolokoko.tv/elevensports2.stream/chunks.m3u8
-#EXTINF:-1,Eleven Sports 3
+#EXTINF:-1,Eleven Sports 3 🇵🇱
 https://cdn-nvm-chicago3.lolokoko.tv/elevensports3.stream/chunks.m3u8
-#EXTINF:-1,Eleven Sports 4
+#EXTINF:-1,Eleven Sports 4 🇵🇱
 https://cdn-nvm-chicago3.lolokoko.tv/elevensports4.stream/chunks.m3u8
 
-
-#EXTINF:0,HOBBY TV SD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0,HOBBY TV SD 🇸🇰
 http://348110998266968511.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/968511.ts
-#EXTINF:0,FISHING & HUNTING TV HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0,FISHING & HUNTING TV HD 🇸🇰
 http://348110998266965135.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/965135.ts
-#EXTINF:0,JOJ FHD
-#EXTVLCOPT:network-caching=1000
-http://348110998266959180.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/959180.ts
-#EXTINF:0,CZ: JOJ PLUS FHD
-#EXTVLCOPT:network-caching=1000
-http://348110998266962425.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/962425.ts
-#EXTINF:0,CZ: JOJ WAU FHD
-#EXTVLCOPT:network-caching=1000
-http://348110998266929854.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/929854.ts
-#EXTINF:0,CT1 FHD
-#EXTVLCOPT:network-caching=1000
-http://348110998266923744.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/923744.ts
-#EXTINF:0,ČT1 FHD
-#EXTVLCOPT:network-caching=1000
-http://348110998266959231.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/959231.ts
-#EXTINF:0,ČT2 FHD
-#EXTVLCOPT:network-caching=1000
-http://348110998266959232.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/959232.ts
-
 #EXTINF:-1,NBC  🇺🇸
 http://181.114.57.246:4000/play/ZAtkbM9v9JDDCwCh/index.m3u8
 #EXTINF:-1,CBS 🇺🇸
