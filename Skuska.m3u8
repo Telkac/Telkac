@@ -198,6 +198,7 @@ http://88.212.15.27/live/test_joj_family_hevc_25p/playlist.m3u8
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2364&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 http://88.212.15.27/live/test_joj_svet/playlist.m3u8
 #EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="Discovery" tvg-logo="http://46.36.40.22/1023/discovery.png" group-title="Dokumentárne",Discovery HD
+https://cdnsk003.panaccess.com/local/Discovery/index.m3u8
 http://88.212.15.27/live/test_discovery_hd_hevc/playlist.m3u8
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=937&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:0,Viasat History HD
@@ -239,12 +240,14 @@ http://88.212.15.27/live/test_parpika_tv_sd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="MNAM(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/mnam.png" group-title="Vaření / Cooking",Mnam TV
 http://6c03a4a9.ottolok.net/iptv/UPSE4VLLPEHXVF/31612/index.m3u8
 #EXTINF:0,ID HD
+https://cdnsk003.panaccess.com/local/TLC/index.m3u8
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=753&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:0,HGTV - Home & Garden TV
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2306&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:0,E! Entertainment
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=442&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:0,TLC HD
+https://cdnsk003.panaccess.com/local/TLC/index.m3u8
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2178&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 
 #EXTINF:-1 tvg-id="Jojko(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/815-jojko-hd.png" group-title="Detské",Jojko HD
@@ -420,9 +423,11 @@ http://78.130.250.2:8023/play/a02v/index.m3u8
 http://78.130.250.2:8023/play/a02w/index.m3u8
 http://348110998266968494.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/968525.ts
 #EXTINF:-1 tvg-id="Arena Sport 1" tvg-name="Arena Sport 1 " tvg-logo="http://46.36.40.22/1023/arenasport1.png" group-title="Športové",Arena Sport 1
+https://cdnsk003.panaccess.com/local/Arena_sport_1/index.m3u8
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=679&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile1
 http://88.212.15.27/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 tvg-id="Arena Sport 2" tvg-name="Arena Sport 2" tvg-logo="http://46.36.40.22/1023/arenasport2.png" group-title="Športové",Arena Sport 2
+https://cdnsk003.panaccess.com/local/Arena_sport_2/index.m3u8
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=681&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile1
 http://88.212.15.27/live/test_arenasport_dva/playlist.m3u8
 
@@ -632,7 +637,8 @@ https://cdnsk003.panaccess.com/local/Dorcel/index.m3u8
 #EXTINF:0,LeoTV HD 🔞
 https://cdnsk003.panaccess.com/local/LeoTV/index.m3u8
 
-
+#EXTINF:0,Bratislava
+https://cdnsk003.panaccess.com/local/Bratislava/index.m3u8
 #EXTINF:-1 tvg-id="TV8(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="-" group-title="Všeobecné",TV Osem
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="TVDoktor(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://yt3.googleusercontent.com/lPSjPrqEOIUGQlOBSXQ0UtVACOCtbRvvt54Ia2LWcBnmLujI66LNgbFGFau4YrPeJJJNLYc9-g=s900-c-k-c0x00ffffff-no-rj" group-title="Lifestyle",TV Doktor HD
@@ -1220,6 +1226,8 @@ http://streamsy.online:2999/live/coachj88/N93DPKS9pJ/1650.ts
 #EXTINF:-1 tvg-id="ESPN.Premium.HDTV.(Chile).(FOXSP1HD).cl" tvg-name="" group-title="Sports Live Events" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DAZN%20F1.webp",ESPN Premium 🇨🇱
 http://45.184.87.142:8000/play/a045
 
+#EXTINF:0,NHL Network  🇺🇸
+http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-name="" group-title="Sports Live Events" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Nba.webp",NBA Live 🇺🇸 🏀 
 https://cloudserve.world/live/stream_nba4.m3u8
 #EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-name="" group-title="Sports Live Events" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Nba.webp",NBA 🇺🇸 🏀 
@@ -1358,6 +1366,31 @@ http://raalbatros.serv00.net/Gledai.php?ID=maxsport3
 #EXTINF:0,Max Sport 4
 http://raalbatros.serv00.net/Gledai.php?ID=maxsport4
 
+#EXTINF:-1,Arena Sport 1
+http://46.240.130.158/Arena1/index.m3u8?token=test
+#EXTINF:-1,Arena Sport 2
+http://46.240.130.158/Arena2/index.m3u8?token=test
+#EXTINF:-1,Arena Sport 3
+http://46.240.130.158/Arena3/index.m3u8?token=test
+#EXTINF:-1,Arena Sport 4
+http://46.240.130.158/Arena4/index.m3u8?token=test
+#EXTINF:-1,Arena Sport 5
+http://46.240.130.158/Arena5/index.m3u8?token=test
+#EXTINF:-1,Arena Sport 1 RS
+http://109.105.201.198/ARENASPORT1/index.m3u8?token=test
+#EXTINF:-1,Arena Sport 2 RS
+http://109.105.201.198/Arenasport2/index.m3u8?token=test
+#EXTINF:-1,Arena Sport 3 RS
+http://109.105.201.198/ARENASPORT3/index.m3u8?token=test
+#EXTINF:-1,Arena Sport 4 RS
+http://109.105.201.198/ARENASPORT4/index.m3u8?token=test
+#EXTINF:-1,Arena Sport 4 RS
+http://109.105.201.198/ARENASPORT4/index.m3u8?token=test
+#EXTINF:-1,Max Sport 1
+http://109.105.201.198/MAXSPORT1HR/video.m3u8?token=test
+#EXTINF:-1,Max Sport 2
+http://109.105.201.198/MAXSPORT2HR/video.m3u8?token=test
+
 #EXTINF:-1,Rai Sport + HD 🇮🇹
 http://188.60.179.180:8000/play/xxRaiSportPlusHDxx
 #EXTINF:-1 tvg-id="RaiSport.it" group-title="𝙞𝙩𝙖𝙡𝙮 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiSport.webp",Rai Sport 🇮🇹
@@ -1450,6 +1483,12 @@ https://cdn-nvm-chicago3.lolokoko.tv/elevensports2.stream/chunks.m3u8
 https://cdn-nvm-chicago3.lolokoko.tv/elevensports3.stream/chunks.m3u8
 #EXTINF:-1,Eleven Sports 4 🇵🇱
 https://cdn-nvm-chicago3.lolokoko.tv/elevensports4.stream/chunks.m3u8
+
+#EXTINF:-1,231.0.0.10:2000 Sport italia plus 🇮🇹
+http://46.232.186.35:35001/play/a01k
+#EXTINF:-1,231.0.0.3:2000 super tennis 🇮🇹
+http://46.232.186.35:35001/play/a01o
+
 
 #EXTINF:0,HOBBY TV SD 🇸🇰
 http://348110998266968511.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/968511.ts
