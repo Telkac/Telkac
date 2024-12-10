@@ -1,8 +1,10 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/slovakia.xml"
 
 #EXTINF:-1 tvg-id="Jednotka" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/1024/jednotka.png" group-title="Všeobecné",Jednotka HD
+https://cdnsk003.panaccess.com/local/Jednotka/index.m3u8
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=637&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:-1 tvg-id="Dvojka" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Logo_of_Dvojka_%282012-%29.png" group-title="Všeobecné",Dvojka HD
+https://cdnsk003.panaccess.com/local/Dvojka/index.m3u8
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=613&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 http://194.160.135.34:8088/udp/233.10.47.37:1234
 #EXTINF:-1 tvg-id="Markiza" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/952-markiza-hd.png" group-title="Všeobecné",Markiza HD
