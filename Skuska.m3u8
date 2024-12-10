@@ -416,6 +416,7 @@ http://91.132.74.4:7374/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Woʀʟᴅ Sᴘoʀᴛs" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/bein-sports.png",Bein SportXtra ñ 🇪🇸ᴴᴰ
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+
 #EXTINF:-1,Arena sport 1 🇷🇴
 http://109.105.201.198/ARENASPORT1/video.m3u8?token=test
 #EXTINF:-1,Arena sport 2 🇷🇴
@@ -424,13 +425,6 @@ http://109.105.201.198/Arenasport2/video.m3u8?token=test
 http://109.105.201.198/ARENASPORT3/video.m3u8?token=test
 #EXTINF:-1,Arena sport 4 🇷🇴
 http://109.105.201.198/ARENASPORT4/video.m3u8?token=test
-
-EXTINF:-1,Ziggo Sport Golf 🇳🇱
-http://78.130.250.2:8023/play/a00g/index.m3u8
-#EXTINF:-1,Ziggo Sport Select HD 🇳🇱
-http://78.130.250.2:8023/play/a00n/index.m3u8
-#EXTINF:-1,Ziggo Sport Voetbal 🇳🇱
-http://78.130.250.2:8023/play/a00f/index.m3u8
 
 #EXTINF:0,Real Madrid 🇬🇧
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
@@ -597,14 +591,7 @@ http://caffe.link:25461/111SelimS/dmE9FI5RpF/14321
 #EXTINF:-1 ,REDLIGHT HD 🔞
 http://caffe.link:25461/111SelimS/dmE9FI5RpF/4820
 #EXTINF:0,Vixen HD 🔞
-https://cdnsk003.panaccess.com/local/Vixen/playlist.m3u8
-#EXTINF:0,Dorcel HD 🔞
-https://cdnsk003.panaccess.com/local/Dorcel/index.m3u8
-#EXTINF:0,LeoTV HD 🔞
-https://cdnsk003.panaccess.com/local/LeoTV/index.m3u8
 
-#EXTINF:0,Bratislava
-https://cdnsk003.panaccess.com/local/Bratislava/index.m3u8
 #EXTINF:-1 tvg-id="TV8(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="-" group-title="Všeobecné",TV Osem
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="TVDoktor(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://yt3.googleusercontent.com/lPSjPrqEOIUGQlOBSXQ0UtVACOCtbRvvt54Ia2LWcBnmLujI66LNgbFGFau4YrPeJJJNLYc9-g=s900-c-k-c0x00ffffff-no-rj" group-title="Lifestyle",TV Doktor HD
@@ -797,83 +784,6 @@ http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:47:86:50&stream=38365&extension
 #EXTINF:-1,TNT Sport 2 HD UK
 http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:47:86:50&stream=38365&extension=ts&play_token=lnVi48uCop
 
-#EXTINF:-1,TNT Sport 2 HD UK
-http://darktv.eu:80/play/live.php?mac=00:1A:79:63:AB:46&stream=38365&extension=ts&play_token=YTZ6V9zALc
-#EXTINF:-1,TNT Sport 2 HD UK
-http://darktv.eu:80/play/live.php?mac=00:1A:79:63:AB:46&stream=38365&extension=ts&play_token=pFwm7fKBRg
-
-#EXTINF:-1,TNT Sport 2 FHD UK
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E3:83&stream=768745&extension=ts&play_token=GhohGF9aKU
-#EXTINF:-1,TNT Sport 2 HD UK
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E3:83&stream=768746&extension=ts&play_token=akXYM4DFzw
-#EXTINF:-1,TNT Sport 2 UK
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E3:83&stream=768746&extension=ts&play_token=akXYM4DFzw
-
-#EXTINF:-1,TNT Sport 2 FHD UK
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:B0:E7:27&stream=300450&extension=ts&play_token=neuxmOUov4
-#EXTINF:-1,TNT Sport 2 HD UK
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:B0:E7:27&stream=300451&extension=ts&play_token=KqaDfSxuS2
-#EXTINF:-1,TNT Sport 2 UK
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:B0:E7:27&stream=300452&extension=ts&play_token=u79oc3zukW
-#EXTINF:-1,TNT Sport 2 FHD UK
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:B0:E7:27&stream=300450&extension=ts&play_token=rwb1R0wEiL
-#EXTINF:-1,TNT Sport 2 FHD UK
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:B0:E7:27&stream=300451&extension=ts&play_token=0WizPnxKK0
-#EXTINF:-1,TNT Sport 2 FHD UK
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:B0:E7:27&stream=300452&extension=ts&play_token=wGq1NOnlwY
-#EXTINF:-1,TNT Sport 2 FPS FHD UK
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BC:D2:8C&stream=307977&extension=ts
-#EXTINF:-1,TNT Sport 2 FHD UK
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BC:D2:8C&stream=307978&extension=ts
-#EXTINF:-1,TNT Sport 2 HD UK
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BC:D2:8C&stream=307979&extension=ts
-#EXTINF:-1,TNT Sport 2 UK
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BC:D2:8C&stream=307980&extension=ts
-
-#EXTINF:-1,SUPER SPORT 3 AL
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E3:83&stream=208134&extension=ts&play_token=OpbXpiSoTI
-#EXTINF:-1,SUPER SPORT 3 AL FHD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E3:83&stream=208134&extension=ts&play_token=z7K7teeKHP
-#EXTINF:-1,SUPER SPORT 3 AL FHD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E3:83&stream=657134&extension=ts&play_token=r5ni1zKurE
-#EXTINF:-1,SUPER SPORT 3 AL FHD
-http://darktv.eu:80/play/live.php?mac=00:1A:79:72:70:19&stream=47403&extension=ts&play_token=2Y0fWX6MiQ
-#EXTINF:-1,SUPER SPORT 3 AL FHD
-http://darktv.eu:80/play/live.php?mac=00:1A:79:72:70:19&stream=47403&extension=ts&play_token=tYTDQ7eZh5
-#EXTINF:-1,SUPER SPORT 3 4K+ AL
-http://laurenlending.pproxy.cc:80/play/live.php?mac=00:1A:79:83:8F:AC&stream=47403&extension=ts&play_token=5l6AGUEGHX
-#EXTINF:-1,SUPER SPORT 3 4K+ AL
-http://laurenlending.pproxy.cc:80/play/live.php?mac=00:1A:79:83:8F:AC&stream=47403&extension=ts&play_token=uXdXdDW2Gc
-
-#EXTINF:-1,MAX SPORT 2 4K BG
-http://darktv.eu:80/play/live.php?mac=00:1A:79:72:70:19&stream=56239&extension=ts&play_token=g4xrVFPjFL
-#EXTINF:-1,MAX SPORT 2 4K+ BG
-http://darktv.eu:80/play/live.php?mac=00:1A:79:72:70:19&stream=56241&extension=ts&play_token=pwi1P2qNki
-#EXTINF:-1,MAX SPORT 2 4K BG
-http://laurenlending.pproxy.cc:80/play/live.php?mac=00:1A:79:83:8F:AC&stream=56239&extension=ts&play_token=IFbZhEqLSs
-#EXTINF:-1,MAX SPORT 2 4K+ BG
-http://laurenlending.pproxy.cc:80/play/live.php?mac=00:1A:79:83:8F:AC&stream=56239&extension=ts&play_token=JpKRlPbgyo
-
-#EXTINF:-1,Sport 2 HD CZ
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:d1:db:c9&stream=46480&extension=ts&play_token=vvUbVjmeZ6
-#EXTINF:-1,Sport 2 HD SL
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:d1:db:c9&stream=46397&extension=ts&play_token=0JjG3fB9XV
-
-#EXTINF:-1,Sport 2 HD CZ
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:47:86:50&stream=46480&extension=ts&play_token=zxB244Sv57
-#EXTINF:-1,Sport 2 HD SL
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:47:86:50&stream=46397&extension=ts&play_token=3xAc4vzaHZ
-
-#EXTINF:-1,Sport 2 HD CZ
-http://darktv.eu:80/play/live.php?mac=00:1A:79:63:AB:46&stream=46480&extension=ts&play_token=6h6ju6IhnP
-#EXTINF:-1,Sport 2 HD SL
-http://darktv.eu:80/play/live.php?mac=00:1A:79:63:AB:46&stream=46397&extension=ts&play_token=srYRrb4rP5
-
-#EXTINF:-1,Sport 2 HD SL
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E3:83&stream=831059&extension=ts&play_token=lLjvJvfhI0
-
-#EXTINF:-1,Sport 2 FHD CZ
-http://spacextv.live:8080/play/live.php?mac=00:1A:79:BC:D2:8C&stream=206195&extension=ts
 #EXTINF:-1,ARENA SPORT 1 RS
 http://birutv.my.id:80/play/live.php?mac=00:1A:79:87:79:BD&stream=39615&extension=ts&play_token=xrQHa3Sb7Q
 #EXTINF:-1,ARENA SPORT 1 RS
@@ -924,15 +834,6 @@ http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:63:52:A2&stream=45307&extension
 http://188.60.179.180:8000/play/a04g
 #EXTINF:-1,SPORT1+ 🇩🇪
 http://188.60.179.180:8000/play/Sport1plus
-
-#EXTINF:-1,SKY SPORT AUSTRIA 1
-http://birutv.my.id:80/play/live.php?mac=00:1A:79:87:79:BD&stream=4625&extension=ts&play_token=85S3OrNOFv
-#EXTINF:-1,SKY SPORT AUSTRIA 1
-http://birutv.my.id:80/play/live.php?mac=00:1A:79:87:79:BD&stream=4625&extension=ts&play_token=7RR2ivrcY2
-#EXTINF:-1,SKY SPORT AUSTRIA 1
-http://birutv.my.id:80/play/live.php?mac=00:1A:79:77:07:32&stream=4625&extension=ts&play_token=falvjVpZdG
-#EXTINF:-1,SKY SPORT AUSTRIA 1
-http://birutv.my.id:80/play/live.php?mac=00:1A:79:77:07:32&stream=4625&extension=ts&play_token=CSQCqSZWlK
 
 #EXTINF:-1,ELEVEN SPORTS 1 HEVC PT 🇵🇹
 http://wiki-ott.org:8789/play/live.php?mac=00:1A:79:6E:2C:0D&stream=47284&extension=ts
@@ -997,45 +898,6 @@ http://7pal.short.gy/tntspts2
 #EXTINF:0,TNT SPORTS 3
 http://7pal.short.gy/tntspts3
 
-EXTINF:0 tvg-rec="3",Sport TV 1 PT 🇵🇹
-#EXTGRP:Португалия | Portugal
-http://d6710391.ottclub.xyz/iptv/HT3K5SKMEFDFR2U8A7S3NE5X/2525/index.m3u8
-#EXTINF:0 tvg-rec="3",Sport TV 2 HD PT 🇵🇹
-#EXTGRP:Португалия | Portugal
-http://d6710391.ottclub.xyz/iptv/HT3K5SKMEFDFR2U8A7S3NE5X/2526/index.m3u8
-#EXTINF:0 tvg-rec="3",Sport TV 3 HD PT 🇵🇹
-#EXTGRP:Португалия | Portugal
-http://d6710391.ottclub.xyz/iptv/HT3K5SKMEFDFR2U8A7S3NE5X/2527/index.m3u8
-#EXTINF:0 tvg-rec="3",Sport TV 4 HD PT 🇵🇹
-#EXTGRP:Португалия | Portugal
-http://d6710391.ottclub.xyz/iptv/HT3K5SKMEFDFR2U8A7S3NE5X/2528/index.m3u8
-#EXTINF:0 tvg-rec="3",Sport TV 5 HD PT 🇵🇹
-#EXTGRP:Португалия | Portugal
-http://d6710391.ottclub.xyz/iptv/HT3K5SKMEFDFR2U8A7S3NE5X/2529/index.m3u8
-#EXTINF:0 tvg-rec="3",Sporting TV HD PT 🇵🇹
-#EXTGRP:Португалия | Portugal
-http://d6710391.ottclub.xyz/iptv/HT3K5SKMEFDFR2U8A7S3NE5X/2530/index.m3u8
-#EXTINF:0 tvg-rec="3",DAZN 1 HD PT 🇵🇹
-#EXTGRP:Португалия | Portugal
-http://d6710391.ottclub.xyz/iptv/HT3K5SKMEFDFR2U8A7S3NE5X/2531/index.m3u8
-#EXTINF:0 tvg-rec="3",DAZN 2 HD PT 🇵🇹
-#EXTGRP:Португалия | Portugal
-http://d6710391.ottclub.xyz/iptv/HT3K5SKMEFDFR2U8A7S3NE5X/2532/index.m3u8
-#EXTINF:0 tvg-rec="3",DAZN 4 HD PT 🇵🇹
-#EXTGRP:Португалия | Portugal
-http://d6710391.ottclub.xyz/iptv/HT3K5SKMEFDFR2U8A7S3NE5X/2534/index.m3u8
-#EXTINF:0 tvg-rec="3",DAZN 5 HD PT 🇵🇹
-#EXTGRP:Португалия | Portugal
-http://d6710391.ottclub.xyz/iptv/HT3K5SKMEFDFR2U8A7S3NE5X/2535/index.m3u8
-#EXTINF:0 tvg-rec="3",DAZN 6 PT 🇵🇹
-#EXTGRP:Португалия | Portugal
-http://d6710391.ottclub.xyz/iptv/HT3K5SKMEFDFR2U8A7S3NE5X/2536/index.m3u8
-#EXTINF:0 tvg-rec="3",DAZN 3 HD PT 🇵🇹
-#EXTGRP:Португалия | Portugal
-http://d6710391.ottclub.xyz/iptv/HT3K5SKMEFDFR2U8A7S3NE5X/7062/index.m3u8
-#EXTINF:0 tvg-rec="3",DAZN 6 HD PT 🇵🇹
-#EXTGRP:Португалия | Portugal
-http://d6710391.ottclub.xyz/iptv/HT3K5SKMEFDFR2U8A7S3NE5X/7064/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV " tvg-logo="" group-title="Portugal",|PT| Sport TV 🇵🇹
 http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27010
@@ -1158,8 +1020,6 @@ http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702
 http://europatv.sytes.net:8008/Cristian@Roman/hMNkNg6kaG/33797
 #EXTINF:-1,Digi Sport 4 🇷🇴
 http://europatv.sytes.net:8008/Cristian@Roman/hMNkNg6kaG/33803
-#EXTINF:-1,Sport 1 HU 🇭🇺
-http://354682051597948814.ofds1114.xyz:80/live/vi225045/G@w3Fq3BKGgy/948814.ts
 
 #EXTINF:-1,Tennis Channel HD
 http://181.114.57.246:4000/play/CuhCF3z5UqBQAt54/index.m3u8
