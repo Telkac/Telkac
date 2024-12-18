@@ -184,9 +184,8 @@ http://78.130.250.2:8023/play/a02m/index.m3u8
 #EXTINF:0,Animal Planet HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=763&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:-1 tvg-id="NationalGeographicChannel(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nationalgeographic.png" group-title="Dokumentární / Documents",National Geographic HD
+http://78.130.250.2:8023/play/a02e/index.m3u8
 http://78.130.250.2:8023/play/a00o/index.m3u8
-http://78.130.250.2:8023/play/a02e/index.m3u8
-http://78.130.250.2:8023/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="NatGeoWild(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/natgeowild.png" group-title="Dokumentární / Documents",Nat Geo Wild HD
 http://78.130.250.2:8023/play/a02c/index.m3u8
 http://78.130.250.2:8023/play/a02e/index.m3u8
@@ -196,8 +195,6 @@ http://88.212.15.27/live/test_spektrum/playlist.m3u8
 http://88.212.15.27/live/test_home_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="HistoryChannel(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/history.png" group-title="Dokumentární / Documents",History HD
 http://88.212.15.27/live/test_history/playlist.m3u8
-#EXTINF:-1,National Geographic HD
-http://78.130.250.2:8023/play/a02e/index.m3u8
 #EXTINF:-1,Fishing and Hunting
 http://193.106.124.204:8002/play/a05d
 http://78.130.250.2:8023/play/a032/index.m3u8
