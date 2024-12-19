@@ -1302,6 +1302,25 @@ https://cdn-nvm-chicago3.lolokoko.tv/elevensports3.stream/chunks.m3u8
 #EXTINF:-1,Eleven Sports 4 🇵🇱
 https://cdn-nvm-chicago3.lolokoko.tv/elevensports4.stream/chunks.m3u8
 
+#EXTINF:-1 group-title="-",AR ESPN 1 HD
+http://148.113.190.252:8000/play/a037
+#EXTINF:-1 group-title="-",AR ESPN 2
+http://148.113.190.252:8000/play/a034
+#EXTINF:-1 group-title="-",AR ESPN 3
+http://148.113.190.252:8000/play/a035
+#EXTINF:-1 group-title="-",AR ESPN 4
+http://148.113.190.252:8000/play/a036
+#EXTINF:-1 group-title="-",AR ESPN PREMIUM
+http://148.113.190.252:8000/play/a038
+#EXTINF:-1 group-title="-",AR FOX SPORTS 1 HD
+http://148.113.190.252:8000/play/a031
+#EXTINF:-1 group-title="-",AR FOX SPORTS 2 HD
+http://148.113.190.252:8000/play/a032
+#EXTINF:-1 group-title="-",AR FOX SPORTS 3 HD
+http://148.113.190.252:8000/play/a033
+#EXTINF:-1 group-title="-",AR TYC SPORTS
+http://148.113.190.252:8000/play/a039
+
 #EXTINF:-1,231.0.0.10:2000 Sport italia plus 🇮🇹
 http://46.232.186.35:35001/play/a01k
 #EXTINF:-1,231.0.0.3:2000 super tennis 🇮🇹
