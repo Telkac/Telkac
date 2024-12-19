@@ -1052,21 +1052,7 @@ https://cloudserve.world/live/stream_nba4.m3u8
 http://49.0.64.96:8007/NBA
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" tvg-name="" group-title="Sports Live Events" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BeinSports.webp",bein Sport 1 🇫🇷
-#EXTVLCOPT:http-referrer=https://eyespeeled.click/
-https://caeth9oon3die4.eyespeeled.click/hls/1cb913c2589988f0-8566a5819932b98ef90d309c37b6adf1da974d4349a79a8e31d14e80f76da4af/live.m3u8
-#EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" tvg-name="" group-title="Sports Live Events" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BeinSports.webp",bein Sport 1 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
-
-#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-name="" group-title="Sports Live Events"  tvg-logo="https://logo.iptveditor.com/hubpremier1.png",Hub Premier 1 🇸🇬
-http://109.61.81.147:2080/cdn2/1255/video.m3u8?token=4444
-#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="" group-title="Sports Live Events"  tvg-logo="https://logo.iptveditor.com/hubpremier2.png",Hub Premier 2 🇸🇬
-http://109.61.81.147:2080/cdn2/47/video.m3u8?token=4444
-#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-name="" group-title="Sports Live Events"  tvg-logo="https://logo.iptveditor.com/hubpremier3.png",Hub Premier 3 🇸🇬
-http://109.61.81.147:2080/cdn2/4851/video.m3u8?token=4444
-#EXTINF:-1 tvg-id="Hub.Premier.4.sg" tvg-name="" group-title="Sports Live Events"  tvg-logo="https://logo.iptveditor.com/hubpremier4.png",Hub Premier 4 🇸🇬
-http://109.61.81.147:2080/cdn2/4886/video.m3u8?token=4444
-#EXTINF:-1 tvg-id="Hub.Premier.5.sg" tvg-name="" group-title="Sports Live Events"  tvg-logo="https://logo.iptveditor.com/hubpremier5.png",Hub Premier 5 🇸🇬
-http://109.61.81.147:2080/cdn2/1053/video.m3u8?token=4444
 
 #EXTINF:-1 tvg-id="V.Sport.Vinter.se" tvg-name="" group-title="Sports Live Events" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png",V Sport Vinter 🇸🇪
 http://62.210.211.188:2095/play/a00q
@@ -1154,14 +1140,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-652875586425
 #EXTINF:-1 tvg-id="USBD4200016QR" tvg-name="" group-title="Tennis 🎾🏓🏸" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200016QR_20240520T220130SQUARE.png",Pickleball TV 🇺🇸
 https://dk9k3t9vof80w.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xb3418xn33is1/f4a57903-030c-4127-b76f-6ec52a9b1def/3.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" tvg-name="" group-title="Tennis 🎾🏓🏸" tvg-logo="https://provider-static.plex.tv/epg/cms/production/358f03ec-e12a-4e95-b444-baab53ac4cdf/pbtv_5_1920_x_1080_Horizontal_Art_with_Logo_-_Ari_Brock.jpg",PickleballTV (vᴘɴ 🇺🇸)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=KXA5op6UMSqtQFs3STc3
-
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759" tvg-name="" group-title="Tennis 🎾🏓🏸" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ba118cb3-d9ba-43b8-8020-049dd0a4e037/PickleTV_1920x1080_5_Official_PickleTV_Casey_Murawski.jpg",PickleTV 🇺🇸
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=KXA5op6UMSqtQFs3STc3
-
-#EXTINF:-1 tvg-id="65c2424eec452d0008987459" tvg-name="" group-title="Tennis 🎾🏓🏸" tvg-logo="https://images.pluto.tv/channels/65c2424eec452d0008987459/colorLogoPNG.png",PadelTime 🇺🇸
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65c2424eec452d0008987459/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:0,Diema Sport 🇷🇴
 http://raalbatros.serv00.net/Gledai.php?ID=diemasport
@@ -1202,12 +1182,8 @@ http://109.105.201.198/Arenasport2/index.m3u8?token=test
 http://109.105.201.198/ARENASPORT3/index.m3u8?token=test
 #EXTINF:-1,Arena Sport 4 RS
 http://109.105.201.198/ARENASPORT4/index.m3u8?token=test
-#EXTINF:-1,Arena Sport 4 RS
-http://109.105.201.198/ARENASPORT4/index.m3u8?token=test
 #EXTINF:-1,Max Sport 1
 http://109.105.201.198/MAXSPORT1HR/video.m3u8?token=test
-#EXTINF:-1,Max Sport 2
-http://109.105.201.198/MAXSPORT2HR/video.m3u8?token=test
 
 #EXTINF:-1,Rai Sport + HD 🇮🇹
 http://188.60.179.180:8000/play/xxRaiSportPlusHDxx
@@ -1230,40 +1206,26 @@ http://176.65.146.108:8022/play/a06j/index.m3u8
 http://176.65.146.108:8022/play/a05z/index.m3u8
 #EXTINF:-0, Sport TV 5 HD
 http://176.65.146.108:8022/play/a06f/index.m3u8
-#EXTINF:-0, Sport TV 6 HD
-http://176.65.146.108:8022/play/a06g/index.m3u8
 #EXTINF:-0, Sport TV 7
 http://176.65.146.108:8022/play/a090/index.m3u8
 #EXTINF:-0, Eurosport 1 HD
 http://176.65.146.108:8022/play/a06n/index.m3u8
 #EXTINF:-0, Eurosport 2
 http://176.65.146.108:8022/play/a063/index.m3u8
-#EXTINF:-0, Eleven 1 HD
+#EXTINF:-0, DAZN 1 HD
 http://176.65.146.108:8022/play/a06r/index.m3u8
-#EXTINF:-0, Eleven 2 HD
+#EXTINF:-0, DAZN 2 HD
 http://176.65.146.108:8022/play/a072/index.m3u8
-#EXTINF:-0, Eleven 3
-http://176.65.146.108:8022/play/a073/index.m3u8
-#EXTINF:-0, Eleven 4
-http://176.65.146.108:8022/play/a06t/index.m3u8
-#EXTINF:-0, Eleven 5
-http://176.65.146.108:8022/play/a06u/index.m3u8
-#EXTINF:-0, Eleven 6
-http://176.65.146.108:8022/play/a074/index.m3u8
 
 #EXTINF:-0, PRIMA SPORT 1 🇷🇴
 http://193.106.124.204:8002/play/a01l
-#EXTINF:-0, PRIMA SPORT 2 🇷🇴
-http://193.106.124.204:8002/play/a034
 
-#EXTINF:-1,Polsat Sport PL  🇵🇱
+#EXTINF:-1,Polsat Sport 1 PL  🇵🇱
 https://cdn-nvm-chicago3.lolokoko.tv/polsatsport.stream/chunks.m3u8
-#EXTINF:-1,Polsat Sport Extra PL  🇵🇱
+#EXTINF:-1,Polsat Sport 2 🇵🇱
 https://cdn-nvm-chicago3.lolokoko.tv/polsatsportextra.stream/chunks.m3u8
-#EXTINF:-1,Polsat Sport News PL 🇵🇱
+#EXTINF:-1,Polsat Sport 3 🇵🇱
 https://cdn-nvm-chicago3.lolokoko.tv/polsatsportnews.stream/chunks.m3u8
-#EXTINF:-1,Super Polsat PL 🇵🇱
-http://cdn-global.lolokoko.tv/SuperPolsat.stream/chunks.m3u8
 
 #EXTINF:-1, Sky Sports Premier League HD 🇩🇪
 http://930617934165812718.ofdgk1124.xyz:80/live/wa419038/ECm9xdBBgg/812718.ts
