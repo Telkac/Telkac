@@ -1321,6 +1321,23 @@ http://148.113.190.252:8000/play/a033
 #EXTINF:-1 group-title="-",AR TYC SPORTS
 http://148.113.190.252:8000/play/a039
 
+#EXTINF:-1,ESPN HD
+http://190.60.49.243:4000/play/a06v
+#EXTINF:-1,ESPN 2 HD
+http://190.60.49.243:4000/play/a06q
+#EXTINF:-1,ESPN 2 HD
+http://190.60.49.243:4000/play/a072
+#EXTINF:-1,ESPN 3 HD
+http://190.60.49.243:4000/play/a070
+#EXTINF:-1,ESPN 4HD
+http://190.60.49.243:4000/play/a0a7
+#EXTINF:-1,ESPN 5HD
+http://190.60.49.243:4000/play/a0b0
+#EXTINF:-1,ESPN 6HD
+http://190.60.49.243:4000/play/a071
+#EXTINF:-1,ESPN 7HD
+http://190.60.49.243:4000/play/a04c
+
 #EXTINF:-1,231.0.0.10:2000 Sport italia plus 🇮🇹
 http://46.232.186.35:35001/play/a01k
 #EXTINF:-1,231.0.0.3:2000 super tennis 🇮🇹
