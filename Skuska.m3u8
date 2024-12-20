@@ -679,24 +679,36 @@ http://88.212.15.20:16000/udp/232.232.70.22:5004
 #EXTINF:-1,Letisko Praha live 🇨🇿
 http://live.idnes.cz/slow/planespotting_720p/playlist.m3u8
 
-#EXTINF:0,tvg-country="SK" tvg-language="Slovak" tvg-logo="https://images.vexels.com/media/users/3/311278/isolated/preview/b5276ecd8a5a9b5427700adbcf11fb71-an-old-radio-with-speakers.png" group-title="Všeobecné",Europa 2
+#EXTINF:0,Europa 2
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=981&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=ottradio&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:0,Fun Rádio
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=973&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=ottradio&changed_at=1726643016&shaping=0&eta=1&ets=1
-#EXTINF:0,Jemné Melódie
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=969&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=ottradio&changed_at=1726643016&shaping=0&eta=1&ets=1
-#EXTINF:0,Radio Slovakia International
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=949&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=ottradio&changed_at=1726643016&shaping=0&eta=1&ets=1
-#EXTINF:0,Rádio 7
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=945&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=ottradio&changed_at=1726643016&shaping=0&eta=1&ets=1
-#EXTINF:0,Rádio Devín
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=957&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=ottradio&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:0,Rádio Expres
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=971&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=ottradio&changed_at=1726643016&shaping=0&eta=1&ets=1
+#EXTINF:0,Jemné Melódie
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=969&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=ottradio&changed_at=1726643016&shaping=0&eta=1&ets=1
+#EXTINF: -1,Radio Kosice
+http://stream.ecce.sk:8000/radiokosice-128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="vlna.png",Rádio Vlna
+http://stream.radiovlna.sk/vlna-hi.mp3
+#EXTINF: -1,Fun Rádio 80 - 90s
+http://stream.funradio.sk:8000/80-90-128.mp3
+#EXTINF: -1,Fun Radio CZ-SK
+http://stream.funradio.sk:8000/cs128.mp3
 #EXTINF:0,Rádio FM
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=959&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=ottradio&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:0,Rádio Fajn Rock Music
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=965&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=ottradio&changed_at=1726643016&shaping=0&eta=1&ets=1
+#EXTINF:0,Rádio 7
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=945&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=ottradio&changed_at=1726643016&shaping=0&eta=1&ets=1
+#EXTINF:0,Rádio Viva
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=983&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=ottradio&changed_at=1726643016&shaping=0&eta=1&ets=1
+#EXTINF: -1,Fun Radio
+http://stream.funradio.sk:8000/fun128.mp3
+#EXTINF: -1,Fun Radio Dance
+http://stream.funradio.sk:8000/dance128.mp3
+#EXTINF:0,Rádio Devín
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=957&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=ottradio&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:0,Rádio Lumen
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=967&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=ottradio&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:0,Rádio Patria
@@ -709,63 +721,21 @@ https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=961&device=2b6073bc96d5
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=943&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=ottradio&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:0,Rádio Slovensko
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=977&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=ottradio&changed_at=1726643016&shaping=0&eta=1&ets=1
-#EXTINF:0,Rádio Viva
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=983&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=ottradio&changed_at=1726643016&shaping=0&eta=1&ets=1
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://en.wikipedia.org/wiki/R%C3%A1dio_Expres#/media/File:R%C3%A1dio_Expres.svg",Radio Expres
-http://stream.expres.sk:8000/128.mp3
-#EXTINF: -1,Fun Radio (mp3)
-http://stream.funradio.sk:8000/fun128.mp3
-#EXTINF: -1,Fun Radio Dance
-http://stream.funradio.sk:8000/dance128.mp3
-#EXTINF: -1,Jemne Melodie (mp3)
-http://stream.jemne.sk/jemne-hi.mp3
-#EXTINF: -1,Radio Kosice
-http://stream.ecce.sk:8000/radiokosice-128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="vlna.png",Rádio Vlna
-http://stream.radiovlna.sk/vlna-hi.mp3
-#EXTINF: -1,Fun Rádio 80 - 90s
-http://stream.funradio.sk:8000/80-90-128.mp3
-#EXTINF: -1,Fun Radio CZ-SK
-http://stream.funradio.sk:8000/cs128.mp3
-#EXTINF: -1,Fun rádio TOP20
-http://stream.funradio.sk:8000/top20128.mp3
+#EXTINF:0,Radio Slovakia International
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=949&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=ottradio&changed_at=1726643016&shaping=0&eta=1&ets=1
 
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="slovensko.png",Radio Slovensko
 http://live.slovakradio.sk:8000/Slovensko_128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="europa2.png",Europa 2
-http://pool.cdn.lagardere.cz/fm-europa2sk-128
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="europa2-dance-exxtravaganza.png",Europa2 Dance Exxtravaganza
-http://pool.cdn.lagardere.cz/web-e2sk-dexx
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="europa2-movin.png",Europa2 Movin
-http://ice-01.lagardere.cz/web-e2-movin
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun.png",Fun Radio
 http://stream.funradio.sk:8000/fun128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-cz-sk.png",Fun radio Cs
 http://stream.funradio.sk:8000/cs128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-running.png",Fun Radio Running
-http://stream.funradio.sk:8000/running128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-rock.png",Fun Radio Rock
-http://stream.funradio.sk:8000/rock128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-top-20.png",Fun Radio Top20
-http://stream.funradio.sk:8000/top20128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-love-songs.png",Fun Radio Love Songs
-http://stream.funradio.sk:8000/slow128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-pre-deti.png",Fun Radio Pre Deti
-http://stream.funradio.sk:8000/children128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-novinky.png",Fun Radio Novinky
-http://stream.funradio.sk:8000/new128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-80-90-roky.png",Fun Radio 80.90.Roky
 http://stream.funradio.sk:8000/80-90-128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-dance.png",Fun Radio Dance
 http://stream.funradio.sk:8000/dance128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="one.png",Radio One
-http://217.75.92.14:8000/nr160kb
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fm.png",Radio FM
 http://live.slovakradio.sk:8000/FM_128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="kosice.png",Radio Kosice
-http://194.145.206.131:8000/radiokosice-64.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="kiss.png",Radio Kiss
-http://stream.radiokiss.sk:8000/kissmp3_128.mp3
 
 #EXTINF:-1,TNT Sport 2 HD UK
 http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:d1:db:c9&stream=38365&extension=ts&play_token=0aet6jLTG5
