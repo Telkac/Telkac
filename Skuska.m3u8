@@ -643,6 +643,10 @@ https://n16.stv.livebox.sk/stv-tv/3e712cdc67c8dfc0adcb49c9ec94c241/SK-stv7.smil/
 https://n14.stv.livebox.sk/stv-tv/240019421a965282a53c59d8fba85239/SK-stv6.smil/chunklist_b5251072.m3u8
 #EXTINF:-1 , Rtvs plus 2
 https://n14.stv.livebox.sk/stv-tv/12b1c931ed7dfe0073b631285cee64ee/SK-stv5.smil/chunklist_b5251072.m3u8
+#EXTINF:0,HOBBY TV SD 🇸🇰
+http://348110998266968511.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/968511.ts
+#EXTINF:0,FISHING & HUNTING TV HD 🇸🇰
+http://348110998266965135.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/965135.ts
 
 #EXTINF:-1 tvg-language="Slovak" tvg-logo="https://img.lovepik.com/png/20231014/Live-online-camera-diffusion-button-play-live-broadcast-play-volume_204572_wh300.png",Tatry HD 🇸🇰
 http://88.212.15.20:16000/udp/232.232.70.2:5004
@@ -1270,16 +1274,11 @@ http://190.60.49.243:4000/play/a071
 #EXTINF:-1,ESPN 7HD
 http://190.60.49.243:4000/play/a04c
 
-#EXTINF:-1,231.0.0.10:2000 Sport italia plus 🇮🇹
+#EXTINF:-1,Sport italia plus 🇮🇹
 http://46.232.186.35:35001/play/a01k
-#EXTINF:-1,231.0.0.3:2000 super tennis 🇮🇹
+#EXTINF:-1,Super tennis 🇮🇹
 http://46.232.186.35:35001/play/a01o
 
-
-#EXTINF:0,HOBBY TV SD 🇸🇰
-http://348110998266968511.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/968511.ts
-#EXTINF:0,FISHING & HUNTING TV HD 🇸🇰
-http://348110998266965135.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/965135.ts
 #EXTINF:-1,NBC  🇺🇸
 http://181.114.57.246:4000/play/ZAtkbM9v9JDDCwCh/index.m3u8
 #EXTINF:-1,CBS 🇺🇸
