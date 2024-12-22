@@ -32,8 +32,8 @@ https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=609&device=2b6073bc96d5
 http://194.160.135.34:8088/udp/233.10.47.6:1234
 
 #EXTINF:-1 tvg-name="TA3" tvg-logo="https://i.imgur.com/kPFBxc9.png" tvg-id="TA3.sk" group-title="Všeobecné",TA3
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=773&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 http://149.100.19.130:8001/play/a00s/index.m3u8
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=773&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 https://get-a-flippin-ta3-url-dss6dgprdpjf.runkit.sh/
 http://88.212.15.27/live/test_ta3_25p/playlist.m3u8
 https://n14.stv.livebox.sk/ta3/1.smil/playlist.m3u8?auth=_any_|1735592267|230bba48f89197990de98678eeccc39af51029e7
@@ -45,6 +45,7 @@ http://88.212.15.27/live/test_trojka_25p/playlist.m3u8
 http://194.160.135.34:8088/udp/233.10.47.1:1234
 #EXTINF:-1 tvg-id="CT24" tvg-url="ct24.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/pUMRFs1.png" group-title="Všeobecné",CT 24 HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=865&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13,profile14&changed_at=1726643016&shaping=0&eta=1&ets=1
+http://149.100.19.130:8001/play/a005/index.m3u8
 http://88.212.15.27/live/test_ct24_hevc/playlist.m3u8
 http://194.160.135.34:8088/udp/233.10.47.118:1234
 #EXTINF:-1 tvg-id="CNNPrimaNews" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/cnnprimanews.png" group-title="Všeobecné",CNN Prima News HD
@@ -53,9 +54,11 @@ http://88.212.15.27/live/test_cnn_pirma_news/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CT1" tvg-url="ct1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/qBlEbN3.png" group-title="Všeobecné",CT 1 HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=643&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13,profile14&changed_at=1726643016&shaping=0&eta=1&ets=1
+http://149.100.19.130:8001/play/a003/index.m3u8
 http://88.212.15.27/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CT2" tvg-url="ct2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/HpnGC6A.png" group-title="Všeobecné",CT 2 HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=621&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13,profile14&changed_at=1726643016&shaping=0&eta=1&ets=1
+http://149.100.19.130:8001/play/a004/index.m3u8
 http://88.212.15.27/live/test_ct2_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="NovaTV" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nova.png" group-title="Všeobecné",Nova HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=406&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
@@ -160,6 +163,7 @@ https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=406&device=2b6073bc96d5
 http://194.160.135.34:8088/udp/233.10.47.61:1234
 #EXTINF:0,Prima SK HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=789&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
+http://149.100.19.130:8001/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="PRIMAPLUS(src01).sk" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/S7F2BnY/image.png" group-title="Všeobecné",Prima SK HD
 http://194.160.135.34:8088/udp/233.10.47.81:1234
 #EXTINF:-1 tvg-id="Prima Cool SK" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://staticeu.sweet.tv/images/icons/channels/v2/863-prima-cool-hd.png" group-title="Všeobecné",Prima Cool HD
@@ -169,6 +173,7 @@ http://88.212.15.27/live/test_joj_family_hevc_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JOJSvet(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1602-joj-svet-hd.png" group-title="Dokumentárné",JOJ Svet HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2364&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
+http://149.100.19.130:8001/play/a00f/index.m3u8
 http://88.212.15.27/live/test_joj_svet/playlist.m3u8
 #EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="Discovery" tvg-logo="http://46.36.40.22/1023/discovery.png" group-title="Dokumentárne",Discovery HD
 http://88.212.15.27/live/test_discovery_hd_hevc/playlist.m3u8
@@ -220,6 +225,7 @@ https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2054&device=2b6073bc96d
 https://dash2.antik.sk/live/rik_atk/index.m3u8
 #EXTINF:-1 tvg-id="CTDCTart(src01).cz" tvg-url="decko.cz" tvg-url="ctart.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ctdart.png" group-title="Detské",ČT :D/art HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=675&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13,profile14&changed_at=1726643016&shaping=0&eta=1&ets=1
+http://149.100.19.130:8001/play/a007/index.m3u8
 http://194.160.135.34:8088/udp/233.10.47.119:1234
 #EXTINF:-1 tvg-id="JimJam(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1770-jimjam.png" group-title="Detské",JimJam
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=266&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile21,profile22&changed_at=1726643016&shaping=0&eta=1&ets=1
@@ -352,6 +358,7 @@ https://n17.stv.livebox.sk/stv-tv/942aaaaf3f61ab780cf8b12527e9d164/SK-stv4.smil/
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2164&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profil
 http://88.212.15.27/live/test_joj_sport_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="CTsport(src01).cz" tvg-url="ctsport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/I2dltZW.png" group-title="Sportovní / Sport",CT sport HD
+http://149.100.19.130:8001/play/a006/index.m3u8
 http://88.212.15.27/live/test_ctsport_25p/playlist.m3u8
 http://348110998266968494.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/968499.ts
 #EXTINF:-1 tvg-id="Sport1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/sport1.png" group-title="Sportovní / Sport",Sport 1 HD
