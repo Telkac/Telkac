@@ -33,6 +33,7 @@ http://194.160.135.34:8088/udp/233.10.47.6:1234
 
 #EXTINF:-1 tvg-name="TA3" tvg-logo="https://i.imgur.com/kPFBxc9.png" tvg-id="TA3.sk" group-title="Všeobecné",TA3
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=773&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
+http://149.100.19.130:8001/play/a00s/index.m3u8
 https://get-a-flippin-ta3-url-dss6dgprdpjf.runkit.sh/
 http://88.212.15.27/live/test_ta3_25p/playlist.m3u8
 https://n14.stv.livebox.sk/ta3/1.smil/playlist.m3u8?auth=_any_|1735592267|230bba48f89197990de98678eeccc39af51029e7
@@ -1273,6 +1274,257 @@ http://190.60.49.243:4000/play/a0b0
 http://190.60.49.243:4000/play/a071
 #EXTINF:-1,ESPN 7HD
 http://190.60.49.243:4000/play/a04c
+
+#EXTINF:-1 ,Eleven Sports 1
+http://109.233.89.166/Eleven_Sports_1_HD/mono.m3u8
+#EXTINF:-1 ,Eleven Sports 2
+http://109.233.89.166/Eleven_Sports_2_HD/mono.m3u8
+#EXTINF:-1 ,Eleven Sports 3
+http://109.233.89.166/Eleven_Sports_3_HD/mono.m3u8
+#EXTINF:-1 ,Eleven Sports 4
+http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
+#EXTINF:-1 ,Super Polsat
+http://109.233.89.166/Super_Polsat_HD/mono.m3u8
+#EXTINF:-1 ,Eurosport 1
+http://109.233.89.166/Eurosport_1_HD/mono.m3u8
+#EXTINF:-1 ,Eurosport 2
+http://109.233.89.166/Eurosport_2_HD/mono.m3u8
+
+#EXTINF:-1,CANAL+ SPORT 2 HD
+http://185.236.229.62:9981/play/a05t
+#EXTINF:-1,CANAL+ SPORT 3 HD
+http://185.236.229.62:9981/play/a05e
+#EXTINF:-1,CANAL+ SPORT 3 HD
+http://185.236.229.62:9981/play/a05n
+#EXTINF:-1,CANAL+ SPORT 3 HD
+http://185.236.229.62:9981/play/a05q
+#EXTINF:-1,CANAL+ SPORT 4 HD
+http://185.236.229.62:9981/play/a05f
+#EXTINF:-1,CANAL+ SPORT 4 HD
+http://185.236.229.62:9981/play/a05o
+#EXTINF:-1,CANAL+ SPORT 4 HD
+http://185.236.229.62:9981/play/a05r
+#EXTINF:-1,CANAL+ SPORT 5 HD
+http://185.236.229.62:9981/play/a05h
+#EXTINF:-1,CANAL+ SPORT HD
+http://185.236.229.62:9981/play/a04c
+#EXTINF:-1,Eleven Sports 1 4K
+http://185.236.229.62:9981/play/a03t
+#EXTINF:-1,Eleven Sports 1 HD
+http://185.236.229.62:9981/play/a05w
+#EXTINF:-1,Eleven Sports 2 HD
+http://185.236.229.62:9981/play/a05y
+#EXTINF:-1,Eleven Sports 3 HD
+http://185.236.229.62:9981/play/a061
+#EXTINF:-1,Polsat Sport Extra HD
+http://185.236.229.62:9981/play/a07q
+#EXTINF:-1,Polsat Sport Fight HD
+http://185.236.229.62:9981/play/a06l
+#EXTINF:-1,Polsat Sport HD
+http://185.236.229.62:9981/play/a07n
+#EXTINF:-1,Polsat Sport News HD
+http://185.236.229.62:9981/play/a06m
+#EXTINF:-1,Polsat Sport Premium 1
+http://185.236.229.62:9981/play/a03r
+#EXTINF:-1,Polsat Sport Premium 2
+http://185.236.229.62:9981/play/a03s
+#EXTINF:-1,Polsat Sport Premium PPV3
+http://185.236.229.62:9981/play/a03p
+#EXTINF:-1,Polsat Sport Premium PPV4
+http://185.236.229.62:9981/play/a03q
+#EXTINF:-1,Polsat Sport Premium PPV5
+http://185.236.229.62:9981/play/a07x
+#EXTINF:-1,Polsat Sport Premium PPV6
+http://185.236.229.62:9981/play/a07y
+#EXTINF:-1,TVP Sport HD
+http://185.236.229.62:9981/play/a05l
+#EXTINF:-1,TVP Sport HD
+http://185.236.229.62:9981/play/a05c
+#EXTINF:-1,Sportklub HD
+http://185.236.229.62:9981/play/a02k
+#EXTINF:-1,Super Polsat HD
+http://185.236.229.62:9981/play/a043
+
+#EXTINF:-1 group-title="Спорт" tvg-shift="0" tvg-id="hlsproxy-72" tvg-logo="http://158.101.214.187:8080/logos/eurosport-hd.png",Eurosport 1 HD
+http://158.101.214.187:8080/channel/fcd5c65/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт" tvg-shift="0" tvg-id="hlsproxy-73" tvg-logo="http://158.101.214.187:8080/logos/eurosport-2-hd.png",Eurosport 2 HD
+http://158.101.214.187:8080/channel/2575d3d2/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://media3.giphy.com/media/DMfKPm7sGVgQdV8pUJ/giphy.gif" tvg-shift="0" tvg-id="hlsproxy-50251",Fast Sports
+http://158.101.214.187:8080/channel/4b8c231b/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://media0.giphy.com/media/r1e2H7KQMssP7zK8yr/giphy.gif" tvg-shift="0" tvg-id="hlsproxy-50251",Fast Sports+
+http://158.101.214.187:8080/channel/58791013/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт" tvg-id="hlsproxy-53252" tvg-logo="https://bcumedia.pro/storage/images/channels/37c26bf7c9d3b3f783bf0fb42a3fafff.png?d=1681584313" tvg-shift="0",Qsport League HD
+http://158.101.214.187:8080/channel/n51cb0bbc/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт" tvg-shift="0" tvg-id="hlsproxy-100047" tvg-logo="http://158.101.214.187:8080/logos/setanta-sports-1-hd.png",Setanta Sports 1 HD
+http://158.101.214.187:8080/channel/n49b9025/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:0 group-title="Спорт" tvg-shift="0" tvg-id="hlsproxy-100047" tvg-logo="http://158.101.214.187:8080/logos/setanta-sports-1-hd.png",Setanta Sports 1 HD Georgia
+http://158.101.214.187:8080/channel/n504ecebd/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт" tvg-shift="0" tvg-id="hlsproxy-413" tvg-logo="http://158.101.214.187:8080/logos/setanta-sports-2-hd.png",Setanta Sports 2 HD
+http://158.101.214.187:8080/channel/n49b1bc6/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:0 group-title="Спорт" tvg-shift="0" tvg-id="hlsproxy-413" tvg-logo="http://158.101.214.187:8080/logos/setanta-sports-2-hd.png",Setanta Sports 2 HD Georgia
+http://158.101.214.187:8080/channel/n489d295e/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:0 group-title="Спорт" tvg-shift="0" tvg-id="hlsproxy-413" tvg-logo="http://158.101.214.187:8080/logos/setanta-sports-1.png",Setanta Sports Moldova HD
+http://158.101.214.187:8080/channel/10c75807/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:0 group-title="Спорт" tvg-shift="0" tvg-id="hlsproxy-55422" tvg-logo="http://158.101.214.187:8080/logos/setanta-sports-ukraine.png",Setanta Sports UA HD
+http://158.101.214.187:8080/channel/55bea1f0/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:0 group-title="Спорт" tvg-shift="0" tvg-id="hlsproxy-52600" tvg-logo="http://158.101.214.187:8080/logos/setanta-sports-plus-hd.png",Setanta Sports+ UA HD
+http://158.101.214.187:8080/channel/4eb18fdb/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:0 group-title="Спорт" tvg-shift="0" tvg-id="hlsproxy-53584" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt_1.png",Sport TV 1 HD
+http://158.101.214.187:8080/channel/1dbe3c0d/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+http://158.101.214.187:8080/channel/1dbe3c0d/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:0 group-title="Спорт" tvg-shift="0" tvg-id="hlsproxy-53585" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt_2.png",Sport TV 2 HD
+http://158.101.214.187:8080/channel/1dbeb06c/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:0 group-title="Спорт" tvg-shift="0" tvg-id="hlsproxy-53586" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt_3.png",Sport TV 3 HD
+http://158.101.214.187:8080/channel/1dbf24cb/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт" tvg-shift="0" tvg-id="hlsproxy-856" tvg-logo="http://158.101.214.187:8080/logos/ufc-tv.png",UFC
+http://158.101.214.187:8080/channel/n557bad17/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт" tvg-shift="0",Viju+ Sport HD
+http://158.101.214.187:8080/channel/6b427abd/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт" tvg-shift="0" tvg-id="hlsproxy-221" tvg-logo="http://158.101.214.187:8080/logos/belarus5.png",Беларусь 5 HD
+http://158.101.214.187:8080/channel/6b213609/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт" tvg-shift="0" tvg-id="hlsproxy-53780" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/kk/ktrk-sport-kg.png",КТРК Спорт
+http://158.101.214.187:8080/channel/50a59b5a/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://87.99.87.203:2020/logos/match-tv-hd.png" tvg-shift="0" tvg-id="hlsproxy-392",Матч! HD
+http://158.101.214.187:8080/channel/n6b5a2a29/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт" tvg-shift="0" tvg-id="hlsproxy-420" tvg-logo="http://158.101.214.187:8080/logos/match-arena-hd.png",Матч! Арена HD
+http://158.101.214.187:8080/channel/273e4ecc/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт" tvg-shift="0" tvg-id="hlsproxy-222" tvg-logo="http://158.101.214.187:8080/logos/match-boec.png",Матч! Боец
+http://158.101.214.187:8080/channel/1b3793be/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://87.99.87.203:2020/logos/match-igra-hd.png" tvg-shift="0" tvg-id="hlsproxy-94",Матч! Игра HD
+http://158.101.214.187:8080/channel/1386ecf6/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://87.99.87.203:2020/logos/match-igra-hd.png" tvg-shift="0" tvg-id="hlsproxy-94",Матч! Игра HD
+http://158.101.214.187:8080/channel/1386ecf6/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://87.99.87.203:2020/logos/match-premier-hd.png" tvg-shift="0" tvg-id="hlsproxy-328",Матч! Премьер HD
+http://158.101.214.187:8080/channel/n4cae1154/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://87.99.87.203:2020/logos/match-strana.png" tvg-shift="0" tvg-id="hlsproxy-335",Матч! Страна HD
+http://158.101.214.187:8080/channel/n43dc7836/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт" tvg-name="match-tv" tvg-logo="http://87.99.87.203/logo/multra4k.png" tvg-shift="0",Матч! Ультра 4К
+http://158.101.214.187:8080/channel/5235fe46/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:0 tvg-name="Матч! Футбол 1 HD" group-title="Спорт" tvg-shift="0" tvg-id="hlsproxy-337" tvg-logo="http://158.101.214.187:8080/logos/match-futbol-1-hd.png",Матч! Футбол 1 HD
+http://158.101.214.187:8080/channel/n28b5bb08/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:0 tvg-name="Матч! Футбол 2 HD" group-title="Спорт" tvg-shift="0" tvg-id="hlsproxy-339" tvg-logo="http://158.101.214.187:8080/logos/match-futbol-2-hd.png",Матч! Футбол 2 HD
+http://158.101.214.187:8080/channel/42ac5ee4/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:0 tvg-name="Матч! Футбол 3 HD" group-title="Спорт" tvg-shift="0" tvg-id="hlsproxy-512" tvg-logo="http://158.101.214.187:8080/logos/match-futbol-3-hd.png",Матч! Футбол 3 HD
+http://158.101.214.187:8080/channel/42acd343/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт MLS 2023" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/220px-MLS_crest_logo_RGB_gradient.svg.png" tvg-shift="0",Подборка моментов
+http://158.101.214.187:8080/channel/29fc6796/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-20146" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/cc/cbs-sports-network-us.png",CBS Sports Network
+http://158.101.214.187:8080/channel/n396c33dd/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0",Canal+ Extra 1 HD
+http://158.101.194.132:8888/channel/n3de73a76/index.m3u8?q=420488dd3024c08621ccfb88973b288f
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0",Canal+ Extra 2 HD
+http://158.101.194.132:8888/channel/n3de6c617/index.m3u8?q=420488dd3024c08621ccfb88973b288f
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0",Canal+ Extra 3 HD
+http://158.101.194.132:8888/channel/n3de651b8/index.m3u8?q=420488dd3024c08621ccfb88973b288f
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0",Canal+ Extra 4 HD
+http://158.101.194.132:8888/channel/n3de5dd59/index.m3u8?q=420488dd3024c08621ccfb88973b288f
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-51127" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_sport_2.png",Canal+ Sport 2 HD
+http://158.101.194.132:8888/channel/n6affdafb/index.m3u8?q=420488dd3024c08621ccfb88973b288f
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-51128" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_sport_3.png",Canal+ Sport 3 HD
+http://158.101.194.132:8888/channel/n6aff669c/index.m3u8?q=420488dd3024c08621ccfb88973b288f
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-51129" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_sport_4.png",Canal+ Sport 4 HD
+http://158.101.194.132:8888/channel/n6afef23d/index.m3u8?q=420488dd3024c08621ccfb88973b288f
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-3047" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_sport.png",Canal+ Sport 5 HD
+http://158.101.194.132:8888/channel/n6afe7dde/index.m3u8?q=420488dd3024c08621ccfb88973b288f
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-3047" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_sport.png",Canal+ Sport HD
+http://158.101.194.132:8888/channel/n2c672e9/index.m3u8?q=420488dd3024c08621ccfb88973b288f
+#EXTINF:0 tvg-id="hlsproxy-55084" tvg-name="DAZN 1 HD" group-title="Спорт+" tvg-shift="0" tvg-logo="http://158.101.214.187:8080/logos/dazn-1.png",DAZN 1 HD
+http://158.101.214.187:8080/channel/f7bbfd7/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:0 tvg-id="hlsproxy-55087" tvg-name="DAZN 2 HD" group-title="Спорт+" tvg-shift="0" tvg-logo="http://158.101.214.187:8080/logos/dazn-2.png",DAZN 2 HD
+http://158.101.214.187:8080/channel/f7c3436/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-51667" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ee/espn_2.png",ESPN 2
+http://158.101.214.187:8080/channel/5aa75f08/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-20269" tvg-logo="https://dl.dropboxusercontent.com/s/hyyw8ws9enxwi4m/accn.png",ESPN ACCN
+http://158.101.214.187:8080/channel/7b33b977/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-100590" tvg-logo="http://158.101.214.187:8080/logos/espn-hd.png",ESPN HD
+http://158.101.214.187:8080/channel/n5bb7b1a/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-100590" tvg-logo="http://158.101.214.187:8080/logos/espn-hd.png",ESPN HD
+http://158.101.214.187:8080/channel/n5bb7b1a/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-51670" tvg-logo="http://158.101.214.187:8080/logos/espn.png",ESPN Network
+http://158.101.214.187:8080/channel/14b85864/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-20278" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ee/espn_u.png",ESPN U
+http://158.101.214.187:8080/channel/5aa75f2b/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0",ESPN Wino Sports HD
+http://158.101.214.187:8080/channel/n1966f9a6/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-51667" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ee/espn_2.png",ESPN2 HD
+http://158.101.214.187:8080/channel/4e53b120/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-51678" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ee/espn_3_lam_norte.png",ESPN3 HD
+http://158.101.214.187:8080/channel/4e54257f/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-51131" tvg-logo="http://158.101.214.187:8080/logos/eleven-sports-1-4k.png",Eleven Sports 1 4K
+http://158.101.194.132:8888/channel/48399bc9/index.m3u8?q=420488dd3024c08621ccfb88973b288f
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-54921" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-network-uk.png",Eleven Sports 1 HD
+http://158.101.194.132:8888/channel/48399e2e/index.m3u8?q=420488dd3024c08621ccfb88973b288f
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-51132" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports2-polska-uk-pl.png",Eleven Sports 2 HD
+http://158.101.194.132:8888/channel/483a128d/index.m3u8?q=420488dd3024c08621ccfb88973b288f
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-51133" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports3-polska-uk-pl.png",Eleven Sports 3 HD
+http://158.101.194.132:8888/channel/483a86ec/index.m3u8?q=420488dd3024c08621ccfb88973b288f
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-55113" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports4-polska-uk-pl.png",Eleven Sports 4 HD
+http://158.101.194.132:8888/channel/483afb4b/index.m3u8?q=420488dd3024c08621ccfb88973b288f
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-52073" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_global.png",FOX Sports
+http://158.101.214.187:8080/channel/n5a27e606/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-20360" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-2-nederland-us-nl.png",FOX Sports 2
+http://158.101.214.187:8080/channel/n6fc67874/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-52066" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_3_lam_hd.png",FOX Sports 3 HD
+http://158.101.214.187:8080/channel/n693a4d91/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-52093" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_1.png",FS1
+http://158.101.214.187:8080/channel/n52564186/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-52095" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_2.png",FS2 HD
+http://158.101.214.187:8080/channel/5c4decc1/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-51473" tvg-logo="http://158.101.214.187:8080/logos/fight-network.png",Fight Network
+http://158.101.214.187:8080/channel/6bab27d4/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-20422" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/gg/gol_tv.png",GOLTV HD
+http://158.101.214.187:8080/channel/440ea5c0/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-20565" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/mm/mlb_network.png",MLB Network HD
+http://158.101.214.187:8080/channel/349a6d5/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-20638" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/nn/nba_tv_us.png",NBA TV HD
+http://158.101.214.187:8080/channel/66910f7d/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-20424" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/gg/golf_channel_us.png",NBC Golf HD
+http://158.101.214.187:8080/channel/n51b7b941/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-20644" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/nn/nbc_us.png",NBC Sport
+http://158.101.214.187:8080/channel/n2fa39207/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-50551" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/nn/nfl_network_us.png",NFL NETWORK
+http://158.101.214.187:8080/channel/n20e24d08/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-54704" tvg-logo="http://158.101.214.187:8080/logos/polsat-sport-premium-1.png",Polsat Sport 1 HD
+http://158.101.194.132:8888/channel/2382521d/index.m3u8?q=420488dd3024c08621ccfb88973b288f
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-54705" tvg-logo="http://158.101.214.187:8080/logos/polsat-sport-premium-2.png",Polsat Sport 2 HD
+http://158.101.194.132:8888/channel/2382c67c/index.m3u8?q=420488dd3024c08621ccfb88973b288f
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-5099" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/pp/polsat_sport.png",Polsat Sport 3 HD
+http://158.101.194.132:8888/channel/23833adb/index.m3u8?q=420488dd3024c08621ccfb88973b288f
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-54704" tvg-logo="http://158.101.214.187:8080/logos/polsat-sport-premium-1.png",Polsat Sport Premium 1 HD
+http://158.101.194.132:8888/channel/n37b4cb9a/index.m3u8?q=420488dd3024c08621ccfb88973b288f
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-54705" tvg-logo="http://158.101.214.187:8080/logos/polsat-sport-premium-2.png",Polsat Sport Premium 2 HD
+http://158.101.194.132:8888/channel/n37b4573b/index.m3u8?q=420488dd3024c08621ccfb88973b288f
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-1704" tvg-logo="http://158.101.214.187:8080/logos/polsat-sport-premium-3.png",Polsat Sport Premium 3(Event Only)
+http://158.101.194.132:8888/channel/3cb7c87/index.m3u8?q=420488dd3024c08621ccfb88973b288f
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-1704" tvg-logo="http://158.101.214.187:8080/logos/polsat-sport-premium-3.png",Polsat Sport Premium 4(Event Only)
+http://158.101.194.132:8888/channel/ndb17cf8/index.m3u8?q=420488dd3024c08621ccfb88973b288f
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0",Polsat Sport Premium PPV 5(Event Only)
+http://158.101.194.132:8888/channel/313efabf/index.m3u8?q=420488dd3024c08621ccfb88973b288f
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0",Polsat Sport Premium PPV 6(Event Only)
+http://158.101.194.132:8888/channel/1fc20140/index.m3u8?q=420488dd3024c08621ccfb88973b288f
+#EXTINF:0 tvg-name="SKY SPORT AUSTRIA (DE)" group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-2214" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_de_sport_austria.png",SKY SPORT AUSTRIA
+http://158.101.214.187:8080/channel/2ad61ec7/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:0 tvg-name="SKY SPORT TENNIS (DE)" group-title="Спорт+" tvg-shift="0",SKY SPORT TENNIS
+http://158.101.214.187:8080/channel/n422ec8f7/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:0 tvg-name="SKY SPORT TOP EVENT (DE)" group-title="Спорт+" tvg-shift="0",SKY SPORT TOP EVENT
+http://158.101.214.187:8080/channel/6776d6e1/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-51070" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sportsnet_east.png",SPORTSNET LA HD
+http://158.101.214.187:8080/channel/n77ec9905/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:0 tvg-name="Sky Sport F1 DE HD" group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-2213" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_it_sport_f1_hd.png",Sky Sport F1 HD
+http://158.101.214.187:8080/channel/66618a3/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-52536" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports_box_office.png",Sky Sports Box Office
+http://87.99.87.203:2007/channel/n7a73e1c0/index.m3u8?q=88c76c60a23785bf0ffdb34dbb1b6122
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-50262" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sport_klub_rs_hd.png",Sport Klub HD
+http://158.101.194.132:8888/channel/34db16e1/index.m3u8?q=420488dd3024c08621ccfb88973b288f
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-1077" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us-ar.png",TNT Sports Ultimate
+http://87.99.87.203:2007/channel/f5c2599/index.m3u8?q=88c76c60a23785bf0ffdb34dbb1b6122
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-5140" tvg-logo="https://dl.dropboxusercontent.com/s/rv9c7feq6rw58q6/tvpsporthd.jpg",TVP Sport HD
+http://158.101.194.132:8888/channel/n746249e5/index.m3u8?q=420488dd3024c08621ccfb88973b288f
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0" tvg-id="hlsproxy-52583" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/cc/channel_v_in.png",V SPORT UHD
+http://87.99.87.203:2007/channel/6cdc97c8/index.m3u8?q=88c76c60a23785bf0ffdb34dbb1b6122
+#EXTINF:-1 group-title="Спорт+" tvg-shift="0",Постоянный теннис
+http://158.101.214.187:8080/channel/439beaf3/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
+
 
 #EXTINF:-1,Sport italia plus 🇮🇹
 http://46.232.186.35:35001/play/a01k
