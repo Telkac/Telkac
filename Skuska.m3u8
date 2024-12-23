@@ -1532,8 +1532,25 @@ http://87.99.87.203:2007/channel/6cdc97c8/index.m3u8?q=88c76c60a23785bf0ffdb34db
 #EXTINF:-1 group-title="Спорт+" tvg-shift="0",Постоянный теннис
 http://158.101.214.187:8080/channel/439beaf3/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
 
-#EXTINF:-1,Digi Sport 1(UHD) skuska 🇷🇴 
+#EXTINF:-1,Digi Sport 1(4K)skuska 🇷🇴 
 http://tvproeuropa1.com:80/HERINEAN_DANUT/jgAXWkudKn/62775
+#EXTINF:-1,Digi Sport 2(4K)skuska 🇷🇴
+http://tvproeuropa1.com:80/HERINEAN_DANUT/jgAXWkudKn/116132
+#EXTINF:-1,Digi Sport 3(4K)skuska 🇷🇴
+http://tvproeuropa1.com:80/HERINEAN_DANUT/jgAXWkudKn/185269
+#EXTINF:-1,Digi Sport 4(4K)skuska 🇷🇴
+http://tvproeuropa1.com:80/HERINEAN_DANUT/jgAXWkudKn/185268
+#EXTINF:-1,Prima Sport 1 (FHD)skuska 🇷🇴
+http://tvproeuropa1.com:80/HERINEAN_DANUT/jgAXWkudKn/277319
+#EXTINF:-1,Prima Sport 2 (FHD)skuska 🇷🇴
+http://tvproeuropa1.com:80/HERINEAN_DANUT/jgAXWkudKn/277320
+#EXTINF:-1,Prima Sport 3 (FHD)skuska 🇷🇴
+http://tvproeuropa1.com:80/HERINEAN_DANUT/jgAXWkudKn/277321
+#EXTINF:-1,Prima Sport 4 (FHD)skuska 🇷🇴
+http://tvproeuropa1.com:80/HERINEAN_DANUT/jgAXWkudKn/277322
+#EXTINF:-1,Prima Sport 5 (FHD)skuska 🇷🇴
+http://tvproeuropa1.com:80/HERINEAN_DANUT/jgAXWkudKn/277323
+#EXTINF:-1,Eurosport (4K)skuska 🇷🇴
 
 #EXTINF:-1,Sport italia plus 🇮🇹
 http://46.232.186.35:35001/play/a01k
