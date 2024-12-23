@@ -1532,6 +1532,8 @@ http://87.99.87.203:2007/channel/6cdc97c8/index.m3u8?q=88c76c60a23785bf0ffdb34db
 #EXTINF:-1 group-title="Спорт+" tvg-shift="0",Постоянный теннис
 http://158.101.214.187:8080/channel/439beaf3/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27
 
+#EXTINF:-1,Digi Sport 1(UHD) skuska 🇷🇴 
+http://tvproeuropa1.com:80/HERINEAN_DANUT/jgAXWkudKn/62775
 
 #EXTINF:-1,Sport italia plus 🇮🇹
 http://46.232.186.35:35001/play/a01k
