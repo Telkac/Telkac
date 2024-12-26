@@ -1553,6 +1553,166 @@ http://tvproeuropa1.com:80/HERINEAN_DANUT/jgAXWkudKn/277323
 #EXTINF:-1,Eurosport (4K)skuska 🇷🇴
 http://tvproeuropa1.com:80/HERINEAN_DANUT/jgAXWkudKn/268948
 
+#EXTINF:-1 group-title="-" tvg-id="4d4690810c7d211eeca85982d7c2df78",Sky Sports F1
+http://92.114.85.72:8000/play/a0ie
+#EXTINF:-1 group-title="-" tvg-id="a0cf957335b790f419e905da70457360",Sky Sports Football
+http://92.114.85.72:8000/play/a0id
+#EXTINF:-1 group-title="-" tvg-id="871e6135c3cb6f00fa2b2c0175816868",Sky Sports Golf
+http://92.114.85.72:8000/play/a0ig
+#EXTINF:-1 group-title="-" tvg-id="75dcd0c7190750a4c6dada61a6389c5a",Sky Sports Main Event
+http://92.114.85.72:8000/play/a0j0
+#EXTINF:-1 group-title="-" tvg-id="26957ece8cceeb5d0be5e26ec0085ccd",Sky Sports Mix
+http://92.114.85.72:8000/play/a0il
+#EXTINF:-1 group-title="-" tvg-id="ed89240dcee5356b30360d0aabf6b5f2",Sky Sports NFL
+http://92.114.85.72:8000/play/a0ir
+#EXTINF:-1 group-title="-" tvg-id="1c69b8e15e13714678b3eba3dcb0a932",Sky Sports News
+http://92.114.85.72:8000/play/a0ip
+#EXTINF:-1 group-title="-" tvg-id="0fd8d60e76b19aa1fe8d9280135b4b10",Sky Sports Premier League
+http://92.114.85.72:8000/play/a0iu
+#EXTINF:-1 group-title="-" tvg-id="fd4c90e3cef8de664956149c8944fd7a",Sky Sports Tennis
+http://92.114.85.72:8000/play/a0ix
+#EXTINF:-1 group-title="-" tvg-id="7d52b69f06ef5406b4fe7de8407059c2",Sky Sports+
+http://92.114.85.72:8000/play/a0iz
+#EXTINF:-1 group-title="-" tvg-id="a7bc6848c617deba8a8d1e2a536d4a42",Sky Witness
+http://92.114.85.72:8000/play/a0i3
+#EXTINF:-1 group-title="-" tvg-id="fe9036ccd74dacf69259554cd3e61d51",Sky Witness +1
+http://92.114.85.72:8000/play/a0i4
+#EXTINF:-1 group-title="-",SkySp Racing
+http://92.114.85.72:8000/play/a08r
+
+#EXTINF:-1 tvg-id="d8a3549beee80a1d8bde4a0908d02dea" tvg-chno="50",CANAL+ SPORT HD
+http://83.4.86.167:9981/stream/channelid/458531800?profile=pass
+#EXTINF:-1 tvg-id="607e150c545f2f17d2bde65126d7719a" tvg-chno="51",CANAL+ SPORT 2 HD
+http://83.4.86.167:9981/stream/channelid/202735200?profile=pass
+#EXTINF:-1 tvg-id="239263703dd6125602a1965ce0911e84" tvg-chno="52",CANAL+ SPORT 3 HD
+http://83.4.86.167:9981/stream/channelid/1885573667?profile=pass
+#EXTINF:-1 tvg-id="3bf3703815f33ef142c27622c21aed78" tvg-chno="53",CANAL+ SPORT 4 HD
+http://83.4.86.167:9981/stream/channelid/946926395?profile=pass
+#EXTINF:-1 tvg-id="a700274dde373b603c69b3bd32c843d0" tvg-chno="54",CANAL+ SPORT 5 HD
+http://83.4.86.167:9981/stream/channelid/1294401703?profile=pass
+#EXTINF:-1 tvg-id="5d71928a7390cfac916209977d26a869" tvg-chno="55",Eleven Sports 1 HD
+http://83.4.86.167:9981/stream/channelid/177369437?profile=pass
+#EXTINF:-1 tvg-id="6597dff9b1f7e761913c13c9a142d381" tvg-chno="56",Eleven Sports 2 HD
+http://83.4.86.167:9981/stream/channelid/2044696421?profile=pass
+#EXTINF:-1 tvg-id="fa96765318ffd1e3da2235f140f9391e" tvg-chno="57",Eleven Sports 3 HD
+http://83.4.86.167:9981/stream/channelid/1400280826?profile=pass
+#EXTINF:-1 tvg-id="e7f64bb9162818f9b598db9716d58ff1" tvg-chno="58",Eleven Sports 4 HD
+http://83.4.86.167:9981/stream/channelid/961279719?profile=pass
+#EXTINF:-1 tvg-id="f89ec2ec17100910816a9d9670c05012" tvg-chno="59",Eleven Sports 1 4K
+http://83.4.86.167:9981/stream/channelid/1824694008?profile=pass
+#EXTINF:-1 tvg-id="c684f4dc67d9322a4bc7ebbca2954d83" tvg-chno="60",Polsat Sport Premium 1
+http://83.4.86.167:9981/stream/channelid/1559528646?profile=pass
+#EXTINF:-1 tvg-id="00b1cd22c167222aa1b7fb498f272904" tvg-chno="61",Polsat Sport Premium 2
+http://83.4.86.167:9981/stream/channelid/583905536?profile=pass
+#EXTINF:-1 tvg-id="26fad8f8303510aa638ae4df3d5463f5" tvg-chno="62",TVP Sport HD
+http://83.4.86.167:9981/stream/channelid/2027485734?profile=pass
+#EXTINF:-1 tvg-id="3a9c1a335a15767b2d767486865c3efe" tvg-chno="63",Eurosport 1 Poland HD
+http://83.4.86.167:9981/stream/channelid/857381946?profile=pass
+#EXTINF:-1 tvg-id="b9a66ae4ca03e686db78440fcb2dc657" tvg-chno="64",Eurosport 2 Poland HD
+http://83.4.86.167:9981/stream/channelid/1684711097?profile=pass
+#EXTINF:-1 tvg-id="6fb98c2562e72074827145a65da5fa81" tvg-chno="65",CANAL+ PREMIUM HD
+http://83.4.86.167:9981/stream/channelid/629979503?profile=pass
+#EXTINF:-1 tvg-id="04bbc08bbbb6f3ab52e9d84724cf3457" tvg-chno="65",Sportklub HD
+http://83.4.86.167:9981/stream/channelid/197180164?profile=pass
+#EXTINF:-1 tvg-id="a31e5aa521351d4444357b4971dfe86b" tvg-chno="66",Extreme Sports HD
+http://83.4.86.167:9981/stream/channelid/626663075?profile=pass
+#EXTINF:-1 tvg-id="4df0096dc74e6054f20c078ffd26e105" tvg-chno="67",Fightbox HD
+http://83.4.86.167:9981/stream/channelid/1829367885?profile=pass
+#EXTINF:-1 tvg-id="3e719ac614f1cf1a579ff27c5679485a" tvg-chno="212",Polsat Sport Premium PPV3
+http://83.4.86.167:9981/stream/channelid/1184526654?profile=pass
+#EXTINF:-1 tvg-id="377d4fd656e0f66544954f41aac1907c" tvg-chno="213",Polsat Sport Premium PPV4
+http://83.4.86.167:9981/stream/channelid/1448049975?profile=pass
+#EXTINF:-1 tvg-id="fe38aaf79327761357e3ae01b12572d8" tvg-chno="214",Polsat Sport Premium PPV5
+http://83.4.86.167:9981/stream/channelid/2007644414?profile=pass
+#EXTINF:-1 tvg-id="d74c8bc7659b0fc4bcb2f0662eeafa45" tvg-chno="215",Polsat Sport Premium PPV6
+http://83.4.86.167:9981/stream/channelid/1200311511?profile=pass
+#EXTINF:-1 tvg-id="39ecc2a6575ab24fe14de7cee562e4ec" tvg-chno="302",Polsat Sport 1
+http://83.4.86.167:9981/stream/channelid/650308665?profile=pass
+#EXTINF:-1 tvg-id="7305539781f204057de4e104f8ba2fdf" tvg-chno="303",Polsat Sport 2
+http://83.4.86.167:9981/stream/channelid/391316851?profile=pass
+#EXTINF:-1 tvg-id="32111c7eedb5d528ac0021d3b14f826b" tvg-chno="304",CANAL+ 4K ULTRA
+http://83.4.86.167:9981/stream/channelid/2115768626?profile=pass
+#EXTINF:-1 tvg-id="8ad84fe1076ea9fb8dd2b70de948b03b" tvg-chno="305",CANAL+ EXTRA 3
+http://83.4.86.167:9981/stream/channelid/1632622730?profile=pass
+#EXTINF:-1 tvg-id="5ce9e2dda61ffc5fa9dc5463cfa3bd3c" tvg-chno="306",CANAL+ EXTRA 4
+http://83.4.86.167:9981/stream/channelid/1575151964?profile=pass
+
+#EXTINF:-1 tvg-id="115" tvg-name="Arena Sport 1 HR Full HD" tvg-logo="http://51.15.190.188:82/logo_channels/arenasport1.png" group-title="Sport",Arena Sport 1 HR Full HD -
+http://51.15.190.188:8000/live?channelId=115&uid=27&deviceUser=6dP2fz690FrBk1pG&devicePass=8COeM82rcYPnpbnF
+#EXTINF:-1 tvg-id="116" tvg-name="Arena Sport 2 HR Full HD" tvg-logo="http://51.15.190.188:82/logo_channels/arenasport2.png" group-title="Sport",Arena Sport 2 HR Full HD -
+http://51.15.190.188:8000/live?channelId=116&uid=27&deviceUser=6dP2fz690FrBk1pG&devicePass=8COeM82rcYPnpbnF
+#EXTINF:-1 tvg-id="117" tvg-name="Arena Sport 3 HR Full HD" tvg-logo="http://51.15.190.188:82/logo_channels/arenasport3.png" group-title="Sport",Arena Sport 3 HR Full HD -
+http://51.15.190.188:8000/live?channelId=117&uid=27&deviceUser=6dP2fz690FrBk1pG&devicePass=8COeM82rcYPnpbnF
+#EXTINF:-1 tvg-id="450" tvg-name="Arena Sport 4 HR Full HD" tvg-logo="http://51.15.190.188:82/logo_channels/arenasport4.png" group-title="Sport",Arena Sport 4 HR Full HD - Arena Sport 4 HR Full HD
+http://51.15.190.188:8000/live?channelId=450&uid=27&deviceUser=6dP2fz690FrBk1pG&devicePass=8COeM82rcYPnpbnF
+#EXTINF:-1 tvg-id="118" tvg-name="Arena Sport 5 HR Full HD" tvg-logo="http://51.15.190.188:82/logo_channels/arenasport5.png" group-title="Sport",Arena Sport 5 HR Full HD -
+http://51.15.190.188:8000/live?channelId=118&uid=27&deviceUser=6dP2fz690FrBk1pG&devicePass=8COeM82rcYPnpbnF
+#EXTINF:-1 tvg-id="119" tvg-name="Arena Sport 6 HR Full HD" tvg-logo="http://51.15.190.188:82/logo_channels/arenasport6.png" group-title="Sport",Arena Sport 6 HR Full HD -
+http://51.15.190.188:8000/live?channelId=119&uid=27&deviceUser=6dP2fz690FrBk1pG&devicePass=8COeM82rcYPnpbnF
+#EXTINF:-1 tvg-id="125" tvg-name="Arena Sport 1 HD (RS)" tvg-logo="http://51.15.190.188:82/logo_channels/arenasport1.png" group-title="Sport",Arena Sport 1 HD (RS) - Arena Sport 1 HD (RS)
+http://51.15.190.188:8000/live?channelId=125&uid=27&deviceUser=6dP2fz690FrBk1pG&devicePass=8COeM82rcYPnpbnF
+#EXTINF:-1 tvg-id="126" tvg-name="Arena Sport 2 HD (RS)" tvg-logo="http://51.15.190.188:82/logo_channels/arenasport2.png" group-title="Sport",Arena Sport 2 HD (RS) - Arena Sport 2 HD (RS)
+http://51.15.190.188:8000/live?channelId=126&uid=27&deviceUser=6dP2fz690FrBk1pG&devicePass=8COeM82rcYPnpbnF
+#EXTINF:-1 tvg-id="127" tvg-name="Arena Sport 3 HD (RS)" tvg-logo="http://51.15.190.188:82/logo_channels/arenasport3.png" group-title="Sport",Arena Sport 3 HD (RS) - Arena Sport 3 HD (RS)
+http://51.15.190.188:8000/live?channelId=127&uid=27&deviceUser=6dP2fz690FrBk1pG&devicePass=8COeM82rcYPnpbnF
+#EXTINF:-1 tvg-id="128" tvg-name="Arena Sport 4 HD (RS)" tvg-logo="http://51.15.190.188:82/logo_channels/arenasport4.png" group-title="Sport",Arena Sport 4 HD (RS) - Arena Sport 4 HD (RS)
+http://51.15.190.188:8000/live?channelId=128&uid=27&deviceUser=6dP2fz690FrBk1pG&devicePass=8COeM82rcYPnpbnF
+#EXTINF:-1 tvg-id="129" tvg-name="Arena Sport 5 HD (RS)" tvg-logo="http://51.15.190.188:82/logo_channels/arenasport5.png" group-title="Sport",Arena Sport 5 HD (RS) - Arena Sport 5 HD (RS)
+http://51.15.190.188:8000/live?channelId=129&uid=27&deviceUser=6dP2fz690FrBk1pG&devicePass=8COeM82rcYPnpbnF
+#EXTINF:-1 tvg-id="131" tvg-name="Sport Klub 1 HD (RS)" tvg-logo="http://51.15.190.188:82/logo_channels/sport_klub_rs_1.png" group-title="Sport",Sport Klub 1 HD (RS) - Sport Klub 1 HD (RS)
+http://51.15.190.188:8000/live?channelId=131&uid=27&deviceUser=6dP2fz690FrBk1pG&devicePass=8COeM82rcYPnpbnF
+#EXTINF:-1 tvg-id="133" tvg-name="Sport Klub 2 HD (RS)" tvg-logo="http://51.15.190.188:82/logo_channels/sport_klub_rs_2.png" group-title="Sport",Sport Klub 2 HD (RS) - Sport Klub 2 HD (RS)
+http://51.15.190.188:8000/live?channelId=133&uid=27&deviceUser=6dP2fz690FrBk1pG&devicePass=8COeM82rcYPnpbnF
+#EXTINF:-1 tvg-id="135" tvg-name="Sport Klub 3 HD (RS)" tvg-logo="http://51.15.190.188:82/logo_channels/sport_klub_rs_3.png" group-title="Sport",Sport Klub 3 HD (RS) - Sport Klub 3 HD (RS)
+http://51.15.190.188:8000/live?channelId=135&uid=27&deviceUser=6dP2fz690FrBk1pG&devicePass=8COeM82rcYPnpbnF
+#EXTINF:-1 tvg-id="137" tvg-name="Sport Klub 4 HD (RS)" tvg-logo="http://51.15.190.188:82/logo_channels/sport_klub_rs.png" group-title="Sport",Sport Klub 4 HD (RS) - Sport Klub 4 HD (RS)
+http://51.15.190.188:8000/live?channelId=137&uid=27&deviceUser=6dP2fz690FrBk1pG&devicePass=8COeM82rcYPnpbnF
+#EXTINF:-1 tvg-id="388" tvg-name="Dazn Sport 1 HD" tvg-logo="http://51.15.190.188:82/logo_channels/diaspora-tv-ch.png" group-title="Germany",Dazn Sport 1 HD - Dazn Sport 1 HD
+http://51.15.190.188:8000/live?channelId=388&uid=27&deviceUser=6dP2fz690FrBk1pG&devicePass=8COeM82rcYPnpbnF
+#EXTINF:-1 tvg-id="389" tvg-name="Dazn Sport 2 HD" tvg-logo="http://51.15.190.188:82/logo_channels/arenasport2.png" group-title="Germany",Dazn Sport 2 HD - Dazn Sport 2 HD
+http://51.15.190.188:8000/live?channelId=389&uid=27&deviceUser=6dP2fz690FrBk1pG&devicePass=8COeM82rcYPnpbnF
+#EXTINF:-1 tvg-id="498" tvg-name="Sport Klub HD (MULTIAUDIO HR/RS)" tvg-logo="http://51.15.190.188:82/logo_channels/sport_klub_rs.png" group-title="Sport",Sport Klub HD (MULTIAUDIO HR/RS) - Sport Klub HD (MULTIAUDIO HR/RS)
+http://51.15.190.188:8000/live?channelId=498&uid=27&deviceUser=6dP2fz690FrBk1pG&devicePass=8COeM82rcYPnpbnF
+#EXTINF:-1 tvg-id="200" tvg-name="Eurosport 1 HD SRB" tvg-logo="http://51.15.190.188:82/logo_channels/eurosport_fr_1.png" group-title="Sport",Eurosport 1 HD SRB - Eurosport 1 HD SRB
+http://51.15.190.188:8000/live?channelId=200&uid=27&deviceUser=6dP2fz690FrBk1pG&devicePass=8COeM82rcYPnpbnF
+#EXTINF:-1 tvg-id="201" tvg-name="Eurosport 2 HD SRB" tvg-logo="http://51.15.190.188:82/logo_channels/eurosport_fr_1.png" group-title="Sport",Eurosport 2 HD SRB - Eurosport 2 HD SRB
+http://51.15.190.188:8000/live?channelId=201&uid=27&deviceUser=6dP2fz690FrBk1pG&devicePass=8COeM82rcYPnpbnF
+#EXTINF:-1 tvg-id="202" tvg-name="Bein S 1 TR" tvg-logo="http://51.15.190.188:82/logo_channels/kabel_eins_at.png" group-title="Sport",Bein S 1 TR -
+http://51.15.190.188:8000/live?channelId=202&uid=27&deviceUser=6dP2fz690FrBk1pG&devicePass=8COeM82rcYPnpbnF
+#EXTINF:-1 tvg-id="207" tvg-name="Sky Sport F1 IT " tvg-logo="http://51.15.190.188:82/logo_channels/sky_uk_sports_f1.png" group-title="Sport",Sky Sport F1 IT - Sky Sport F1 IT
+http://51.15.190.188:8000/live?channelId=207&uid=27&deviceUser=6dP2fz690FrBk1pG&devicePass=8COeM82rcYPnpbnF
+
+#EXTINF:-1 group-title="-" tvg-id="4d4690810c7d211eeca85982d7c2df78",Sky Sports F1
+http://92.114.85.72:8000/play/a0ie
+#EXTINF:-1 group-title="-" tvg-id="a0cf957335b790f419e905da70457360",Sky Sports Football
+http://92.114.85.72:8000/play/a0id
+#EXTINF:-1 group-title="-" tvg-id="871e6135c3cb6f00fa2b2c0175816868",Sky Sports Golf
+http://92.114.85.72:8000/play/a0ig
+#EXTINF:-1 group-title="-" tvg-id="75dcd0c7190750a4c6dada61a6389c5a",Sky Sports Main Event
+http://92.114.85.72:8000/play/a0j0
+#EXTINF:-1 group-title="-" tvg-id="26957ece8cceeb5d0be5e26ec0085ccd",Sky Sports Mix
+http://92.114.85.72:8000/play/a0il
+#EXTINF:-1 group-title="-" tvg-id="ed89240dcee5356b30360d0aabf6b5f2",Sky Sports NFL
+http://92.114.85.72:8000/play/a0ir
+#EXTINF:-1 group-title="-" tvg-id="1c69b8e15e13714678b3eba3dcb0a932",Sky Sports News
+http://92.114.85.72:8000/play/a0ip
+#EXTINF:-1 group-title="-" tvg-id="0fd8d60e76b19aa1fe8d9280135b4b10",Sky Sports Premier League
+http://92.114.85.72:8000/play/a0iu
+#EXTINF:-1 group-title="-" tvg-id="fd4c90e3cef8de664956149c8944fd7a",Sky Sports Tennis
+http://92.114.85.72:8000/play/a0ix
+#EXTINF:-1 group-title="-" tvg-id="7d52b69f06ef5406b4fe7de8407059c2",Sky Sports+
+http://92.114.85.72:8000/play/a0iz
+#EXTINF:-1 group-title="-" tvg-id="a7bc6848c617deba8a8d1e2a536d4a42",Sky Witness
+http://92.114.85.72:8000/play/a0i3
+#EXTINF:-1 group-title="-" tvg-id="fe9036ccd74dacf69259554cd3e61d51",Sky Witness +1
+http://92.114.85.72:8000/play/a0i4
+#EXTINF:-1 group-title="-",SkySp Racing
+http://92.114.85.72:8000/play/a08r
+#EXTINF:-1 group-title="-",SonLife
+http://92.114.85.72:8000/play/a0ol
+#EXTINF:-1 group-title="-" tvg-id="0b026a7140ba93dcc3dac20913484e9f",Sports Active
+http://92.114.85.72:8000/play/a0j7
+
 #EXTINF:-1,Sport italia plus 🇮🇹
 http://46.232.186.35:35001/play/a01k
 #EXTINF:-1,Super tennis 🇮🇹
