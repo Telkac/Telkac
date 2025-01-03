@@ -592,7 +592,7 @@ http://caffe.link:25461/111SelimS/dmE9FI5RpF/14321
 http://caffe.link:25461/111SelimS/dmE9FI5RpF/4820
 #EXTINF:0,Vixen HD 🔞
 
-#EXTINF:-1 tvg-id="TV8(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="-" group-title="Všeobecné",TV Osem
+#EXTINF:-1 tvg-id="TV8(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="-" group-title="Všeobecné",TV8 HD
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="TVDoktor(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://yt3.googleusercontent.com/lPSjPrqEOIUGQlOBSXQ0UtVACOCtbRvvt54Ia2LWcBnmLujI66LNgbFGFau4YrPeJJJNLYc9-g=s900-c-k-c0x00ffffff-no-rj" group-title="Lifestyle",TV Doktor HD
 https://live.tvdoktor.sk/high/index.m3u8
@@ -600,7 +600,7 @@ https://live.tvdoktor.sk/high/index.m3u8
 https://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LifeTV(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Life TV
 https://lifetv.mpks.sk/s.m3u8
-#EXTINF:-1 tvg-id="TVRaj(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",TV Raj
+#EXTINF:-1 tvg-id="TVRaj(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",TV Raj HD
 https://ottst05.flexitv.sk/2827-tv-pc.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1583-park-tv-hd.png" group-title="Všeobecné",Park TV HD
 https://dash2.antik.sk/live/test_park_tv/playlist.m3u8
@@ -643,7 +643,7 @@ https://streamer05.low-latency.cz/oiktv/index.m3u8
 https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
 #EXTINF:-1 tvg-id="RTUstecko.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="-" group-title="Regionální / Regional channels",RT Ústecko HD
 https://1459594018.rsc.cdn77.org/1459594018/index.m3u8
-#EXTINF:-1 tvg-id="MNAUTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/mnau.png" group-title="Zvířata / Animals",Mňau TV
+#EXTINF:-1 tvg-id="MNAUTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/mnau.png" group-title="Zvířata / Animals",Mnau TV HD
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 #EXTINF:-1 , Národná rada SR 
 https://n16.stv.livebox.sk/stv-tv/3e712cdc67c8dfc0adcb49c9ec94c241/SK-stv7.smil/chunklist_b5251072.m3u8
