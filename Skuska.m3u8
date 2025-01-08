@@ -106,8 +106,7 @@ https://live.cdn.joj.sk/live/andromeda/cs_film-1080.m3u8
 http://78.130.250.2:8023/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-id="CSMystery" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/csmystery.png" group-title="Dokumentární / Documents",CS Mystery HD
-http://348110998266968494.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/968494.ts
-https://live.cdn.joj.sk/live/andromeda/cs_mystery-1080.m3u8
+http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/112599
 #EXTINF:-1 tvg-id="CSHistory" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/cshistory.png" group-title="Dokumentární / Documents",CS History HD
 https://live.cdn.joj.sk/live/andromeda/cs_history-1080.m3u8
 #EXTINF:-1 tvg-id="JOJCinema" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/jojcinema.png" group-title="Filmy a seriály / Movies and serials",JOJ Cinema HD
@@ -1385,8 +1384,14 @@ http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueus
 http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/110243
 #EXTINF:-1,Sky sport premier league HD 🇬🇧
 http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/25334
-#EXTINF:-1,Ziggo sport select HD
+#EXTINF:-1,Sky sport football HD 🇬🇧
+http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/20289
+#EXTINF:-1,Sky sports arena HD 🇬🇧
+http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/20293
+#EXTINF:-1,Ziggo sport select HD NL
 http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/1452
+#EXTINF:-1,Sky sport 1 HD AT
+http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/20858
 
 #EXTINF:-1,NBC  🇺🇸
 http://181.114.57.246:4000/play/ZAtkbM9v9JDDCwCh/index.m3u8
