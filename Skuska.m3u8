@@ -1168,9 +1168,9 @@ http://109.105.201.198/MAXSPORT1HR/video.m3u8?token=test
 http://188.60.179.180:8000/play/xxRaiSportPlusHDxx
 #EXTINF:-1 tvg-id="RaiSport.it" group-title="𝙞𝙩𝙖𝙡𝙮 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiSport.webp",Rai Sport 🇮🇹
 http://45.65.112.49:8000/play/a0ma
-#EXTINF:-1,SPORT1
+#EXTINF:-1,SPORT1 🇩🇪
 http://188.60.179.180:8000/play/a04g
-#EXTINF:-1,SPORT1+
+#EXTINF:-1,SPORT1+ 🇩🇪
 http://188.60.179.180:8000/play/Sport1plus
 
 #EXTINF:-0, SPORT TV +
@@ -1255,21 +1255,21 @@ http://148.113.190.252:8000/play/a033
 #EXTINF:-1 group-title="-",AR TYC SPORTS
 http://148.113.190.252:8000/play/a039
 
-#EXTINF:-1,ESPN HD
+#EXTINF:-1,ESPN HD 🇪🇸
 http://190.60.49.243:4000/play/a06v
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1,ESPN 2 HD 🇪🇸
 http://190.60.49.243:4000/play/a06q
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1,ESPN 2 HD 🇪🇸
 http://190.60.49.243:4000/play/a072
-#EXTINF:-1,ESPN 3 HD
+#EXTINF:-1,ESPN 3 HD 🇪🇸
 http://190.60.49.243:4000/play/a070
-#EXTINF:-1,ESPN 4HD
+#EXTINF:-1,ESPN 4HD 🇪🇸
 http://190.60.49.243:4000/play/a0a7
-#EXTINF:-1,ESPN 5HD
+#EXTINF:-1,ESPN 5HD 🇪🇸
 http://190.60.49.243:4000/play/a0b0
-#EXTINF:-1,ESPN 6HD
+#EXTINF:-1,ESPN 6HD 🇪🇸
 http://190.60.49.243:4000/play/a071
-#EXTINF:-1,ESPN 7HD
+#EXTINF:-1,ESPN 7HD 🇪🇸
 http://190.60.49.243:4000/play/a04c
 
 #EXTINF:-1 ,Eleven Sports 1
