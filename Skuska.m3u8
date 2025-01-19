@@ -350,6 +350,8 @@ https://stream-17.mazana.tv/slagrpremium.m3u
 https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:0,Folklorika HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2124&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
+#EXTINF:0,PREMIUM HD
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2052&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:-1 tvg-name="SCHLAGER DELUXE" tvg-logo="https://i.imgur.com/YPpgUOg.png" tvg-id="SchlagerDeluxe.de" group-title="Germany",SCHLAGER DELUXE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 
@@ -645,6 +647,8 @@ https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
 https://1459594018.rsc.cdn77.org/1459594018/index.m3u8
 #EXTINF:-1 tvg-id="MNAUTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/mnau.png" group-title="Zvířata / Animals",Mnau TV HD
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
+#EXTINF:0,Strike TV HD
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=1163&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:-1 , Národná rada SR 
 https://n16.stv.livebox.sk/stv-tv/3e712cdc67c8dfc0adcb49c9ec94c241/SK-stv7.smil/chunklist_b5251072.m3u8
 #EXTINF:-1 , Rtvs plus 1
@@ -1515,4 +1519,5 @@ http://181.114.57.246:4000/play/ZAtkbM9v9JDDCwCh/index.m3u8
 http://181.114.57.246:4000/play/SJc3fvCpEhFAv6N2/index.m3u8
 #EXTINF:-1,ABC HD 🇺🇸
 http://181.114.57.246:4000/play/bhAmBxmCwn3VLbnJ/index.m3u8
-
+#EXTINF:0,CNN
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=203&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile21,profile22&changed_at=1726643016&shaping=0&eta=1&ets=1
