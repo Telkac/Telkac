@@ -337,7 +337,7 @@ http://185.236.229.62:9981/play/a02d
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:CB:86&stream=58168&extension=ts
 #EXTINF:-1 tvg-name="Deejay TV" tvg-logo="https://i.imgur.com/rlaKH6k.png" tvg-id="DeejayTV.it" group-title="Italy",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1 tvg-name="TRACE URBAN
+#EXTINF:-1,TRACE URBAN
 http://99.27.51.147:8080/TraceUrban/playlist.m3u8
 #EXTINF:-1,BRIDGE TV DANCE
 http://185.23.80.28:8080/BRIDGETVDANCE/index.m3u8?token=test
@@ -374,29 +374,19 @@ http://149.100.19.130:8001/play/a006/index.m3u8
 http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/112503
 #EXTINF:-1 tvg-id="Sport1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/sport1.png" group-title="Sportovní / Sport",Sport 1 HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=727&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
-http://88.212.15.27/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/sport2.png" group-title="Sportovní / Sport",Sport 2 HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=729&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
-http://88.212.15.27/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 tvg-id="NovaSport1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/novasport1.png" group-title="Sportovní / Sport",Nova Sport 1 HD
+http://146.59.85.40:89/novasport1/mono.m3u8
 http://194.160.135.34:8088/udp/233.10.47.60:1234
 http://78.130.250.2:8023/play/a02k/index.m3u8
 http://78.130.250.2:8023/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="NovaSport2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novasport2.png" group-title="Sportovní / Sport",Nova Sport 2 HD
+http://146.59.85.40:89/novasport2/mono.m3u8
 http://78.130.250.2:8023/play/a004/index.m3u8
-#EXTINF:-1,NovaSports 1
-http://146.59.85.40:89/novasport1/mono.m3u8
-#EXTINF:-1,NovaSports 2
-http://146.59.85.40:89/novasport2/mono.m3u8
-#EXTINF:-1,NovaSports 3
+#EXTINF:-1,Nova Sports 3 HD
 http://146.59.85.40:89/novasport3/mono.m3u8
-#EXTINF:-1,NovaSports 4
-http://146.59.85.40:89/novasport4/mono.m3u8
-#EXTINF:-1,NovaSports 2 HD cz
-http://146.59.85.40:89/novasport2/mono.m3u8
-#EXTINF:-1,NovaSports 3 HD cz
-http://146.59.85.40:89/novasport3/mono.m3u8
-#EXTINF:-1,NovaSports 4 HD cz
+#EXTINF:-1,Nova Sports 4 HD
 http://146.59.85.40:89/novasport4/mono.m3u8
 #EXTINF:-1 tvg-id="CanalplusSport(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/picons/master/1024/canalplussport.png" group-title="Sportovní / Sport",CANAL+ Sport HD
 http://78.130.250.2:8023/play/a02v/index.m3u8
@@ -422,23 +412,8 @@ http://45.159.74.14/Eurosport/manifest.m3u8
 #EXTINF:-1,Eurosport 1 Deutschland 🇩🇪
 http://188.60.179.180:8000/play/xxEurosport1DExx
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Woʀʟᴅ Sᴘoʀᴛs" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ArenaSport.png",Arena Premium Liga 🇬🇧ᴴᴰ
-http://91.132.74.4:7374/play/a00k/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Woʀʟᴅ Sᴘoʀᴛs" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/bein-sports.png",Bein SportXtra ñ 🇪🇸ᴴᴰ
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Arena sport 1 🇷🇴
-http://109.105.201.198/ARENASPORT1/video.m3u8?token=test
-#EXTINF:-1,Arena sport 2 🇷🇴
-http://109.105.201.198/Arenasport2/video.m3u8?token=test
-#EXTINF:-1,Arena sport 3 🇷🇴
-http://109.105.201.198/ARENASPORT3/video.m3u8?token=test
-#EXTINF:-1,Arena sport 4 🇷🇴
-http://109.105.201.198/ARENASPORT4/video.m3u8?token=test
-
-#EXTINF:0,Real Madrid 🇬🇧
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 
 #EXTINF:0,CANAL+ SPORT HD 🇵🇱
 #EXTVLCOPT:network-caching=1000
@@ -847,6 +822,15 @@ http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:d1:db:c9&stream=38365&extension
 http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:47:86:50&stream=38365&extension=ts&play_token=DMd4jjjEzM
 #EXTINF:-1,TNT Sport 2 HD UK
 http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:47:86:50&stream=38365&extension=ts&play_token=lnVi48uCop
+
+#EXTINF:-1,Arena sport 1 🇷🇴
+http://109.105.201.198/ARENASPORT1/video.m3u8?token=test
+#EXTINF:-1,Arena sport 2 🇷🇴
+http://109.105.201.198/Arenasport2/video.m3u8?token=test
+#EXTINF:-1,Arena sport 3 🇷🇴
+http://109.105.201.198/ARENASPORT3/video.m3u8?token=test
+#EXTINF:-1,Arena sport 4 🇷🇴
+http://109.105.201.198/ARENASPORT4/video.m3u8?token=test
 
 #EXTINF:-1,ARENA SPORT 1 RS
 http://birutv.my.id:80/play/live.php?mac=00:1A:79:87:79:BD&stream=39615&extension=ts&play_token=xrQHa3Sb7Q
@@ -1557,6 +1541,8 @@ http://54.36.162.3/tnt4/index.m3u8
 http://54.36.162.3/mutv/index.m3u8
 #EXTINF:-1,LFCTV
 http://54.36.162.3/lfctv/index.m3u8
+#EXTINF:0,Real Madrid 🇬🇧
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 #EXTINF:-1,LaLiga TV
 http://54.36.162.3/laliga/index.m3u8
 #EXTINF:-1,Racing UKT
