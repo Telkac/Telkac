@@ -115,7 +115,6 @@ http://88.212.15.27/live/test_joj_cinema_25p/playlist.m3u8
 http://348110998266968494.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/968513.ts
 #EXTINF:-1 tvg-id="HBO" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/hbo.png" group-title="Filmy a seriály / Movies and serials",HBO HD
 http://78.130.250.2:8023/play/a02s/index.m3u8
-
 #EXTINF:-1 tvg-id="HBO2" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/hbo2.png" group-title="Filmy a seriály / Movies and serials",HBO 2 HD
 http://88.212.15.27/live/test_hbo2_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO3" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/hbo3.png" group-title="Filmy a seriály / Movies and serials",HBO 3 HD
@@ -142,8 +141,6 @@ http://88.212.15.27/live/test_cinemax2_hd_hevc/playlist.m3u8
 http://88.212.15.27/live/test_amc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/axn.png" group-title="Filmy a seriály / Movies and serials",AXN
 http://88.212.15.27/live/test_axn/playlist.m3u8
-http://348110998266968494.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/968491.ts
-#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="AXN" tvg-logo="http://46.36.40.22/1023/axn.png" group-title="Filmové",AXN
 http://88.212.15.27/live/test_axn/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" tvg-logo="http://46.36.40.22/1023/axnblack.png" group-title="Filmové",AXN Black
 http://88.212.15.27/live/test_black/playlist.m3u8
