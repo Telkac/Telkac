@@ -44,8 +44,8 @@ https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=773&device=2b6073bc96d5
 #EXTINF:-1 tvg-id="JOJ24" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/owEVXRE.png" group-title="Všeobecné",JOJ 24 HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2320&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:-1 tvg-id="STV24" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/sdSsFU0.png" group-title="Všeobecné",RTVS 24 HD
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=1171&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 http://194.160.135.34:8088/udp/233.10.47.1:1234
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=1171&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:-1 tvg-id="CT24" tvg-url="ct24.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/pUMRFs1.png" group-title="Všeobecné",CT 24 HD
 http://149.100.19.130:8001/play/a005/index.m3u8
 http://88.212.15.27/live/test_ct24_hevc/playlist.m3u8
@@ -56,12 +56,12 @@ https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=1701&device=2b6073bc96d
 http://88.212.15.27/live/test_cnn_pirma_news/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CT1" tvg-url="ct1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/qBlEbN3.png" group-title="Všeobecné",CT 1 HD
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=643&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13,profile14&changed_at=1726643016&shaping=0&eta=1&ets=1
 http://194.160.135.34:8088/udp/233.10.47.14:1234
 http://149.100.19.130:8001/play/a003/index.m3u8
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=643&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13,profile14&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:-1 tvg-id="CT2" tvg-url="ct2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/HpnGC6A.png" group-title="Všeobecné",CT 2 HD
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=621&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13,profile14&changed_at=1726643016&shaping=0&eta=1&ets=1
 http://149.100.19.130:8001/play/a004/index.m3u8
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=621&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13,profile14&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:-1 tvg-id="NovaTV" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nova.png" group-title="Všeobecné",Nova HD
 http://194.160.135.34:8088/udp/233.10.47.56:1234
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=406&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
@@ -86,8 +86,8 @@ http://88.212.15.27/live/prima_love_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimaZOOM" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primazoomhd.png" group-title="Dokumentární / Documents",Prima ZOOM HD
 http://194.160.135.34:8088/udp/233.10.47.58:1234
 #EXTINF:-1 tvg-id="Prima MAX HD" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primamaxhd.png" group-title="Filmy a seriály / Movies and serials",Prima MAX HD 
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=611&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13,profile14&changed_at=1726643016&shaping=0&eta=1&ets=1
 http://194.160.135.34:8088/udp/233.10.47.59:1234
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=611&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13,profile14&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:-1 tvg-id="PRIMAKRIMI" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primakrimi.png" group-title="Krimi",Prima KRIMI HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=635&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13,profile14&changed_at=1726643016&shaping=0&eta=1&ets=1
 http://88.212.15.27/live/prima_krimi_avc_25p/playlist.m3u8
@@ -102,8 +102,8 @@ http://88.212.15.27/live/test_barrandov/playlist.m3u8
 #EXTINF:-1,Barrandov plus
 https://dash2.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
 #EXTINF:-1,Kino Barrandov HD
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=655&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 http://194.160.135.34:8088/udp/233.10.47.53:1234
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=655&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:0,Barrandov Krimi HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=757&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:-1 tvg-id="CSFilm" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/csfilm.png" group-title="Filmy a seriály / Movies and serials",CS Film / Horror HD
@@ -115,7 +115,6 @@ http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueus
 #EXTINF:-1 tvg-id="CSHistory" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/cshistory.png" group-title="Dokumentární / Documents",CS History HD
 https://live.cdn.joj.sk/live/andromeda/cs_history-1080.m3u8
 #EXTINF:-1 tvg-id="JOJCinema" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/jojcinema.png" group-title="Filmy a seriály / Movies and serials",JOJ Cinema HD
-
 http://88.212.15.27/live/test_joj_cinema_25p/playlist.m3u8
 http://348110998266968494.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/968513.ts
 #EXTINF:-1 tvg-id="HBO" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/hbo.png" group-title="Filmy a seriály / Movies and serials",HBO HD
@@ -170,9 +169,9 @@ http://88.212.15.27/live/prima_cool_avc_25p/playlist.m3u8
 http://88.212.15.27/live/test_joj_family_hevc_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JOJSvet(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1602-joj-svet-hd.png" group-title="Dokumentárné",JOJ Svet HD
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2364&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 http://149.100.19.130:8001/play/a00f/index.m3u8
 http://88.212.15.27/live/test_joj_svet/playlist.m3u8
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2364&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="Discovery" tvg-logo="http://46.36.40.22/1023/discovery.png" group-title="Dokumentárne",Discovery HD
 http://88.212.15.27/live/test_discovery_hd_hevc/playlist.m3u8
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=937&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
@@ -399,12 +398,12 @@ https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=681&device=2b6073bc96d5
 http://88.212.15.27/live/test_arenasport_dva/playlist.m3u8
 
 #EXTINF:-1,Eurosport 1 HD
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=661&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13,profile14&changed_at=1726643016&shaping=0&eta=1&ets=1
 http://194.160.135.34:8088/udp/233.10.47.64:1234
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=661&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13,profile14&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:-1,Eurosport 2 HD
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=615&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 http://194.160.135.34:8088/udp/233.10.47.65:1234
 http://45.65.112.49:8000/play/a0kf
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=615&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:-1,Eurosport 1 HD 🇬🇧 🇷🇺
 http://45.159.74.14/Eurosport/manifest.m3u8
 #EXTINF:-1,Eurosport 1 Deutschland 🇩🇪
