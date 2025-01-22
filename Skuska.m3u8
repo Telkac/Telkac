@@ -379,8 +379,8 @@ https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=729&device=2b6073bc96d5
 #EXTINF:-1 tvg-id="NovaSport1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/novasport1.png" group-title="Sportovní / Sport",Nova Sport 1 HD
 http://194.160.135.34:8088/udp/233.10.47.60:1234
 #EXTINF:-1 tvg-id="NovaSport2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novasport2.png" group-title="Sportovní / Sport",Nova Sport 2 HD
-http://146.59.85.40:89/novasport2/mono.m3u8
 http://78.130.250.2:8023/play/a004/index.m3u8
+http://146.59.85.40:89/novasport2/mono.m3u8
 #EXTINF:-1,Nova Sports 3 HD
 http://146.59.85.40:89/novasport3/mono.m3u8
 #EXTINF:-1,Nova Sports 4 HD
