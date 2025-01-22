@@ -82,7 +82,7 @@ http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueus
 #EXTINF:-1 tvg-id="CSHistory" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/cshistory.png" group-title="Dokumentární / Documents",CS History HD
 https://live.cdn.joj.sk/live/andromeda/cs_history-1080.m3u8
 #EXTINF:-1 tvg-id="JOJCinema" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/jojcinema.png" group-title="Filmy a seriály / Movies and serials",JOJ Cinema HD
-http://348110998266968494.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/968513.ts
+https://live.cdn.joj.sk/live/andromeda/cinema-1080.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/hbo.png" group-title="Filmy a seriály / Movies and serials",HBO HD
 http://78.130.250.2:8023/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="HBO2" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/hbo2.png" group-title="Filmy a seriály / Movies and serials",HBO 2 HD
