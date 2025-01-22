@@ -3,15 +3,15 @@
 #EXTINF:-1 tvg-id="Jednotka" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/T7EWAe7.png" group-title="Všeobecné",Jednotka HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=637&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:-1 tvg-id="Dvojka" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/Ksi25UD.png" group-title="Všeobecné",Dvojka HD
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=613&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 http://194.160.135.34:8088/udp/233.10.47.37:1234
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=613&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:-1 tvg-id="Markiza" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/952-markiza-hd.png" group-title="Všeobecné",Markiza HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=677&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 https://cdnsk003.panaccess.com/local/Markiza/index.m3u8
 http://88.212.15.27/live/test_markiza_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/5BAWD0z.png" group-title="Všeobecné",JOJ HD
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=631&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 http://194.160.135.34:8088/udp/233.10.47.7:1234
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=631&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:-1 tvg-id="Dajto" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://staticeu.sweet.tv/images/icons/channels/v2/955-dajto-hd.png" group-title="Všeobecné",Dajto HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=707&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 http://88.212.15.27/live/test_dajto_25p/playlist.m3u8
@@ -24,8 +24,9 @@ http://88.212.15.27/live/test_markiza_krimi_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="MARKIZAKLASIK" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://img.telkac.zoznam.sk/data/images/channel/2024/07/17/image_new_227.thumb.png" group-title="Všeobecné",Markiza Klasik HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2389&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:-1 tvg-id="JOJPLUS" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/fKPliTj.png" group-title="Všeobecné",JOJ Plus HD
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=619&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 http://194.160.135.34:8088/udp/233.10.47.8:1234
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=619&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
+
 #EXTINF:-1 tvg-id="Wau" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/wO5ifff.png" group-title="Všeobecné",WAU HD
 http://194.160.135.34:8088/udp/233.10.47.6:1234
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=609&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
