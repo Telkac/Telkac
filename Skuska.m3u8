@@ -36,6 +36,7 @@ https://sktv.plainrock127.xyz/get.php?x=TA3
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2320&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:-1 tvg-id="STV24" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/sdSsFU0.png" group-title="Všeobecné",RTVS 24 HD
 http://194.160.135.34:8088/udp/233.10.47.1:1234
+http://88.212.15.27/live/test_trojka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CT24" tvg-url="ct24.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/pUMRFs1.png" group-title="Všeobecné",CT 24 HD
 http://149.100.19.130:8001/play/a005/index.m3u8
 http://88.212.15.27/live/test_ct24_hevc/playlist.m3u8
