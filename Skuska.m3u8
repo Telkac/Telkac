@@ -143,9 +143,8 @@ https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="NovaInternational(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1-nova-international-hd.png" group-title="Všeobecné",Nova International HD
 http://194.160.135.34:8088/udp/233.10.47.61:1234
 #EXTINF:0,Prima SK HD
-http://149.100.19.130:8001/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="PRIMAPLUS(src01).sk" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/S7F2BnY/image.png" group-title="Všeobecné",Prima SK HD
 http://194.160.135.34:8088/udp/233.10.47.81:1234
+http://149.100.19.130:8001/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="Prima Cool SK" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://staticeu.sweet.tv/images/icons/channels/v2/863-prima-cool-hd.png" group-title="Všeobecné",Prima Cool HD
 http://88.212.15.27/live/prima_cool_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJFamily(src01).sk" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/jojfamilyhd.png" group-title="Všeobecné",JOJ Family
@@ -156,10 +155,6 @@ http://149.100.19.130:8001/play/a00f/index.m3u8
 http://88.212.15.27/live/test_joj_svet/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="http://46.36.40.22/1023/discovery.png" group-title="Dokumentárne",Discovery HD
 http://88.212.15.27/live/test_discovery_hd_hevc/playlist.m3u8
-#EXTINF:0,Viasat History HD
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=901&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
-#EXTINF:0,Viasat Nature HD
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=897&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:0,Travel Channel HD
 http://88.212.15.27/live/test_travel_channel_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/lovenature.png" group-title="Dokumentární / Documents",Love Nature HD
@@ -196,10 +191,6 @@ http://88.212.15.27/live/test_parpika_tv_sd_hevc/playlist.m3u8
 http://88.212.15.27/live/test_cai_hevc/playlist.m3u8
 #EXTINF:0,ID HD
 http://88.212.15.27/live/test_id_hevc_atktv/playlist.m3u8
-#EXTINF:0,HGTV - Home & Garden TV
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2306&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
-#EXTINF:0,E! Entertainment
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=442&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:0,TLC HD
 http://88.212.15.27/live/test_tlc_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="Up network" tvg-name="Up network" tvg-logo="http://46.36.40.22/1023/Upnetwork.png" group-title="Dokumentárne",Up network
@@ -222,8 +213,6 @@ https://dash2.antik.sk/live/duck_tv/index.m3u8
 http://88.212.15.27/live/test_duck_tv_hd_hevc/playlist.m3u8
 #EXTINF:-1,Duck Plus
 https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
-#EXTINF:0,Cartoon Network HD
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=1221&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:-1 tvg-id="Nickelodeon(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nickelodeon.png" group-title="Detské",Nickelodeon
 http://88.212.15.27/live/test_nickelodeon_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="NICKJRTHOR(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nickjr.png" group-title="Detské",Nick Jr.
@@ -262,8 +251,6 @@ https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
 #EXTINF:-1 tvg-id="MoozRo.ro 🇷🇴",MoozRo 🇷🇴
 #EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozRo
 https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
-#EXTINF:-1 tvg-id="Magic.TV.ro" group-title="𝙈𝙪𝙨𝙞𝗰 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/magivTV.webp",Magic TV 🇷🇴
-https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 #EXTINF:-1,4fun music tv 🇵🇱
 https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1,4Fun Dance  🇵🇱
@@ -280,10 +267,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 http://013tv.com:8080/F24307/c8111abb/2111
 #EXTINF:-1 tvg-id="DeluxeDance.de" group-title="Hudobné",Deluxe Dance HD 🇩🇪
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-name="DELUXE MUSIC RAP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Deluxe_Rap_Logo_2023.svg/666px-Deluxe_Rap_Logo_2023.svg.png" tvg-id="DeLuxeMusicRap.de" group-title="Germany",DELUXE MUSIC RAP
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 tvg-id="KissTV.ro" group-title="Hudobné",Kiss TV HD
-https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-id="Rebel(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/rebel.png" group-title="Hudobné",REBEL
 https://dash2.antik.sk/live/test_rebel/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroMusicTelevision(src01).cz" tvg-country="CZ;SK" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/retro.jpg" group-title="Hudobné",RetroMusicTV
@@ -292,7 +275,6 @@ https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 http://88.212.15.27/live/test_mtv_hits_1200_atk/playlist.m3u8
 http://45.5.117.182:8000/play/a0f1/index.m3u8
 #EXTINF:0,Club MTV
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=310&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile21,profile22&changed_at=1726643016&shaping=0&eta=1&ets=1
 http://185.236.229.62:9981/play/a063
 #EXTINF:0,MTV Dance
 #EXTVLCOPT:network-caching=1000
@@ -306,7 +288,6 @@ http://185.236.229.62:9981/play/a066
 #EXTVLCOPT:network-caching=1000
 https://dash2.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
 #EXTINF:0,MTV 90s
-#EXTVLCOPT:network-caching=1000
 http://185.236.229.62:9981/play/a07f
 #EXTINF:0,MTV Live HD 
 #EXTVLCOPT:network-caching=1000
@@ -317,15 +298,8 @@ http://185.236.229.62:9981/play/a06b
 #EXTINF:0,VOX Music TV 
 #EXTVLCOPT:network-caching=1000
 http://185.236.229.62:9981/play/a02d
-#EXTINF:0,DELUX MUSIC HD 🇩🇪
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTVLCOPT:network-caching=1000
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:CB:86&stream=58168&extension=ts
 #EXTINF:-1 tvg-name="Deejay TV" tvg-logo="https://i.imgur.com/rlaKH6k.png" tvg-id="DeejayTV.it" group-title="Italy",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1,TRACE URBAN
-http://99.27.51.147:8080/TraceUrban/playlist.m3u8
 #EXTINF:-1,BRIDGE TV DANCE
 http://185.23.80.28:8080/BRIDGETVDANCE/index.m3u8?token=test
 #EXTINF:-1,BRIDGE TV ROCK
@@ -348,8 +322,6 @@ https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2124&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
 #EXTINF:0,PREMIUM HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2052&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
-#EXTINF:-1 tvg-name="SCHLAGER DELUXE" tvg-logo="https://i.imgur.com/YPpgUOg.png" tvg-id="SchlagerDeluxe.de" group-title="Germany",SCHLAGER DELUXE
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 
 #EXTINF:-1 tvg-id="RTVSSport(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/850-sport.png" group-title="Športové",RTVS Sport HD
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
@@ -377,7 +349,6 @@ http://146.59.85.40:89/novasport4/mono.m3u8
 http://78.130.250.2:8023/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="CanalplusSport 2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/picons/master/1024/canalplussport.png" group-title="Sportovní / Sport",CANAL+ Sport 2 HD
 http://78.130.250.2:8023/play/a02w/index.m3u8
-http://348110998266968494.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/968525.ts
 #EXTINF:-1 tvg-id="Arena Sport 1" tvg-name="Arena Sport 1 " tvg-logo="http://46.36.40.22/1023/arenasport1.png" group-title="Športové",Arena Sport 1
 http://78.130.250.2:8023/play/a02o/index.m3u8
 http://88.212.15.27/live/test_arenasport/playlist.m3u8
@@ -388,7 +359,6 @@ http://88.212.15.27/live/test_arenasport_dva/playlist.m3u8
 http://194.160.135.34:8088/udp/233.10.47.64:1234
 #EXTINF:-1,Eurosport 2 HD
 http://194.160.135.34:8088/udp/233.10.47.65:1234
-http://45.65.112.49:8000/play/a0kf
 #EXTINF:-1,Eurosport 1 HD 🇬🇧 🇷🇺
 http://45.159.74.14/Eurosport/manifest.m3u8
 #EXTINF:-1,Eurosport 1 Deutschland 🇩🇪
