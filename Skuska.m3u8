@@ -449,30 +449,6 @@ http://178.219.128.68:64889/POLSSPORNEWSHD
 #EXTINF:-1,Poland_Polsat SPORT 🇵🇱
 http://178.219.128.68:64889/POLSSPORHD
 
-#EXTINF:-1, Bein Sports 1 France 🇫🇷
-http://51.178.65.238/BeinSport/mono.m3u8
-
-#EXTINF:-1,Fox Sports 1 🇪🇸
-http://45.181.123.233:8000/play/a0qm
-#EXTINF:-1,Fox Sports 2  🇪🇸
-http://45.181.123.233:8000/play/a0oj
-#EXTINF:-1,Fox Sports 3 🇪🇸
-http://45.181.123.233:8000/play/a0ok
-#EXTINF:-1,ESPN 🇪🇸
-http://45.181.123.233:8000/play/a0o9
-#EXTINF:-1,ESPN 2 🇪🇸
-http://45.181.123.233:8000/play/a0qt
-#EXTINF:-1,ESPN 3 🇪🇸
-http://45.181.123.233:8000/play/a0p2
-#EXTINF:-1,ESPN 4HD 🇪🇸
-http://45.181.122.46:8090/play/a028
-#EXTINF:-1,ESPN 5HD 🇪🇸
-http://45.181.122.46:8090/play/a01i
-#EXTINF:-1,ESPN 6HD 🇪🇸
-http://45.181.122.46:8090/play/a01u
-#EXTINF:-1,ESPN 7HD 🇪🇸
-http://45.181.122.46:8090/play/a01j
-
 #EXTINF:-1 tvg-id="SportyTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/SportyTVSD.png" group-title="Sportovní / Sport",Sporty TV HD
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
 #EXTINF:-1,AutoMotorSport HD
@@ -657,18 +633,6 @@ https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
 https://1459594018.rsc.cdn77.org/1459594018/index.m3u8
 #EXTINF:-1 tvg-id="MNAUTV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/mnau.png" group-title="Zvířata / Animals",Mnau TV HD
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
-#EXTINF:0,Strike TV HD
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=1163&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016&shaping=0&eta=1&ets=1
-#EXTINF:-1 , Národná rada SR 
-https://n16.stv.livebox.sk/stv-tv/3e712cdc67c8dfc0adcb49c9ec94c241/SK-stv7.smil/chunklist_b5251072.m3u8
-#EXTINF:-1 , Rtvs plus 1
-https://n14.stv.livebox.sk/stv-tv/240019421a965282a53c59d8fba85239/SK-stv6.smil/chunklist_b5251072.m3u8
-#EXTINF:-1 , Rtvs plus 2
-https://n14.stv.livebox.sk/stv-tv/12b1c931ed7dfe0073b631285cee64ee/SK-stv5.smil/chunklist_b5251072.m3u8
-#EXTINF:0,HOBBY TV SD 🇸🇰
-http://348110998266968511.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/968511.ts
-#EXTINF:0,FISHING & HUNTING TV HD 🇸🇰
-http://348110998266965135.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/965135.ts
 
 #EXTINF:-1 tvg-language="Slovak" tvg-logo="https://static.wikia.nocookie.net/skibidi-toilet-official/images/9/9e/CameraLogo.png/revision/latest/scale-to-width/360?cb=20240228071539",Tatry HD 🇸🇰
 http://88.212.15.20:16000/udp/232.232.70.2:5004
@@ -763,15 +727,6 @@ http://stream.funradio.sk:8000/dance128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fm.png",Radio FM
 http://live.slovakradio.sk:8000/FM_128.mp3
 
-#EXTINF:-1,TNT Sport 2 HD UK
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:d1:db:c9&stream=38365&extension=ts&play_token=0aet6jLTG5
-#EXTINF:-1,TNT Sport 2 HD UK
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:d1:db:c9&stream=38365&extension=ts&play_token=429DqbWd3E
-#EXTINF:-1,TNT Sport 2 HD UK
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:47:86:50&stream=38365&extension=ts&play_token=DMd4jjjEzM
-#EXTINF:-1,TNT Sport 2 HD UK
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:47:86:50&stream=38365&extension=ts&play_token=lnVi48uCop
-
 #EXTINF:-1,Arena sport 1 🇷🇴
 http://109.105.201.198/ARENASPORT1/video.m3u8?token=test
 #EXTINF:-1,Arena sport 2 🇷🇴
@@ -781,99 +736,8 @@ http://109.105.201.198/ARENASPORT3/video.m3u8?token=test
 #EXTINF:-1,Arena sport 4 🇷🇴
 http://109.105.201.198/ARENASPORT4/video.m3u8?token=test
 
-#EXTINF:-1,ARENA SPORT 1 RS
-http://birutv.my.id:80/play/live.php?mac=00:1A:79:87:79:BD&stream=39615&extension=ts&play_token=xrQHa3Sb7Q
-#EXTINF:-1,ARENA SPORT 1 RS
-http://birutv.my.id:80/play/live.php?mac=00:1A:79:87:79:BD&stream=39615&extension=ts&play_token=SbznfHcYkE
-#EXTINF:-1,ARENA SPORT 1 RS
-http://birutv.my.id:80/play/live.php?mac=00:1A:79:87:79:BD&stream=39615&extension=ts&play_token=sO4N9SWaGg
-#EXTINF:-1,ARENA SPORT 1 RS
-http://birutv.my.id:80/play/live.php?mac=00:1A:79:87:79:BD&stream=39615&extension=ts&play_token=s98GOSXdEx
-#EXTINF:-1,ARENA SPORT 1 RS
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:47:08:6A&stream=39615&extension=ts&play_token=doePCLTSL3
-#EXTINF:-1,ARENA SPORT 1 RS
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:47:08:6A&stream=39615&extension=ts&play_token=KQeJcsMub0
-#EXTINF:-1,ARENA SPORT 1 RS
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:A2:E7:9E&stream=39615&extension=ts&play_token=5JJCkDPpsy
-#EXTINF:-1,ARENA SPORT 1 RS
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:A2:E7:9E&stream=39615&extension=ts&play_token=brLpkLb3Mu
-#EXTINF:-1,ARENA SPORT 1 RS
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:63:52:A2&stream=39615&extension=ts&play_token=y7izh7RXPY
-#EXTINF:-1,ARENA SPORT 1 RS
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:63:52:A2&stream=39615&extension=ts&play_token=Jcsxc6L0BF
-
-#EXTINF:-1,DAZN 1 HEVC DE 🇩🇪
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:47:08:6A&stream=11236&extension=ts&play_token=A0tHeQrOi8
-#EXTINF:-1,DAZN 1 HEVC DE 🇩🇪
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:47:08:6A&stream=11236&extension=ts&play_token=f5CMoTZYo9
-#EXTINF:-1,DAZN 1 4K DE 🇩🇪
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:47:08:6A&stream=45307&extension=ts&play_token=4mXUKoPKdN
-#EXTINF:-1,DAZN 1 4K DE 🇩🇪
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:47:08:6A&stream=45307&extension=ts&play_token=M4o0UI4tDU
-#EXTINF:-1,DAZN 1 HEVC DE 🇩🇪
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:A2:E7:9E&stream=11236&extension=ts&play_token=NCXub7zxiA
-#EXTINF:-1,DAZN 1 4K DE 🇩🇪
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:A2:E7:9E&stream=45307&extension=ts&play_token=jCUzmF5Svq
-#EXTINF:-1,DAZN 1 HEVC DE 🇩🇪
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:A2:E7:9E&stream=11236&extension=ts&play_token=bUA6v1EK4V
-#EXTINF:-1,DAZN 1 4K DE 🇩🇪
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:A2:E7:9E&stream=45307&extension=ts&play_token=gmjyQmhGoS
-#EXTINF:-1,DAZN 1 HEVC DE 🇩🇪
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:63:52:A2&stream=11236&extension=ts&play_token=0hhfUGNMnU
-#EXTINF:-1,DAZN 1 HEVC DE 🇩🇪
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:63:52:A2&stream=11236&extension=ts&play_token=NsNyIuJ6wR
-#EXTINF:-1,DAZN 1 4K DE 🇩🇪
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:63:52:A2&stream=45307&extension=ts&play_token=VZUid5ljPe
-#EXTINF:-1,DAZN 1 4K DE 🇩🇪
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:63:52:A2&stream=45307&extension=ts&play_token=Agq0ld2XCv
-
 #EXTINF:-1,SPORT1 🇩🇪
 http://188.60.179.180:8000/play/a04g
-#EXTINF:-1,SPORT1+ 🇩🇪
-http://188.60.179.180:8000/play/Sport1plus
-
-#EXTINF:-1,ELEVEN SPORTS 1 HEVC PT 🇵🇹
-http://wiki-ott.org:8789/play/live.php?mac=00:1A:79:6E:2C:0D&stream=47284&extension=ts
-#EXTINF:-1,ELEVEN SPORTS 1 FHD PT 🇵🇹
-http://wiki-ott.org:8789/play/live.php?mac=00:1A:79:6E:2C:0D&stream=14901&extension=ts
-#EXTINF:-1,ELEVEN SPORTS 1 HD PT 🇵🇹
-http://birutv.my.id:80/play/live.php?mac=00:1A:79:87:79:BD&stream=45105&extension=ts&play_token=mf2lgYN6h5
-#EXTINF:-1,ELEVEN SPORTS 1 HD PT 🇵🇹
-http://birutv.my.id:80/play/live.php?mac=00:1A:79:87:79:BD&stream=45105&extension=ts&play_token=RCSHQOgDns
-#EXTINF:-1,ELEVEN SPORTS 1 HD PT 🇵🇹
-http://birutv.my.id:80/play/live.php?mac=00:1A:79:87:79:BD&stream=45105&extension=ts&play_token=OHdc4OlsMO
-#EXTINF:-1,ELEVEN SPORTS 1 HD PT 🇵🇹
-http://birutv.my.id:80/play/live.php?mac=00:1A:79:87:79:BD&stream=45105&extension=ts&play_token=cvXF0lv2eA
-#EXTINF:-1,ELEVEN SPORTS 1 HD PT 🇵🇹
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:47:08:6A&stream=45105&extension=ts&play_token=qOjzo6QLIv
-#EXTINF:-1,ELEVEN SPORTS 1 HD PT 🇵🇹
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:47:08:6A&stream=45105&extension=ts&play_token=p2qYzO20Ng
-#EXTINF:-1,ELEVEN SPORTS 1 HD PT 🇵🇹
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:63:52:A2&stream=45105&extension=ts&play_token=injUgFSce3
-#EXTINF:-1,ELEVEN SPORTS 1 HD PT 🇵🇹
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:63:52:A2&stream=45105&extension=ts&play_token=oSZ6wRVgbk
-
-#EXTINF:-1,MOVISTAR LIGA de CAMPEONES 4K ES
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:47:08:6A&stream=56334&extension=ts&play_token=X3ubu5MG5k
-#EXTINF:-1,MOVISTAR LIGA de CAMPEONES 4K ES
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:47:08:6A&stream=56334&extension=ts&play_token=iiMXuBc9BR
-#EXTINF:-1,MOVISTAR LIGA de CAMPEONES 4K ES
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:63:52:A2&stream=56334&extension=ts&play_token=oQYygapfAh
-#EXTINF:-1,MOVISTAR LIGA de CAMPEONES 4K ES
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:63:52:A2&stream=56334&extension=ts&play_token=c1cOOhN0lo
-
-#EXTINF:-1,BLUE SPORT 1 SU
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:47:08:6A&stream=149581&extension=ts&play_token=fFAgtZIp4q
-#EXTINF:-1,BLUE SPORT 1 SU
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:47:08:6A&stream=150227&extension=ts&play_token=AQFHmry29D
-
-#EXTINF:-1,SPORT2 HD HU 🇭🇺
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:47:08:6A&stream=51221&extension=ts&play_token=U4fGUA5HbZ
-
-#EXTINF:-1,DAZN 1 FHD FR 🇫🇷
-http://wiki-ott.org:8789/play/live.php?mac=00:1A:79:6E:2C:0D&stream=455596&extension=ts
-#EXTINF:-1,DAZN 1 HD FR 🇫🇷
-http://wiki-ott.org:8789/play/live.php?mac=00:1A:79:6E:2C:0D&stream=455595&extension=ts
 
 EXTINF:-1,Arena Sport 1 RS
 http://109.105.201.198/ARENASPORT1/index.m3u8?token=test
@@ -894,7 +758,6 @@ http://7pal.short.gy/tntspts1
 http://7pal.short.gy/tntspts2
 #EXTINF:0,TNT SPORTS 3
 http://7pal.short.gy/tntspts3
-
 
 #EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV " tvg-logo="" group-title="Portugal",|PT| Sport TV 🇵🇹
 http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27010
@@ -1013,14 +876,6 @@ http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702
 #EXTINF:-1 tvg-id="" tvg-name="|PT| Motorvision" tvg-logo="" group-title="Portugal",|PT| Motorvision 🇵🇹
 http://087ea805a32488bc3052858e744f1c0f.spa.iscaja.me:25461/yUmf8cQ1ys/716607702721/27066
 
-#EXTINF:-1,Digi Sport 1 🇷🇴
-http://europatv.sytes.net:8008/Cristian@Roman/hMNkNg6kaG/33797
-#EXTINF:-1,Digi Sport 4 🇷🇴
-http://europatv.sytes.net:8008/Cristian@Roman/hMNkNg6kaG/33803
-
-#EXTINF:-1,Tennis Channel HD
-http://181.114.57.246:4000/play/CuhCF3z5UqBQAt54/index.m3u8
-
 #EXTINF:-1 tvg-id="MUTV.HD.uk" group-title="Sports Live Events" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/MUTV.webp",MUTV 🇬🇧
 https://bit.ly/3FTAN4y?profile=inspirationFreetv.m3u8
 #EXTINF:-1 tvg-id="MUTV.HD.uk" group-title="Sports Live Events" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/MUTV.webp",MUTV 🇬🇧
@@ -1036,28 +891,12 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="ESBC410000577" group-title="Sports Live Events" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",tdp 🇪🇸
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 
-#EXTINF:-1 tvg-name="Dazn 1" tvg-id="DAZN.1.fr" group-title="Sports Live Events" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DAZN%201.webp",Dazn 1 🇫🇷
-#EXTVLCOPT:http-referrer=https://eyespeeled.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0
-https://theiheizoogh4e.eyespeeled.click/hls/37b86794f6e42f15-9dcfefad4499caf1627c13299c6028207ec0e2542e26d75df3ff7837daae302e/live.m3u8
-
-#EXTINF:-1 tvg-id="DAZN.F1.es" tvg-name="" group-title="Sports Live Events" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DAZN%20F1.webp",DAZN F1 🇪🇸
-http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/33523
-#EXTINF:-1 tvg-id="DAZN.F1.es" tvg-name="" group-title="Sports Live Events" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DAZN%20F1.webp",DAZN F1 🇪🇸
-http://streamsy.online:2999/live/coachj88/N93DPKS9pJ/1650.ts
 
 #EXTINF:-1 tvg-id="ESPN.Premium.HDTV.(Chile).(FOXSP1HD).cl" tvg-name="" group-title="Sports Live Events" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DAZN%20F1.webp",ESPN Premium 🇨🇱
 http://45.184.87.142:8000/play/a045
 
 #EXTINF:0,NHL Network  🇺🇸
 http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-name="" group-title="Sports Live Events" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Nba.webp",NBA Live 🇺🇸 🏀 
-https://cloudserve.world/live/stream_nba4.m3u8
-#EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-name="" group-title="Sports Live Events" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Nba.webp",NBA 🇺🇸 🏀 
-http://49.0.64.96:8007/NBA
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" tvg-name="" group-title="Sports Live Events" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BeinSports.webp",bein Sport 1 🇫🇷
-http://51.178.65.238/BeinSport/mono.m3u8
 
 #EXTINF:-1 tvg-id="V.Sport.Vinter.se" tvg-name="" group-title="Sports Live Events" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png",V Sport Vinter 🇸🇪
 http://62.210.211.188:2095/play/a00q
@@ -1080,30 +919,13 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.Deportes.en.Español.HDTV.(U.S.).(FXDEHD).us" group-title="Sports Live Events" tvg-logo="https://www.foxdeportes.com/assets/images/logo/FoxDeportes.png",Fox Deportes 🇲🇽
 http://watch-myjokertv.xyz:8080/play/bOpa-hjIZjH1UJfV_cJSZcWWMaslMThxFXyrwzCTykmZYdHbFWNLcwvpkBk_kkyt/m3u8
 
-#EXTINF:-1 tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" group-title="Sports Live Events" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png",TUDN 🇺🇸🇲🇽
-http://home-playtv.com:8080/live/ArianLatino/EEtduxpDYqNh/166029.m3u8
-#EXTINF:-1 tvg-id="Tu.Deportes.Network.(TUDN).México.(TUDN).pa" group-title="Sports Live Events" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png",TUDN 🇲🇽
-http://181.78.105.146:8800/play/a07e
-
 #EXTINF:-1 tvg-id="TyCSports.ar" group-title="Sports Live Events" tvg-logo="https://play-lh.googleusercontent.com/lMZ8IE19zdpnlDuZSPtapCYDBDwOGXlovEMsZHXClDzl0m_MHuMM1Hsdo-oohnFW3Q",TYC Sports Play 🇦🇷
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="Canal.Tigo.Sports.(El.Salvador).sv" group-title="Sports Live Events" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A",Tigo Sports 🇭🇳
-http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/78408
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports Live Events" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/2.png",Turkmenistan Sport 🇹🇲
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports Live Events" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/2.png",Turkmenistan Sport 🇹🇲
-http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport.1.es" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇪🇸 
 http://185.189.225.157/EuroSport1/index.m3u8 
 #EXTINF:-1 tvg-id="EUROSPORT.1.BRITISH.eurosport" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇬🇧 
 http://62.210.123.134:98/live/an75d/75d/144.ts
-#EXTINF:-1 tvg-id="Eurosport.1.de" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇩🇪
-http://160.19.94.16:8080/OneTr_Yeni/jRqwpep3peB642/10234
-#EXTINF:-1 tvg-id="Eurosport.1.de" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇩🇪
-http://160.19.94.16:8080/Nedzad_newLine/An35Zkb5kUQp/17601
 #EXTINF:-1 tvg-id="EUROSPORT.1.BRITISH.eurosport" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇷🇺🇬🇧 
 http://45.159.74.14:80/Eurosport/playlist.m3u8
 #EXTINF:-1 tvg-id="EUROSPORT.1.POLAND.eurosport" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇵🇱🇬🇧 
@@ -1112,17 +934,11 @@ http://109.233.89.166/Eurosport_1_HD/mono.m3u8
 http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="EUROSPORT.1.ITALY.eurosport" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇮🇹
 http://4k4.klmvhn20.com:8080/play/live.php?mac=00:1A:79:C4:2E:77&stream=403774&extension=ts
-#EXTINF:-1 tvg-id="Eurosport.1.tr" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇹🇷
-https://lives.anystreamrectv3.live/live/euro1.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport.2.es" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇪🇸 
 http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport.2.es" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇪🇸 
 https://nxt.plus:8443/live/olmos/1234guz/59830.ts
-#EXTINF:-1 tvg-id="Eurosport.2.de" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇩🇪
-http://160.19.94.16:8080/OneTr_Yeni/jRqwpep3peB642/17602
-#EXTINF:-1 tvg-id="Eurosport.2.de" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇩🇪
-http://160.19.94.16:8080/Nedzad_newLine/An35Zkb5kUQp/1546
 #EXTINF:-1 tvg-id="EUROSPORT.2.ITALY.eurosport" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇮🇹
 http://4k4.klmvhn20.com:8080/play/live.php?mac=00:1A:79:C4:2E:77&stream=403775&extension=ts
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇬🇧 
@@ -1130,23 +946,8 @@ http://62.210.123.134:98/live/an75d/75d/145.ts
 #EXTINF:-1 tvg-id="EUROSPORT.2.POLAND.eurosport" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇵🇱🇬🇧
 http://109.233.89.166/Eurosport_2_HD/mono.m3u8
 
-#EXTINF:-1 tvg-id="GBBA33000529G" tvg-name="" group-title="Tennis 🎾🏓🏸" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/GBBA33000529G_20220323T071122.png",Tennis Channel Internacional 🇺🇸
-https://bit.ly/3q3zsn6?GBBA33000529G.m3u8
-
-#EXTINF:-1 tvg-id="USBC600001QL" tvg-name="" group-title="Tennis 🎾🏓🏸" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f03c74c1-e873-4346-beb0-804372660176/T2_1_1500_x_1000___Logo_Dark_BG_-_Ari_Brock.png",T2 🇺🇸
-https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="" group-title="Tennis 🎾🏓🏸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tennistv.webp",Tennis tv 🇺🇸
 http://49.0.64.96:8007/TENNIS
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" tvg-name="" group-title="Tennis 🎾🏓🏸" tvg-logo="https://provider-static.plex.tv/epg/cms/production/830c9987-f7cf-4f21-8da2-3a834c5ac4a9/plex-key-art-169_-_Douglas_Neiman-HOR.jpg",Court Sports Network 🇺🇸
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=K-HyLCQTv1uZxxx7nCmn
-
-#EXTINF:-1 tvg-id="USBD4200016QR" tvg-name="" group-title="Tennis 🎾🏓🏸" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200016QR_20240520T220130SQUARE.png",Pickleball TV 🇺🇸
-https://dk9k3t9vof80w.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xb3418xn33is1/f4a57903-030c-4127-b76f-6ec52a9b1def/3.m3u8
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759" tvg-name="" group-title="Tennis 🎾🏓🏸" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ba118cb3-d9ba-43b8-8020-049dd0a4e037/PickleTV_1920x1080_5_Official_PickleTV_Casey_Murawski.jpg",PickleTV 🇺🇸
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=KXA5op6UMSqtQFs3STc3
 
 #EXTINF:0,Diema Sport 🇷🇴
 http://raalbatros.serv00.net/Gledai.php?ID=diemasport
@@ -1156,29 +957,13 @@ http://raalbatros.serv00.net/Gledai.php?ID=diemasport2
 http://raalbatros.serv00.net/Gledai.php?ID=diemasport3
 #EXTINF:0,Nova Sport
 http://raalbatros.serv00.net/Gledai.php?ID=novasport
-#EXTINF:0,Eurosport 1
-http://raalbatros.serv00.net/Gledai.php?ID=eurosport
-#EXTINF:0,Eurosport 2
-http://raalbatros.serv00.net/Gledai.php?ID=eurosport2
 #EXTINF:0,Max Sport 1
 http://raalbatros.serv00.net/Gledai.php?ID=maxsport1
 #EXTINF:0,Max Sport 2
 http://raalbatros.serv00.net/Gledai.php?ID=maxsport2
 #EXTINF:0,Max Sport 3
 http://raalbatros.serv00.net/Gledai.php?ID=maxsport3
-#EXTINF:0,Max Sport 4
-http://raalbatros.serv00.net/Gledai.php?ID=maxsport4
 
-#EXTINF:-1,Arena Sport 1
-http://46.240.130.158/Arena1/index.m3u8?token=test
-#EXTINF:-1,Arena Sport 2
-http://46.240.130.158/Arena2/index.m3u8?token=test
-#EXTINF:-1,Arena Sport 3
-http://46.240.130.158/Arena3/index.m3u8?token=test
-#EXTINF:-1,Arena Sport 4
-http://46.240.130.158/Arena4/index.m3u8?token=test
-#EXTINF:-1,Arena Sport 5
-http://46.240.130.158/Arena5/index.m3u8?token=test
 #EXTINF:-1,Arena Sport 1 RS
 http://109.105.201.198/ARENASPORT1/index.m3u8?token=test
 #EXTINF:-1,Arena Sport 2 RS
@@ -1192,8 +977,6 @@ http://109.105.201.198/MAXSPORT1HR/video.m3u8?token=test
 
 #EXTINF:-1,Rai Sport + HD 🇮🇹
 http://188.60.179.180:8000/play/xxRaiSportPlusHDxx
-#EXTINF:-1 tvg-id="RaiSport.it" group-title="𝙞𝙩𝙖𝙡𝙮 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiSport.webp",Rai Sport 🇮🇹
-http://45.65.112.49:8000/play/a0ma
 #EXTINF:-1,SPORT1 🇩🇪
 http://188.60.179.180:8000/play/a04g
 #EXTINF:-1,SPORT1+ 🇩🇪
@@ -1221,9 +1004,6 @@ http://176.65.146.108:8022/play/a063/index.m3u8
 http://176.65.146.108:8022/play/a06r/index.m3u8
 #EXTINF:-0, DAZN 2 HD
 http://176.65.146.108:8022/play/a072/index.m3u8
-
-#EXTINF:-0, PRIMA SPORT 1 🇷🇴
-http://193.106.124.204:8002/play/a01l
 
 #EXTINF:-1,Polsat Sport 1 PL  🇵🇱
 https://cdn-nvm-chicago3.lolokoko.tv/polsatsport.stream/chunks.m3u8
@@ -1368,89 +1148,10 @@ http://185.236.229.62:9981/play/a02k
 #EXTINF:-1,Super Polsat HD
 http://185.236.229.62:9981/play/a043
 
-#EXTINF:-1 group-title="-" tvg-id="4d4690810c7d211eeca85982d7c2df78",Sky Sports F1
-http://92.114.85.72:8000/play/a0ie
-#EXTINF:-1 group-title="-" tvg-id="a0cf957335b790f419e905da70457360",Sky Sports Football
-http://92.114.85.72:8000/play/a0id
-#EXTINF:-1 group-title="-" tvg-id="871e6135c3cb6f00fa2b2c0175816868",Sky Sports Golf
-http://92.114.85.72:8000/play/a0ig
-#EXTINF:-1 group-title="-" tvg-id="75dcd0c7190750a4c6dada61a6389c5a",Sky Sports Main Event
-http://92.114.85.72:8000/play/a0j0
-#EXTINF:-1 group-title="-" tvg-id="26957ece8cceeb5d0be5e26ec0085ccd",Sky Sports Mix
-http://92.114.85.72:8000/play/a0il
-#EXTINF:-1 group-title="-" tvg-id="ed89240dcee5356b30360d0aabf6b5f2",Sky Sports NFL
-http://92.114.85.72:8000/play/a0ir
-#EXTINF:-1 group-title="-" tvg-id="1c69b8e15e13714678b3eba3dcb0a932",Sky Sports News
-http://92.114.85.72:8000/play/a0ip
-#EXTINF:-1 group-title="-" tvg-id="0fd8d60e76b19aa1fe8d9280135b4b10",Sky Sports Premier League
-http://92.114.85.72:8000/play/a0iu
-#EXTINF:-1 group-title="-" tvg-id="fd4c90e3cef8de664956149c8944fd7a",Sky Sports Tennis
-http://92.114.85.72:8000/play/a0ix
-#EXTINF:-1 group-title="-" tvg-id="7d52b69f06ef5406b4fe7de8407059c2",Sky Sports+
-http://92.114.85.72:8000/play/a0iz
-#EXTINF:-1 group-title="-" tvg-id="a7bc6848c617deba8a8d1e2a536d4a42",Sky Witness
-http://92.114.85.72:8000/play/a0i3
-#EXTINF:-1 group-title="-" tvg-id="fe9036ccd74dacf69259554cd3e61d51",Sky Witness +1
-http://92.114.85.72:8000/play/a0i4
-#EXTINF:-1 group-title="-",SkySp Racing
-http://92.114.85.72:8000/play/a08r
-
-
 #EXTINF:-1,Sport italia plus 🇮🇹
 http://46.232.186.35:35001/play/a01k
 #EXTINF:-1,Super tennis 🇮🇹
 http://46.232.186.35:35001/play/a01o
-
-#EXTINF:-1,O2 Futbal HD 🇨🇿
-http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/112548
-#EXTINF:-1,Spiler TV HD 🇭🇺
-http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/110235
-#EXTINF:-1,M4 Sport HD 🇭🇺
-http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/110261
-#EXTINF:-1,Match 4 HD 🇭🇺
-http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/110243
-#EXTINF:-1,Sky sport premier league HD 🇬🇧
-http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/25334
-#EXTINF:-1,Sky sport football HD 🇬🇧
-http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/20289
-#EXTINF:-1,Sky sports arena HD 🇬🇧
-http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/20293
-#EXTINF:-1,Ziggo sport 1 HD NL
-http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/1452
-#EXTINF:-1,Ziggo sport 2 HD NL
-http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/1455
-#EXTINF:-1,Ziggo sport 3 HD NL
-http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/1458
-#EXTINF:-1,Ziggo sport 4 HD NL
-http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/1459
-#EXTINF:-1,Ziggo sport 5 HD NL
-http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/1464
-#EXTINF:-1,Ziggo sport 6 HD NL
-http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/1456
-#EXTINF:-1,Digi Sport 1 🇷🇴
-http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/4681
-#EXTINF:-1,Digi Sport 2 🇷🇴
-http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/4682
-#EXTINF:-1,Digi Sport 3 🇷🇴
-http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/4683
-#EXTINF:-1,Digi Sport 4 🇷🇴
-http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/4684
-#EXTINF:-1,Sky sport 1 HD AT
-http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/20858
-#EXTINF:0,Max Sport 1 BG
-http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/112248
-#EXTINF:0,Max Sport 2 BG
-http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/112249
-#EXTINF:0,Max Sport 3 BG
-http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/112250
-#EXTINF:0,Max Sport 4 BG
-http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/112251
-#EXTINF:0,Diema Sport 1 BG
-http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/112254
-#EXTINF:0,Diema Sport 2 BG
-http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/112256
-#EXTINF:0,Diema Sport 3 BG
-http://kjhgfd.com:80/Enver.zaskoku/Enver123Sagajdufhejsjsndjcxbdjeueusiajdjrueusj/112258
 
 #EXTINF:-1,SkySp MainEvent
 http://54.36.162.3/skspmainevent/index.m3u8
