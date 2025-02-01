@@ -1319,6 +1319,422 @@ http://92.114.85.81:8000/play/a011/index.m3u8
 #EXTINF:-1,Sky News Australia
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/VnCcH73.png" tvg-id="BloombergTelevision.us" group-title="USA",Bloomberg
+
+#EXTINF:0,SK: Dajto
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500269
+#EXTINF:0,SK: Doma
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500270
+#EXTINF:0,SK: Duck TV
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500271
+#EXTINF:0,SK: FashionTV
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500272
+#EXTINF:0,SK: FilmBox
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500273
+#EXTINF:0,SK: FilmBox Extra
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500274
+#EXTINF:0,SK: FilmBox Family
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500275
+#EXTINF:0,SK: FilmBox Premium
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500276
+#EXTINF:0,SK: FilmBox Stars
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500277
+#EXTINF:0,SK: HBO 2
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500278
+#EXTINF:0,SK: Jednotka TV (RTVS 1)
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500279
+#EXTINF:0,SK: Joj Cinema
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500280
+#EXTINF:0,SK: Joj Family
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500281
+#EXTINF:0,SK: Joj Plus
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500282
+#EXTINF:0,SK: Life TV
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500283
+#EXTINF:0,SK: Markiza International
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500284
+#EXTINF:0,SK: Minimax
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500285
+#EXTINF:0,SK: RTVS 2
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500286
+#EXTINF:0,SK: RTVS 24
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500287
+#EXTINF:0,SK: RTVS Šport
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500288
+#EXTINF:0,SK: Régió TV
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500289
+#EXTINF:0,SK: Senzi
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500290
+#EXTINF:0,SK: Televízia OSEM
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500291
+#EXTINF:0,SK: TV Central
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500292
+#EXTINF:0,SK: TV DK
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500293
+#EXTINF:0,SK: TV Doma
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500294
+#EXTINF:0,SK: TV Joj
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500295
+#EXTINF:0,SK: TV Liptov
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500296
+#EXTINF:0,SK: TV LocAll
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500297
+#EXTINF:0,SK: TV Lux
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500298
+#EXTINF:0,SK: TV Markiza
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500299
+#EXTINF:0,SK: TV Nové Zámky
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500300
+#EXTINF:0,SK: TV Povazie
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500301
+#EXTINF:0,SK: TV Raj
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500302
+#EXTINF:0,SK: TV Romana
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500303
+#EXTINF:0,SK: TV Ruzinov
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500304
+#EXTINF:0,SK: TVT
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500305
+#EXTINF:0,SK: Wau TV
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500306
+#EXTINF:0,SK: Óčko
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500307
+#EXTINF:0,SK: Óčko Expres
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500308
+#EXTINF:0,SK: Óčko Star
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/500309
+#EXTINF:0,CZ: Ocko
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332949
+#EXTINF:0,CZ: Ocko Expres
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332950
+#EXTINF:0,CZ: Ocko Gold
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332951
+#EXTINF:0,CZ: Rebel
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332952
+#EXTINF:0,CZ: Retro Music TV
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332953
+#EXTINF:0,CZ: CT Sport
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332954
+#EXTINF:0,CZ: Eurosport 1
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332955
+#EXTINF:0,CZ: Eurosport 2
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332956
+#EXTINF:0,CZ: Nova Sport 1
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332958
+#EXTINF:0,CZ: Nova Sport 2
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332959
+#EXTINF:0,CZ: Nova Sport 3
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332960
+#EXTINF:0,CZ: Nova Sport 4
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332961
+#EXTINF:0,CZ: Sport 1
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332962
+#EXTINF:0,CZ: Sport 2
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332963
+#EXTINF:0,CZ: CT 24
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332964
+#EXTINF:0,CZ: Boomerang
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332965
+#EXTINF:0,CZ: Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332966
+#EXTINF:0,CZ: Duck TV
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332967
+#EXTINF:0,CZ: JimJam
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332968
+#EXTINF:0,CZ: Jojko
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332969
+#EXTINF:0,CZ: Minimax
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332970
+#EXTINF:0,CZ: Nick Jr
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332971
+#EXTINF:0,CZ: nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332972
+#EXTINF:0,CZ: CS Mystery
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332973
+#EXTINF:0,CZ: Discovery World
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332974
+#EXTINF:0,CZ: History
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332975
+#EXTINF:0,CZ: NAT GEO
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332976
+#EXTINF:0,CZ: Spektrum
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332977
+#EXTINF:0,CZ: Viasat Explore
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332978
+#EXTINF:0,CZ: Viasat History
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332979
+#EXTINF:0,CZ: CT 1
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332980
+#EXTINF:0,CZ: CT 2
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332981
+#EXTINF:0,CZ: CT :D
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332982
+#EXTINF:0,CZ: FashionTV
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332983
+#EXTINF:0,CZ: Fine Living
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332984
+#EXTINF:0,CZ: Joj Family
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332985
+#EXTINF:0,CZ: Joj Plus
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332986
+#EXTINF:0,CZ: Kino Barrandov
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332987
+#EXTINF:0,CZ: Krimi Barrandov
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332988
+#EXTINF:0,CZ: Markiza International
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332989
+#EXTINF:0,CZ: Mnam TV
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332990
+#EXTINF:0,CZ: Nova
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332991
+#EXTINF:0,CZ: Nova 2
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332992
+#EXTINF:0,CZ: Nova Cinema
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332993
+#EXTINF:0,CZ: Nova Gold
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332994
+#EXTINF:0,CZ: Nova International
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332995
+#EXTINF:0,CZ: Nove Zamky
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332996
+#EXTINF:0,CZ: Relax
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332997
+#EXTINF:0,CZ: Senzi
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332998
+#EXTINF:0,CZ: Televize Natura
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332999
+#EXTINF:0,CZ: TV Barrandov
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333000
+#EXTINF:0,CZ: TV DK
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333001
+#EXTINF:0,CZ: TV Joj
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333002
+#EXTINF:0,CZ: TV Lux
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333003
+#EXTINF:0,CZ: TV Markiza
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333004
+#EXTINF:0,CZ: TV Paprika
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333005
+#EXTINF:0,CZ: Wau TV
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333006
+#EXTINF:0,CZ: AXN BLACK
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333007
+#EXTINF:0,CZ: Elektrika TV
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333008
+#EXTINF:0,CZ: Nastoyashcheye Vremya (Current Time)
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333009
+#EXTINF:0,CZ: Polar TV
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333010
+#EXTINF:0,CZ: Praha TV
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333011
+#EXTINF:0,CZ: Reduta
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333012
+#EXTINF:0,CZ: TV Noe
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333013
+#EXTINF:0,CZ: TV Osem
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333014
+#EXTINF:0,CZ: TV Povazie
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333015
+#EXTINF:0,CZ: TV Romana
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333016
+#EXTINF:0,CZ: TV Ruzinov
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333017
+#EXTINF:0,CZ: Východočeská TV (vzpravy.cz)
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333018
+#EXTINF:0,CZ: Zak TV
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333019
+#EXTINF:0,CZ: ANIMAL PLANET
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333020
+#EXTINF:0,CZ: NAT GEO Wild
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333021
+#EXTINF:0,CZ: The Fishing & Hunting Channel
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333022
+#EXTINF:0,CZ: Viasat Nature
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333023
+#EXTINF:0,CZ: AMC
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333024
+#EXTINF:0,CZ: AXN
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333025
+#EXTINF:0,CZ: Cinemax
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333026
+#EXTINF:0,CZ: CS Film
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333027
+#EXTINF:0,CZ: Dajto
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333028
+#EXTINF:0,CZ: Epic Drama
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333029
+#EXTINF:0,CZ: Film Europe
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333030
+#EXTINF:0,CZ: FilmBox Extra
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333031
+#EXTINF:0,CZ: Filmbox Family
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333032
+#EXTINF:0,CZ: FilmBox Premium
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333033
+#EXTINF:0,CZ: HBO
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333034
+#EXTINF:0,CZ: HBO 2
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333035
+#EXTINF:0,CZ: HBO 3
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333036
+#EXTINF:0,CZ: Joj Cinema
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333037
+#EXTINF:0,CZ: Nova Action
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333038
+#EXTINF:0,CZ: Prima
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333039
+#EXTINF:0,CZ: Prima Comedy Central
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333040
+#EXTINF:0,CZ: Prima Cool
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333041
+#EXTINF:0,CZ: Prima Krimi
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333042
+#EXTINF:0,CZ: Prima Love
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333043
+#EXTINF:0,CZ: Prima Max
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333044
+#EXTINF:0,CZ: Prima Plus
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333045
+#EXTINF:0,CZ: Prima Zoom
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333046
+
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="CNNInternationalEurope.us" group-title="News",CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
