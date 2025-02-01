@@ -103,8 +103,7 @@ http://78.130.250.2:8023/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-id="JOJCinema" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/jojcinema.png" group-title="Filmy a seriály / Movies and serials",JOJ Cinema HD
 http://88.212.15.27/live/test_joj_cinema_25p/playlist.m3u8
-http://348110998266968494.ofxn1112.xyz:80/live/zh917087/utFFceNB@SQ/968513.ts
-http://88.212.15.27/live/test_joj_cinema_25p/playlist.m3u8
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333037
 #EXTINF:-1 tvg-id="HBO" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/hbo.png" group-title="Filmy a seriály / Movies and serials",HBO HD
 http://78.130.250.2:8023/play/a02s/index.m3u8
 http://88.212.15.27/live/test_hbo_hd_hevc/playlist.m3u8
@@ -176,6 +175,12 @@ http://88.212.15.27/live/test_ngw/playlist.m3u8
 http://88.212.15.27/live/test_spektrum/playlist.m3u8
 #EXTINF:-1 tvg-id="SpektrumHome(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/spektrumhome.png" group-title="Dokumentární / Documents",Spektrum Home HD
 http://88.212.15.27/live/test_home_hevc/playlist.m3u8
+#EXTINF:0,CZ: Viasat Explore
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332978
+#EXTINF:0,CZ: Viasat History
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332979
 #EXTINF:-1 tvg-id="HistoryChannel(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/history.png" group-title="Dokumentární / Documents",History HD
 http://88.212.15.27/live/test_history/playlist.m3u8
 #EXTINF:-1 tvg-id="CShistory" tvg-name="CShistory " tvg-logo="http://46.36.40.22/1023/cshistory.png" group-title="Dokumentárne",CS History
@@ -188,6 +193,7 @@ http://78.130.250.2:8023/play/a032/index.m3u8
 http://88.212.15.27/live/test_fishing_hunting/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPaprika(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvpaprika.png" group-title="Vaření / Cooking",TV Paprika HD
 http://88.212.15.27/live/test_parpika_tv_sd_hevc/playlist.m3u8
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/333005
 #EXTINF:-1 tvg-id="Crime and Investigation" tvg-name="Sat crime invest" tvg-logo="http://46.36.40.22/1023/crimeandinvestigation.png" group-title="Dokumentárne",Crime and Investigation
 http://88.212.15.27/live/test_cai_hevc/playlist.m3u8
 #EXTINF:0,ID HD
@@ -196,6 +202,10 @@ http://88.212.15.27/live/test_id_hevc_atktv/playlist.m3u8
 http://88.212.15.27/live/test_tlc_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="Up network" tvg-name="Up network" tvg-logo="http://46.36.40.22/1023/Upnetwork.png" group-title="Dokumentárne",Up network
 http://88.212.15.27/live/test_upnetwork/playlist.m3u8
+#EXTINF:0,CZ: Fine Living
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332984
+
 
 #EXTINF:-1 tvg-id="Jojko(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/815-jojko-hd.png" group-title="Detské",Jojko HD
 http://88.212.15.27/live/test_jojko_25p/playlist.m3u8
@@ -352,6 +362,7 @@ http://88.212.15.27/live/test_arenasport_dva/playlist.m3u8
 
 #EXTINF:-1,Eurosport 1 HD
 http://194.160.135.34:8088/udp/233.10.47.64:1234
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332955
 #EXTINF:-1,Eurosport 2 HD
 http://194.160.135.34:8088/udp/233.10.47.65:1234
 #EXTINF:-1,Eurosport 1 HD 🇬🇧 🇷🇺
@@ -1227,6 +1238,79 @@ https://donelfantastic.github.io/live/skysportsNz7.m3u8
 https://donelfantastic.github.io/live/skysportsNz8.m3u8
 #EXTINF:-1,Sky Sport 9
 https://donelfantastic.github.io/live/skysportsNz9.m3u8
+
+#EXTINF:-1,Canal+ Sport 2 PL
+https://cdn-nvm-chicago2.lolokoko.tv/canalplussport2.stream/chunks.m3u8
+#EXTINF:-1,Canal+ Sport 4 PL
+https://cdn-nvm-chicago2.lolokoko.tv/canalplussport4.stream/chunks.m3u8
+#EXTINF:-1,Euro Sport 1
+https://cdn-nvm-chicago2.lolokoko.tv/Eurosport1.stream/chunks.m3u8
+#EXTINF:-1,Euro Sport 2
+https://cdn-nvm-chicago2.lolokoko.tv/Eurosport2.stream/chunks.m3u8
+#EXTINF:-1,Fightbox HD
+https://cdn-nvm-chicago2.lolokoko.tv/Fightbox.stream/chunks.m3u8
+#EXTINF:-1,Eleven Sports 1
+https://cdn-nvm-chicago2.lolokoko.tv/elevensports1.stream/chunks.m3u8
+#EXTINF:-1,Eleven Sports 2
+https://cdn-nvm-chicago2.lolokoko.tv/elevensports2.stream/chunks.m3u8
+#EXTINF:-1,Eleven Sports 2
+https://cdn-nvm-chicago2.lolokoko.tv/elevensports2.stream/chunks.m3u8
+#EXTINF:-1,Eleven Sports 4
+https://cdn-nvm-chicago2.lolokoko.tv/elevensports4.stream/chunks.m3u8
+#EXTINF:-1,Polsat Sport PL
+https://cdn-nvm-chicago2.lolokoko.tv/polsatsport.stream/chunks.m3u8
+#EXTINF:-1,Polsat Sport Extra PL
+https://cdn-nvm-chicago2.lolokoko.tv/polsatsportextra.stream/chunks.m3u8
+#EXTINF:-1,Polsat Sport News PL
+https://cdn-nvm-chicago2.lolokoko.tv/polsatsportnews.stream/chunks.m3u8
+#EXTINF:-1,Super Polsat PL
+http://cdn-global.lolokoko.tv/SuperPolsat.stream/chunks.m3u8
+
+#EXTINF:-1,CanaL Sport TV
+http://146.59.85.40:89/canal2/mpegts
+
+#EXTINF:-1,Spor TV HD
+http://super-cdn.link/sportv/index.m3u8
+#EXTINF:-1,Spor TV 2 HD
+http://super-cdn.link/sportv2/index.m3u8
+#EXTINF:-1,Spor TV 3 HD
+http://super-cdn.link/sportv3/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 1 HD
+https://super-cdn.link/espn/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 2 HD
+https://super-cdn.link/espn2/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 3 H
+https://super-cdn.link/espn3/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 4 HD
+https://super-cdn.link/espn4/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 5 HD
+https://super-cdn.link/espn5/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 6 HD
+https://super-cdn.link/espn6/index.m3u8
+#EXTINF:-1 tvg-id="Combate HD
+https://super-cdn.link/combate/index.m3u8
+#EXTINF:-1 tvg-id="Band Sport HD
+https://super-cdn.link/bandsports/index.m3u8
+
+#EXTINF:0,CZ: Nova Sport 1
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332958
+#EXTINF:0,CZ: Nova Sport 2
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332959
+#EXTINF:0,CZ: Nova Sport 3
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332960
+#EXTINF:0,CZ: Nova Sport 4
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332961
+#EXTINF:0,CZ: Sport 1
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332962
+#EXTINF:0,CZ: Sport 2
+#EXTVLCOPT:network-caching=1000
+http://filex.tv:8080/clotv695-142/ffVNSULvW3/332963
+
 
 #EXTINF:-1 tvg-name="BBC One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/640px-BBC_One_logo_2021.svg.png" tvg-id="BBCOne.uk" group-title="UK",BBC One
 http://92.114.85.81:8000/play/a001/index.m3u8
