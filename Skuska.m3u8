@@ -1267,6 +1267,11 @@ http://cdn-global.lolokoko.tv/SuperPolsat.stream/chunks.m3u8
 #EXTINF:-1,CanaL Sport TV
 http://146.59.85.40:89/canal2/mpegts
 
+#EXTINF:-1,EuroSport 1 HD
+http://92.118.251.84:8080/Eurosport1/index.m3u8
+#EXTINF:-1,EuroSport 2 HD
+http://92.118.251.84:8080/Eurosport2/index.m3u8
+
 #EXTINF:-1,Spor TV HD
 http://super-cdn.link/sportv/index.m3u8
 #EXTINF:-1,Spor TV 2 HD
@@ -2662,7 +2667,8 @@ http://filex.tv:8080/clotv695-142/ffVNSULvW3/495470
 #EXTINF:0,UK: Sky News
 #EXTVLCOPT:network-caching=1000
 http://filex.tv:8080/clotv695-142/ffVNSULvW3/495471
-
+#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="CNNInternationalEurope.us" group-title="News",CNN International
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:0,SK: Dajto
 #EXTVLCOPT:network-caching=1000
@@ -3078,7 +3084,3 @@ http://filex.tv:8080/clotv695-142/ffVNSULvW3/333045
 #EXTINF:0,CZ: Prima Zoom
 #EXTVLCOPT:network-caching=1000
 http://filex.tv:8080/clotv695-142/ffVNSULvW3/333046
-
-https://bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="CNNInternationalEurope.us" group-title="News",CNN International
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
