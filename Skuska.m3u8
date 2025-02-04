@@ -278,10 +278,8 @@ http://45.5.117.182:8000/play/a0f1/index.m3u8
 http://88.212.15.27/live/test_mtv_hits_1200_atk/playlist.m3u8
 #EXTINF:0,Club MTV
 http://185.236.229.62:9981/play/a063
-http://88.212.15.27/live/test_mtv_dance_1200_atk/playlist.m3u8
-#EXTINF:0,MTV Dance
-#EXTVLCOPT:network-caching=1000
 https://dash2.antik.sk/live/test_mtv_dance_1200_atk/playlist.m3u8
+http://88.212.15.27/live/test_mtv_dance_1200_atk/playlist.m3u8
 #EXTINF:0,MTV
 http://194.160.135.34:8088/udp/233.10.47.68:1234
 #EXTINF:0,MTV 00s
