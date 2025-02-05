@@ -121,7 +121,7 @@ http://193.27.90.139:8080/romaniamedia/c726d524bf/23312
 http://88.212.15.27/live/test_white/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmEurope(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmeurope.png" group-title="Filmy a seriály / Movies and serials",Film Europe HD
 http://193.27.90.139:8080/romaniamedia/c726d524bf/295047
-#EXTINF:-1 tvg-id="" tvg-name="CZ: Epic Drama" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/af2445f34a91c397f03790607b5bb2ac.png" group-title="Czech Republic ➾ Movie",CZ: Epic Drama
+#EXTINF:-1 tvg-id="" tvg-name="Epic Drama" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/af2445f34a91c397f03790607b5bb2ac.png" group-title="Czech Republic ➾ Movie",Epic Drama HD
 http://193.27.90.139:8080/romaniamedia/c726d524bf/83386
 #EXTINF:-1,FilmBox Arthouse HD
 https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
@@ -174,7 +174,7 @@ http://88.212.15.27/live/test_history/playlist.m3u8
 http://88.212.15.27/live/test_cs_history_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CSMystery" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/csmystery.png" group-title="Dokumentární / Documents",CS Mystery HD
 http://88.212.15.27/live/test_cs_mystery_avc_25p/playlist.m3u8
-#EXTINF:-1,Fishing and Hunting
+#EXTINF:-1,Fishing and Hunting HD
 http://193.27.90.139:8080/romaniamedia/c726d524bf/295043
 #EXTINF:-1 tvg-id="TVPaprika(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvpaprika.png" group-title="Vaření / Cooking",TV Paprika HD
 http://88.212.15.27/live/test_parpika_tv_sd_hevc/playlist.m3u8
