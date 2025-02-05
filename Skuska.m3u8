@@ -49,7 +49,7 @@ http://193.27.90.139:8080/romaniamedia/c726d524bf/121563
 #EXTINF:-1 tvg-id="CT2" tvg-url="ct2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/HpnGC6A.png" group-title="Všeobecné",CT 2 HD
 http://193.27.90.139:8080/romaniamedia/c726d524bf/170008
 #EXTINF:-1 tvg-id="NovaTV" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nova.png" group-title="Všeobecné",Nova HD
-http://193.27.90.139:8080/romaniamedia/c726d524bf/23335
+http://194.160.135.34:8088/udp/233.10.47.56:1234
 #EXTINF:-1 tvg-id="PrimaTV" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primahd.png" group-title="Všeobecné",Prima HD
 http://193.27.90.139:8080/romaniamedia/c726d524bf/21100
 #EXTINF:-1 tvg-id="NovaCinema" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novacinema.png" group-title="Filmy a seriály / Movies and serials",Nova Cinema HD
@@ -325,11 +325,13 @@ http://193.27.90.139:8080/romaniamedia/c726d524bf/279611
 #EXTINF:-1 tvg-id="NovaSport2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novasport2.png" group-title="Sportovní / Sport",Nova Sport 2 HD
 http://78.130.250.2:8023/play/a004/index.m3u8
 http://146.59.85.40:89/novasport2/mono.m3u8
-#EXTINF:-1,Nova Sports 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="Nova Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/9e84927c960532259bef903a820a7f6a.png" group-title="Czech Republic ➾ Sports",Nova Sport 3 HD
+http://193.27.90.139:8080/romaniamedia/c726d524bf/298867
 http://146.59.85.40:89/novasport3/mono.m3u8
-#EXTINF:-1,Nova Sports 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="Nova Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/29a06e7727a720e6f9fa2e5e92da9da6.png" group-title="Czech Republic ➾ Sports",Nova Sport 4 HD
+http://193.27.90.139:8080/romaniamedia/c726d524bf/298866
 http://146.59.85.40:89/novasport4/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CZ: Nova Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/1b14f0b13c2ce6746983df7ad1426e31.png" group-title="Czech Republic ➾ Sports",CZ: Nova Sport 5
+#EXTINF:-1 tvg-id="" tvg-name="Nova Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/1b14f0b13c2ce6746983df7ad1426e31.png" group-title="Czech Republic ➾ Sports",Nova Sport 5 HD
 http://193.27.90.139:8080/romaniamedia/c726d524bf/306429
 #EXTINF:-1 tvg-id="CanalplusSport(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/picons/master/1024/canalplussport.png" group-title="Sportovní / Sport",CANAL+ Sport HD
 http://78.130.250.2:8023/play/a02v/index.m3u8
