@@ -7,9 +7,7 @@ http://88.212.15.27/live/test_jednotka_25p/playlist.m3u8
 http://194.160.135.34:8088/udp/233.10.47.37:1234
 http://88.212.15.27/live/test_dvojka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Markiza" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/952-markiza-hd.png" group-title="Všeobecné",Markiza HD
-http://194.160.135.34:8088/udp/233.10.47.93:1234
-http://88.212.15.27/live/test_markiza_25p/playlist.m3u8
-https://cdnsk003.panaccess.com/local/Markiza/index.m3u8
+http://193.27.90.139:8080/romaniamedia/c726d524bf/301477
 #EXTINF:-1 tvg-id="JOJ" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/5BAWD0z.png" group-title="Všeobecné",JOJ HD
 http://194.160.135.34:8088/udp/233.10.47.13:1234
 http://194.160.135.34:8088/udp/233.10.47.7:1234
@@ -27,12 +25,9 @@ https://cdnsk003.panaccess.com/local/Markiza_krimi/index.m3u8
 #EXTINF:-1 tvg-id="MARKIZAKLASIK" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://img.telkac.zoznam.sk/data/images/channel/2024/07/17/image_new_227.thumb.png" group-title="Všeobecné",Markiza Klasik HD
 https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8
 #EXTINF:-1 tvg-id="JOJPLUS" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/fKPliTj.png" group-title="Všeobecné",JOJ Plus HD
-http://194.160.135.34:8088/udp/233.10.47.8:1234
-http://88.212.15.27/live/test_pluska_25p/playlist.m3u8
+http://193.27.90.139:8080/romaniamedia/c726d524bf/301467
 #EXTINF:-1 tvg-id="Wau" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/wO5ifff.png" group-title="Všeobecné",WAU HD
-http://194.160.135.34:8088/udp/233.10.47.32:1234
-http://194.160.135.34:8088/udp/233.10.47.6:1234
-http://88.212.15.27/live/test_wau_25p/playlist.m3u8
+http://193.27.90.139:8080/romaniamedia/c726d524bf/18431
 
 #EXTINF:-1 tvg-name="TA3" tvg-logo="https://i.imgur.com/kPFBxc9.png" tvg-id="TA3.sk" group-title="Všeobecné",TA3
 http://149.100.19.130:8001/play/a00s/index.m3u8
@@ -52,16 +47,13 @@ http://88.212.15.27/live/test_ct24_hevc/playlist.m3u8
 http://88.212.15.27/live/test_cnn_pirma_news/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CT1" tvg-url="ct1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/qBlEbN3.png" group-title="Všeobecné",CT 1 HD
-http://194.160.135.34:8088/udp/233.10.47.14:1234
-http://149.100.19.130:8001/play/a003/index.m3u8
-http://88.212.15.27/live/test_ct1_25p/playlist.m3u8
+http://193.27.90.139:8080/romaniamedia/c726d524bf/121563
 #EXTINF:-1 tvg-id="CT2" tvg-url="ct2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/HpnGC6A.png" group-title="Všeobecné",CT 2 HD
-http://149.100.19.130:8001/play/a004/index.m3u8
-http://88.212.15.27/live/test_ct2_25p/playlist.m3u8
+http://193.27.90.139:8080/romaniamedia/c726d524bf/170008
 #EXTINF:-1 tvg-id="NovaTV" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nova.png" group-title="Všeobecné",Nova HD
 http://194.160.135.34:8088/udp/233.10.47.56:1234
 #EXTINF:-1 tvg-id="PrimaTV" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primahd.png" group-title="Všeobecné",Prima HD
-http://194.160.135.34:8088/udp/233.10.47.57:1234
+http://193.27.90.139:8080/romaniamedia/c726d524bf/21100
 #EXTINF:-1 tvg-id="NovaCinema" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novacinema.png" group-title="Filmy a seriály / Movies and serials",Nova Cinema HD
 http://78.130.250.2:8023/play/a01y/index.m3u8
 http://194.160.135.34:8088/udp/233.10.47.55:1234
@@ -102,8 +94,7 @@ https://live.cdn.joj.sk/live/andromeda/cs_film-1080.m3u8
 http://78.130.250.2:8023/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-id="JOJCinema" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/jojcinema.png" group-title="Filmy a seriály / Movies and serials",JOJ Cinema HD
-http://88.212.15.27/live/test_joj_cinema_25p/playlist.m3u8
-http://filex.tv:8080/clotv695-142/ffVNSULvW3/333037
+http://193.27.90.139:8080/romaniamedia/c726d524bf/301466
 #EXTINF:-1 tvg-id="HBO" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/hbo.png" group-title="Filmy a seriály / Movies and serials",HBO HD
 http://78.130.250.2:8023/play/a02s/index.m3u8
 http://88.212.15.27/live/test_hbo_hd_hevc/playlist.m3u8
