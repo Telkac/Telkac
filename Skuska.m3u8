@@ -7,7 +7,7 @@ http://88.212.15.27/live/test_jednotka_25p/playlist.m3u8
 http://194.160.135.34:8088/udp/233.10.47.37:1234
 http://88.212.15.27/live/test_dvojka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Markiza" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/952-markiza-hd.png" group-title="Všeobecné",Markiza HD
-http://filex.tv:8080/clotv695-142/ffVNSULvW3/500284
+https://cdnsk003.panaccess.com/local/Markiza/index.m3u8
 #EXTINF:-1 tvg-id="JOJ" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/5BAWD0z.png" group-title="Všeobecné",JOJ HD
 http://194.160.135.34:8088/udp/233.10.47.13:1234
 http://194.160.135.34:8088/udp/233.10.47.7:1234
