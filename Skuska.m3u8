@@ -65,6 +65,8 @@ http://194.160.135.34:8088/udp/233.10.47.57:1234
 #EXTINF:-1 tvg-id="NovaCinema" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novacinema.png" group-title="Filmy a seriály / Movies and serials",Nova Cinema HD
 http://78.130.250.2:8023/play/a01y/index.m3u8
 http://194.160.135.34:8088/udp/233.10.47.55:1234
+#EXTINF:-1 tvg-id="" tvg-name="Nova 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/4a4e9dc53647d38432ba602213b90e96.jpg" group-title="Czech Republic ➾ LifeStyle",Nova 2 HD
+http://193.27.90.139:8080/romaniamedia/c726d524bf/285317
 #EXTINF:-1 tvg-id="NOVAACTION" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novaaction.png" group-title="Filmy a seriály / Movies and serials",Nova Action HD
 http://194.160.135.34:8088/udp/233.10.47.54:1234
 #EXTINF:-1 tvg-id="NovaFUN" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novafun.png" group-title="Filmy a seriály / Movies and serials",Nova Fun HD
@@ -102,6 +104,7 @@ https://live.cdn.joj.sk/live/andromeda/cs_film-1080.m3u8
 http://78.130.250.2:8023/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-id="JOJCinema" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/jojcinema.png" group-title="Filmy a seriály / Movies and serials",JOJ Cinema HD
+http://193.27.90.139:8080/romaniamedia/c726d524bf/301466
 http://88.212.15.27/live/test_joj_cinema_25p/playlist.m3u8
 http://filex.tv:8080/clotv695-142/ffVNSULvW3/333037
 #EXTINF:-1 tvg-id="HBO" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/hbo.png" group-title="Filmy a seriály / Movies and serials",HBO HD
@@ -339,6 +342,18 @@ http://78.130.250.2:8023/play/a02u/index.m3u8
 http://88.212.15.27/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/sport2.png" group-title="Sportovní / Sport",Sport 2 HD
 http://88.212.15.27/live/test_sport_2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Nova Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/e10dfe9bb607e5f45f2a77088f02077c.png" group-title="Czech Republic ➾ Sports",Nova Sport 1 HD
+http://193.27.90.139:8080/romaniamedia/c726d524bf/279611
+#EXTINF:-1 tvg-id="" tvg-name="Nova Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1a7b19a5befb4c38325242e0eff1d0c0.png" group-title="Czech Republic ➾ Sports",Nova Sport 2 HD
+http://193.27.90.139:8080/romaniamedia/c726d524bf/46718
+#EXTINF:-1 tvg-id="" tvg-name="Nova Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/9e84927c960532259bef903a820a7f6a.png" group-title="Czech Republic ➾ Sports",Nova Sport 3 HD
+http://193.27.90.139:8080/romaniamedia/c726d524bf/298867
+#EXTINF:-1 tvg-id="" tvg-name="Nova Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/29a06e7727a720e6f9fa2e5e92da9da6.png" group-title="Czech Republic ➾ Sports",Nova Sport 4 HD
+http://193.27.90.139:8080/romaniamedia/c726d524bf/298866
+#EXTINF:-1 tvg-id="" tvg-name="Nova Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/1b14f0b13c2ce6746983df7ad1426e31.png" group-title="Czech Republic ➾ Sports",Nova Sport 5 HD
+http://193.27.90.139:8080/romaniamedia/c726d524bf/306429
+
 #EXTINF:-1 tvg-id="NovaSport1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/novasport1.png" group-title="Sportovní / Sport",Nova Sport 1 HD
 http://194.160.135.34:8088/udp/233.10.47.60:1234
 #EXTINF:-1 tvg-id="NovaSport2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novasport2.png" group-title="Sportovní / Sport",Nova Sport 2 HD
@@ -2614,61 +2629,138 @@ http://filex.tv:8080/clotv695-142/ffVNSULvW3/499803
 #EXTINF:0,AU: Sky News Extra 3
 #EXTVLCOPT:network-caching=1000
 http://filex.tv:8080/clotv695-142/ffVNSULvW3/499804
+#EXTINF:0,231. Матч! Футбол 1 HD
+http://185.129.1.242:80/matchfutbol1hd/mpegts?token=test
+#EXTINF:0,232. Матч! Футбол 2 HD
+http://185.129.1.242:80/matchfutbol2hd/mpegts?token=test
+#EXTINF:0,233. Матч! Футбол 3 HD
+http://185.129.1.242:80/matchfutbol3hd/mpegts?token=test
+#EXTINF:0,234. Матч! Премьер HD
+http://185.129.1.242:80/matchpremierhd/mpegts?token=test
+#EXTINF:0,235. Setanta Sports 1 HD
+http://185.129.1.242:80/setantasports1hd/mpegts?token=test
+#EXTINF:0,236. Setanta Sports 2 HD
+http://185.129.1.242:80/setantasports2hd/mpegts?token=test
+#EXTINF:0,237. EuroSport 1 HD
+http://185.129.1.242:80/eurosport1hd/mpegts?token=test
+#EXTINF:0,238. EuroSport 2 HD
+http://185.129.1.242:80/eurosport2hd/mpegts?token=test
+#EXTINF:0,239. Bein Sports Haber HD
+http://185.129.1.242:80/beinsportshaberhd/mpegts?token=test
+#EXTINF:0,241. BeinSport 4 HD
+http://185.129.1.242/beinsport4hd/mpegts?token=test
 
 
+UZIVO  TV STREAMOVI - 13[ Subscribe to the thread ]
+Beni072
+ 
+Datum: Ponedjeljak, 03.02.2025, 22:09 | Poruka broj: # 9281
+Tom102
+ 
+Datum: Ponedjeljak, 03.02.2025, 22:29 | Poruka broj: # 9282
+Beni072
+ 
+Datum: Utorak, 04.02.2025, 11:29 | Poruka broj: # 9283
+tron7511
+ 
+Datum: Utorak, 04.02.2025, 11:56 | Poruka broj: # 9284
+alb
+Added (04.02.2025, 11:57)
+---------------------------------------------
+uk
+
+Added (04.02.2025, 11:58)
+---------------------------------------------
+ALB BIG BROTHER VIP ALBANIA 1 4K
+
+Added (04.02.2025, 12:00)
+---------------------------------------------
+ALB
+
+Added (04.02.2025, 12:01)
+---------------------------------------------
+EXYU
 
 
-#EXTINF:-1 tvg-name="BBC One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/640px-BBC_One_logo_2021.svg.png" tvg-id="BBCOne.uk" group-title="UK",BBC One
-http://92.114.85.81:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-name="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png" tvg-id="BBCTwo.uk" group-title="UK",BBC Two
-http://92.114.85.81:8000/play/a011/index.m3u8
-#EXTINF:-1,Sky News Australia
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/VnCcH73.png" tvg-id="BloombergTelevision.us" group-title="USA",Bloomberg
-#EXTINF:0,UK: Al Jazeera
-#EXTVLCOPT:network-caching=1000
-http://filex.tv:8080/clotv695-142/ffVNSULvW3/495458
-#EXTINF:0,UK: Aljazeera English
-#EXTVLCOPT:network-caching=1000
-http://filex.tv:8080/clotv695-142/ffVNSULvW3/495459
-#EXTINF:0,UK: BBC News
-#EXTVLCOPT:network-caching=1000
-http://filex.tv:8080/clotv695-142/ffVNSULvW3/495460
-#EXTINF:0,UK: BBC Scotland
-#EXTVLCOPT:network-caching=1000
-http://filex.tv:8080/clotv695-142/ffVNSULvW3/495461
-#EXTINF:0,UK: BBC World News
-#EXTVLCOPT:network-caching=1000
-http://filex.tv:8080/clotv695-142/ffVNSULvW3/495462
-#EXTINF:0,UK: Bloomberg
-#EXTVLCOPT:network-caching=1000
-http://filex.tv:8080/clotv695-142/ffVNSULvW3/495463
-#EXTINF:0,UK: Bloomberg TV Europe
-#EXTVLCOPT:network-caching=1000
-http://filex.tv:8080/clotv695-142/ffVNSULvW3/495464
-#EXTINF:0,UK: CNN
-#EXTVLCOPT:network-caching=1000
-http://filex.tv:8080/clotv695-142/ffVNSULvW3/495465
-#EXTINF:0,UK: euronews
-#EXTVLCOPT:network-caching=1000
-http://filex.tv:8080/clotv695-142/ffVNSULvW3/495466
-#EXTINF:0,UK: France 24
-#EXTVLCOPT:network-caching=1000
-http://filex.tv:8080/clotv695-142/ffVNSULvW3/495467
-#EXTINF:0,UK: GB News
-#EXTVLCOPT:network-caching=1000
-http://filex.tv:8080/clotv695-142/ffVNSULvW3/495468
-#EXTINF:0,UK: RT News
-#EXTVLCOPT:network-caching=1000
-http://filex.tv:8080/clotv695-142/ffVNSULvW3/495469
-#EXTINF:0,UK: RTE News
-#EXTVLCOPT:network-caching=1000
-http://filex.tv:8080/clotv695-142/ffVNSULvW3/495470
-#EXTINF:0,UK: Sky News
-#EXTVLCOPT:network-caching=1000
-http://filex.tv:8080/clotv695-142/ffVNSULvW3/495471
-#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="CNNInternationalEurope.us" group-title="News",CNN International
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### EXYU - SPORT #####" tvg-logo="http://go4.pw/EXYU/exflag.png" group-title="EU | EX-YU",##### EXYU - SPORT #####
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/271569
+#EXTINF:-1 tvg-id="novasport.rs" tvg-name="EXYU - NOVA SPORT" tvg-logo="http://go4.pw/EXYU/NOVA SPORT.png" group-title="EU | EX-YU",EXYU - NOVA SPORT
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/174903
+#EXTINF:-1 tvg-id="SK HD" tvg-name="EXYU - SPORTKLUB HD" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORTKLUB HD
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/74878
+#EXTINF:-1 tvg-id="sportklub1.rs" tvg-name="EXYU - SPORTKLUB 1 HD (SR)" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORTKLUB 1 HD (SR)
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/74879
+#EXTINF:-1 tvg-id="sportklub2.rs" tvg-name="EXYU - SPORTKLUB 2 HD (SR)" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORTKLUB 2 HD (SR)
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/74880
+#EXTINF:-1 tvg-id="sportklub3.rs" tvg-name="EXYU - SPORTKLUB 3 HD (SR)" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORTKLUB 3 HD (SR)
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/74881
+#EXTINF:-1 tvg-id="SK1 HR SD" tvg-name="EXYU - SPORT KLUB 1(HR)" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORT KLUB 1(HR)
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/74882
+#EXTINF:-1 tvg-id="SK2 FHD" tvg-name="EXYU - SPORT KLUB 2 (HR)" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORT KLUB 2 (HR)
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/74883
+#EXTINF:-1 tvg-id="SK3 FHD" tvg-name="EXYU - SPORT KLUB 3 (HR)" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORT KLUB 3 (HR)
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/74884
+#EXTINF:-1 tvg-id="Sport Klub 4" tvg-name="EXYU - SPORT KLUB 4 (HR)" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORT KLUB 4 (HR)
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/74885
+#EXTINF:-1 tvg-id="Sport Klub 5" tvg-name="EXYU - SPORT KLUB 5 (HR)" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORT KLUB 5 (HR)
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/74886
+#EXTINF:-1 tvg-id="Sport Klub 6" tvg-name="EXYU - SPORT KLUB 6 (HR)" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORT KLUB 6 (HR)
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/74887
+#EXTINF:-1 tvg-id="Sport Klub 7" tvg-name="EXYU - SPORT KLUB 7 (HR)" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORT KLUB 7 (HR)
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/74888
+#EXTINF:-1 tvg-id="Sport Klub 8" tvg-name="EXYU - SPORT KLUB 8 (HR)" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORT KLUB 8 (HR)
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/74889
+#EXTINF:-1 tvg-id="Sport Klub 9" tvg-name="EXYU - SPORT KLUB 9 (HR)" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORT KLUB 9 (HR)
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/74890
+#EXTINF:-1 tvg-id="Sport Klub 10" tvg-name="EXYU - SPORT KLUB 10 (HR)" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORT KLUB 10 (HR)
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/74891
+#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA PREMIUM 1" tvg-logo="http://go4.pw/EXYU/arena-sport-1-premium.png" group-title="EU | EX-YU",EXYU - ARENA PREMIUM 1
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/273118
+#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA PREMIUM 2" tvg-logo="http://go4.pw/EXYU/arena-sport-1-premium.png" group-title="EU | EX-YU",EXYU - ARENA PREMIUM 2
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/273119
+#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA PREMIUM 3" tvg-logo="http://go4.pw/EXYU/arena-sport-1-premium.png" group-title="EU | EX-YU",EXYU - ARENA PREMIUM 3
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/273120
+#EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="EXYU - ARENA SPORT 1 BIH" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/arena_sport_rs_1-1.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 1 BIH
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/74892
+#EXTINF:-1 tvg-id="arenasport1.rs" tvg-name="EXYU - ARENA SPORT 1 HD (SR) " tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/arena_sport_rs_1-1.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 1 HD (SR)
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/74893
+#EXTINF:-1 tvg-id="arenasport2.rs" tvg-name="EXYU - ARENA SPORT 2 HD (SR) " tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/arena_sport_rs_2-1.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 2 HD (SR)
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/74894
+#EXTINF:-1 tvg-id="arenasport3.rs" tvg-name="EXYU - ARENA SPORT 3 HD (SR) " tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/arena_sport_rs_3-1.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 3 HD (SR)
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/74895
+#EXTINF:-1 tvg-id="arenasport4.rs" tvg-name="EXYU - ARENA SPORT 4 HD (SR)" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/arena_sport_rs_4-1.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 4 HD (SR)
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/74896
+#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA SPORT 5 HD (SR) " tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/arena_sport_rs_5-1.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 5 HD (SR)
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/267472
+#EXTINF:-1 tvg-id="Arena Sport 1 HR FHD" tvg-name="EXYU - ARENA SPORT 1 HD (HR)" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/arena_sport_rs_1-1.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 1 HD (HR)
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/74897
+#EXTINF:-1 tvg-id="Arena Sport 2 HR FHD" tvg-name="EXYU - ARENA SPORT 2 HD (HR) " tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/arena_sport_rs_2-1.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 2 HD (HR)
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/74898
+#EXTINF:-1 tvg-id="Arena Sport 3 HR FHD" tvg-name="EXYU - ARENA SPORT 3 HD (HR)" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/arena_sport_rs_3-1.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 3 HD (HR)
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/74899
+#EXTINF:-1 tvg-id="Arena Sport 4 HR FHD" tvg-name="EXYU - ARENA SPORT 4 HD" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/arena_sport_rs_4-1.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 4 HD
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/74900
+#EXTINF:-1 tvg-id="Arena Sport 5 HR FHD" tvg-name="EXYU - ARENA SPORT 5 HD (HR)" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/arena_sport_rs_5-1.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 5 HD (HR)
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/74901
+#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA SPORT 6 HD (HR)" tvg-logo="http://go4.pw/EXYU/a-6.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 6 HD (HR)
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/264022
+#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA SPORT 7 HD (HR)" tvg-logo="http://go4.pw/EXYU/a.7.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 7 HD (HR)
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/264023
+#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA SPORT 8 HD (HR)" tvg-logo="http://go4.pw/EXYU/a.8.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 8 HD (HR)
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/264024
+#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA SPORT 9 HD (HR)" tvg-logo="http://go4.pw/EXYU/a.9.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 9 HD (HR)
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/264025
+#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA SPORT 10 HD (HR)" tvg-logo="http://go4.pw/EXYU/a.10.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 10 HD (HR)
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/264026
+#EXTINF:-1 tvg-id="Eurosport 1 FHD" tvg-name="EXYU - EUROSPORT 1 HD" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/EUROSPORT-1.png" group-title="EU | EX-YU",EXYU - EUROSPORT 1 HD
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/77987
+#EXTINF:-1 tvg-id="Eurosport 2 FHD" tvg-name="EXYU - EUROSPORT 2 HD" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/EUROSPORT-1.png" group-title="EU | EX-YU",EXYU - EUROSPORT 2 HD
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/77988
+#EXTINF:-1 tvg-id="Fight Channel" tvg-name="EXYU - FIGHT NETWORK" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/FIGHTNETWORK-1.png" group-title="EU | EX-YU",EXYU - FIGHT NETWORK
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/77989
+#EXTINF:-1 tvg-id="FightBox" tvg-name="EXYU - FIGHTBOX" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/FIGHTBOXHD-1.png" group-title="EU | EX-YU",EXYU - FIGHTBOX
+http://line.4smart.in:80/TYHZRW6/MF7V7X2/77990
+
 
 #EXTINF:0,SK: Dajto
 #EXTVLCOPT:network-caching=1000
