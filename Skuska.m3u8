@@ -195,8 +195,8 @@ http://193.106.124.204:8002/play/a05d
 http://78.130.250.2:8023/play/a032/index.m3u8
 http://88.212.15.27/live/test_fishing_hunting/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPaprika(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvpaprika.png" group-title="Vaření / Cooking",TV Paprika HD
+http://193.27.90.139:8080/romaniamedia/c726d524bf/46721
 http://88.212.15.27/live/test_parpika_tv_sd_hevc/playlist.m3u8
-http://filex.tv:8080/clotv695-142/ffVNSULvW3/333005
 #EXTINF:-1 tvg-id="Crime and Investigation" tvg-name="Sat crime invest" tvg-logo="http://46.36.40.22/1023/crimeandinvestigation.png" group-title="Dokumentárne",Crime and Investigation
 http://88.212.15.27/live/test_cai_hevc/playlist.m3u8
 #EXTINF:0,ID HD
@@ -205,7 +205,7 @@ http://88.212.15.27/live/test_id_hevc_atktv/playlist.m3u8
 http://88.212.15.27/live/test_tlc_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="Up network" tvg-name="Up network" tvg-logo="http://46.36.40.22/1023/Upnetwork.png" group-title="Dokumentárne",Up network
 http://88.212.15.27/live/test_upnetwork/playlist.m3u8
-#EXTINF:0,CZ: Fine Living
+#EXTINF:0,Fine Living
 #EXTVLCOPT:network-caching=1000
 http://filex.tv:8080/clotv695-142/ffVNSULvW3/332984
 
