@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.open-epg.com/files/slovakia1.xml, https://www.open-epg.com/files/slovakia1.xml.gz, https://www.open-epg.com/files/slovakia2.xml, https://www.open-epg.com/files/slovakia2.xml.gz, https://www.open-epg.com/files/slovakia3.xml, https://www.open-epg.com/files/slovakia3.xml.gz"
+#EXTM3U url-tvg="https://www.open-epg.com/files/slovakia1.xml.gz"
 
 #EXTINF:-1 tvg-id="Jednotka" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/T7EWAe7.png" group-title="Všeobecné",Jednotka HD
 http://88.212.15.27/live/test_jednotka_25p/playlist.m3u8
