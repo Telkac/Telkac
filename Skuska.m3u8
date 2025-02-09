@@ -219,6 +219,13 @@ https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
 http://88.212.15.27/live/test_mcm_top_atk_1200/playlist.m3u8
 #EXTINF:0,Mooz Dance HD  🇷🇴
 http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/7056/index.m3u8
+http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/33905
+#EXTINF:0,Magic HD  🇷🇴
+http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/81307
+#EXTINF:0,U tv HD  🇷🇴
+http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/33910
+#EXTINF:0,Music Channel HD  🇷🇴
+http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/33912
 #EXTINF:-1,4fun music tv 🇵🇱
 https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1,4Fun Dance  🇵🇱
@@ -2609,38 +2616,6 @@ http://185.129.1.242:80/beinsportshaberhd/mpegts?token=test
 #EXTINF:0,241. BeinSport 4 HD
 http://185.129.1.242/beinsport4hd/mpegts?token=test
 
-
-UZIVO  TV STREAMOVI - 13[ Subscribe to the thread ]
-Beni072
- 
-Datum: Ponedjeljak, 03.02.2025, 22:09 | Poruka broj: # 9281
-Tom102
- 
-Datum: Ponedjeljak, 03.02.2025, 22:29 | Poruka broj: # 9282
-Beni072
- 
-Datum: Utorak, 04.02.2025, 11:29 | Poruka broj: # 9283
-tron7511
- 
-Datum: Utorak, 04.02.2025, 11:56 | Poruka broj: # 9284
-alb
-Added (04.02.2025, 11:57)
----------------------------------------------
-uk
-
-Added (04.02.2025, 11:58)
----------------------------------------------
-ALB BIG BROTHER VIP ALBANIA 1 4K
-
-Added (04.02.2025, 12:00)
----------------------------------------------
-ALB
-
-Added (04.02.2025, 12:01)
----------------------------------------------
-EXYU
-
-
 #EXTINF:-1 tvg-id="" tvg-name="##### EXYU - SPORT #####" tvg-logo="http://go4.pw/EXYU/exflag.png" group-title="EU | EX-YU",##### EXYU - SPORT #####
 http://line.4smart.in:80/TYHZRW6/MF7V7X2/271569
 #EXTINF:-1 tvg-id="novasport.rs" tvg-name="EXYU - NOVA SPORT" tvg-logo="http://go4.pw/EXYU/NOVA SPORT.png" group-title="EU | EX-YU",EXYU - NOVA SPORT
@@ -2719,6 +2694,23 @@ http://line.4smart.in:80/TYHZRW6/MF7V7X2/77988
 http://line.4smart.in:80/TYHZRW6/MF7V7X2/77989
 #EXTINF:-1 tvg-id="FightBox" tvg-name="EXYU - FIGHTBOX" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/FIGHTBOXHD-1.png" group-title="EU | EX-YU",EXYU - FIGHTBOX
 http://line.4smart.in:80/TYHZRW6/MF7V7X2/77990
+
+#EXTINF:0,RO: DIGI Sport 1 4K
+http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/62775
+#EXTINF:0,RO: DIGI Sport 1
+http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/33796
+#EXTINF:0,RO: DIGI Sport 2 4K
+http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/116132
+#EXTINF:0,RO: DIGI Sport 2
+http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/34069
+#EXTINF:0,RO: DIGI Sport 3 4K
+http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/185269
+#EXTINF:0,RO: DIGI Sport 3
+http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/34071
+#EXTINF:0,RO: DIGI Sport 4
+http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/33803
+#EXTINF:0,RO: Eurosport 4K
+http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/268948
 
 
 #EXTINF:0,SK: Dajto
