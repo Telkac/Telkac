@@ -119,6 +119,8 @@ http://194.160.135.34:8088/udp/233.10.47.62:1234
 https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="Seznam.cz TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/seznamtv.png" group-title="Všeobecné",Seznam.cz TV
 http://88.212.15.27/live/test_seznam_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Spark TV" tvg-name="Up network" tvg-logo="http://46.36.40.22/1023/Upnetwork.png" group-title="Dokumentárne",Spark TV
+http://88.212.15.27/live/test_upnetwork/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nova International.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1-nova-international-hd.png" group-title="Všeobecné",Nova International
 http://194.160.135.34:8088/udp/233.10.47.61:1234
@@ -170,8 +172,6 @@ http://88.212.15.27/live/test_cai_hevc/playlist.m3u8
 http://88.212.15.27/live/test_id_hevc_atktv/playlist.m3u8
 #EXTINF:0,TLC.cz
 http://88.212.15.27/live/test_tlc_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="Up network" tvg-name="Up network" tvg-logo="http://46.36.40.22/1023/Upnetwork.png" group-title="Dokumentárne",Up network
-http://88.212.15.27/live/test_upnetwork/playlist.m3u8
 #EXTINF:0,Fine Living
 #EXTVLCOPT:network-caching=1000
 http://filex.tv:8080/clotv695-142/ffVNSULvW3/332984
