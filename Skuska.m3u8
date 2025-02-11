@@ -22,7 +22,7 @@ http://88.212.15.27/live/test_pluska_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Wau" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/wO5ifff.png" group-title="Všeobecné",WAU HD.sk
 http://88.212.15.27/live/test_wau_25p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TA3" tvg-logo="https://i.imgur.com/kPFBxc9.png" tvg-id="TA3.sk" group-title="Všeobecné",TA3.sk
+#EXTINF:-1 tvg-name="TA3" tvg-logo="https://i.imgur.com/kPFBxc9.png" tvg-id="TA3.sk" group-title="Všeobecné",TA3 HD.sk
 http://149.100.19.130:8001/play/a00s/index.m3u8
 https://sktv.plainrock127.xyz/get.php?x=TA3
 http://88.212.15.27/live/test_ta3_25p/playlist.m3u8
@@ -30,14 +30,14 @@ http://88.212.15.27/live/test_ta3_25p/playlist.m3u8
 https://live.cdn.joj.sk/live/andromeda/joj_news-720.m3u8
 #EXTINF:-1 tvg-id="STV24" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/sdSsFU0.png" group-title="Všeobecné",:24 HD.sk
 http://88.212.15.27/live/test_trojka_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="CT24" tvg-url="ct24.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/pUMRFs1.png" group-title="Všeobecné",ČT 24 HD.sk
+#EXTINF:-1 tvg-id="CT24" tvg-url="ct24.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/pUMRFs1.png" group-title="Všeobecné",ČT24 HD.sk
 http://88.212.15.27/live/test_ct24_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNPrimaNews" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/cnnprimanews.png" group-title="Všeobecné",CNN Prima News HD.sk
 http://88.212.15.27/live/test_cnn_pirma_news/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CT1" tvg-url="ct1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/qBlEbN3.png" group-title="Všeobecné",ČT 1 HD.sk
+#EXTINF:-1 tvg-id="CT1" tvg-url="ct1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/qBlEbN3.png" group-title="Všeobecné",ČT1 HD.sk
 http://88.212.15.27/live/test_ct1_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="CT2" tvg-url="ct2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/HpnGC6A.png" group-title="Všeobecné",ČT 2 HD.sk
+#EXTINF:-1 tvg-id="CT2" tvg-url="ct2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/HpnGC6A.png" group-title="Všeobecné",ČT2 HD.sk
 http://88.212.15.27/live/test_ct2_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="NovaTV" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nova.png" group-title="Všeobecné",Nova HD.sk
 http://194.160.135.34:8088/udp/233.10.47.56:1234
