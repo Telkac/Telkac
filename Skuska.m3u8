@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/czech3.xml.gz"
 
-#EXTINF:-1 tvg-id="Jednotka" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/T7EWAe7.png" group-title="Všeobecné",Jednotka.cz
+#EXTINF:-1 tvg-id="Jednotka.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/T7EWAe7.png" group-title="Všeobecné",Jednotka
 http://88.212.15.27/live/test_jednotka_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Dvojka" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/Ksi25UD.png" group-title="Všeobecné",Dvojka.cz
+#EXTINF:-1 tvg-id="Dvojka.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/Ksi25UD.png" group-title="Všeobecné",Dvojka
 http://88.212.15.27/live/test_dvojka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Markiza" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/952-markiza-hd.png" group-title="Všeobecné",Markíza HD.sk
 http://88.212.15.27/live/test_markiza_25p/playlist.m3u8
