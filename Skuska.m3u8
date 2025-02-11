@@ -4,33 +4,33 @@
 http://88.212.15.27/live/test_jednotka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Dvojka.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/Ksi25UD.png" group-title="Všeobecné",Dvojka
 http://88.212.15.27/live/test_dvojka_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Markiza" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/952-markiza-hd.png" group-title="Všeobecné",Markíza HD.sk
+#EXTINF:-1 tvg-id="Markíza.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/952-markiza-hd.png" group-title="Všeobecné",Markiza
 http://88.212.15.27/live/test_markiza_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="JOJ" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/5BAWD0z.png" group-title="Všeobecné",JOJ HD.sk
+#EXTINF:-1 tvg-id="JOJ.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/5BAWD0z.png" group-title="Všeobecné",JOJ HD.sk
 http://88.212.15.27/live/test_joj_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Dajto" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://staticeu.sweet.tv/images/icons/channels/v2/955-dajto-hd.png" group-title="Všeobecné",Dajto HD.sk
+#EXTINF:-1 tvg-id="TV DAJTO.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://staticeu.sweet.tv/images/icons/channels/v2/955-dajto-hd.png" group-title="Všeobecné",Dajto
 http://88.212.15.27/live/test_dajto_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Doma" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://staticeu.sweet.tv/images/icons/channels/v2/954-doma-hd.png" group-title="Všeobecné",Doma HD.sk
+#EXTINF:-1 tvg-id="Doma" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://staticeu.sweet.tv/images/icons/channels/v2/954-doma-hd.png" group-title="Všeobecné",Doma
 http://88.212.15.27/live/test_doma_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="MARKIZAKRIMI" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://staticeu.sweet.tv/images/icons/channels/v2/953-markiza-krimi-hd.png" group-title="Všeobecné",Markiza Krimi HD.sk
+#EXTINF:-1 tvg-id="Markíza KRIMI.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://staticeu.sweet.tv/images/icons/channels/v2/953-markiza-krimi-hd.png" group-title="Všeobecné",Markiza Krimi
 http://88.212.15.27/live/test_markiza_krimi_hevc/playlist.m3u8
 https://cdnsk003.panaccess.com/local/Markiza_krimi/index.m3u8
-#EXTINF:-1 tvg-id="MARKIZAKLASIK" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://img.telkac.zoznam.sk/data/images/channel/2024/07/17/image_new_227.thumb.png" group-title="Všeobecné",Markiza Klasik HD.sk
+#EXTINF:-1 tvg-id="Markíza KLASIK.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://img.telkac.zoznam.sk/data/images/channel/2024/07/17/image_new_227.thumb.png" group-title="Všeobecné",Markiza Klasik
 https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8
-#EXTINF:-1 tvg-id="JOJPLUS" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/fKPliTj.png" group-title="Všeobecné",JOJ Plus HD.sk
+#EXTINF:-1 tvg-id="JOJ Plus.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/fKPliTj.png" group-title="Všeobecné",JOJ Plus
 http://88.212.15.27/live/test_pluska_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Wau" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/wO5ifff.png" group-title="Všeobecné",WAU HD.sk
+#EXTINF:-1 tvg-id="WAU.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/wO5ifff.png" group-title="Všeobecné",WAU
 http://88.212.15.27/live/test_wau_25p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TA3" tvg-logo="https://i.imgur.com/kPFBxc9.png" tvg-id="TA3.sk" group-title="Všeobecné",TA3 HD.sk
+#EXTINF:-1 tvg-name="TA3.cz" tvg-logo="https://i.imgur.com/kPFBxc9.png" tvg-id="TA3.sk" group-title="Všeobecné",TA3
 http://149.100.19.130:8001/play/a00s/index.m3u8
 https://sktv.plainrock127.xyz/get.php?x=TA3
 http://88.212.15.27/live/test_ta3_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="JOJ24" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/owEVXRE.png" group-title="Všeobecné",JOJ 24 HD.sk
+#EXTINF:-1 tvg-id="JOJ 24.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/owEVXRE.png" group-title="Všeobecné",JOJ 24
 https://live.cdn.joj.sk/live/andromeda/joj_news-720.m3u8
-#EXTINF:-1 tvg-id="STV24" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/sdSsFU0.png" group-title="Všeobecné",:24 HD.sk
+#EXTINF:-1 tvg-id="RTVS 24.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/sdSsFU0.png" group-title="Všeobecné",:24
 http://88.212.15.27/live/test_trojka_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="CT24" tvg-url="ct24.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/pUMRFs1.png" group-title="Všeobecné",ČT24 HD.sk
+#EXTINF:-1 tvg-id="CT24" tvg-url="ct24.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/pUMRFs1.png" group-title="Všeobecné",ČT24
 http://88.212.15.27/live/test_ct24_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNPrimaNews" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/cnnprimanews.png" group-title="Všeobecné",CNN Prima News HD.sk
 http://88.212.15.27/live/test_cnn_pirma_news/playlist.m3u8
@@ -39,48 +39,48 @@ http://88.212.15.27/live/test_cnn_pirma_news/playlist.m3u8
 http://88.212.15.27/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CT2" tvg-url="ct2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/HpnGC6A.png" group-title="Všeobecné",ČT2 HD.sk
 http://88.212.15.27/live/test_ct2_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="NovaTV" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nova.png" group-title="Všeobecné",Nova HD.sk
+#EXTINF:-1 tvg-id="Nova.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nova.png" group-title="Všeobecné",Nova HD.sk
 http://194.160.135.34:8088/udp/233.10.47.56:1234
-#EXTINF:-1 tvg-id="PrimaTV" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primahd.png" group-title="Všeobecné",Prima HD.sk
+#EXTINF:-1 tvg-id="Prima.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primahd.png" group-title="Všeobecné",Prima HD.sk
 http://194.160.135.34:8088/udp/233.10.47.57:1234
-#EXTINF:-1 tvg-id="NovaCinema" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novacinema.png" group-title="Všeobecné",Nova Cinema HD.sk
+#EXTINF:-1 tvg-id="Nova Cinema.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novacinema.png" group-title="Všeobecné",Nova Cinema HD.sk
 http://78.130.250.2:8023/play/a01y/index.m3u8
 http://194.160.135.34:8088/udp/233.10.47.55:1234
 #EXTINF:-1 tvg-id="" tvg-name="Nova 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/4a4e9dc53647d38432ba602213b90e96.jpg" group-title="Všeobecné",Nova 2 HD.sk
 http://193.27.90.139:8080/romaniamedia/c726d524bf/285317
-#EXTINF:-1 tvg-id="NOVAACTION" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novaaction.png" group-title="Všeobecné",Nova Action HD.sk
+#EXTINF:-1 tvg-id="Nova Action.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novaaction.png" group-title="Všeobecné",Nova Action HD.sk
 http://194.160.135.34:8088/udp/233.10.47.54:1234
-#EXTINF:-1 tvg-id="NovaFUN" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novafun.png" group-title="Všeobecné",Nova Fun HD.sk
+#EXTINF:-1 tvg-id="Nova Fun.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novafun.png" group-title="Všeobecné",Nova Fun HD.sk
 http://88.212.15.27/live/nova_fun_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="NOVAGold" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novagold.png" group-title=" Všeobecné",Nova Gold HD.sk
+#EXTINF:-1 tvg-id="Nova Gold.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novagold.png" group-title=" Všeobecné",Nova Gold HD.sk
 http://88.212.15.27/live/nova_gold_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="NovaLady" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novalady.png" group-title="Všeobecné",Nova Lady HD.sk
+#EXTINF:-1 tvg-id="Nova Lady.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novalady.png" group-title="Všeobecné",Nova Lady HD.sk
 http://88.212.15.27/live/test_nova_lady_hevc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="PrimaCool" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primacoolhd.png" group-title="Všeobecné",Prima COOL HD.sk
+#EXTINF:-1 tvg-id="Prima Cool.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primacoolhd.png" group-title="Všeobecné",Prima COOL HD.sk
 http://gocache4.antik.sk/live/prima_cool_cz_avc/index.m3u8
 http://88.212.15.27/live/test_prima_cool_hd_hevc_50/playlist.m3u8
-#EXTINF:-1 tvg-id="PrimaLOVE" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primalovehd.png" group-title="Všeobecné",Prima love HD.sk
+#EXTINF:-1 tvg-id="Prima LOVE.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primalovehd.png" group-title="Všeobecné",Prima love HD.sk
 http://88.212.15.27/live/prima_love_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="PrimaZOOM" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primazoomhd.png" group-title="Všeobecné",Prima ZOOM HD.sk
+#EXTINF:-1 tvg-id="Prima ZOOM.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primazoomhd.png" group-title="Všeobecné",Prima ZOOM HD.sk
 http://88.212.15.27/live/test_prima_zoom_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Prima MAX HD" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primamaxhd.png" group-title="Filmy a seriály / Movies and serials",Prima MAX HD.sk
+#EXTINF:-1 tvg-id="Prima MAX.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primamaxhd.png" group-title="Filmy a seriály / Movies and serials",Prima MAX HD.sk
 http://88.212.15.27/live/test_prima_max_hd_hevc50/playlist.m3u8
 #EXTINF:-1 tvg-id="PRIMAKRIMI" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primakrimi.png" group-title="Všeobecné",Prima KRIMI HD.sk
 http://88.212.15.27/live/prima_krimi_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="PrimaStar" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primastar.png" group-title="Všeobecné",Prima Star HD.sk
+#EXTINF:-1 tvg-id="Prima Star.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primastar.png" group-title="Všeobecné",Prima Star HD.sk
 http://88.212.15.27/live/test_prima_star_hevc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="PRIMASHOW" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primashow.png" group-title="Všeobecné",Prima Show HD.sk
+#EXTINF:-1 tvg-id="Prima Show.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primashow.png" group-title="Všeobecné",Prima Show HD.sk
 http://88.212.15.27/live/test_prima_show_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBarrandov" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvbarrandov.png" group-title="Všeobecné",TV Barrandov HD.sk
 http://88.212.15.27/live/test_barrandov/playlist.m3u8
 #EXTINF:-1,Kino Barrandov HD.sk
 http://88.212.15.27/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
-#EXTINF:0,Barrandov Krimi HD.sk
+#EXTINF:0,Krimi Barrandov.cz
 http://88.212.15.27/live/test_barrandov_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="CSFilm" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/csfilm.png" group-title="Všeobecné",CS Film-CS Horror HD.sk
 http://78.130.250.2:8023/play/a01z/index.m3u8
 
-#EXTINF:-1 tvg-id="JOJCinema" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/jojcinema.png" group-title="Všeobecné",JOJ Cinema HD.sk
+#EXTINF:-1 tvg-id="JOJ Cinema.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/jojcinema.png" group-title="Všeobecné",JOJ Cinema HD.sk
 http://193.27.90.139:8080/romaniamedia/c726d524bf/301466
 http://88.212.15.27/live/test_joj_cinema_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/hbo.png" group-title="Všeobecné",HBO HD.sk
@@ -118,17 +118,17 @@ http://194.160.135.34:8088/udp/233.10.47.62:1234
 #EXTINF:-1,FilmBox Arthouse HD.sk
 https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NovaInternational(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1-nova-international-hd.png" group-title="Všeobecné",Nova Intl. HD.sk
+#EXTINF:-1 tvg-id="Nova International.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1-nova-international-hd.png" group-title="Všeobecné",Nova Intl. HD.sk
 http://194.160.135.34:8088/udp/233.10.47.61:1234
-#EXTINF:0,Prima SK HD.sk
+#EXTINF:0,Prima SK.cz
 http://194.160.135.34:8088/udp/233.10.47.81:1234
 http://149.100.19.130:8001/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="Prima Cool SK" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://staticeu.sweet.tv/images/icons/channels/v2/863-prima-cool-hd.png" group-title="Všeobecné",Prima COOL SK HD.sk
+#EXTINF:-1 tvg-id="Prima COOL SK.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://staticeu.sweet.tv/images/icons/channels/v2/863-prima-cool-hd.png" group-title="Všeobecné",Prima COOL SK HD.sk
 http://88.212.15.27/live/prima_cool_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="JOJFamily(src01).sk" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/jojfamilyhd.png" group-title="Všeobecné",JOJ Family.sk
+#EXTINF:-1 tvg-id="JOJ Family.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/jojfamilyhd.png" group-title="Všeobecné",JOJ Family.sk
 http://88.212.15.27/live/test_joj_family_hevc_25p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="JOJSvet(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1602-joj-svet-hd.png" group-title="Dokumentárné",JOJ Svet HD.sk
+#EXTINF:-1 tvg-id="JOJ Svet.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1602-joj-svet-hd.png" group-title="Dokumentárné",JOJ Svet HD.sk
 http://88.212.15.27/live/test_joj_svet/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="http://46.36.40.22/1023/discovery.png" group-title="Dokumentárne",Discovery HD.sk
 http://88.212.15.27/live/test_discovery_hd_hevc/playlist.m3u8
@@ -142,9 +142,9 @@ http://88.212.15.27/live/test_animal_planet_hd_hevc/playlist.m3u8
 http://88.212.15.27/live/test_ngc/playlist.m3u8
 #EXTINF:-1 tvg-id="NatGeoWild(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/natgeowild.png" group-title="Dokumentární / Documents",Nat Geo Wild HD.sk
 http://88.212.15.27/live/test_ngw/playlist.m3u8
-#EXTINF:-1 tvg-id="Spektrum(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/spektrum.png" group-title="Dokumentární / Documents",Spektrum HD.sk
+#EXTINF:-1 tvg-id="Spektrum.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/spektrum.png" group-title="Dokumentární / Documents",Spektrum HD.sk
 http://88.212.15.27/live/test_spektrum/playlist.m3u8
-#EXTINF:-1 tvg-id="SpektrumHome(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/spektrumhome.png" group-title="Dokumentární / Documents",Spektrum Home HD.sk
+#EXTINF:-1 tvg-id="Spektrum Home.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/spektrumhome.png" group-title="Dokumentární / Documents",Spektrum Home HD.sk
 http://88.212.15.27/live/test_home_hevc/playlist.m3u8
 #EXTINF:0,Viasat Explore HD.sk
 #EXTVLCOPT:network-caching=1000
@@ -158,15 +158,15 @@ http://88.212.15.27/live/test_history/playlist.m3u8
 http://88.212.15.27/live/test_cs_history_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CSMystery" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/csmystery.png" group-title="Dokumentární / Documents",CS Mystery HD.sk
 http://88.212.15.27/live/test_cs_mystery_avc_25p/playlist.m3u8
-#EXTINF:-1,Fishing and Hunting.sk
+#EXTINF:-1,The Fishing and Hunting.cz
 http://88.212.15.27/live/test_fishing_hunting/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPaprika(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvpaprika.png" group-title="Vaření / Cooking",TV Paprika HD.sk
+#EXTINF:-1 tvg-id="Paprika.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvpaprika.png" group-title="Vaření / Cooking",TV Paprika HD.sk
 http://88.212.15.27/live/test_parpika_tv_sd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Crime and Investigation" tvg-name="Sat crime invest" tvg-logo="http://46.36.40.22/1023/crimeandinvestigation.png" group-title="Dokumentárne",Crime and Investigation.sk
 http://88.212.15.27/live/test_cai_hevc/playlist.m3u8
 #EXTINF:0,ID HD.sk
 http://88.212.15.27/live/test_id_hevc_atktv/playlist.m3u8
-#EXTINF:0,TLC HD.sk
+#EXTINF:0,TLC.cz
 http://88.212.15.27/live/test_tlc_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="Up network" tvg-name="Up network" tvg-logo="http://46.36.40.22/1023/Upnetwork.png" group-title="Dokumentárne",Up network.sk
 http://88.212.15.27/live/test_upnetwork/playlist.m3u8
@@ -174,16 +174,16 @@ http://88.212.15.27/live/test_upnetwork/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://filex.tv:8080/clotv695-142/ffVNSULvW3/332984
 
-#EXTINF:-1 tvg-id="Jojko(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/815-jojko-hd.png" group-title="Detské",Jojko HD.sk
+#EXTINF:-1 tvg-id="Jojko.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/815-jojko-hd.png" group-title="Detské",Jojko HD.sk
 http://88.212.15.27/live/test_jojko_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="RiK(src01).cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/725-rik-tv-hd.png" group-title="Detské",Rik TV HD.sk
+#EXTINF:-1 tvg-id="Rik TV.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/725-rik-tv-hd.png" group-title="Detské",Rik TV HD.sk
 http://88.212.15.27/live/test_rik/playlist.m3u8
 #EXTINF:-1 tvg-id="CTDCTart(src01).cz" tvg-url="decko.cz" tvg-url="ctart.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ctdart.png" group-title="Detské",ČT :D/art HD.sk
 http://194.160.135.34:8088/udp/233.10.47.119:1234
 http://149.100.19.130:8001/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="JimJam(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1770-jimjam.png" group-title="Detské",JimJam.sk
+#EXTINF:-1 tvg-id="Jim Jam.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1770-jimjam.png" group-title="Detské",JimJam.sk
 http://88.212.15.27/live/test_jim_jam/playlist.m3u8
-#EXTINF:-1 tvg-id="LALATV(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/810-lala-tv-hd.png" group-title="Detské",LALA TV.sk
+#EXTINF:-1 tvg-id="Lala TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/810-lala-tv-hd.png" group-title="Detské",LALA TV.sk
 http://88.212.15.27/live/test_lala_25p/playlist.m3u8
 #EXTINF:-1,ducktv HD.sk
 https://dash2.antik.sk/live/duck_tv/index.m3u8
@@ -299,26 +299,26 @@ http://88.212.15.27/live/test_folklorika_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="IQ" tvg-name="IQ" tvg-logo="http://46.36.40.22/1023/IQ.png" group-title="Hudobné",IQ
 http://88.212.15.27/live/test_iq_tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTVSSport(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/850-sport.png" group-title="Športové",: Šport HD.sk
+#EXTINF:-1 tvg-id="RTVS Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/850-sport.png" group-title="Športové",: Šport HD.sk
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="JOJSport(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/QWEY2a5.png" group-title="Športové",JOJ Šport HD.sk
+#EXTINF:-1 tvg-id="JOJ Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/QWEY2a5.png" group-title="Športové",JOJ Šport HD.sk
 http://88.212.15.27/live/test_joj_sport_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="CT sport HD" tvg-url="ctsport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/I2dltZW.png" group-title="Sportovní / Sport",ČT sport HD.sk
 http://88.212.15.27/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/sport1.png" group-title="Sportovní / Sport",Sport 1 HD.sk
+#EXTINF:-1 tvg-id="Sport1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/sport1.png" group-title="Sportovní / Sport",Sport 1
 http://88.212.15.27/live/test_sport1_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport2(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/sport2.png" group-title="Sportovní / Sport",Sport 2 HD.sk
+#EXTINF:-1 tvg-id="Sport2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/sport2.png" group-title="Sportovní / Sport",Sport 2
 http://88.212.15.27/live/test_sport_2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Nova Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/e10dfe9bb607e5f45f2a77088f02077c.png" group-title="Czech Republic ➾ Sports",Nova Sport 1 HD.sk
+#EXTINF:-1 tvg-id="Nova Sport 1.cz" tvg-name="Nova Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/e10dfe9bb607e5f45f2a77088f02077c.png" group-title="Czech Republic ➾ Sports",Nova Sport 1 HD
 http://193.27.90.139:8080/romaniamedia/c726d524bf/279611
-#EXTINF:-1 tvg-id="" tvg-name="Nova Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1a7b19a5befb4c38325242e0eff1d0c0.png" group-title="Czech Republic ➾ Sports",Nova Sport 2 HD.sk
+#EXTINF:-1 tvg-id="Nova Sport 2.cz" tvg-name="Nova Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1a7b19a5befb4c38325242e0eff1d0c0.png" group-title="Czech Republic ➾ Sports",Nova Sport 2 HD.sk
 http://193.27.90.139:8080/romaniamedia/c726d524bf/46718
-#EXTINF:-1 tvg-id="" tvg-name="Nova Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/9e84927c960532259bef903a820a7f6a.png" group-title="Czech Republic ➾ Sports",Nova Sport 3 HD.sk
+#EXTINF:-1 tvg-id="Nova Sport 3.cz" tvg-name="Nova Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/9e84927c960532259bef903a820a7f6a.png" group-title="Czech Republic ➾ Sports",Nova Sport 3 HD.sk
 http://193.27.90.139:8080/romaniamedia/c726d524bf/298867
-#EXTINF:-1 tvg-id="" tvg-name="Nova Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/29a06e7727a720e6f9fa2e5e92da9da6.png" group-title="Czech Republic ➾ Sports",Nova Sport 4 HD.sk
+#EXTINF:-1 tvg-id="Nova Sport 4.cz" tvg-name="Nova Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/29a06e7727a720e6f9fa2e5e92da9da6.png" group-title="Czech Republic ➾ Sports",Nova Sport 4 HD.sk
 http://193.27.90.139:8080/romaniamedia/c726d524bf/298866
-#EXTINF:-1 tvg-id="" tvg-name="Nova Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/1b14f0b13c2ce6746983df7ad1426e31.png" group-title="Czech Republic ➾ Sports",Nova Sport 5 HD.sk
+#EXTINF:-1 tvg-id="Nova Sport 5.cz" tvg-name="Nova Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/1b14f0b13c2ce6746983df7ad1426e31.png" group-title="Czech Republic ➾ Sports",Nova Sport 5 HD.sk
 http://193.27.90.139:8080/romaniamedia/c726d524bf/306429
 
 #EXTINF:-1 tvg-id="NovaSport1(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/novasport1.png" group-title="Sportovní / Sport",Nova Sport 1 HD.sk
