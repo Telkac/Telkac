@@ -299,11 +299,11 @@ https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:0,Folklorika.cz
 http://88.212.15.27/live/test_folklorika_atktv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTVS Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/850-sport.png" group-title="Športové",: Šport HD.sk
+#EXTINF:-1 tvg-id="RTVS Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/850-sport.png" group-title="Športové",RTVS Šport
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="JOJ Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/QWEY2a5.png" group-title="Športové",JOJ Šport HD.sk
+#EXTINF:-1 tvg-id="JOJ Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/QWEY2a5.png" group-title="Športové",JOJ Šport
 http://88.212.15.27/live/test_joj_sport_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="ČT sport.cz" tvg-url="ctsport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/I2dltZW.png" group-title="Sportovní / Sport",ČT sport HD.sk
+#EXTINF:-1 tvg-id="ČT sport.cz" tvg-url="ctsport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/I2dltZW.png" group-title="Sportovní / Sport",ČT sport
 http://88.212.15.27/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/sport1.png" group-title="Sportovní / Sport",Sport 1
 http://88.212.15.27/live/test_sport1_25p/playlist.m3u8
@@ -581,9 +581,9 @@ http://88.212.15.27/live/test_park_tv/playlist.m3u8
 http://88.212.15.27/live/tanecnesutaze/index.m3u8
 #EXTINF:-1 tvg-id="CentralTV(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="-" group-title="Všeobecné",Central TV
 https://arenasportslovakia.ddns.net/hls/cetv2.m3u8
-#EXTINF:-1 tvg-id="RELAX.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/relax.png" group-title="Všeobecné",RELAX.sk
+#EXTINF:-1 tvg-id="RELAX.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/relax.png" group-title="Všeobecné",RELAX
 https://dash2.antik.sk/live/test_relax/playlist.m3u8
-#EXTINF:-1 tvg-id="A11.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/A11.png" group-title="Všeobecné",A11 HD.sk
+#EXTINF:-1 tvg-id="A11.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/A11.png" group-title="Všeobecné",A11
 https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Polar.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/polar.png" group-title="Regionální / Regional channels",Polar TV HD
