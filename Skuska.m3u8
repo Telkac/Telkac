@@ -436,7 +436,7 @@ http://178.219.128.68:64889/POLSSPORHD
 
 #EXTINF:-1 tvg-id="Sporty TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/SportyTVSD.png" group-title="Športové",Sporty TV HD
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
-#EXTINF:-1,AutoMotorSport HD
+#EXTINF:-1,Auto Motor Sport.cz
 http://78.130.250.2:8023/play/a018/index.m3u8
 #EXTINF:0,Polsat Sport Fight HD 🇵🇱
 #EXTVLCOPT:network-caching=1000
