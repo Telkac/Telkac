@@ -46,8 +46,6 @@ http://194.160.135.34:8088/udp/233.10.47.57:1234
 #EXTINF:-1 tvg-id="Nova Cinema.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novacinema.png" group-title="Všeobecné",Nova Cinema
 http://78.130.250.2:8023/play/a01y/index.m3u8
 http://194.160.135.34:8088/udp/233.10.47.55:1234
-#EXTINF:-1 tvg-id="" tvg-name="Nova 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/4a4e9dc53647d38432ba602213b90e96.jpg" group-title="Všeobecné",Nova 2
-http://193.27.90.139:8080/romaniamedia/c726d524bf/285317
 #EXTINF:-1 tvg-id="Nova Action.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novaaction.png" group-title="Všeobecné",Nova Action
 http://194.160.135.34:8088/udp/233.10.47.54:1234
 #EXTINF:-1 tvg-id="Nova Fun.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novafun.png" group-title="Všeobecné",Nova Fun
@@ -118,7 +116,7 @@ http://194.160.135.34:8088/udp/233.10.47.62:1234
 https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="Seznam.cz TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/seznamtv.png" group-title="Všeobecné",Seznam.cz TV
 http://88.212.15.27/live/test_seznam_hevc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Spark TV.cz" tvg-name="Up network" tvg-logo="http://46.36.40.22/1023/Upnetwork.png" group-title="Všeobecné",Spark TV
+#EXTINF:-1 tvg-id="Spark TV.cz" tvg-name="Up network" tvg-logo="http://46.36.40.22/1023/Upnetwork.png" group-title="Všeobecné",Spark
 http://88.212.15.27/live/test_upnetwork/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nova International.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1-nova-international-hd.png" group-title="Všeobecné",Nova International
