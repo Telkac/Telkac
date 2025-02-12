@@ -81,7 +81,6 @@ http://88.212.15.27/live/test_barrandov_plus_atk_1200/playlist.m3u8
 http://78.130.250.2:8023/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-id="JOJ Cinema.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/jojcinema.png" group-title="Všeobecné",JOJ Cinema
-http://193.27.90.139:8080/romaniamedia/c726d524bf/301466
 http://88.212.15.27/live/test_joj_cinema_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/hbo.png" group-title="Všeobecné",HBO
 http://88.212.15.27/live/test_hbo_hd_hevc/playlist.m3u8
