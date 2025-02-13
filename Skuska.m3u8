@@ -40,14 +40,13 @@ http://88.212.15.27/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT2.cz" tvg-url="ct2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/HpnGC6A.png" group-title="Všeobecné",ČT2
 http://88.212.15.27/live/test_ct2_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nova.png" group-title="Všeobecné",Nova
-http://194.160.135.34:8088/udp/233.10.47.56:1234
+http://88.212.15.19/live/nova_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primahd.png" group-title="Všeobecné",Prima
-http://194.160.135.34:8088/udp/233.10.47.57:1234
+http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Cinema.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novacinema.png" group-title="Všeobecné",Nova Cinema
-http://78.130.250.2:8023/play/a01y/index.m3u8
-http://194.160.135.34:8088/udp/233.10.47.55:1234
+http://88.212.15.19/live/nova_cinema_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Action.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novaaction.png" group-title="Všeobecné",Nova Action
-http://194.160.135.34:8088/udp/233.10.47.54:1234
+http://88.212.15.19/live/nova_action_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Fun.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novafun.png" group-title="Všeobecné",Nova Fun
 http://88.212.15.27/live/nova_fun_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Gold.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novagold.png" group-title=" Všeobecné",Nova Gold
@@ -55,7 +54,6 @@ http://88.212.15.27/live/nova_gold_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Lady.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novalady.png" group-title="Všeobecné",Nova Lady
 http://88.212.15.27/live/test_nova_lady_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima Cool.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primacoolhd.png" group-title="Všeobecné",Prima COOL
-http://gocache4.antik.sk/live/prima_cool_cz_avc/index.m3u8
 http://88.212.15.27/live/test_prima_cool_hd_hevc_50/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima LOVE.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primalovehd.png" group-title="Všeobecné",Prima love
 http://88.212.15.27/live/prima_love_avc_25p/playlist.m3u8
@@ -182,7 +180,7 @@ http://194.160.135.34:8088/udp/233.10.47.119:1234
 http://149.100.19.130:8001/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="Jim Jam.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1770-jimjam.png" group-title="Detské",JimJam
 http://88.212.15.27/live/test_jim_jam/playlist.m3u8
-#EXTINF:-1 tvg-id="Lala TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/810-lala-tv-hd.png" group-title="Detské",LALA TV
+#EXTINF:-1 tvg-id="Lala TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/810-lala-tv-hd.png" group-title="Detské",Lala TV.cz
 http://88.212.15.27/live/test_lala_25p/playlist.m3u8
 #EXTINF:-1,ducktv.cz
 https://dash2.antik.sk/live/duck_tv/index.m3u8
@@ -926,6 +924,8 @@ http://188.60.179.180:8000/play/xxRaiSportPlusHDxx
 http://188.60.179.180:8000/play/a04g
 #EXTINF:-1,SPORT1+ 🇩🇪
 http://188.60.179.180:8000/play/Sport1plus
+#EXTINF:-1,ORF SPORT+ HD 🇩🇪
+http://188.60.179.180:7000/play/xxORFSportPlusHDxx
 
 #EXTINF:-0, SPORT TV +
 http://176.65.146.108:8022/play/a07t/index.m3u8
