@@ -199,6 +199,8 @@ http://88.212.15.27/live/test_minimax/playlist.m3u8
 http://88.212.15.27/live/test_disney/playlist.m3u8
 #EXTINF:-1 tvg-id="Disney Junior.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://staticeu.sweet.tv/images/icons/channels/v2/800-disney-junior.png" group-title="Detské",Disney Junior
 http://88.212.15.27/live/test_disney_junior/playlist.m3u8
+#EXTINF:-1,Cartoon Network.cz
+http://iptvtree.net:8080/romaniamedia/45127bdd19/83385
 
 #EXTINF:-1 tvg-id="Óčko.cz" tvg-country="CZ;SK" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ocko.png" group-title="Hudobné",Óčko HD
 http://88.212.15.27/live/test_ocko/playlist.m3u8
@@ -2671,3 +2673,20 @@ http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/34071
 http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/33803
 #EXTINF:0,RO: Eurosport 4K
 http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/268948
+
+#EXTINF:-1,CZ: Sport 2
+http://iptvtree.net:8080/romaniamedia/45127bdd19/46719
+#EXTINF:-1,CZ: Sport 1
+http://iptvtree.net:8080/romaniamedia/45127bdd19/46724
+#EXTINF:-1,CZ: Nova Sport 5
+http://iptvtree.net:8080/romaniamedia/45127bdd19/306429
+#EXTINF:-1,CZ: Nova Sport 4
+http://iptvtree.net:8080/romaniamedia/45127bdd19/298866
+#EXTINF:-1,CZ: Nova Sport 3
+http://iptvtree.net:8080/romaniamedia/45127bdd19/298867
+#EXTINF:-1,CZ: Nova Sport 2
+http://iptvtree.net:8080/romaniamedia/45127bdd19/46718
+#EXTINF:-1,CZ: Nova Sport 1
+http://iptvtree.net:8080/romaniamedia/45127bdd19/279611
+#EXTINF:-1,CZ: CT Sport
+http://iptvtree.net:8080/romaniamedia/45127bdd19/174685
