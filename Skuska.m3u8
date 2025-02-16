@@ -161,11 +161,11 @@ http://88.212.15.19/live/test_fishing_hunting/playlist.m3u8
 http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Crime and Investigation.cz" tvg-name="" tvg-logo="http://46.36.40.22/1023/crimeandinvestigation.png" group-title="Dokumentárne",Crime and Investigation
 http://88.212.15.19/live/test_cai_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="ID.cz" tvg-name="" tvg-logo="" group-title="Dokumentárne",ID
+#EXTINF:-1 tvg-id="ID.cz" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1845px-Investigation_Discovery_Logo_2018.svg.png" group-title="Dokumentárne",ID
 http://88.212.15.19/live/test_id_hevc_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="TLC.cz" tvg-name="Sat crime invest" tvg-logo="" group-title="Dokumentárne",TLC
+#EXTINF:-1 tvg-id="TLC.cz" tvg-name="Sat crime invest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Dokumentárne",TLC
 http://88.212.15.19/live/test_tlc_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="Fine Living.cz" tvg-name="" tvg-logo="" group-title="Dokumentárne",Fine Living
+#EXTINF:-1 tvg-id="Fine Living.cz" tvg-name="" tvg-logo="https://en.m.wikipedia.org/wiki/Fine_Living_(European_TV_channel)#/media/File%3AFine_Living_logo.svg" group-title="Dokumentárne",Fine Living
 http://filex.tv:8080/clotv695-142/ffVNSULvW3/332984
 
 #EXTINF:-1 tvg-id="Jojko.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/815-jojko-hd.png" group-title="Detské",Jojko
@@ -179,10 +179,10 @@ http://149.100.19.130:8001/play/a007/index.m3u8
 http://88.212.15.19/live/test_jim_jam/playlist.m3u8
 #EXTINF:-1 tvg-id="Lala TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/810-lala-tv-hd.png" group-title="Detské",Lala TV.cz
 http://88.212.15.19/live/test_lala_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="ducktv.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Detské",Duck tv
+#EXTINF:-1 tvg-id="ducktv.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/de/3/31/Duck_TV.png" group-title="Detské",Duck tv
 https://dash2.antik.sk/live/duck_tv/index.m3u8
 http://88.212.15.19/live/test_duck_tv_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="ducktv plus.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Detské",Duck tv plus
+#EXTINF:-1 tvg-id="ducktv plus.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Duck_TV_Plus.svg/revision/latest?cb=20191223210043" group-title="Detské",Duck tv plus
 https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nickelodeon.png" group-title="Detské",Nickelodeon
 http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8
