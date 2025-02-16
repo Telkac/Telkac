@@ -155,6 +155,8 @@ http://88.212.15.19/live/test_history/playlist.m3u8
 http://88.212.15.19/live/test_cs_history_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CS Mystery.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/csmystery.png" group-title="Dokumentárné",CS Mystery
 http://88.212.15.19/live/test_cs_mystery_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="The Fishing and Hunting.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Fishing-and-hunting-logo.png" group-title="Dokumentárné",Fishing and Hunting
+
 #EXTINF:-1,The Fishing and Hunting.cz
 http://88.212.15.19/live/test_fishing_hunting/playlist.m3u8
 #EXTINF:-1 tvg-id="Paprika.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvpaprika.png" group-title="Vaření / Cooking",TV Paprika
