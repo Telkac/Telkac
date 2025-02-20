@@ -2381,23 +2381,6 @@ http://line.4smart.in:80/TYHZRW6/MF7V7X2/77989
 #EXTINF:-1 tvg-id="FightBox" tvg-name="EXYU - FIGHTBOX" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/FIGHTBOXHD-1.png" group-title="EU | EX-YU",EXYU - FIGHTBOX
 http://line.4smart.in:80/TYHZRW6/MF7V7X2/77990
 
-#EXTINF:0,RO: DIGI Sport 1 4K
-http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/62775
-#EXTINF:0,RO: DIGI Sport 1
-http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/33796
-#EXTINF:0,RO: DIGI Sport 2 4K
-http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/116132
-#EXTINF:0,RO: DIGI Sport 2
-http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/34069
-#EXTINF:0,RO: DIGI Sport 3 4K
-http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/185269
-#EXTINF:0,RO: DIGI Sport 3
-http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/34071
-#EXTINF:0,RO: DIGI Sport 4
-http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/33803
-#EXTINF:0,RO: Eurosport 4K
-http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/268948
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MZ17vPb/DEL2-Logo-2019-svg.png" group-title="VIP » DEL2", DEL 2 Event 1
 http://pumas.life:8080/Lea22/nVPsZ9r55x/631790
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MZ17vPb/DEL2-Logo-2019-svg.png" group-title="VIP » DEL2", DEL 2 Event 2
@@ -2762,6 +2745,45 @@ http://pumas.life:8080/Lea22/nVPsZ9r55x/631158
 http://pumas.life:8080/Lea22/nVPsZ9r55x/631157
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/Eurosport_2.png" group-title="VIP » SPORTS BALKAN", HR ✦ EUROSPORT 2 HD
 http://pumas.life:8080/Lea22/nVPsZ9r55x/631156
+
+#EXTINF:0,RO: DIGI Sport 1 4K
+http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/62775
+#EXTINF:0,RO: DIGI Sport 1
+http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/33796
+#EXTINF:0,RO: DIGI Sport 2 4K
+http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/116132
+#EXTINF:0,RO: DIGI Sport 2
+http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/34069
+#EXTINF:0,RO: DIGI Sport 3 4K
+http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/185269
+#EXTINF:0,RO: DIGI Sport 3
+http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/34071
+#EXTINF:0,RO: DIGI Sport 4
+http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/33803
+#EXTINF:0,RO: Eurosport 4K
+http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/268948
+
+#EXTINF:-1 group-title="-",+DIGI Sport 1 HD RO
+http://195.189.60.31:8003/play/a0ac/index.m3u8
+#EXTINF:-1 group-title="-",+DIGI Sport 2 HD RO HU
+http://195.189.60.31:8003/play/a0ad/index.m3u8
+#EXTINF:-1 group-title="-",+Eurosport 2 HU 1180 1802
+http://195.189.60.31:8003/play/a09q/index.m3u8
+#EXTINF:-1 group-title="-",+Eurosport SD HU 1880 1802
+http://195.189.60.31:8003/play/a0gm/index.m3u8
+#EXTINF:-1 group-title="-",+MATCH4 HU 1802 1880
+http://195.189.60.31:8003/play/a0gl/index.m3u8
+#EXTINF:-1 group-title="-",+SPORT 2 HU1880
+http://195.189.60.31:8003/play/a09t/index.m3u8
+#EXTINF:-1 group-title="-",+TVR Sport
+http://195.189.60.31:8003/play/a0ey/index.m3u8
+#EXTINF:-1 group-title="-",+m2 HD HU 0d97
+http://195.189.60.31:8003/play/a0f1/index.m3u8
+#EXTINF:-1 group-title="-",+m5 HD HU
+http://195.189.60.31:8003/play/a0fd/index.m3u8
+#EXTINF:-1 group-title="-",+m5 HU
+http://195.189.60.31:8003/play/a0cl/index.m3u8
+
 
 #EXTINF:-1,CZ: Sport 2
 http://iptvtree.net:8080/romaniamedia/45127bdd19/46719
