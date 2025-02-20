@@ -570,6 +570,27 @@ http://178.219.128.68:64888/REALKING
 #EXTINF:-1,Private
 http://178.219.128.68:64889/PRIVTVHD
 
+#EXTINF:-1 tvg-id="RK TV.us" tvg-name="RK " tvg-logo="http://46.36.40.22/1023/realitykings.png" group-title="Erotické",RK TV
+http://88.212.15.19/live/test_realitykings_sd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="LeoTV.cz" tvg-name="Leo TV" tvg-logo="http://46.36.40.22/1023/leotv.png" group-title="Erotické",Leo TV
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Brazzers TV" tvg-name="Brazzers" tvg-logo="http://46.36.40.22/1023/brazzerstv.png" group-title="Erotické",Brazzers
+http://88.212.15.19/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Desire TV" tvg-name="Brazzers" tvg-logo="http://46.36.40.22/1023/Desiretv.png" group-title="Erotické",Desire
+http://88.212.15.19/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="hustsler TV" tvg-name="Hustsler" tvg-logo="http://46.36.40.22/1023/hustslertv.png" group-title="Erotické",Hustsler
+http://88.212.15.19/live/test_hustsler_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Extasy TV 4k" tvg-name="Extasy 4K" tvg-logo="http://46.36.40.22/1023/extasy4k.png" group-title="Erotické",Extasy 4K
+http://88.212.15.19/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Dorcel" tvg-name="Dorcel TV" tvg-logo="http://46.36.40.22/1023/dorceltv.png" group-title="Erotické",Dorcel TV
+http://88.212.15.19/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Eroxxx" tvg-name="Eroxxx " tvg-logo="http://46.36.40.22/1023/eroxxx.png" group-title="Erotické",Eroxxx
+http://88.212.15.19/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Erox" tvg-name="Erox" tvg-logo="http://46.36.40.22/1023/erox.png" group-title="Erotické",Erox
+http://88.212.15.19/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Babes TV" tvg-name="Babes TV" tvg-logo="http://46.36.40.22/1023/Babes.png" group-title="Erotické",Babes TV
+http://88.212.15.19/live/test_basbes_hd_hevc/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TV OSEM.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="-" group-title="Všeobecné",TV8
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Doktor.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://yt3.googleusercontent.com/lPSjPrqEOIUGQlOBSXQ0UtVACOCtbRvvt54Ia2LWcBnmLujI66LNgbFGFau4YrPeJJJNLYc9-g=s900-c-k-c0x00ffffff-no-rj" group-title="Lifestyle",TV Doktor
