@@ -559,6 +559,17 @@ http://cinevadinest.xyz:8080/zHRGHe2JtpxEuv8iX0hFFWvesQqNEt/VqR8lNYice0awphTkBT0
 #EXTINF:-1 tvg-id="" tvg-name="XXX: Vivid Red" tvg-logo="" group-title="XXX +18⭐",XXX: Vivid Red
 http://cinevadinest.xyz:8080/zHRGHe2JtpxEuv8iX0hFFWvesQqNEt/VqR8lNYice0awphTkBT072SujE4CJX/140788
 
+#EXTINF:-1,EROX
+http://178.219.128.68:64888/EROXHD
+#EXTINF:-1,HUSTSLER
+http://178.219.128.68:64888/HUSTHD
+#EXTINF:-1,Brazzers TV
+http://178.219.128.68:64888/BRAZHD
+#EXTINF:-1,Reality Kings
+http://178.219.128.68:64888/REALKING
+#EXTINF:-1,Private
+http://178.219.128.68:64889/PRIVTVHD
+
 #EXTINF:-1 tvg-id="TV OSEM.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="-" group-title="Všeobecné",TV8
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Doktor.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://yt3.googleusercontent.com/lPSjPrqEOIUGQlOBSXQ0UtVACOCtbRvvt54Ia2LWcBnmLujI66LNgbFGFau4YrPeJJJNLYc9-g=s900-c-k-c0x00ffffff-no-rj" group-title="Lifestyle",TV Doktor
