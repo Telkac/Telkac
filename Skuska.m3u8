@@ -84,7 +84,7 @@ http://88.212.15.19/live/test_hbo_hd_hevc/playlist.m3u8
 http://88.212.15.19/live/test_hbo2_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO3.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/hbo3.png" group-title="Všeobecné",HBO 3
 http://88.212.15.19/live/test_hbo3_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Film+.cz" tvg-name="Film+" tvg-logo="http://46.36.40.22/1023/filmplus.png" group-title="Všeobecné",Film+
+#EXTINF:-1 tvg-id="Film+.cz" tvg-name="Film+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILM%2B_logo_2014_Hungary.png" group-title="Všeobecné",Film+
 http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmbox.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmbox.png" group-title="Všeobecné",Filmbox
 http://88.212.15.19/live/test_filmbox/playlist.m3u8
@@ -104,9 +104,9 @@ http://88.212.15.19/live/test_cinemax2_hd_hevc/playlist.m3u8
 http://88.212.15.19/live/test_amc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/axn.png" group-title="Všeobecné",AXN
 http://88.212.15.19/live/test_axn/playlist.m3u8
-#EXTINF:-1 tvg-id="AXN Black.cz" tvg-name="AXN Black" tvg-logo="http://46.36.40.22/1023/axnblack.png" group-title="Všeobecné",AXN Black
+#EXTINF:-1 tvg-id="AXN Black.cz" tvg-name="AXN Black" tvg-logo="https://en.m.wikipedia.org/wiki/AXN_Black#/media/File%3AAXN_Black_logo_(2015).svg" group-title="Všeobecné",AXN Black
 http://88.212.15.19/live/test_black/playlist.m3u8
-#EXTINF:-1 tvg-id="AXN White.cz" tvg-name="AXN White" tvg-logo="http://46.36.40.22/1023/axnwhite.png" group-title="Všeobecné",AXN White
+#EXTINF:-1 tvg-id="AXN White.cz" tvg-name="AXN White" tvg-logo="https://en.m.wikipedia.org/wiki/AXN_White#/media/File%3AAXN_White_logo_(2015).svg" group-title="Všeobecné",AXN White
 http://88.212.15.19/live/test_white/playlist.m3u8
 #EXTINF:-1 tvg-id="Film Europe.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmeurope.png" group-title="Všeobecné",Film Europe
 http://194.160.135.34:8088/udp/233.10.47.62:1234
@@ -114,7 +114,7 @@ http://194.160.135.34:8088/udp/233.10.47.62:1234
 https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="Seznam.cz TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/seznamtv.png" group-title="Všeobecné",Seznam.cz TV
 http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Spark TV.cz" tvg-name="Up network" tvg-logo="http://46.36.40.22/1023/Upnetwork.png" group-title="Všeobecné",Spark
+#EXTINF:-1 tvg-id="Spark TV.cz" tvg-name="Up network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/TV_Spark.svg/revision/latest/scale-to-width-down/300?cb=20231109173805" group-title="Všeobecné",Spark
 http://88.212.15.19/live/test_upnetwork/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nova International.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1-nova-international-hd.png" group-title="Všeobecné",Nova International
