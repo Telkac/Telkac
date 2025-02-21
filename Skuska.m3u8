@@ -211,17 +211,6 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-id="Óčko Black.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ockoblack.png" group-title="Hudobné",Óčko Black HD
 http://88.212.15.19/live/test_ocko_black/playlist.m3u8
 https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
-#EXTINF:-1 tvg-id="MCM Music" tvg-name="MCM Music" tvg-logo="http://46.36.40.22/1023/mcmmusic.png" group-title="Hudobné",MCM Music
-http://88.212.15.19/live/test_mcm_top_atk_1200/playlist.m3u8
-#EXTINF:0,Mooz Dance HD  🇷🇴
-http://0d5b5123.cbilant.com/iptv/FWU59KQYGEDDTB/7056/index.m3u8
-http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/33905
-#EXTINF:0,Magic HD  🇷🇴
-http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/81307
-#EXTINF:0,U tv HD  🇷🇴
-http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/33910
-#EXTINF:0,Music Channel HD  🇷🇴
-http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/33912
 #EXTINF:-1,4Fun.TV.cz
 https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1,4Fun Dance.cz
@@ -235,7 +224,6 @@ https://tv.city.bg/play/tshls/citytv/index.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:0,Deluxe Music.cz
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-http://013tv.com:8080/F24307/c8111abb/2111
 #EXTINF:-1 tvg-id="DeluxeDance.de" group-title="Hudobné",Deluxe Dance HD 🇩🇪
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="Rebel.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/rebel.png" group-title="Hudobné",REBEL
