@@ -677,8 +677,6 @@ http://109.105.201.198/ARENASPORT3/index.m3u8?token=test
 #EXTINF:-1,Arena Sport 4 RS
 http://109.105.201.198/ARENASPORT4/index.m3u8?token=test
 
-#EXTINF:0,ASTRO SPORTS UHD
-http://7pal.short.gy/astrouhd
 #EXTINF:0,SKY SPORTS MAIN EVENT UHD
 http://7pal.short.gy/SSMEuhd
 #EXTINF:0,TNT SPORTS 1
@@ -688,8 +686,6 @@ http://7pal.short.gy/tntspts2
 #EXTINF:0,TNT SPORTS 3
 http://7pal.short.gy/tntspts3
 
-#EXTINF:-1 tvg-id="MUTV.HD.uk" group-title="Sports Live Events" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/MUTV.webp",MUTV 🇬🇧
-https://bit.ly/3FTAN4y?profile=inspirationFreetv.m3u8
 #EXTINF:-1 tvg-id="MUTV.HD.uk" group-title="Sports Live Events" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/MUTV.webp",MUTV 🇬🇧
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
@@ -872,67 +868,6 @@ http://46.232.186.35:35001/play/a01k
 #EXTINF:-1,Super tennis 🇮🇹
 http://46.232.186.35:35001/play/a01o
 
-#EXTINF:-1,SkySp MainEvent
-http://54.36.162.3/skspmainevent/index.m3u8
-#EXTINF:-1,SkySp Premier League
-http://54.36.162.3/sksppremierleague/index.m3u8
-#EXTINF:-1,Sky Sports Football
-http://54.36.162.3/skspfootball/index.m3u8
-#EXTINF:-1,Sky Sports Cricket
-http://54.36.162.3/skspcricket/index.m3u8
-#EXTINF:-1,Sky Sports Golf
-http://54.36.162.3/skspgolf/index.m3u8
-#EXTINF:-1,Sky Sports F1
-http://54.36.162.3/skspf1/index.m3u8
-#EXTINF:-1,Sky Sports NFL
-http://54.36.162.3/skspnfl/index.m3u8
-#EXTINF:-1,Sky Sports Arena
-http://54.36.162.3/sksparena/index.m3u8
-#EXTINF:-1,Sky Sp NewsHQ
-http://54.36.162.3/skspnews/index.m3u8
-#EXTINF:-1,Sky Sports Mix
-http://54.36.162.3/spspmix/index.m3u8
-#EXTINF:-1,Sky Sport Tennis
-http://54.36.162.3/sktennis/index.m3u8
-#EXTINF:-1,Eurosport 1
-http://54.36.162.3/eurosp1/index.m3u8
-#EXTINF:-1,Eurosport 2
-http://54.36.162.3/eurosp2/index.m3u8
-#EXTINF:-1,TNT Sports 1
-http://54.36.162.3/tnt1/index.m3u8
-#EXTINF:-1,TNT Sports 2
-http://54.36.162.3/tnt2/index.m3u8
-#EXTINF:-1,TNT Sports 3
-http://54.36.162.3/tnt3/index.m3u8
-#EXTINF:-1,TNT Sports 4
-http://54.36.162.3/tnt4/index.m3u8
-#EXTINF:-1,MUTV
-http://54.36.162.3/mutv/index.m3u8
-#EXTINF:-1,LFCTV
-http://54.36.162.3/lfctv/index.m3u8
-#EXTINF:0,Real Madrid 🇬🇧
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
-#EXTINF:-1,LaLiga TV
-http://54.36.162.3/laliga/index.m3u8
-#EXTINF:-1,Racing UKT
-http://54.36.162.3/racing/index.m3u8
-#EXTINF:-1,Premier Sports 1
-http://54.36.162.3/premiersp1/index.m3u8
-#EXTINF:-1,Premier Sports 2
-http://54.36.162.3/premiersp2/index.m3u8
-#EXTINF:-1,Premiere 1
-http://54.36.162.3/pr1/index.m3u8
-#EXTINF:-1,Premiere 2
-http://54.36.162.3/pr2/index.m3u8
-#EXTINF:-1,Premiere 3
-http://54.36.162.3/pr3/index.m3u8
-#EXTINF:-1,Premiere 4
-http://54.36.162.3/pr4/index.m3u8
-#EXTINF:-1,Premiere 5
-http://54.36.162.3/pr5/index.m3u8
-#EXTINF:-1,Premiere 6
-http://54.36.162.3/pr6/index.m3u8
-
 #EXTINF:-1,Sky Sport 1
 https://donelfantastic.github.io/live/skysportsNz1.m3u8
 #EXTINF:-1,Sky Sport 2
@@ -951,7 +886,6 @@ https://donelfantastic.github.io/live/skysportsNz7.m3u8
 https://donelfantastic.github.io/live/skysportsNz8.m3u8
 #EXTINF:-1,Sky Sport 9
 https://donelfantastic.github.io/live/skysportsNz9.m3u8
-
 
 #EXTINF:-1,CanaL Sport TV
 http://146.59.85.40:89/canal2/mpegts
