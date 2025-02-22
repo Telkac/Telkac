@@ -385,6 +385,31 @@ https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV OSEM.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="-" group-title="Všeobecné",TV8
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
 
+#EXTINF: -1,Radio Kosice
+http://stream.ecce.sk:8000/radiokosice-128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Vlna
+http://stream.radiovlna.sk/vlna-hi.mp3
+#EXTINF: -1,Fun Rádio 80 - 90s
+http://stream.funradio.sk:8000/80-90-128.mp3
+#EXTINF: -1,Fun Radio CZ-SK
+http://stream.funradio.sk:8000/cs128.mp3
+#EXTINF: -1,Fun Radio
+http://stream.funradio.sk:8000/fun128.mp3
+#EXTINF: -1,Fun Radio Dance
+http://stream.funradio.sk:8000/dance128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio Slovensko
+http://live.slovakradio.sk:8000/Slovensko_128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun Radio
+http://stream.funradio.sk:8000/fun128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun radio Cs
+http://stream.funradio.sk:8000/cs128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun Radio 80.90.Roky
+http://stream.funradio.sk:8000/80-90-128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun Radio Dance
+http://stream.funradio.sk:8000/dance128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio FM
+http://live.slovakradio.sk:8000/FM_128.mp3
+
 #EXTINF:-1 ,Adult mix 🔞
 http://caffe.link:25461/111SelimS/dmE9FI5RpF/1714
 #EXTINF:-1 ,Adult mix 2 🔞
@@ -539,31 +564,6 @@ http://88.212.15.19/live/test_eroxxx_hd_hevc/playlist.m3u8
 http://88.212.15.19/live/test_erox_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Babes TV" tvg-name="Babes TV" tvg-logo="http://46.36.40.22/1023/Babes.png" group-title="Erotické",Babes TV
 http://88.212.15.19/live/test_basbes_hd_hevc/playlist.m3u8
-
-#EXTINF: -1,Radio Kosice
-http://stream.ecce.sk:8000/radiokosice-128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="vlna.png",Rádio Vlna
-http://stream.radiovlna.sk/vlna-hi.mp3
-#EXTINF: -1,Fun Rádio 80 - 90s
-http://stream.funradio.sk:8000/80-90-128.mp3
-#EXTINF: -1,Fun Radio CZ-SK
-http://stream.funradio.sk:8000/cs128.mp3
-#EXTINF: -1,Fun Radio
-http://stream.funradio.sk:8000/fun128.mp3
-#EXTINF: -1,Fun Radio Dance
-http://stream.funradio.sk:8000/dance128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="slovensko.png",Radio Slovensko
-http://live.slovakradio.sk:8000/Slovensko_128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun.png",Fun Radio
-http://stream.funradio.sk:8000/fun128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-cz-sk.png",Fun radio Cs
-http://stream.funradio.sk:8000/cs128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-80-90-roky.png",Fun Radio 80.90.Roky
-http://stream.funradio.sk:8000/80-90-128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-dance.png",Fun Radio Dance
-http://stream.funradio.sk:8000/dance128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fm.png",Radio FM
-http://live.slovakradio.sk:8000/FM_128.mp3
 
 #EXTINF:-1,Arena sport 1 🇷🇴
 http://109.105.201.198/ARENASPORT1/video.m3u8?token=test
