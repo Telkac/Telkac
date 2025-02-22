@@ -326,103 +326,11 @@ http://194.160.135.34:8088/udp/233.10.47.64:1234
 http://filex.tv:8080/clotv695-142/ffVNSULvW3/332955
 #EXTINF:-1,Eurosport 2.cz
 http://194.160.135.34:8088/udp/233.10.47.65:1234
-#EXTINF:-1,Eurosport 1 HD 🇬🇧 🇷🇺
-http://45.159.74.14/Eurosport/manifest.m3u8
-#EXTINF:-1,Eurosport 1 Deutschland 🇩🇪
-http://188.60.179.180:8000/play/xxEurosport1DExx
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Športové" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/bein-sports.png",Bein SportXtra ñ 🇪🇸ᴴᴰ
-https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
-
-#EXTINF:0,CANAL+ SPORT HD 🇵🇱
-#EXTVLCOPT:network-caching=1000
-http://185.236.229.62:9981/play/a04c
-#EXTINF:0,CANAL+ SPORT 2 HD 🇵🇱
-#EXTVLCOPT:network-caching=1000
-http://185.236.229.62:9981/play/a05t
-#EXTINF:0,CANAL+ SPORT 3 HD 🇵🇱
-#EXTVLCOPT:network-caching=1000
-http://185.236.229.62:9981/play/a05e
-#EXTINF:0,CANAL+ SPORT 3 HD 🇵🇱
-#EXTVLCOPT:network-caching=1000
-http://185.236.229.62:9981/play/a05n
-#EXTINF:0,CANAL+ SPORT 3 HD 🇵🇱
-#EXTVLCOPT:network-caching=1000
-http://185.236.229.62:9981/play/a05q
-#EXTINF:0,CANAL+ SPORT 4 HD 🇵🇱
-#EXTVLCOPT:network-caching=1000
-http://185.236.229.62:9981/play/a05f
-#EXTINF:0,CANAL+ SPORT 4 HD 🇵🇱
-#EXTVLCOPT:network-caching=1000
-http://185.236.229.62:9981/play/a05o
-#EXTINF:0,CANAL+ SPORT 4 HD 🇵🇱
-#EXTVLCOPT:network-caching=1000
-http://185.236.229.62:9981/play/a05r
-#EXTINF:0,CANAL+ SPORT 5 HD 🇵🇱
-#EXTVLCOPT:network-caching=1000
-http://185.236.229.62:9981/play/a05h
-#EXTINF:0,Eleven Sports 1 4K 🇵🇱
-#EXTVLCOPT:network-caching=1000
-http://185.236.229.62:9981/play/a03t
-#EXTINF:0,Eleven Sports 1 HD 🇵🇱
-#EXTVLCOPT:network-caching=1000
-http://185.236.229.62:9981/play/a05w
-#EXTINF:0,Eleven Sports 2 HD 🇵🇱
-#EXTVLCOPT:network-caching=1000
-http://185.236.229.62:9981/play/a05y
-#EXTINF:0,Eleven Sports 3 HD 🇵🇱
-#EXTVLCOPT:network-caching=1000
-http://185.236.229.62:9981/play/a061
-#EXTINF:0,ELEVEN SPORTS 4 HD 🇵🇱
-#EXTVLCOPT:network-caching=1000
-http://185.236.229.62:9981/play/a046
-#EXTINF:0,Polsat Sport HD 🇵🇱
-#EXTVLCOPT:network-caching=1000
-http://185.236.229.62:9981/play/a07n
-#EXTINF:0,Polsat Sport 3 HD 🇵🇱
-#EXTVLCOPT:network-caching=1000
-http://185.236.229.62:9981/play/a06m
-#EXTINF:0,Polsat Sport Premium 1 🇵🇱
-#EXTINF:0,Sportklub HD 🇵🇱
-#EXTVLCOPT:network-caching=1000
-http://185.236.229.62:9981/play/a02k
-#EXTINF:0,TVP Sport HD 🇵🇱
-#EXTVLCOPT:network-caching=1000
-http://185.236.229.62:9981/play/a05c
-#EXTINF:0,Eleven_Sports_1_HD 🇵🇱
-http://109.233.89.166/Eleven_Sports_1_HD/mono.m3u8
-#EXTINF:0,Eleven_Sports_2_HD 🇵🇱
-http://109.233.89.166/Eleven_Sports_2_HD/mono.m3u8
-#EXTINF:0,Eleven_Sports_3_HD 🇵🇱
-http://109.233.89.166/Eleven_Sports_3_HD/mono.m3u8
-#EXTINF:0,ELEVEN_SPORTS_4 HD 🇵🇱
-http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
-#EXTINF:0,TVP_Sport HD 🇵🇱
-http://109.233.89.166/TVP_Sport_HD/mono.m3u8
-#EXTINF:-1,Polsat SPORT 1 🇵🇱
-http://178.219.128.68:64889/POLSSPORHD
-#EXTINF:-1,Polsat Sport 3 🇵🇱
-http://178.219.128.68:64889/POLSSPORNEWSHD
-#EXTINF:-1,Eleven Sports 1 Poland HD 🇵🇱
-http://178.219.128.68:64889/ELEVSPOR1HD
-#EXTINF:-1,Eleven Sports 2 Poland HD 🇵🇱 
-http://178.219.128.68:64889/ELEVSPOR2HD
-#EXTINF:-1,Eleven Sports 3 Poland HD 🇵🇱
-http://178.219.128.68:64889/ELEVSPOR3HD
-#EXTINF:-1,Eleven Sports 4 Poland HD 🇵🇱
-http://178.219.128.68:64888/ELEVSPOR4HD
-#EXTINF:-1,Poland_Polsat Sport NEWS 🇵🇱
-http://178.219.128.68:64889/POLSSPORNEWSHD
-#EXTINF:-1,Poland_Polsat SPORT 🇵🇱
-http://178.219.128.68:64889/POLSSPORHD
 
 #EXTINF:-1 tvg-id="Sporty TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/SportyTVSD.png" group-title="Športové",Sporty TV HD
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
 #EXTINF:-1,Auto Motor Sport.cz
 http://78.130.250.2:8023/play/a018/index.m3u8
-#EXTINF:0,Polsat Sport Fight HD 🇵🇱
-#EXTVLCOPT:network-caching=1000
-http://185.236.229.62:9981/play/a06l
 
 #EXTINF:-1 ,Adult mix 🔞
 http://caffe.link:25461/111SelimS/dmE9FI5RpF/1714
@@ -664,18 +572,26 @@ http://109.105.201.198/Arenasport2/video.m3u8?token=test
 http://109.105.201.198/ARENASPORT3/video.m3u8?token=test
 #EXTINF:-1,Arena sport 4 🇷🇴
 http://109.105.201.198/ARENASPORT4/video.m3u8?token=test
+#EXTINF:-1,Max Sport 1
+http://109.105.201.198/MAXSPORT1HR/video.m3u8?token=test
+
+#EXTINF:0,Diema Sport 🇷🇴
+http://raalbatros.serv00.net/Gledai.php?ID=diemasport
+#EXTINF:0,Diema Sport 2 🇷🇴
+http://raalbatros.serv00.net/Gledai.php?ID=diemasport2
+#EXTINF:0,Diema Sport 3 🇷🇴
+http://raalbatros.serv00.net/Gledai.php?ID=diemasport3
+#EXTINF:0,Nova Sport
+http://raalbatros.serv00.net/Gledai.php?ID=novasport
+#EXTINF:0,Max Sport 1
+http://raalbatros.serv00.net/Gledai.php?ID=maxsport1
+#EXTINF:0,Max Sport 2
+http://raalbatros.serv00.net/Gledai.php?ID=maxsport2
+#EXTINF:0,Max Sport 3
+http://raalbatros.serv00.net/Gledai.php?ID=maxsport3
 
 #EXTINF:-1,SPORT1 (DSF).cz
 http://188.60.179.180:8000/play/a04g
-
-EXTINF:-1,Arena Sport 1 RS
-http://109.105.201.198/ARENASPORT1/index.m3u8?token=test
-#EXTINF:-1,Arena Sport 2 RS
-http://109.105.201.198/Arenasport2/index.m3u8?token=test
-#EXTINF:-1,Arena Sport 3 RS
-http://109.105.201.198/ARENASPORT3/index.m3u8?token=test
-#EXTINF:-1,Arena Sport 4 RS
-http://109.105.201.198/ARENASPORT4/index.m3u8?token=test
 
 #EXTINF:0,SKY SPORTS MAIN EVENT UHD
 http://7pal.short.gy/SSMEuhd
@@ -738,45 +654,10 @@ http://109.233.89.166/Eurosport_2_HD/mono.m3u8
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="" group-title="Tennis 🎾🏓🏸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tennistv.webp",Tennis tv 🇺🇸
 http://49.0.64.96:8007/TENNIS
 
-#EXTINF:0,Diema Sport 🇷🇴
-http://raalbatros.serv00.net/Gledai.php?ID=diemasport
-#EXTINF:0,Diema Sport 2 🇷🇴
-http://raalbatros.serv00.net/Gledai.php?ID=diemasport2
-#EXTINF:0,Diema Sport 3 🇷🇴
-http://raalbatros.serv00.net/Gledai.php?ID=diemasport3
-#EXTINF:0,Nova Sport
-http://raalbatros.serv00.net/Gledai.php?ID=novasport
-#EXTINF:0,Max Sport 1
-http://raalbatros.serv00.net/Gledai.php?ID=maxsport1
-#EXTINF:0,Max Sport 2
-http://raalbatros.serv00.net/Gledai.php?ID=maxsport2
-#EXTINF:0,Max Sport 3
-http://raalbatros.serv00.net/Gledai.php?ID=maxsport3
-
-#EXTINF:-1,Arena Sport 1 RS
-http://109.105.201.198/ARENASPORT1/index.m3u8?token=test
-#EXTINF:-1,Arena Sport 2 RS
-http://109.105.201.198/Arenasport2/index.m3u8?token=test
-#EXTINF:-1,Arena Sport 3 RS
-http://109.105.201.198/ARENASPORT3/index.m3u8?token=test
-#EXTINF:-1,Arena Sport 4 RS
-http://109.105.201.198/ARENASPORT4/index.m3u8?token=test
-#EXTINF:-1,Max Sport 1
-http://109.105.201.198/MAXSPORT1HR/video.m3u8?token=test
-
 #EXTINF:-1,Rai Sport + HD 🇮🇹
 http://188.60.179.180:8000/play/xxRaiSportPlusHDxx
 #EXTINF:-1,ORF SPORT+ HD 🇩🇪
 http://188.60.179.180:7000/play/xxORFSportPlusHDxx
-
-#EXTINF:-1,Eleven Sports 1 Poland HD 🇵🇱
-http://178.219.128.68:64889/ELEVSPOR1HD
-#EXTINF:-1,Eleven Sports 2 Poland HD 🇵🇱 
-http://178.219.128.68:64889/ELEVSPOR2HD
-#EXTINF:-1,Eleven Sports 3 Poland HD 🇵🇱
-http://178.219.128.68:64889/ELEVSPOR3HD
-#EXTINF:-1,Eleven Sports 4 Poland HD 🇵🇱
-http://178.219.128.68:64888/ELEVSPOR4HD
 
 #EXTINF:-1,ESPN 2 HD 🇪🇸
 http://190.60.49.243:4000/play/a06q
@@ -793,75 +674,87 @@ http://190.60.49.243:4000/play/a071
 #EXTINF:-1,ESPN 7HD 🇪🇸
 http://190.60.49.243:4000/play/a04c
 
-#EXTINF:-1 ,Eleven Sports 1
+#EXTINF:-1,Eleven Sports 1 Poland HD 🇵🇱
+http://178.219.128.68:64889/ELEVSPOR1HD
+#EXTINF:-1,Eleven Sports 2 Poland HD 🇵🇱 
+http://178.219.128.68:64889/ELEVSPOR2HD
+#EXTINF:-1,Eleven Sports 3 Poland HD 🇵🇱
+http://178.219.128.68:64889/ELEVSPOR3HD
+#EXTINF:-1,Eleven Sports 4 Poland HD 🇵🇱
+http://178.219.128.68:64888/ELEVSPOR4HD
+
+#EXTINF:-1 ,Eleven Sports 1 🇵🇱
 http://109.233.89.166/Eleven_Sports_1_HD/mono.m3u8
-#EXTINF:-1 ,Eleven Sports 2
+#EXTINF:-1 ,Eleven Sports 2 🇵🇱
 http://109.233.89.166/Eleven_Sports_2_HD/mono.m3u8
-#EXTINF:-1 ,Eleven Sports 3
+#EXTINF:-1 ,Eleven Sports 3 🇵🇱
 http://109.233.89.166/Eleven_Sports_3_HD/mono.m3u8
-#EXTINF:-1 ,Eleven Sports 4
+#EXTINF:-1 ,Eleven Sports 4 🇵🇱
 http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
-#EXTINF:-1 ,Super Polsat
+#EXTINF:-1 ,Super Polsat 🇵🇱
 http://109.233.89.166/Super_Polsat_HD/mono.m3u8
-#EXTINF:-1 ,Eurosport 1
+#EXTINF:-1 ,Eurosport 1 🇵🇱
 http://109.233.89.166/Eurosport_1_HD/mono.m3u8
-#EXTINF:-1 ,Eurosport 2
+#EXTINF:-1 ,Eurosport 2 🇵🇱
 http://109.233.89.166/Eurosport_2_HD/mono.m3u8
 
-#EXTINF:-1,CANAL+ SPORT 2 HD
+#EXTINF:-1,CANAL+ SPORT 2 HD 🇵🇱
 http://185.236.229.62:9981/play/a05t
-#EXTINF:-1,CANAL+ SPORT 3 HD
+#EXTINF:-1,CANAL+ SPORT 3 HD 🇵🇱
 http://185.236.229.62:9981/play/a05e
-#EXTINF:-1,CANAL+ SPORT 3 HD
+#EXTINF:-1,CANAL+ SPORT 3 HD 🇵🇱
 http://185.236.229.62:9981/play/a05n
-#EXTINF:-1,CANAL+ SPORT 3 HD
+#EXTINF:-1,CANAL+ SPORT 3 HD 🇵🇱
 http://185.236.229.62:9981/play/a05q
-#EXTINF:-1,CANAL+ SPORT 4 HD
+#EXTINF:-1,CANAL+ SPORT 4 HD 🇵🇱
 http://185.236.229.62:9981/play/a05f
-#EXTINF:-1,CANAL+ SPORT 4 HD
+#EXTINF:-1,CANAL+ SPORT 4 HD 🇵🇱
 http://185.236.229.62:9981/play/a05o
-#EXTINF:-1,CANAL+ SPORT 4 HD
+#EXTINF:-1,CANAL+ SPORT 4 HD 🇵🇱
 http://185.236.229.62:9981/play/a05r
-#EXTINF:-1,CANAL+ SPORT 5 HD
+#EXTINF:-1,CANAL+ SPORT 5 HD 🇵🇱
 http://185.236.229.62:9981/play/a05h
-#EXTINF:-1,CANAL+ SPORT HD
+#EXTINF:-1,CANAL+ SPORT HD 🇵🇱
 http://185.236.229.62:9981/play/a04c
-#EXTINF:-1,Eleven Sports 1 4K
+#EXTINF:-1,Eleven Sports 1 4K 🇵🇱
 http://185.236.229.62:9981/play/a03t
-#EXTINF:-1,Eleven Sports 1 HD
+#EXTINF:-1,Eleven Sports 1 HD 🇵🇱
 http://185.236.229.62:9981/play/a05w
-#EXTINF:-1,Eleven Sports 2 HD
+#EXTINF:-1,Eleven Sports 2 HD 🇵🇱
 http://185.236.229.62:9981/play/a05y
-#EXTINF:-1,Eleven Sports 3 HD
+#EXTINF:-1,Eleven Sports 3 HD 🇵🇱
 http://185.236.229.62:9981/play/a061
-#EXTINF:-1,Polsat Sport Extra HD
+#EXTINF:-1,Polsat Sport Extra HD 🇵🇱
 http://185.236.229.62:9981/play/a07q
-#EXTINF:-1,Polsat Sport Fight HD
+#EXTINF:-1,Polsat Sport Fight HD 🇵🇱
 http://185.236.229.62:9981/play/a06l
-#EXTINF:-1,Polsat Sport HD
+#EXTINF:-1,Polsat Sport HD 🇵🇱
 http://185.236.229.62:9981/play/a07n
-#EXTINF:-1,Polsat Sport News HD
+#EXTINF:-1,Polsat Sport News HD 🇵🇱
 http://185.236.229.62:9981/play/a06m
-#EXTINF:-1,Polsat Sport Premium 1
+#EXTINF:-1,Polsat Sport Premium 1 🇵🇱
 http://185.236.229.62:9981/play/a03r
-#EXTINF:-1,Polsat Sport Premium 2
+#EXTINF:-1,Polsat Sport Premium 2 🇵🇱
 http://185.236.229.62:9981/play/a03s
-#EXTINF:-1,Polsat Sport Premium PPV3
+#EXTINF:-1,Polsat Sport Premium PPV3 🇵🇱
 http://185.236.229.62:9981/play/a03p
-#EXTINF:-1,Polsat Sport Premium PPV4
+#EXTINF:-1,Polsat Sport Premium PPV4 🇵🇱
 http://185.236.229.62:9981/play/a03q
-#EXTINF:-1,Polsat Sport Premium PPV5
+#EXTINF:-1,Polsat Sport Premium PPV5 🇵🇱
 http://185.236.229.62:9981/play/a07x
-#EXTINF:-1,Polsat Sport Premium PPV6
+#EXTINF:-1,Polsat Sport Premium PPV6 🇵🇱
 http://185.236.229.62:9981/play/a07y
-#EXTINF:-1,TVP Sport HD
+#EXTINF:-1,TVP Sport HD 🇵🇱
 http://185.236.229.62:9981/play/a05l
-#EXTINF:-1,TVP Sport HD
+#EXTINF:-1,TVP Sport HD 🇵🇱
 http://185.236.229.62:9981/play/a05c
-#EXTINF:-1,Sportklub HD
+#EXTINF:-1,Sportklub HD 🇵🇱
 http://185.236.229.62:9981/play/a02k
-#EXTINF:-1,Super Polsat HD
+#EXTINF:-1,Super Polsat HD 🇵🇱
 http://185.236.229.62:9981/play/a043
+#EXTINF:0,Polsat Sport Fight HD 🇵🇱
+#EXTVLCOPT:network-caching=1000
+http://185.236.229.62:9981/play/a06l
 
 #EXTINF:-1,Sport italia plus 🇮🇹
 http://46.232.186.35:35001/play/a01k
@@ -2738,6 +2631,26 @@ http://195.189.60.31:8003/play/a0fd/index.m3u8
 #EXTINF:-1 group-title="-",+m5 HU
 http://195.189.60.31:8003/play/a0cl/index.m3u8
 
+#EXTINF:-1,Eurosport 1 HD 🇬🇧 🇷🇺
+http://45.159.74.14/Eurosport/manifest.m3u8
+#EXTINF:-1,Eurosport 1 Deutschland 🇩🇪
+http://188.60.179.180:8000/play/xxEurosport1DExx
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Športové" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/bein-sports.png",Bein SportXtra ñ 🇪🇸ᴴᴰ
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-logo="https://docdog.top/Logotv/countries//tennischannel.png",Tennis
+http://cord-cutter.net:8080/live/JoanP@112/443@112/20184.ts
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsaction.png",SkySport Action
+http://cord-cutter.net:8080/live/JoanP@112/443@112/53705.ts
+#EXTINF:-1 tvg-id="SkySp.ArenaHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsarena.png",SkySport Arena
+http://cord-cutter.net:8080/live/JoanP@112/443@112/137719.ts
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmainevent.png",SkySport Main Event
+http://cord-cutter.net:8080/live/JoanP@112/443@112/137720.ts
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmix.png",SkySport Mix
+http://cord-cutter.net:8080/live/JoanP@112/443@112/53706.ts
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/germany/sky-sport/sky-sport-news-alt-de.png",SkySport News
+http://cord-cutter.net:8080/live/JoanP@112/443@112/35241.ts
 
 #EXTINF:-1,CZ: Sport 2
 http://iptvtree.net:8080/romaniamedia/45127bdd19/46719
