@@ -129,13 +129,13 @@ http://88.212.15.19/live/test_joj_family_hevc_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JOJ Svet.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1602-joj-svet-hd.png" group-title="Dokumentárné",JOJ Svet
 http://88.212.15.19/live/test_joj_svet/playlist.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel.cz" tvg-name="Discovery" tvg-logo="http://46.36.40.22/1023/discovery.png" group-title="Dokumentárne",Discovery
+#EXTINF:-1 tvg-id="Discovery Channel.cz" tvg-name="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/34/Discovery_Channel_2000.png" group-title="Dokumentárne",Discovery
 http://88.212.15.19/live/test_discovery_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Travel Channel.cz" tvg-name="Discovery" tvg-logo="" group-title="Dokumentárne",Travel Channel
+#EXTINF:-1 tvg-id="Travel Channel.cz" tvg-name="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Travel_Channel_NEW_LOGO.svg/2560px-Travel_Channel_NEW_LOGO.svg.png" group-title="Dokumentárne",Travel Channel
 http://88.212.15.19/live/test_travel_channel_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Love Nature.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/lovenature.png" group-title="Dokumentárné",Love Nature
 http://88.212.15.19/live/test_lovenature/playlist.m3u8
-#EXTINF:-1 tvg-id="Animal Planet.cz" tvg-name="Discovery" tvg-logo="" group-title="Dokumentárne",Animal Planet
+#EXTINF:-1 tvg-id="Animal Planet.cz" tvg-name="Discovery" tvg-logo="https://en.m.wikipedia.org/wiki/Animal_Planet#/media/File%3A2018_Animal_Planet_logo.svg" group-title="Dokumentárne",Animal Planet
 http://88.212.15.19/live/test_animal_planet_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="National Geographic HD.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nationalgeographic.png" group-title="Dokumentárné",National Geographic
 http://88.212.15.19/live/test_ngc/playlist.m3u8
