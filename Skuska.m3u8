@@ -2496,6 +2496,47 @@ http://cord-cutter.net:8080/live/JoanP@112/443@112/53706.ts
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/germany/sky-sport/sky-sport-news-alt-de.png",SkySport News
 http://cord-cutter.net:8080/live/JoanP@112/443@112/35241.ts
 
+#EXTINF:-1 ,Eleven Sports 1 4K
+http://195.189.60.33:9003/play/a004
+#EXTINF:-1 ,Eleven Sports 1 HD
+http://195.189.60.33:9014/play/a006
+#EXTINF:-1 ,Eleven Sports 2 HD
+http://195.189.60.33:9014/play/a008
+#EXTINF:-1 ,Eleven Sports 3 HD
+http://195.189.60.33:9014/play/a00b
+#EXTINF:-1 ,Eleven Sports 4 HD
+http://195.189.60.33:9014/play/a00w
+#EXTINF:-1 ,Polsat Sport 1
+http://195.189.60.33:9013/play/a002
+#EXTINF:-1 ,Polsat Sport 2
+http://195.189.60.33:9013/play/a007
+#EXTINF:-1 ,Polsat Sport 3
+http://195.189.60.33:9011/play/a00a
+#EXTINF:-1 ,Polsat Sport Fight HD
+http://195.189.60.33:9011/play/a009
+#EXTINF:-1 ,Polsat Sport Premium 1
+http://195.189.60.33:9003/play/a002
+#EXTINF:-1 ,Polsat Sport Premium 2
+http://195.189.60.33:9003/play/a003
+#EXTINF:-1 ,Polsat Sport Premium PPV3
+http://195.189.60.33:9002/play/a009
+#EXTINF:-1 ,Polsat Sport Premium PPV4
+http://195.189.60.33:9002/play/a00a
+#EXTINF:-1 ,Polsat Sport Premium PPV5
+http://195.189.60.33:9013/play/a00m
+#EXTINF:-1 ,TVP Sport HD
+http://195.189.60.33:9012/play/a005
+#EXTINF:-1 ,CANAL+ SPORT 2 HD
+http://195.189.60.33:9014/play/a003
+#EXTINF:-1 ,CANAL+ SPORT 3 HD
+http://195.189.60.33:9012/play/a007
+#EXTINF:-1 ,CANAL+ SPORT 4 HD
+http://195.189.60.33:9012/play/a008
+#EXTINF:-1 ,CANAL+ SPORT 5 HD
+http://195.189.60.33:9012/play/a009
+#EXTINF:-1 ,CANAL+ EXTRA 4
+http://195.189.60.33:9012/play/a00s
+
 #EXTINF:-1,CZ: Sport 2
 http://iptvtree.net:8080/romaniamedia/45127bdd19/46719
 #EXTINF:-1,CZ: Sport 1
