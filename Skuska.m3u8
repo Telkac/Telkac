@@ -198,6 +198,8 @@ http://88.212.15.19/live/test_disney/playlist.m3u8
 http://88.212.15.19/live/test_disney_junior/playlist.m3u8
 #EXTINF:-1,Cartoon Network.cz
 http://iptvtree.net:8080/romaniamedia/45127bdd19/83385
+#EXTINF:-1,Peppa pig rozpravky RO
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/296706
 
 #EXTINF:-1 tvg-id="Óčko.cz" tvg-country="CZ;SK" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ocko.png" group-title="Hudobné",Óčko HD
 http://88.212.15.19/live/test_ocko/playlist.m3u8
@@ -266,6 +268,8 @@ http://185.23.80.28:8080/BRIDGETVDANCE/index.m3u8?token=test
 http://185.23.80.28:8080/BRIDGE_ROCK/index.m3u8?token=test
 #EXTINF:-1,VİVA TV
 https://ssh101-fl.bozztv.com/ssh101/vivarussia/playlist.m3u8
+#EXTINF:-1,Music Channel RO
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33912
 
 #EXTINF:-1 tvg-id="SENZI.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1410-senzi-hd.png" group-title="Hudobné",SENZI HD
 http://88.212.15.19/live/test_senzi_hevc/playlist.m3u8
@@ -2437,22 +2441,28 @@ http://pumas.life:8080/Lea22/nVPsZ9r55x/631157
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/Eurosport_2.png" group-title="VIP » SPORTS BALKAN", HR ✦ EUROSPORT 2 HD
 http://pumas.life:8080/Lea22/nVPsZ9r55x/631156
 
-#EXTINF:0,RO: DIGI Sport 1 4K
-http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/62775
 #EXTINF:0,RO: DIGI Sport 1
-http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/33796
-#EXTINF:0,RO: DIGI Sport 2 4K
-http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/116132
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33797
 #EXTINF:0,RO: DIGI Sport 2
-http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/34069
-#EXTINF:0,RO: DIGI Sport 3 4K
-http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/185269
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33799
 #EXTINF:0,RO: DIGI Sport 3
-http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/34071
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33801
 #EXTINF:0,RO: DIGI Sport 4
-http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/33803
-#EXTINF:0,RO: Eurosport 4K
-http://romania4k.ddns.net:8008/zGpPHeBeMz/cGGy8hZHUc/268948
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33803
+#EXTINF:0,RO: Prima Sport 1
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33815
+#EXTINF:0,RO: Prima Sport 2
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/146488
+#EXTINF:0,RO: Prima Sport 3
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/157160
+#EXTINF:0,RO: Prima Sport 4 
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/245819
+#EXTINF:0,RO: Prima Sport 5
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/157162
+#EXTINF:0,RO: Eurosport 1
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33810
+#EXTINF:0,RO: Eurosport 2
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33812
 
 #EXTINF:-1 group-title="-",+DIGI Sport 1 HD RO
 http://195.189.60.31:8003/play/a0ac/index.m3u8
