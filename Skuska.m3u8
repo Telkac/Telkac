@@ -196,10 +196,10 @@ http://88.212.15.19/live/test_minimax/playlist.m3u8
 http://88.212.15.19/live/test_disney/playlist.m3u8
 #EXTINF:-1 tvg-id="Disney Junior.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://staticeu.sweet.tv/images/icons/channels/v2/800-disney-junior.png" group-title="Detské",Disney Junior
 http://88.212.15.19/live/test_disney_junior/playlist.m3u8
-#EXTINF:-1,Cartoon Network.cz
-http://iptvtree.net:8080/romaniamedia/45127bdd19/83385
 #EXTINF:-1,Peppa pig rozpravky RO
 http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/296706
+#EXTINF:-1,Tom & Jerry rozpravky RO
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/296723
 
 #EXTINF:-1 tvg-id="Óčko.cz" tvg-country="CZ;SK" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ocko.png" group-title="Hudobné",Óčko HD
 http://88.212.15.19/live/test_ocko/playlist.m3u8
