@@ -272,6 +272,15 @@ http://185.23.80.28:8080/BRIDGE_ROCK/index.m3u8?token=test
 https://ssh101-fl.bozztv.com/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1,Music Channel RO
 http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33912
+#EXTINF:-1,Magic tv RO
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/81307
+#EXTINF:-1,U tv RO
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33910
+#EXTINF:-1,Kiss tv RO
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/36775
+
+
+
 
 #EXTINF:-1 tvg-id="SENZI.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1410-senzi-hd.png" group-title="Hudobné",SENZI HD
 http://88.212.15.19/live/test_senzi_hevc/playlist.m3u8
