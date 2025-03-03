@@ -2531,6 +2531,23 @@ http://195.189.60.33:9012/play/a009
 #EXTINF:-1 ,CANAL+ EXTRA 4
 http://195.189.60.33:9012/play/a00s
 
+#EXTINF:-1,Arena Sport 1
+http://109.105.201.198/ARENASPORT1/index.m3u8?token=test
+#EXTINF:-1,Arena Sport 2
+http://109.105.201.198/Arenasport2/index.m3u8?token=test
+#EXTINF:-1,Arena Sport 3
+http://109.105.201.198/ARENASPORT3/index.m3u8?token=test
+#EXTINF:-1,Arena Sport 4
+http://109.105.201.198/ARENASPORT4/index.m3u8?token=test
+#EXTINF:-1,Max Sport 1
+http://109.105.201.198/MAXSPORT1HR/index.m3u8?token=test
+#EXTINF:-1,Max Sport 2
+http://109.105.201.198/MAXSPORT2HR/index.m3u8?token=test
+#EXTINF:-1,EuroSport 1
+http://109.105.201.198/EUROSPORT1/index.m3u8?token=test
+#EXTINF:-1,EuroSport 2
+http://109.105.201.198/EUROSPORT2/index.m3u8?token=test
+
 #EXTINF:-1,CZ: Sport 2
 http://iptvtree.net:8080/romaniamedia/45127bdd19/46719
 #EXTINF:-1,CZ: Sport 1
