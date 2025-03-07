@@ -283,8 +283,12 @@ http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33910
 http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/36775
 #EXTINF:-1,Mooz Dance RO 🇷🇴
 http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/9021
-
-
+#EXTINF:-1,Mooz Hits RO 🇷🇴
+http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/37921
+#EXTINF:-1,HIT Music Channel RO 🇷🇴
+http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/9141
+#EXTINF:-1,First Music RO 🇷🇴
+http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/9152
 #EXTINF:-1 tvg-id="SENZI.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1410-senzi-hd.png" group-title="Hudobné",SENZI HD
 http://88.212.15.19/live/test_senzi_hevc/playlist.m3u8
 #EXTINF:0,Šlágr 1 HD
@@ -1131,3 +1135,19 @@ http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW
 http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/8993
 #EXTINF:0,RO: DIGI Sport 4
 http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/8994
+#EXTINF:0,RO: Prima Sport 1
+http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/31399
+#EXTINF:0,RO: Prima Sport 2
+http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/9003
+#EXTINF:0,RO: Prima Sport 3
+http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/9005
+#EXTINF:0,RO: Prima Sport 4 
+http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/9004
+#EXTINF:0,RO: Prima Sport 5
+http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/37842
+#EXTINF:0,RO: Eurosport 1
+http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/70385
+#EXTINF:0,RO: Eurosport 2
+http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/70388
+#EXTINF:0,RO: Sport Extra
+http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/29052
