@@ -202,6 +202,9 @@ http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/296706
 http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/296723
 #EXTINF:-1,Oggy & His Friends rozpravky RO 🇷🇴
 http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/296688
+#EXTINF:-1,Bugs Banny rozpravky RO 🇷🇴
+http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/58719
+
 
 #EXTINF:-1 tvg-id="Óčko.cz" tvg-country="CZ;SK" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ocko.png" group-title="Hudobné",Óčko HD
 http://88.212.15.19/live/test_ocko/playlist.m3u8
@@ -278,6 +281,9 @@ http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/81307
 http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33910
 #EXTINF:-1,Kiss tv RO 🇷🇴
 http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/36775
+#EXTINF:-1,Mooz Dance RO 🇷🇴
+http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/9021
+
 
 #EXTINF:-1 tvg-id="SENZI.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1410-senzi-hd.png" group-title="Hudobné",SENZI HD
 http://88.212.15.19/live/test_senzi_hevc/playlist.m3u8
@@ -1116,3 +1122,12 @@ http://109.105.201.198/MAXSPORT2HR/index.m3u8?token=test
 http://109.105.201.198/EUROSPORT1/index.m3u8?token=test
 #EXTINF:-1,EuroSport 2
 http://109.105.201.198/EUROSPORT2/index.m3u8?token=test
+
+#EXTINF:0,RO: DIGI Sport 1
+http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/8991
+#EXTINF:0,RO: DIGI Sport 2
+http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/8992
+#EXTINF:0,RO: DIGI Sport 3
+http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/8993
+#EXTINF:0,RO: DIGI Sport 4
+http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/8994
