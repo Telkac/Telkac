@@ -1127,27 +1127,13 @@ http://109.105.201.198/EUROSPORT1/index.m3u8?token=test
 #EXTINF:-1,EuroSport 2
 http://109.105.201.198/EUROSPORT2/index.m3u8?token=test
 
-#EXTINF:0,RO: DIGI Sport 1
-http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/8991
-#EXTINF:0,RO: DIGI Sport 2
-http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/8992
-#EXTINF:0,RO: DIGI Sport 3
-http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/8993
-#EXTINF:0,RO: DIGI Sport 4
-http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/8994
-#EXTINF:0,RO: Prima Sport 1
-http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/31399
-#EXTINF:0,RO: Prima Sport 2
-http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/9003
-#EXTINF:0,RO: Prima Sport 3
-http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/9005
-#EXTINF:0,RO: Prima Sport 4 
-http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/9004
-#EXTINF:0,RO: Prima Sport 5
-http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/37842
-#EXTINF:0,RO: Eurosport 1
-http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/70385
-#EXTINF:0,RO: Eurosport 2
-http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/70388
-#EXTINF:0,RO: Sport Extra
-http://main.movistar-balancer.store:8080/xApIkAj0csJ5WwTxgUb2cPiRum7ZVN/pWVu3VVW3lu91oVNQSlYem6TrS6kJB/29052
+#EXTINF:-1,Štrbské Pleso (pohľad na Móryho vyhliadku)
+http://stream.strba.sk:1935/strba/MORYHO_VYH.stream/playlist.m3u8
+#EXTINF:-1,Štrbské Pleso - Námestie MS
+https://stream.profi-net.sk/strba/VYHLAD_NAMESTIE.stream/playlist.m3u8
+#EXTINF:-1,Prešov stanica
+http://stream.kukaj.se/stream/1/video.m3u8
+#EXTINF:-1,Prešov, konkatedrála sv. Mikuláša
+http://stream.kukaj.se/stream/12/video.m3u8
+#EXTINF:-1,Praha
+http://live.idnes.cz/slow/amc_720p/playlist.m3u8
