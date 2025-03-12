@@ -390,7 +390,7 @@ https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV OSEM.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="-" group-title="Všeobecné",TV8
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
 
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="<a href="https://www.vecteezy.com/video/1909008-cool-rotating-triangle-wireframe-tunnel-3d-illustration-dj-loop">Cool rotating triangle wireframe tunnel 3d illustration dj loop Stock Videos by Vecteezy</a>",Radio Kosice
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://www.vecteezy.com/video/1909008-cool-rotating-triangle-wireframe-tunnel-3d-illustration-dj-loop",Radio Kosice
 http://stream.ecce.sk:8000/radiokosice-128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Vlna
 http://stream.radiovlna.sk/vlna-hi.mp3
