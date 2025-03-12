@@ -1125,9 +1125,7 @@ http://109.105.201.198/EUROSPORT2/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Štrbské Pleso (pohľad na Móryho vyhliadku)" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://clipart-library.com/2023/254-2542555_some-text-logo-camera-video-surveillance.png" group-title="Všeobecné",Štrbské Pleso (pohľad na Móryho vyhliadku)
 http://stream.strba.sk:1935/strba/MORYHO_VYH.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Štrbské Pleso - Námestie MS" tvg-country="SK" tvg-language="Slovak" tvg-logo="<a href="https://www.vecteezy.com/video/2017046-abstract-music-circle-equalizer-background">Abstract Music Circle Equalizer Background Stock Videos by Vecteezy</a>" group-title="Všeobecné",Štrbské Pleso - Námestie MS
-
-#EXTINF:-1,Štrbské Pleso - Námestie MS
+#EXTINF:-1 tvg-id="Štrbské Pleso - Námestie MS" tvg-country="SK" tvg-language="Slovak" tvg-logo="<a href="https://www.vecteezy.com/video/1792471-music-equalizer-for-music-party">Music Equalizer For Music Party Stock Videos by Vecteezy</a>" group-title="Všeobecné",Štrbské Pleso - Námestie MS
 https://stream.profi-net.sk/strba/VYHLAD_NAMESTIE.stream/playlist.m3u8
 #EXTINF:-1,Prešov stanica
 http://stream.kukaj.se/stream/1/video.m3u8
