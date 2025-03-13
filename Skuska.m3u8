@@ -116,7 +116,7 @@ https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Spark TV.cz" tvg-name="Up network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/TV_Spark.svg/revision/latest/scale-to-width-down/300?cb=20231109173805" group-title="Všeobecné",Spark
 http://88.212.15.19/live/test_upnetwork/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal_plus_Action" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Všeobecné",Canal Plus Action 
+#EXTINF:-1 tvg-id="Canal+ Action.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Všeobecné",Canal Plus Action 
 http://lb.wisp.cat/lb0/Canal_plus_Action/video.m3u8?token=pavd6BI
 
 #EXTINF:-1 tvg-id="Nova International.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1-nova-international-hd.png" group-title="Všeobecné",Nova International
@@ -159,17 +159,17 @@ http://88.212.15.19/live/test_cs_history_avc_25p/playlist.m3u8
 http://88.212.15.19/live/test_cs_mystery_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="The Fishing and Hunting.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Fishing-and-hunting-logo.png" group-title="Dokumentárné",Fishing and Hunting
 http://88.212.15.19/live/test_fishing_hunting/playlist.m3u8
-#EXTINF:-1 tvg-id="Paprika.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvpaprika.png" group-title="Vaření / Cooking",TV Paprika
-http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Crime and Investigation.cz" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Dokumentárne",Crime and Investigation
 http://88.212.15.19/live/test_cai_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="ID.cz" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1845px-Investigation_Discovery_Logo_2018.svg.png" group-title="Dokumentárne",ID
 http://88.212.15.19/live/test_id_hevc_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC.cz" tvg-name="Sat crime invest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Dokumentárne",TLC
 http://88.212.15.19/live/test_tlc_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="Food network" tvg-name="" tvg-logo="" group-title="Dokumentárne",Food Network
+#EXTINF:-1 tvg-id="Paprika.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvpaprika.png" group-title="Vaření / Cooking",TV Paprika
+http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Food Network.cz" tvg-name="" tvg-logo="" group-title="Dokumentárne",Food Network
 http://lb.wisp.cat/lb0/CZ_Food_Network/video.m3u8?token=pavd6BI
-#EXTINF:-1 tvg-id="Mnam tv" tvg-name="" tvg-logo="" group-title="Dokumentárne",Mňam TV
+#EXTINF:-1 tvg-id="Mňam TV.cz" tvg-name="" tvg-logo="" group-title="Dokumentárne",Mňam TV
 http://lb.wisp.cat/lb0/CZ_Mnam/video.m3u8?token=pavd6BI
 
 #EXTINF:-1 tvg-id="Jojko.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/815-jojko-hd.png" group-title="Detské",Jojko
