@@ -167,8 +167,10 @@ http://88.212.15.19/live/test_cai_hevc/playlist.m3u8
 http://88.212.15.19/live/test_id_hevc_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC.cz" tvg-name="Sat crime invest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Dokumentárne",TLC
 http://88.212.15.19/live/test_tlc_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="Fine Living.cz" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fine_Living_-_Logo_2016.svg/2560px-Fine_Living_-_Logo_2016.svg.png" group-title="Dokumentárne",Fine Living
-http://filex.tv:8080/clotv695-142/ffVNSULvW3/332984
+#EXTINF:-1 tvg-id="Food network" tvg-name="" tvg-logo="" group-title="Dokumentárne",Food Network
+http://lb.wisp.cat/lb0/CZ_Food_Network/video.m3u8?token=pavd6BI
+#EXTINF:-1 tvg-id="Mnam tv" tvg-name="" tvg-logo="" group-title="Dokumentárne",Mňam TV
+http://lb.wisp.cat/lb0/CZ_Mnam/video.m3u8?token=pavd6BI
 
 #EXTINF:-1 tvg-id="Jojko.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/815-jojko-hd.png" group-title="Detské",Jojko
 http://88.212.15.19/live/test_jojko_25p/playlist.m3u8
@@ -181,6 +183,8 @@ http://149.100.19.130:8001/play/a007/index.m3u8
 http://88.212.15.19/live/test_jim_jam/playlist.m3u8
 #EXTINF:-1 tvg-id="Lala TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/810-lala-tv-hd.png" group-title="Detské",Lala TV
 http://88.212.15.19/live/test_lala_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Turbo TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/810-lala-tv-hd.png" group-title="Detské",Turbo TV
+http://lb.wisp.cat/lb0/CZ_TurboTV/index.m3u8?token=pavd6BI
 #EXTINF:-1 tvg-id="ducktv.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/de/3/31/Duck_TV.png" group-title="Detské",Duck tv
 https://dash2.antik.sk/live/duck_tv/index.m3u8
 http://88.212.15.19/live/test_duck_tv_hd_hevc/playlist.m3u8
@@ -317,7 +321,7 @@ http://88.212.15.19/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Sport 1.cz" tvg-name="Nova Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/e10dfe9bb607e5f45f2a77088f02077c.png" group-title="Športové",Nova Sport 1
 http://194.160.135.34:8088/udp/233.10.47.60:1234
 #EXTINF:-1 tvg-id="Nova Sport 2.cz" tvg-name="Nova Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1a7b19a5befb4c38325242e0eff1d0c0.png" group-title="Športové",Nova Sport 2
-
+http://lb.wisp.cat/lb0/CZ_NOVA_SPORT2_HD/video.m3u8?token=pavd6BI
 #EXTINF:-1 tvg-id="Nova Sport 3.cz" tvg-name="Nova Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/9e84927c960532259bef903a820a7f6a.png" group-title="Športové",Nova Sport 3
 
 #EXTINF:-1 tvg-id="Nova Sport 4.cz" tvg-name="Nova Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/29a06e7727a720e6f9fa2e5e92da9da6.png" group-title="Športové",Nova Sport 4
@@ -326,8 +330,10 @@ http://194.160.135.34:8088/udp/233.10.47.60:1234
 
 #EXTINF:-1 tvg-id="Canal+ Sport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Športové",CANAL+ Sport
 http://78.130.250.2:8023/play/a02v/index.m3u8
+http://lb.wisp.cat/lb0/Canal_plus_Sport_CZ/video.m3u8?token=E2qXjFx
 #EXTINF:-1 tvg-id="Canal+ Sport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Športové",CANAL+ Sport 2
 http://78.130.250.2:8023/play/a02w/index.m3u8
+http://lb.wisp.cat/lb0/Canal_plus_Sport_2_HD_CZ/video.m3u8?token=E2qXjFx
 #EXTINF:-1 tvg-id="Arena Sport 1.cz" tvg-name="Arena Sport 1 " tvg-logo="http://46.36.40.22/1023/arenasport1.png" group-title="Športové",Arena Sport 1
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 tvg-id="Arena Sport 2.cz" tvg-name="Arena Sport 2" tvg-logo="http://46.36.40.22/1023/arenasport2.png" group-title="Športové",Arena Sport 2
@@ -338,8 +344,10 @@ http://194.160.135.34:8088/udp/233.10.47.64:1234
 #EXTINF:-1,Eurosport 2.cz
 http://194.160.135.34:8088/udp/233.10.47.65:1234
 
-#EXTINF:-1 tvg-id="Sporty TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/SportyTVSD.png" group-title="Športové",Sporty TV HD
+#EXTINF:-1 tvg-id="Sporty TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/SportyTVSD.png" group-title="Športové",Sporty TV
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
+#EXTINF:-1 tvg-id="Body in balance" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Športové",Body in balance
+http://lb.wisp.cat/lb0/CZ_Body_in_Balance_HD/video.m3u8?token=pavd6BI
 
 #EXTINF:-1 tvg-id="TV Doktor.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://yt3.googleusercontent.com/lPSjPrqEOIUGQlOBSXQ0UtVACOCtbRvvt54Ia2LWcBnmLujI66LNgbFGFau4YrPeJJJNLYc9-g=s900-c-k-c0x00ffffff-no-rj" group-title="Lifestyle",TV Doktor
 https://live.tvdoktor.sk/high/index.m3u8
