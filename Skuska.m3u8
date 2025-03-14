@@ -183,7 +183,7 @@ http://149.100.19.130:8001/play/a007/index.m3u8
 http://88.212.15.19/live/test_jim_jam/playlist.m3u8
 #EXTINF:-1 tvg-id="Lala TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/810-lala-tv-hd.png" group-title="Detské",Lala TV
 http://88.212.15.19/live/test_lala_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Turbo TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/810-lala-tv-hd.png" group-title="Detské",Turbo TV
+#EXTINF:-1 tvg-id="Turbo TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Detské",Turbo TV
 http://lb.wisp.cat/lb0/CZ_TurboTV/index.m3u8?token=pavd6BI
 #EXTINF:-1 tvg-id="ducktv.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/de/3/31/Duck_TV.png" group-title="Detské",Duck tv
 https://dash2.antik.sk/live/duck_tv/index.m3u8
@@ -234,8 +234,6 @@ https://tv.city.bg/play/tshls/citytv/index.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:0,Deluxe Music.cz
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 tvg-id="DeluxeDance.de" group-title="Hudobné",Deluxe Dance HD 🇩🇪
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="Rebel.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/rebel.png" group-title="Hudobné",REBEL
 https://dash2.antik.sk/live/test_rebel/playlist.m3u8
 #EXTINF:-1 tvg-id="Retro Music.cz" tvg-country="CZ;SK" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/retro.jpg" group-title="Hudobné",RetroMusicTV
@@ -262,18 +260,8 @@ http://88.212.15.19/live/test_mtv_rocks_1200_atk/playlist.m3u8
 #EXTINF:0,MTV Live HD 
 #EXTVLCOPT:network-caching=1000
 http://185.236.229.62:9981/play/a063
-#EXTINF:0,MTV Polska HD 🇵🇱
-#EXTVLCOPT:network-caching=1000
-http://185.236.229.62:9981/play/a06b
-#EXTINF:0,VOX Music TV 
-#EXTVLCOPT:network-caching=1000
-http://185.236.229.62:9981/play/a02d
 #EXTINF:-1 tvg-name="Deejay TV" tvg-logo="https://i.imgur.com/rlaKH6k.png" tvg-id="DeejayTV.it" group-title="Italy",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1,BRIDGE TV DANCE
-http://185.23.80.28:8080/BRIDGETVDANCE/index.m3u8?token=test
-#EXTINF:-1,BRIDGE TV ROCK
-http://185.23.80.28:8080/BRIDGE_ROCK/index.m3u8?token=test
 #EXTINF:-1,VİVA TV 🇷🇺
 https://ssh101-fl.bozztv.com/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1,Music Channel RO 🇷🇴
@@ -293,9 +281,9 @@ http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33910
 #EXTINF:-1 tvg-id="SENZI.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1410-senzi-hd.png" group-title="Hudobné",SENZI HD
 http://88.212.15.19/live/test_senzi_hevc/playlist.m3u8
 #EXTINF:0,Šlágr 1 HD
-http://88.212.15.19/live/test_slagr_1_atk/playlist.m3u8
+
 #EXTINF:0,Šlágr 2 HD
-http://88.212.15.19/live/test_slagr_2_atk/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SlagrPremium(src01).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://slagrtv.cz/img/slagr-premium-2-logo.png" group-title="Hudobné",Šlágr Premium HD
 https://stream-17.mazana.tv/slagrpremium.m3u
 http://88.212.15.19/live/test_slager_premium_hd/playlist.m3u8
