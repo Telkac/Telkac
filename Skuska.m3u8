@@ -712,6 +712,19 @@ http://109.105.201.198/EUROSPORT1/index.m3u8?token=test
 #EXTINF:-1,EuroSport 2
 http://109.105.201.198/EUROSPORT2/index.m3u8?token=test
 
+#EXTINF:0,HU: DIGI Sport 1
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/115672.ts
+#EXTINF:0,HU: DIGI Sport 2
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/115673.ts
+#EXTINF:0,HU: DIGI Sport 3
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/115674.ts
+#EXTINF:0,HU: Sport 1
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/115677.ts
+#EXTINF:0,HU: Sport 2
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/115678.ts
+#EXTINF:0,HU: M4 Sport
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/115679.ts
+
 #EXTINF:-1 tvg-id="Štrbské Pleso (pohľad na Móryho vyhliadku)" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://clipart-library.com/2023/254-2542555_some-text-logo-camera-video-surveillance.png" group-title="Všeobecné",Štrbské Pleso (pohľad na Móryho vyhliadku)
 http://stream.strba.sk:1935/strba/MORYHO_VYH.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Štrbské Pleso - Námestie MS" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://www.vecteezy.com/video/1792471-music-equalizer-for-music-party" group-title="Všeobecné",Štrbské Pleso - Námestie MS
