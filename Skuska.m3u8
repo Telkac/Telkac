@@ -104,9 +104,9 @@ http://88.212.15.19/live/test_cinemax2_hd_hevc/playlist.m3u8
 http://88.212.15.19/live/test_amc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/axn.png" group-title="Všeobecné",AXN
 http://88.212.15.19/live/test_axn/playlist.m3u8
-#EXTINF:-1 tvg-id="AXN Black.cz" tvg-name="AXN Black" tvg-logo="https://en.m.wikipedia.org/wiki/AXN_Black#/media/File%3AAXN_Black_logo_(2015).svg" group-title="Všeobecné",AXN Black
+#EXTINF:-1 tvg-id="AXN Black.cz" tvg-name="AXN Black" tvg-logo="https://a0.anyrgb.com/pngimg/1782/1196/ir-logo-axn-black-axn-white-axn-sci-fi-firstone-tv-sony-television-eurosport-2-axn-sony-national-geo.png" group-title="Všeobecné",AXN Black
 http://88.212.15.19/live/test_black/playlist.m3u8
-#EXTINF:-1 tvg-id="AXN White.cz" tvg-name="AXN White" tvg-logo="https://en.m.wikipedia.org/wiki/AXN_White#/media/File%3AAXN_White_logo_(2015).svg" group-title="Všeobecné",AXN White
+#EXTINF:-1 tvg-id="AXN White.cz" tvg-name="AXN White" tvg-logo="https://a0.anyrgb.com/pngimg/1486/102/axn-beyond-axn-spin-axn-black-axn-white-axn-sci-fi-ncis-los-angeles-sony-television-axn-sony-television-channel.png" group-title="Všeobecné",AXN White
 http://88.212.15.19/live/test_white/playlist.m3u8
 #EXTINF:-1 tvg-id="Film Europe.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmeurope.png" group-title="Všeobecné",Film Europe
 http://194.160.135.34:8088/udp/233.10.47.62:1234
