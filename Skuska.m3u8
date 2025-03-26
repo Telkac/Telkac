@@ -183,7 +183,7 @@ http://149.100.19.130:8001/play/a007/index.m3u8
 http://88.212.15.19/live/test_jim_jam/playlist.m3u8
 #EXTINF:-1 tvg-id="Lala TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/810-lala-tv-hd.png" group-title="Detské",Lala TV
 http://88.212.15.19/live/test_lala_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Turbo TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Detské",Turbo TV
+#EXTINF:-1 tvg-id="Turbo TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://turbotv.sk/wp-content/themes/turbotv/public/images/logo-turbotv.png?id=9a1552eab22467b806d231e12931dc28" group-title="Detské",Turbo TV
 http://lb.wisp.cat/lb0/CZ_TurboTV/index.m3u8?token=pavd6BI
 #EXTINF:-1 tvg-id="ducktv.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/de/3/31/Duck_TV.png" group-title="Detské",Duck tv
 https://dash2.antik.sk/live/duck_tv/index.m3u8
@@ -311,7 +311,7 @@ http://194.160.135.34:8088/udp/233.10.47.60:1234
 #EXTINF:-1 tvg-id="Nova Sport 2.cz" tvg-name="Nova Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1a7b19a5befb4c38325242e0eff1d0c0.png" group-title="Športové",Nova Sport 2
 http://lb.wisp.cat/lb0/CZ_NOVA_SPORT2_HD/video.m3u8?token=pavd6BI
 #EXTINF:-1 tvg-id="Nova Sport 3.cz" tvg-name="Nova Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/9e84927c960532259bef903a820a7f6a.png" group-title="Športové",Nova Sport 3
-https://o2srv.hd-cztorrent.cz/play/Nova%20Sport%203%20HD.m3u8
+
 #EXTINF:-1 tvg-id="Nova Sport 4.cz" tvg-name="Nova Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/29a06e7727a720e6f9fa2e5e92da9da6.png" group-title="Športové",Nova Sport 4
 
 #EXTINF:-1 tvg-id="Nova Sport 5.cz" tvg-name="Nova Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/1b14f0b13c2ce6746983df7ad1426e31.png" group-title="Športové",Nova Sport 5
