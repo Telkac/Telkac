@@ -116,7 +116,7 @@ https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Spark TV.cz" tvg-name="Up network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/TV_Spark.svg/revision/latest/scale-to-width-down/300?cb=20231109173805" group-title="Všeobecné",Spark
 http://88.212.15.19/live/test_upnetwork/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal+ Action.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://sk.m.wikipedia.org/wiki/Canal%2B_Action#/media/S%C3%BAbor%3ACanal%2B_Action_2024.svg" group-title="Všeobecné",Canal Plus Action 
+#EXTINF:-1 tvg-id="Canal+ Action.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1024px-Canal%2B_Action_2024.svg.png" group-title="Všeobecné",Canal Plus Action 
 http://lb.wisp.cat/lb0/Canal_plus_Action/video.m3u8?token=pavd6BI
 
 #EXTINF:-1 tvg-id="Nova International.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1-nova-international-hd.png" group-title="Všeobecné",Nova International
@@ -289,7 +289,7 @@ https://stream-17.mazana.tv/slagrpremium.m3u
 http://88.212.15.19/live/test_slager_premium_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="360TuneBox.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/346-360-tunebox-hd.png" group-title="Hudobné",360 TuneBox
 https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
-#EXTINF:0,Folklorika.cz
+#EXTINF:-1 tvg-id="Folklorika.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Logo_TV_Folklorika.svg/1132px-Logo_TV_Folklorika.svg.png" group-title="Hudobné",Folklorika Tv
 http://88.212.15.19/live/test_folklorika_atktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTVS Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/%C5%A0port_logo.svg/2560px-%C5%A0port_logo.svg.png" group-title="Športové",RTVS Šport
