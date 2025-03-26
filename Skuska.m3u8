@@ -96,9 +96,9 @@ http://88.212.15.19/live/test_film_boxextra_hd_hevc/playlist.m3u8
 http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmbox Family.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmboxfamily.png" group-title="Všeobecné",Filmbox Family
 http://88.212.15.19/live/test_filmbox_family_atk_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="Cinemax.cz" tvg-name="Cinemax" tvg-logo="https://cs.m.wikipedia.org/wiki/Cinemax#/media/File%3ACinemax_(Yellow).svg" group-title="Všeobecné",Cinemax
+#EXTINF:-1 tvg-id="Cinemax.cz" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/2560px-Cinemax_%28Yellow%29.svg.png" group-title="Všeobecné",Cinemax
 http://88.212.15.19/live/test_cinemax_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Cinemax 2.cz" tvg-name="Cinemax 2" tvg-logo="https://cs.m.wikipedia.org/wiki/Cinemax#/media/File%3ACinemax_(Yellow).svg" group-title="Všeobecné",Cinemax 2
+#EXTINF:-1 tvg-id="Cinemax 2.cz" tvg-name="Cinemax 2" tvg-logo="https://dreamlogos.fandom.com/wiki/Cinemax_2_(Pawston)?file=Cinemax_2_Coldland.svg" group-title="Všeobecné",Cinemax 2
 http://88.212.15.19/live/test_cinemax2_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/amc.png" group-title="Všeobecné",AMC
 http://88.212.15.19/live/test_amc_25p/playlist.m3u8
@@ -116,7 +116,7 @@ https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Spark TV.cz" tvg-name="Up network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/TV_Spark.svg/revision/latest/scale-to-width-down/300?cb=20231109173805" group-title="Všeobecné",Spark
 http://88.212.15.19/live/test_upnetwork/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal+ Action.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Všeobecné",Canal Plus Action 
+#EXTINF:-1 tvg-id="Canal+ Action.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://sk.m.wikipedia.org/wiki/Canal%2B_Action#/media/S%C3%BAbor%3ACanal%2B_Action_2024.svg" group-title="Všeobecné",Canal Plus Action 
 http://lb.wisp.cat/lb0/Canal_plus_Action/video.m3u8?token=pavd6BI
 
 #EXTINF:-1 tvg-id="Nova International.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1-nova-international-hd.png" group-title="Všeobecné",Nova International
@@ -137,7 +137,7 @@ http://88.212.15.19/live/test_discovery_hd_hevc/playlist.m3u8
 http://88.212.15.19/live/test_travel_channel_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Love Nature.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/lovenature.png" group-title="Dokumentárné",Love Nature
 http://88.212.15.19/live/test_lovenature/playlist.m3u8
-#EXTINF:-1 tvg-id="Animal Planet.cz" tvg-name="Discovery" tvg-logo="https://en.m.wikipedia.org/wiki/Animal_Planet#/media/File%3A2018_Animal_Planet_logo.svg" group-title="Dokumentárne",Animal Planet
+#EXTINF:-1 tvg-id="Animal Planet.cz" tvg-name="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Dokumentárne",Animal Planet
 http://88.212.15.19/live/test_animal_planet_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="National Geographic HD.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nationalgeographic.png" group-title="Dokumentárné",National Geographic
 http://88.212.15.19/live/test_ngc/playlist.m3u8
@@ -147,11 +147,11 @@ http://88.212.15.29/live/test_ngw/playlist.m3u8
 http://88.212.15.19/live/test_spektrum/playlist.m3u8
 #EXTINF:-1 tvg-id="Spektrum Home.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/spektrumhome.png" group-title="Dokumentárné",Spektrum Home
 http://88.212.15.19/live/test_home_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Viasat Explore.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Dokumentárné",Viasat Explore
+#EXTINF:-1 tvg-id="Viasat Explore.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Viasat_Explore-logo.svg/1428px-Viasat_Explore-logo.svg.png" group-title="Dokumentárné",Viasat Explore
 http://filex.tv:8080/clotv695-142/ffVNSULvW3/332978
-#EXTINF:-1 tvg-id="Viasat History.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Dokumentárné",Viasat History
+#EXTINF:-1 tvg-id="Viasat History.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Viasat_History-logo.svg/1426px-Viasat_History-logo.svg.png" group-title="Dokumentárné",Viasat History
 http://filex.tv:8080/clotv695-142/ffVNSULvW3/332979
-#EXTINF:-1 tvg-id="History Channel.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/history.png" group-title="Dokumentárné",History
+#EXTINF:-1 tvg-id="History Channel.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="Dokumentárné",History
 http://88.212.15.19/live/test_history/playlist.m3u8
 #EXTINF:-1 tvg-id="CS History.cz" tvg-name="CShistory " tvg-logo="https://www.jojgroup.sk/wp-content/uploads/CS-history-2.png" group-title="Dokumentárne",CS History
 http://88.212.15.19/live/test_cs_history_avc_25p/playlist.m3u8
@@ -167,9 +167,9 @@ http://88.212.15.19/live/test_id_hevc_atktv/playlist.m3u8
 http://88.212.15.19/live/test_tlc_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="Paprika.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvpaprika.png" group-title="Vaření / Cooking",TV Paprika
 http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Food Network.cz" tvg-name="" tvg-logo="" group-title="Dokumentárne",Food Network
+#EXTINF:-1 tvg-id="Food Network.cz" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/2048px-Food_Network_logo.svg.png" group-title="Dokumentárne",Food Network
 http://lb.wisp.cat/lb0/CZ_Food_Network/video.m3u8?token=pavd6BI
-#EXTINF:-1 tvg-id="Mňam TV.cz" tvg-name="" tvg-logo="" group-title="Dokumentárne",Mňam TV
+#EXTINF:-1 tvg-id="Mňam TV.cz" tvg-name="" tvg-logo="https://imnam.cz/wp-content/uploads/2024/11/Logo_Mnam_2022-2.png" group-title="Dokumentárne",Mňam TV
 http://lb.wisp.cat/lb0/CZ_Mnam/video.m3u8?token=pavd6BI
 
 #EXTINF:-1 tvg-id="Jojko.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/815-jojko-hd.png" group-title="Detské",Jojko
