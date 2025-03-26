@@ -202,9 +202,9 @@ http://88.212.15.19/live/test_minimax/playlist.m3u8
 http://88.212.15.19/live/test_disney/playlist.m3u8
 #EXTINF:-1 tvg-id="Disney Junior.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://staticeu.sweet.tv/images/icons/channels/v2/800-disney-junior.png" group-title="Detské",Disney Junior
 http://88.212.15.19/live/test_disney_junior/playlist.m3u8
-#EXTINF:-1,Peppa pig rozpravky RO 🇷🇴
+#EXTINF:-1 tvg-id="Peppa pig rozpravky RO" tvg-country="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Peppa_Pig_logo.svg/1280px-Peppa_Pig_logo.svg.png" group-title="Detské",Peppa pig rozpravky RO 🇷🇴
 http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/296706
-#EXTINF:-1,Tom & Jerry rozpravky RO 🇷🇴
+#EXTINF:-1 tvg-id="Tom & Jerry rozpravky RO" tvg-country="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tom_and_Jerry_logo.svg/1280px-Tom_and_Jerry_logo.svg.png" group-title="Detské",Tom & Jerry rozpravky RO 🇷🇴
 http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/296723
 #EXTINF:-1,Oggy & His Friends rozpravky RO 🇷🇴
 http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/296688
