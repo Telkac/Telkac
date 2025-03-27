@@ -227,9 +227,9 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-id="Óčko Black.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ockoblack.png" group-title="Hudobné",Óčko Black
 http://88.212.15.19/live/test_ocko_black/playlist.m3u8
 https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
-#EXTINF:-1 tvg-id="4Fun.TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ockoblack.png" group-title="Hudobné",4Fun.TV
-#EXTINF:-1,4Fun.TV.cz
+#EXTINF:-1 tvg-id="4Fun.TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Hudobné",4Fun.TV
 https://stream.4fun.tv:8888/hls/4f.m3u8
+#EXTINF:-1 tvg-id="4Fun Dance.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Hudobné",4Fun Dance
 #EXTINF:-1,4Fun Dance.cz
 http://188.60.179.180:8000/play/FUnDance
 #EXTINF:-1 tvg-id="MagicTV.bg" group-title="Hudobné",Magic TV 🇧🇬 
