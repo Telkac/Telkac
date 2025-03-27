@@ -165,6 +165,8 @@ http://88.212.15.19/live/test_cai_hevc/playlist.m3u8
 http://88.212.15.19/live/test_id_hevc_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC.cz" tvg-name="Sat crime invest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Dokumentárne",TLC
 http://88.212.15.19/live/test_tlc_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="E! Entertainment" tvg-name="" tvg-logo="" group-title="Dokumentárne",E! Entertainment
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=442&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
 #EXTINF:-1 tvg-id="Paprika.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvpaprika.png" group-title="Vaření / Cooking",TV Paprika
 http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Food Network.cz" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/2048px-Food_Network_logo.svg.png" group-title="Dokumentárne",Food Network
@@ -202,6 +204,8 @@ http://88.212.15.19/live/test_minimax/playlist.m3u8
 http://88.212.15.19/live/test_disney/playlist.m3u8
 #EXTINF:-1 tvg-id="Disney Junior.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://staticeu.sweet.tv/images/icons/channels/v2/800-disney-junior.png" group-title="Detské",Disney Junior
 http://88.212.15.19/live/test_disney_junior/playlist.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://staticeu.sweet.tv/images/icons/channels/v2/800-disney-junior.png" group-title="Detské",Cartoon Network
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=1221&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
 #EXTINF:-1 tvg-id="Peppa pig rozpravky RO" tvg-country="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Peppa_Pig_logo.svg/1280px-Peppa_Pig_logo.svg.png" group-title="Detské",Peppa pig rozpravky RO 🇷🇴
 http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/296706
 #EXTINF:-1 tvg-id="Tom & Jerry rozpravky RO" tvg-country="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tom_and_Jerry_logo.svg/1280px-Tom_and_Jerry_logo.svg.png" group-title="Detské",Tom & Jerry rozpravky RO 🇷🇴
