@@ -298,6 +298,7 @@ http://88.212.15.19/live/test_rtvs_sport_hevc/playlist.m3u8
 http://88.212.15.19/live/test_joj_sport_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ Šport 2.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://img.joj.sk/rx/c6a89774-505a-48a4-8ce5-3f26d902e00c.png" group-title="Športové",JOJ Šport 2
 http://lb.wisp.cat/lb0/CZ_JOJ_Sport_2_HD/video.m3u8?token=E2qXjFx
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2423&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
 #EXTINF:-1 tvg-id="ČT sport.cz" tvg-url="ctsport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/I2dltZW.png" group-title="Športové",ČT sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-name="ČT sport Plus" tvg-logo="https://i.imgur.com/5JiMynW.png" tvg-id="" group-title="Czech Republic",ČT sport Plus
@@ -329,8 +330,10 @@ http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport 1.cz" tvg-name="Eurosport 1.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title="Športové",Eurosport 1
 http://194.160.135.34:8088/udp/233.10.47.64:1234
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=661&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12,profile13,profile14&changed_at=1742507476&shaping=0&eta=1&ets=1
 #EXTINF:-1 tvg-id="Eurosport 2.cz" tvg-name="Eurosport 2.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="Športové",Eurosport 2
 http://194.160.135.34:8088/udp/233.10.47.65:1234
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=615&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
 
 #EXTINF:-1 tvg-id="Sporty TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/SportyTVSD.png" group-title="Športové",Sporty TV
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
