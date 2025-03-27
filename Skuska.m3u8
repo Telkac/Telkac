@@ -230,7 +230,6 @@ https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
 #EXTINF:-1 tvg-id="4Fun.TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Hudobné",4Fun.TV
 https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1 tvg-id="4Fun Dance.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Hudobné",4Fun Dance
-#EXTINF:-1,4Fun Dance.cz
 http://188.60.179.180:8000/play/FUnDance
 #EXTINF:-1 tvg-id="MagicTV.bg" group-title="Hudobné",Magic TV 🇧🇬 
 https://bss1.neterra.tv/magictv/magictv.m3u8
