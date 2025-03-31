@@ -165,7 +165,7 @@ http://88.212.15.19/live/test_cai_hevc/playlist.m3u8
 http://88.212.15.19/live/test_id_hevc_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC.cz" tvg-name="Sat crime invest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Dokumentárne",TLC
 http://88.212.15.19/live/test_tlc_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="E! Entertainment" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png" group-title="Dokumentárne",E! Entertainment
+#EXTINF:-1 tvg-id="E! Entertainment.cz" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png" group-title="Dokumentárne",E! Entertainment
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=442&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
 #EXTINF:-1 tvg-id="Paprika.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvpaprika.png" group-title="Vaření / Cooking",TV Paprika
 http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8
@@ -192,7 +192,7 @@ https://dash2.antik.sk/live/duck_tv/index.m3u8
 http://88.212.15.19/live/test_duck_tv_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="ducktv plus.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Duck_TV_Plus.svg/revision/latest?cb=20191223210043" group-title="Detské",Duck tv plus
 https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
-#EXTINF:-1 tvg-id="Baby TV" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/BabyTV_logo.png" group-title="Detské",Baby TV
+#EXTINF:-1 tvg-id="Baby TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/BabyTV_logo.png" group-title="Detské",Baby TV
 http://178.219.128.68:64889/BABYTV
 #EXTINF:-1 tvg-id="Nickelodeon.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nickelodeon.png" group-title="Detské",Nickelodeon
 http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8
