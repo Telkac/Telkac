@@ -98,7 +98,7 @@ http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8
 http://88.212.15.19/live/test_filmbox_family_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinemax.cz" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/2560px-Cinemax_%28Yellow%29.svg.png" group-title="Všeobecné",Cinemax
 http://88.212.15.19/live/test_cinemax_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Cinemax 2.cz" tvg-name="Cinemax 2" tvg-logo="https://dreamlogos.fandom.com/wiki/Cinemax_2_(Pawston)?file=Cinemax_2_Coldland.svg" group-title="Všeobecné",Cinemax 2
+#EXTINF:-1 tvg-id="Cinemax 2.cz" tvg-name="Cinemax 2" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/6/60/Cinemax_2_Coldland.svg/revision/latest?cb=20210314025322" group-title="Všeobecné",Cinemax 2
 http://88.212.15.19/live/test_cinemax2_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/amc.png" group-title="Všeobecné",AMC
 http://88.212.15.19/live/test_amc_25p/playlist.m3u8
@@ -808,6 +808,38 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp2
 #EXTINF:-1,TNT SPORTS 3
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp3
 
+#EXTINF:-1,Jazero plocha HD
+http://88.212.15.20:16000/udp/232.232.70.1:5004
+#EXTINF:-1,Tatry HD
+http://88.212.15.20:16000/udp/232.232.70.2:5004
+#EXTINF:-1,Secovska HD
+http://88.212.15.20:16000/udp/232.232.70.4:5004
+#EXTINF:-1,Hlinkova HD
+http://88.212.15.20:16000/udp/232.232.70.5:5004
+#EXTINF:-1,Amfiteater HD
+http://88.212.15.20:16000/udp/232.232.70.6:5004
+#EXTINF:-1,Jazero plocha HD
+http://88.212.15.20:16000/udp/232.232.70.8:5004
+#EXTINF:-1,Nizne Kapustniky HD
+http://88.212.15.20:16000/udp/232.232.70.9:5004
+#EXTINF:-1,Sturova HD
+http://88.212.15.20:16000/udp/232.232.70.10:5004
+#EXTINF:-1,Aupark HD
+http://88.212.15.20:16000/udp/232.232.70.11:5004
+#EXTINF:-1,Mier HD
+http://88.212.15.20:16000/udp/232.232.70.12:5004
+#EXTINF:-1,Magistrat HD
+http://88.212.15.20:16000/udp/232.232.70.13:5004
+#EXTINF:-1,Humenne HD
+http://88.212.15.20:16000/udp/232.232.70.14:5004
+#EXTINF:-1,Moldavska HD
+http://88.212.15.20:16000/udp/232.232.70.15:5004
+#EXTINF:-1,Kojsova Hola HD
+http://88.212.15.20:16000/udp/232.232.70.16:5004
+#EXTINF:-1,Herlianska HD
+http://88.212.15.20:16000/udp/232.232.70.20:5004
+#EXTINF:-1,Banská Štiavnica HD
+http://88.212.15.20:16000/udp/232.232.70.22:5004
 #EXTINF:-1 tvg-id="Štrbské Pleso (pohľad na Móryho vyhliadku)" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://clipart-library.com/2023/254-2542555_some-text-logo-camera-video-surveillance.png" group-title="Všeobecné",Štrbské Pleso (pohľad na Móryho vyhliadku)
 http://stream.strba.sk:1935/strba/MORYHO_VYH.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Štrbské Pleso - Námestie MS" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://www.vecteezy.com/video/1792471-music-equalizer-for-music-party" group-title="Všeobecné",Štrbské Pleso - Námestie MS
