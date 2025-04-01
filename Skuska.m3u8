@@ -849,45 +849,45 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp2
 #EXTINF:-1,TNT SPORTS 3
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp3
 
-#EXTINF:-1,Jazero plocha HD
-http://88.212.15.20:16000/udp/232.232.70.1:5004
-#EXTINF:-1,Tatry HD
+#EXTINF:-1 tvg-id="Tatry" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/News_camera_%28with_transparent_background%29.png" group-title="Živé kamery",Tatry
 http://88.212.15.20:16000/udp/232.232.70.2:5004
-#EXTINF:-1,Secovska HD
-http://88.212.15.20:16000/udp/232.232.70.4:5004
-#EXTINF:-1,Hlinkova HD
-http://88.212.15.20:16000/udp/232.232.70.5:5004
-#EXTINF:-1,Amfiteater HD
-http://88.212.15.20:16000/udp/232.232.70.6:5004
-#EXTINF:-1,Jazero plocha HD
-http://88.212.15.20:16000/udp/232.232.70.8:5004
-#EXTINF:-1,Nizne Kapustniky HD
-http://88.212.15.20:16000/udp/232.232.70.9:5004
-#EXTINF:-1,Sturova HD
-http://88.212.15.20:16000/udp/232.232.70.10:5004
-#EXTINF:-1,Aupark HD
-http://88.212.15.20:16000/udp/232.232.70.11:5004
-#EXTINF:-1,Mier HD
-http://88.212.15.20:16000/udp/232.232.70.12:5004
-#EXTINF:-1,Magistrat HD
-http://88.212.15.20:16000/udp/232.232.70.13:5004
-#EXTINF:-1,Humenne HD
-http://88.212.15.20:16000/udp/232.232.70.14:5004
-#EXTINF:-1,Moldavska HD
-http://88.212.15.20:16000/udp/232.232.70.15:5004
-#EXTINF:-1,Kojsova Hola HD
-http://88.212.15.20:16000/udp/232.232.70.16:5004
-#EXTINF:-1,Herlianska HD
-http://88.212.15.20:16000/udp/232.232.70.20:5004
-#EXTINF:-1,Banská Štiavnica HD
-http://88.212.15.20:16000/udp/232.232.70.22:5004
-#EXTINF:-1 tvg-id="Štrbské Pleso (pohľad na Móryho vyhliadku)" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://clipart-library.com/2023/254-2542555_some-text-logo-camera-video-surveillance.png" group-title="Všeobecné",Štrbské Pleso (pohľad na Móryho vyhliadku)
+#EXTINF:-1 tvg-id="Štrbské Pleso (pohľad na Móryho vyhliadku)" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/News_camera_%28with_transparent_background%29.png" group-title="Všeobecné",Štrbské Pleso (pohľad na Móryho vyhliadku)
 http://stream.strba.sk:1935/strba/MORYHO_VYH.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Štrbské Pleso - Námestie MS" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://www.vecteezy.com/video/1792471-music-equalizer-for-music-party" group-title="Všeobecné",Štrbské Pleso - Námestie MS
+#EXTINF:-1 tvg-id="Štrbské Pleso - Námestie MS" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/News_camera_%28with_transparent_background%29.png" group-title="Všeobecné",Štrbské Pleso - Námestie MS
 https://stream.profi-net.sk/strba/VYHLAD_NAMESTIE.stream/playlist.m3u8
-#EXTINF:-1,Prešov stanica
+#EXTINF:-1 tvg-id="Kojsova Hola" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/News_camera_%28with_transparent_background%29.png" group-title="Živé kamery",Kojsova Hola
+http://88.212.15.20:16000/udp/232.232.70.16:5004
+#EXTINF:-1 tvg-id="Sturova aupark" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/News_camera_%28with_transparent_background%29.png" group-title="Živé kamery",Košice Sturova aupark
+http://88.212.15.20:16000/udp/232.232.70.10:5004
+#EXTINF:-1 tvg-id="Aupark" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/News_camera_%28with_transparent_background%29.png" group-title="Živé kamery",Košice Aupark
+http://88.212.15.20:16000/udp/232.232.70.11:5004
+#EXTINF:-1 tvg-id="Jazero plocha" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/News_camera_%28with_transparent_background%29.png" group-title="Živé kamery",Košice Jazero plocha
+http://88.212.15.20:16000/udp/232.232.70.1:5004
+#EXTINF:-1 tvg-id="Secovska" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/News_camera_%28with_transparent_background%29.png" group-title="Živé kamery", Košice Secovska
+http://88.212.15.20:16000/udp/232.232.70.4:5004
+#EXTINF:-1 tvg-id="Hlinkova" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/News_camera_%28with_transparent_background%29.png" group-title="Živé kamery",Košice Hlinkova
+http://88.212.15.20:16000/udp/232.232.70.5:5004
+#EXTINF:-1 tvg-id="Amfiteater" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/News_camera_%28with_transparent_background%29.png" group-title="Živé kamery",Košice Amfiteater
+http://88.212.15.20:16000/udp/232.232.70.6:5004
+#EXTINF:-1 tvg-id="Jazero plocha" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/News_camera_%28with_transparent_background%29.png" group-title="Živé kamery",Košice Jazero plocha
+http://88.212.15.20:16000/udp/232.232.70.8:5004
+#EXTINF:-1 tvg-id="Nizne Kapustniky" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/News_camera_%28with_transparent_background%29.png" group-title="Živé kamery",Košice Nizne Kapustniky
+http://88.212.15.20:16000/udp/232.232.70.9:5004
+#EXTINF:-1 tvg-id="Mier" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/News_camera_%28with_transparent_background%29.png" group-title="Živé kamery",Košice Mier
+http://88.212.15.20:16000/udp/232.232.70.12:5004
+#EXTINF:-1 tvg-id="Magistrat" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/News_camera_%28with_transparent_background%29.png" group-title="Živé kamery",Košice Magistrat
+http://88.212.15.20:16000/udp/232.232.70.13:5004
+#EXTINF:-1 tvg-id="Humenne" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/News_camera_%28with_transparent_background%29.png" group-title="Živé kamery",Humenne
+http://88.212.15.20:16000/udp/232.232.70.14:5004
+#EXTINF:-1 tvg-id="Moldavska" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/News_camera_%28with_transparent_background%29.png" group-title="Živé kamery",Košice Moldavska
+http://88.212.15.20:16000/udp/232.232.70.15:5004
+#EXTINF:-1 tvg-id="Herlianska" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Živé kamery",Košice Herlianska
+http://88.212.15.20:16000/udp/232.232.70.20:5004
+#EXTINF:-1 tvg-id="Jazero plocha" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/News_camera_%28with_transparent_background%29.png" group-title="Živé kamery",Košice Jazero plocha#EXTINF:-1,Banská Štiavnica HD
+http://88.212.15.20:16000/udp/232.232.70.22:5004
+#EXTINF:-1 tvg-id="Prešov stanica" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/News_camera_%28with_transparent_background%29.png" group-title="Živé kamery",Prešov stanica
 http://stream.kukaj.se/stream/1/video.m3u8
-#EXTINF:-1,Prešov, konkatedrála sv. Mikuláša
+#EXTINF:-1 tvg-id="Prešov, konkatedrála sv. Mikuláša" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/News_camera_%28with_transparent_background%29.png" group-title="Živé kamery",Prešov, konkatedrála sv. Mikuláša
 http://stream.kukaj.se/stream/12/video.m3u8
-#EXTINF:-1,Praha
+#EXTINF:-1 tvg-id="Praha" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/News_camera_%28with_transparent_background%29.png" group-title="Živé kamery",Praha
 http://live.idnes.cz/slow/amc_720p/playlist.m3u8
