@@ -708,6 +708,41 @@ http://195.189.60.33:9012/play/a009
 #EXTINF:-1 ,CANAL+ EXTRA 4
 http://195.189.60.33:9012/play/a00s
 
+#EXTINF:-1 group-title="Poland",Canal Plus Sport
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/33662/hls/pl.m3u8
+#EXTINF:-1 group-title="Poland",Canal Plus Sport 2
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/55352/hls/pl.m3u8
+#EXTINF:-1 group-title="Poland",Canal Plus Sport 3
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/63534/hls/pl.m3u8
+#EXTINF:-1 group-title="Poland",Canal Plus Sport 4
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47762/hls/pl.m3u8
+#EXTINF:-1 group-title="Poland",Canal Plus Sport 5
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47723/hls/pl.m3u8
+#EXTINF:-1 group-title="Poland",Polsat Sport HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/52243/hls/pl.m3u8
+#EXTINF:-1 group-title="Poland",Polsat Sport Extra HD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/43228/hls/pl.m3u8
+#EXTINF:-1 group-title="Poland",TVP Sport
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/27360/hls/pl.m3u8
+#EXTINF:-1 group-title="Poland",Sport Klub
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/36283/hls/pl.m3u8
+#EXTINF:-1 group-title="Poland",Motowizja TV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/64752/hls/pl.m3u8
+#EXTINF:-1 group-title="Poland",Extreme Sports
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/35983/hls/pl.m3u8
+#EXTINF:-1 group-title="Poland",Golf Channel
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/26781/hls/pl.m3u8
+#EXTINF:-1 group-title="Poland",Golf+
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38724/hls/pl.m3u8
+#EXTINF:-1 group-title="Poland",Eleven Sports 1
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/37729/hls/pl.m3u8
+#EXTINF:-1 group-title="Poland",Eleven Sports 2
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/63872/hls/pl.m3u8
+#EXTINF:-1 group-title="Poland",Eleven Sports 3
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/37751/hls/pl.m3u8
+#EXTINF:-1 group-title="Poland",Eleven Sports 4
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/63260/hls/pl.m3u8
+
 #EXTINF:-1,Arena Sport 1
 http://109.105.201.198/ARENASPORT1/index.m3u8?token=test
 #EXTINF:-1,Arena Sport 2
