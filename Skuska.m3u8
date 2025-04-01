@@ -912,11 +912,11 @@ http://88.212.15.20:16000/udp/232.232.70.14:5004
 http://88.212.15.20:16000/udp/232.232.70.15:5004
 #EXTINF:-1 tvg-id="Herlianska" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Herlianska
 http://88.212.15.20:16000/udp/232.232.70.20:5004
-#EXTINF:-1 tvg-id="Jazero plocha" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Jazero plocha#EXTINF:-1,Banská Štiavnica HD
+#EXTINF:-1 tvg-id="Banská Štiavnica" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Banská Štiavnica
 http://88.212.15.20:16000/udp/232.232.70.22:5004
 #EXTINF:-1 tvg-id="Prešov stanica" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Prešov stanica
 http://stream.kukaj.se/stream/1/video.m3u8
 #EXTINF:-1 tvg-id="Prešov, konkatedrála sv. Mikuláša" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Prešov, konkatedrála sv. Mikuláša
 http://stream.kukaj.se/stream/12/video.m3u8
-#EXTINF:-1 tvg-id="Praha" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/News_camera_%28with_transparent_background%29.png" group-title="Živé kamery",Praha
+#EXTINF:-1 tvg-id="Praha" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Praha
 http://live.idnes.cz/slow/amc_720p/playlist.m3u8
