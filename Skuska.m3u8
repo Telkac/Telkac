@@ -196,6 +196,8 @@ https://dash2.antik.sk/live/duck_tv/index.m3u8
 http://88.212.15.19/live/test_duck_tv_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="ducktv plus.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Duck_TV_Plus.svg/revision/latest?cb=20191223210043" group-title="Detské",Duck tv plus
 https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
+#EXTINF:-1 tvg-id="Baby First.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/de/5/53/Babyfirst_logo.png" group-title="Detské",Baby First
+http://181.78.105.146:6060/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="Baby TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/BabyTV_logo.png" group-title="Detské",Baby TV
 http://181.78.105.146:6060/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nickelodeon.png" group-title="Detské",Nickelodeon
