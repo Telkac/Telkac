@@ -929,3 +929,5 @@ http://stream.kukaj.se/stream/1/video.m3u8
 http://stream.kukaj.se/stream/12/video.m3u8
 #EXTINF:-1 tvg-id="Praha" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Praha
 http://live.idnes.cz/slow/amc_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Ski Panorama" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Ski Panorama
+https://www.youtube.com/@feratel_yourwindowtotheworld/live
