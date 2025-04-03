@@ -930,8 +930,8 @@ http://stream.kukaj.se/stream/12/video.m3u8
 #EXTINF:-1 tvg-id="Praha" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Praha
 http://live.idnes.cz/slow/amc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Ski Panorama" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Ski Panorama
-https://www.youtube.com/@feratel_yourwindowtotheworld/live
+https://www.youtube.com/@feratel_yourwindowtotheworld/live.m3u8
 #EXTINF:-1 tvg-id="New York Times Square: Broadway View Live" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",New York Times Square: Broadway View Live
-https://www.youtube.com/watch?v=4qyZLflp-sI
+https://www.youtube.com/watch?v=4qyZLflp-sI.m3u8
 #EXTINF:-1,Ski Panorama
 https://www.youtube.com/@feratel_yourwindowtotheworld/live.m3u8
