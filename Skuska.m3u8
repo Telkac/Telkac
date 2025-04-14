@@ -309,7 +309,6 @@ http://88.212.15.19/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/QWEY2a5.png" group-title="Športové",JOJ Šport
 http://88.212.15.19/live/test_joj_sport_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ Šport 2.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://img.joj.sk/rx/c6a89774-505a-48a4-8ce5-3f26d902e00c.png" group-title="Športové",JOJ Šport 2
-http://lb.wisp.cat/lb0/CZ_JOJ_Sport_2_HD/video.m3u8?token=E2qXjFx
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2423&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
 #EXTINF:-1 tvg-id="ČT sport.cz" tvg-url="ctsport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/I2dltZW.png" group-title="Športové",ČT sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
@@ -323,7 +322,6 @@ http://88.212.15.19/live/test_sport_2/playlist.m3u8
 http://194.160.135.34:8088/udp/233.10.47.60:1234
 http://213.215.119.236:88/Nova_sport_1/index.m3u8
 #EXTINF:-1 tvg-id="Nova Sport 2.cz" tvg-name="Nova Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1a7b19a5befb4c38325242e0eff1d0c0.png" group-title="Športové",Nova Sport 2
-http://lb.wisp.cat/lb0/CZ_NOVA_SPORT2_HD/video.m3u8?token=pavd6BI
 http://213.215.119.236:88/Nova_sport_2/index.m3u8
 #EXTINF:-1 tvg-id="Nova Sport 3.cz" tvg-name="Nova Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/9e84927c960532259bef903a820a7f6a.png" group-title="Športové",Nova Sport 3
 http://213.215.119.236:88/Nova_sport_3/index.m3u8
@@ -333,10 +331,8 @@ http://213.215.119.236:88/Nova_sport_4/index.m3u8
 http://213.215.119.236:88/Nova_sport_5/index.m3u8
 #EXTINF:-1 tvg-id="Canal+ Sport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Športové",CANAL+ Sport
 http://78.130.250.2:8023/play/a02v/index.m3u8
-http://lb.wisp.cat/lb0/Canal_plus_Sport_CZ/video.m3u8?token=E2qXjFx
 #EXTINF:-1 tvg-id="Canal+ Sport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Športové",CANAL+ Sport 2
 http://78.130.250.2:8023/play/a02w/index.m3u8
-http://lb.wisp.cat/lb0/Canal_plus_Sport_2_HD_CZ/video.m3u8?token=E2qXjFx
 #EXTINF:-1 tvg-id="Arena Sport 1.cz" tvg-name="Arena Sport 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Arena_Sport_TV_1.png" group-title="Športové",Arena Sport 1
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 tvg-id="Arena Sport 2.cz" tvg-name="Arena Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Logo_Arena_Sport_TV_2.png" group-title="Športové",Arena Sport 2
