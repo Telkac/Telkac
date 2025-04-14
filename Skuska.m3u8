@@ -834,6 +834,17 @@ http://ott.watch/stream/UCFJ8XKS6K/235.m3u8
 #EXTINF:-1,Setanta sport Ukrajina
 http://ott.watch/stream/UCFJ8XKS6K/313.m3u8
 
+#EXTINF:-1,NOVA SPORT 1 HD
+http://213.215.119.236:88/Nova_sport_1/index.m3u8
+#EXTINF:-1,NOVA SPORT 2 HD
+http://213.215.119.236:88/Nova_sport_2/index.m3u8
+#EXTINF:-1,NOVA SPORT 3 HD
+http://213.215.119.236:88/Nova_sport_3/index.m3u8
+#EXTINF:-1,NOVA SPORT 4 HD
+http://213.215.119.236:88/Nova_sport_4/index.m3u8
+#EXTINF:-1,NOVA SPORT 5 HD
+http://213.215.119.236:88/Nova_sport_5/index.m3u8
+
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Express
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=971&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun rádio
