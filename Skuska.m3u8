@@ -355,6 +355,8 @@ https://dash2.antik.sk/live/sporty_tv/index.m3u8
 
 #EXTINF:-1 tvg-id="TV Doktor.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://yt3.googleusercontent.com/lPSjPrqEOIUGQlOBSXQ0UtVACOCtbRvvt54Ia2LWcBnmLujI66LNgbFGFau4YrPeJJJNLYc9-g=s900-c-k-c0x00ffffff-no-rj" group-title="Lifestyle",TV Doktor
 https://live.tvdoktor.sk/high/index.m3u8
+#EXTINF:-1,TV BRATISLAVA
+http://88.212.15.9:5000/live/tvbratislava/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTV HD.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Lifestyle",Fashion TV
 https://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LifeTV.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Life TV
@@ -680,6 +682,152 @@ http://213.91.178.133:8000/play/a04b
 
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13263.png?ver=22741" group-title="Sport",F1: SKY SPORTS F1 4K
 http://188.227.186.127:8080/catena-17-1149961-streamer-f1-pit-lane/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+
+#EXTINF:-1 tvg-id="" tvg-name="Nova Sport 1" tvg-logo="" group-title="Greece",Nova Sport 1
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/81188
+#EXTINF:-1 tvg-id="" tvg-name="Nova Sport 2" tvg-logo="" group-title="Greece",Nova Sport 2
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/81189
+#EXTINF:-1 tvg-id="" tvg-name="Nova Sport 3" tvg-logo="" group-title="Greece",Nova Sport 3
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/81190
+#EXTINF:-1 tvg-id="" tvg-name="Premijer Legue" tvg-logo="https://repo.ottshow.net/pikoni/ikone45345/premierleague.gif" group-title="Sport Plus",Premijer Legue
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/71274
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/sportplusnba.gif" group-title="Sport Plus",NBA TV HD
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/24722
+#EXTINF:-1 tvg-id="" tvg-name="Super Tennis HD" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/supertenis.gif" group-title="Sport Plus",Super Tennis HD
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/2754
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports HD 1" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/beinsportshd1plus.gif" group-title="Sport Plus",BeIN Sports HD 1
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/12644
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports HD 2" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/beinsportshd2plus.gif" group-title="Sport Plus",BeIN Sports HD 2
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/12645
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports HD 3" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/beinsportshd3plus.gif" group-title="Sport Plus",BeIN Sports HD 3
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/12646
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports HD 4" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/beinsportshd4plus.gif" group-title="Sport Plus",BeIN Sports HD 4
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/12647
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports HD 5" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/beinsportshd5.gif" group-title="Sport Plus",BeIN Sports HD 5
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/12648
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports HD 6" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/beinsportshd6.gif" group-title="Sport Plus",BeIN Sports HD 6
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/12649
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports HD 7" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/beinsportshd7.gif" group-title="Sport Plus",BeIN Sports HD 7
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/12650
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 FR" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/Bein%20Sports%20Premium%201.gif" group-title="Sport Plus",Bein Sports 1 FR
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/36407
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 FR" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/Bein%20Sports%20Premium%202.gif" group-title="Sport Plus",Bein Sports 2 FR
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/36408
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 FR" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/Bein%20Sports%20Premium%203.gif" group-title="Sport Plus",Bein Sports 3 FR
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/36409
+#EXTINF:-1 tvg-id="supersport-1-al" tvg-name="Supersport 1 HD" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/supersport1.gif" group-title="Sport Plus",Supersport 1 HD
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/29739
+#EXTINF:-1 tvg-id="supersport-2-al" tvg-name="Supersport 2 HD" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/supersport2.gif" group-title="Sport Plus",Supersport 2 HD
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/29740
+#EXTINF:-1 tvg-id="supersport-3-al" tvg-name="Supersport 3 HD" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/supersport3.gif" group-title="Sport Plus",Supersport 3 HD
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/29741
+#EXTINF:-1 tvg-id="supersport-4-al" tvg-name="Supersport 4 HD" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/supersport4.gif" group-title="Sport Plus",Supersport 4 HD
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/29742
+#EXTINF:-1 tvg-id="supersport-5-al" tvg-name="Supersport 5 HD" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/supersport5.gif" group-title="Sport Plus",Supersport 5 HD
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/29743
+#EXTINF:-1 tvg-id="tv-digi-sport-1" tvg-name="Digi Sport 1" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport1.gif" group-title="Sport Plus",Digi Sport 1
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/39886
+#EXTINF:-1 tvg-id="digi-sport-2" tvg-name="Digi Sport 2" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport2.gif" group-title="Sport Plus",Digi Sport 2
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/39887
+#EXTINF:-1 tvg-id="digi-sport-3" tvg-name="Digi Sport 3" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport3.gif" group-title="Sport Plus",Digi Sport 3
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/39888
+#EXTINF:-1 tvg-id="digi-sport-4" tvg-name="Digi Sport 4" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport4.gif" group-title="Sport Plus",Digi Sport 4
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/39889
+#EXTINF:-1 tvg-id="htv1" tvg-name="Orange Sport 1" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/orangesport1.gif" group-title="Sport Plus",Orange Sport 1
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/69800
+#EXTINF:-1 tvg-id="" tvg-name="Orange Sport 2" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/orangesport2.gif" group-title="Sport Plus",Orange Sport 2
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/69802
+#EXTINF:-1 tvg-id="" tvg-name="Orange Sport 3" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/orangesport3.gif" group-title="Sport Plus",Orange Sport 3
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/69803
+#EXTINF:-1 tvg-id="" tvg-name="Orange Sport 4" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/orangesport4.gif" group-title="Sport Plus",Orange Sport 4
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/69804
+#EXTINF:-1 tvg-id="" tvg-name="LIG TV 1" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/ligtv1tr.gif" group-title="Sport Plus",LIG TV 1
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/39895
+#EXTINF:-1 tvg-id="" tvg-name="LIG TV 2" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/ligtv2tr.gif" group-title="Sport Plus",LIG TV 2
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/39896
+#EXTINF:-1 tvg-id="" tvg-name="LIG TV 3" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/ligtv3tr.gif" group-title="Sport Plus",LIG TV 3
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/39897
+#EXTINF:-1 tvg-id="" tvg-name="LIG TV 4" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/ligtv4tr.gif" group-title="Sport Plus",LIG TV 4
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/39898
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1" tvg-logo="https://repo.ottshow.net/pikoni/Poland/elevensport1.gif" group-title="Sport Plus",Eleven Sports 1
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/67766
+#EXTINF:-1 tvg-id="eleven-sports-2-pl" tvg-name="Eleven Sports 2" tvg-logo="https://repo.ottshow.net/pikoni/Poland/elevensport2.gif" group-title="Sport Plus",Eleven Sports 2
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/67767
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3" tvg-logo="https://repo.ottshow.net/pikoni/Poland/elevensport3.gif" group-title="Sport Plus",Eleven Sports 3
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/67768
+#EXTINF:-1 tvg-id="polsat-sport" tvg-name="Polsat Sport" tvg-logo="https://repo.ottshow.net/pikoni/Poland/polsatsport.gif" group-title="Sport Plus",Polsat Sport
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/67770
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 1" tvg-logo="https://repo.ottshow.net/pikoni/Poland/polsatsportpremium1.gif" group-title="Sport Plus",Polsat Sport Premium 1
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/67771
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 2" tvg-logo="https://repo.ottshow.net/pikoni/Poland/polsatsportpremium2.gif" group-title="Sport Plus",Polsat Sport Premium 2
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/67772
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 2" tvg-logo="https://repo.ottshow.net/pikoni/Poland/canal+sport2.gif" group-title="Sport Plus",CANAL+ SPORT 2
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/67773
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 3" tvg-logo="https://repo.ottshow.net/pikoni/Poland/canal+sport3.gif" group-title="Sport Plus",CANAL+ SPORT 3
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/67774
+#EXTINF:-1 tvg-id="canal-sport-4-pl" tvg-name="CANAL+ SPORT 4" tvg-logo="https://repo.ottshow.net/pikoni/juni2023/canel+4.gif" group-title="Sport Plus",CANAL+ SPORT 4
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/71761
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 5" tvg-logo="https://repo.ottshow.net/pikoni/juni2023/canel+5.gif" group-title="Sport Plus",CANAL+ SPORT 5
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/71762
+#EXTINF:-1 tvg-id="" tvg-name="TV2 Sport" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/tv2sport.gif" group-title="Sport Plus",TV2 Sport
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/69797
+#EXTINF:-1 tvg-id="" tvg-name="TV2 Sport X" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/tv2sportextra.gif" group-title="Sport Plus",TV2 Sport X
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/69798
+#EXTINF:-1 tvg-id="" tvg-name="TV3 Sport" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/sportplus/tv3-spoert.gif" group-title="Sport Plus",TV3 Sport
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/68705
+#EXTINF:-1 tvg-id="" tvg-name="C More Live 1" tvg-logo="http://repo.ottshow.net/pikoni/svedska/cmorelive1.gif" group-title="Sport Plus",C More Live 1
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/4444
+#EXTINF:-1 tvg-id="" tvg-name="C More Live 2" tvg-logo="http://repo.ottshow.net/pikoni/svedska/cmorelive2.gif" group-title="Sport Plus",C More Live 2
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/4445
+#EXTINF:-1 tvg-id="" tvg-name="C More Live 3" tvg-logo="http://repo.ottshow.net/pikoni/svedska/cmorelive3.gif" group-title="Sport Plus",C More Live 3
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/4446
+#EXTINF:-1 tvg-id="" tvg-name="C More Live 4" tvg-logo="http://repo.ottshow.net/pikoni/svedska/cmorelive4.gif" group-title="Sport Plus",C More Live 4
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/4447
+#EXTINF:-1 tvg-id="" tvg-name="C More Fotboll" tvg-logo="http://web.izipizi1.info/pi/f.png" group-title="Sport Plus",C More Fotboll
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/40569
+#EXTINF:-1 tvg-id="sky-sports-news" tvg-name="Sky Sport News" tvg-logo="https://repo.ottshow.net/pikoni/juni2023/skysportnews.gif" group-title="Sport Plus",Sky Sport News
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/72627
+#EXTINF:-1 tvg-id="sky-sports-football" tvg-name="Sky Sport Foodball" tvg-logo="https://repo.ottshow.net/pikoni/juni2023/skysportfootball.gif" group-title="Sport Plus",Sky Sport Foodball
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/72625
+#EXTINF:-1 tvg-id="sky-sports-arena" tvg-name="Sky Sport Arene" tvg-logo="https://repo.ottshow.net/pikoni/juni2023/skysportarene.gif" group-title="Sport Plus",Sky Sport Arene
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/72623
+#EXTINF:-1 tvg-id="sky-sports-mix" tvg-name="Sky Sport Mix" tvg-logo="https://repo.ottshow.net/pikoni/juni2023/skysportmix.gif" group-title="Sport Plus",Sky Sport Mix
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/72624
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Golf" tvg-logo="https://repo.ottshow.net/pikoni/juni2023/skysportgolf.gif" group-title="Sport Plus",Sky Sport Golf
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/72626
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="http://repo.ottshow.net/pikoni/sportde/skysportf1.gif" group-title="Sport Plus",Sky Sport F1
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/71731
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Cricket" tvg-logo="https://repo.ottshow.net/pikoni/juni2023/skysportcricket.gif" group-title="Sport Plus",Sky Sport Cricket
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/72645
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/espn1.gif" group-title="Sport Plus",ESPN 1
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/25466
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/espn2.gif" group-title="Sport Plus",ESPN 2
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/25465
+#EXTINF:-1 tvg-id="sport-tv-1" tvg-name="Sport TV 1" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/sporttv1.gif" group-title="Sport Plus",Sport TV 1
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/69683
+#EXTINF:-1 tvg-id="sport-tv-2" tvg-name="Sport TV 2" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/sporttv2.gif" group-title="Sport Plus",Sport TV 2
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/69684
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/sporttv3.gif" group-title="Sport Plus",Sport TV 3
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/69685
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 4" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/sporttv4.gif" group-title="Sport Plus",Sport TV 4
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/69686
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5" tvg-logo="https://repo.ottshow.net/pikoni/ikone45345/sporttv5.gif" group-title="Sport Plus",Sport TV 5
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/69687
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 PT" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/elevensports1pt.gif" group-title="Sport Plus",Eleven Sports 1 PT
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/69688
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 PT" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/elevensports2.gif" group-title="Sport Plus",Eleven Sports 2 PT
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/69689
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3 PT" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/elevensports3.gif" group-title="Sport Plus",Eleven Sports 3 PT
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/69690
+#EXTINF:-1 tvg-id="" tvg-name="Fight Box" tvg-logo="https://repo.ottshow.net/pikoni/pikoni25.9/Sport%20plus/fightbox.gif" group-title="Sport Plus",Fight Box
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/73899
+#EXTINF:-1 tvg-id="" tvg-name="Supersport Rugby" tvg-logo="https://repo.ottshow.net/pikoni/pikoni25.9/Sport%20plus/supersport-rugby.gif" group-title="Sport Plus",Supersport Rugby
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/75452
+#EXTINF:-1 tvg-id="" tvg-name="UFC Pass" tvg-logo="https://repo.ottshow.net/pikoni/pikoni25.9/Sport%20plus/ufcfight.gif" group-title="Sport Plus",UFC Pass
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/75526
+#EXTINF:-1 tvg-id="" tvg-name="Moto GP" tvg-logo="https://repo.ottshow.net/pikoni/pikoni25.9/Sport%20plus/motogp.gif" group-title="Sport Plus",Moto GP
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/75534
+
 
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Express
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=971&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
