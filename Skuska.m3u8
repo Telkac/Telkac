@@ -882,6 +882,83 @@ http://stream.funradio.sk:8000/dance128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio FM
 http://live.slovakradio.sk:8000/FM_128.mp3
 
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",1
+http://stream.kukaj.se/stream/1/video.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",10
+http://stream.kukaj.se/stream/10/video.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",11
+http://stream.kukaj.se/stream/11/video.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",12
+http://stream.kukaj.se/stream/12/video.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",13
+http://stream.kukaj.se/stream/13/video.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",14
+http://stream.kukaj.se/stream/14/video.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",15
+http://stream.kukaj.se/stream/15/video.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",16
+http://stream.kukaj.se/stream/16/video.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",17
+http://stream.kukaj.se/stream/17/video.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",18
+http://stream.kukaj.se/stream/18/video.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",19
+http://stream.kukaj.se/stream/19/video.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",2
+http://stream.kukaj.se/stream/2/video.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",20
+http://stream.kukaj.se/stream/20/video.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",21
+http://stream.kukaj.se/stream/21/video.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",22
+http://stream.kukaj.se/stream/22/video.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",23
+http://stream.profi-net.sk:1935/tmr/STREAM32.stream/playlist.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",24
+https://kukaj.profi-net.sk/live/PLAMIENKA1.stream/chunklist.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",25
+https://kukaj.profi-net.sk/live/BOCIANY_BESENOVA_4K.stream/chunklist.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",26
+https://kukaj.profi-net.sk/livetrans/KUVIK1.stream_aac/chunklist.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",27
+http://stream.profi-net.sk:1935/tmr/STREAM33.stream/playlist.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",28
+http://kukaj.profi-net.sk:1935/live/KAMZIKY.stream/chunklist.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",29
+http://stream.profi-net.sk:1935/tmr/STREAM31.stream/playlist.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",3
+http://stream.kukaj.se/stream/3/video.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",30
+http://stream.profi-net.sk:1935/tmr/STREAM43.stream/playlist.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",31
+http://stream.profi-net.sk:1935/tmr/STREAM30.stream/playlist.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",32
+http://stream.profi-net.sk:1935/tmr//STREAM29.stream/playlist.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",33
+http://kukaj.profi-net.sk:1935/live/PLAMIENKA2.stream/chunklist.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",34
+http://stream.profi-net.sk:1935/tmr/STREAM3.stream/playlist.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",35
+http://parksnow.zivekamery.sk:1935/donovaly/DONOVALY.stream/playlist.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",36
+http://stream.strba.sk:1935/strba/VYHLAD_NOVESTRB.stream/playlist.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",37
+http://stream.profi-net.sk:1935/tmr/STREAM39.stream/playlist.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",38
+http://stream.strba.sk:1935/strba/VYHLAD_NAMESTIE.stream/playlist.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",4
+http://stream.kukaj.se/stream/4/video.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",5
+http://stream.kukaj.se/stream/5/video.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",6
+http://stream.kukaj.se/stream/6/video.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",7
+http://stream.kukaj.se/stream/7/video.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",8
+http://stream.kukaj.se/stream/8/video.m3u8
+#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",9
+http://stream.kukaj.se/stream/9/video.m3u8
+
 #EXTINF:-1 tvg-id="Tatry" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Tatry
 http://88.212.15.20:16000/udp/232.232.70.2:5004
 #EXTINF:-1 tvg-id="Štrbské Pleso (pohľad na Móryho vyhliadku)" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Všeobecné",Štrbské Pleso (pohľad na Móryho vyhliadku)
