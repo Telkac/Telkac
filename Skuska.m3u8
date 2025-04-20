@@ -286,37 +286,6 @@ http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33910
 
 #EXTINF:-1,HIT Music Channel RO 🇷🇴
 
-#EXTINF:-1 group-title=\"Музыка\" tvg-logo=\"http://1lot.tv/ch/9878.png\",Best of Dance TV
-http://s.only4.tv/9878/index.m3u8?token=eAXrXaEhRn
-#EXTINF:-1 group-title=\"Музыка\" tvg-logo=\"http://1lot.tv/ch/9880.png\",DANCE TV TECHNO
-http://s.only4.tv/9880/index.m3u8?token=eAXrXaEhRn
-#EXTINF:-1 group-title=\"Музыка\" tvg-logo=\"http://1lot.tv/ch/8274.png\",VB Dance Hits of 90s
-http://s.only4.tv/8274/index.m3u8?token=eAXrXaEhRn
-#EXTINF:-1 group-title=\"Музыка\" tvg-logo=\"http://1lot.tv/ch/8872.png\",Now 70s
-http://s.only4.tv/8872/index.m3u8?token=eAXrXaEhRn
-#EXTINF:-1 group-title=\"Музыка\" tvg-logo=\"http://1lot.tv/ch/8873.png\",Now 80s
-http://s.only4.tv/8873/index.m3u8?token=eAXrXaEhRn
-#EXTINF:-1 group-title=\"Музыка\" tvg-logo=\"http://1lot.tv/ch/8916.png\",Muzzik Rock and Roll
-http://s.only4.tv/8916/index.m3u8?token=eAXrXaEhRn
-#EXTINF:-1 group-title=\"Музыка\" tvg-logo=\"http://1lot.tv/ch/8874.png\",NOW Rock
-http://s.only4.tv/8874/index.m3u8?token=eAXrXaEhRn
-#EXTINF:-1 group-title=\"Музыка\" tvg-logo=\"http://1lot.tv/ch/8838.png\",Eska TV
-http://s.only4.tv/8838/index.m3u8?token=eAXrXaEhRn
-#EXTINF:-1 group-title=\"Музыка\" tvg-logo=\"http://1lot.tv/ch/0297.png\",Bridge TV
-http://s.only4.tv/0297/index.m3u8?token=eAXrXaEhRn
-#EXTINF:-1 group-title=\"Музыка\" tvg-logo=\"http://1lot.tv/ch/1818.png\",Bridge TV HITS
-http://s.only4.tv/1818/index.m3u8?token=eAXrXaEhRn
-#EXTINF:-1 group-title=\"Музыка\" tvg-logo=\"http://1lot.tv/ch/2119.png\",Bridge TV Русский хит
-http://s.only4.tv/2119/index.m3u8?token=eAXrXaEhRn
-#EXTINF:-1 group-title=\"Музыка\" tvg-logo=\"http://1lot.tv/ch/2118.png\",Bridge TV Classic
-http://s.only4.tv/2118/index.m3u8?token=eAXrXaEhRn
-#EXTINF:-1 group-title=\"Музыка\" tvg-logo=\"http://1lot.tv/ch/5517.png\",Eu Music
-http://s.only4.tv/5517/index.m3u8?token=eAXrXaEhRn
-#EXTINF:-1 group-title=\"Музыка\" tvg-logo=\"http://1lot.tv/ch/5512.png\",4ever Music
-http://s.only4.tv/5512/index.m3u8?token=eAXrXaEhRn
-#EXTINF:-1 group-title=\"Музыка\" tvg-logo=\"http://1lot.tv/ch/9884.png\",Kiss Kiss TV HD
-http://s.only4.tv/9884/index.m3u8?token=eAXrXaEhRn
-
 #EXTINF:-1 tvg-id="SENZI.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1410-senzi-hd.png" group-title="Hudobné",SENZI HD
 http://88.212.15.19/live/test_senzi_hevc/playlist.m3u8
 #EXTINF:0,Šlágr 1
