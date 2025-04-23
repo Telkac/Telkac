@@ -648,12 +648,6 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp2
 #EXTINF:-1,TNT SPORTS 3
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp3
 
-#EXTINF:-1,Setanta sport 1
-http://ott.watch/stream/UCFJ8XKS6K/234.m3u8
-#EXTINF:-1,Setanta sport 2
-http://ott.watch/stream/UCFJ8XKS6K/235.m3u8
-#EXTINF:-1,Setanta sport Ukrajina
-http://ott.watch/stream/UCFJ8XKS6K/313.m3u8
 #EXTINF:-1,201_Diema Sport HD
 http://213.91.178.133:8000/play/a06q
 #EXTINF:-1,202_Diema Sport 2 HD
@@ -678,12 +672,6 @@ http://213.91.178.133:8000/play/a04b
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13263.png?ver=22741" group-title="Sport",F1: SKY SPORTS F1 4K
 http://188.227.186.127:8080/catena-17-1149961-streamer-f1-pit-lane/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
-#EXTINF:-1 tvg-id="" tvg-name="Nova Sport 1" tvg-logo="" group-title="Greece",Nova Sport 1
-http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/81188
-#EXTINF:-1 tvg-id="" tvg-name="Nova Sport 2" tvg-logo="" group-title="Greece",Nova Sport 2
-http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/81189
-#EXTINF:-1 tvg-id="" tvg-name="Nova Sport 3" tvg-logo="" group-title="Greece",Nova Sport 3
-http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/81190
 #EXTINF:-1 tvg-id="" tvg-name="Premijer Legue" tvg-logo="https://repo.ottshow.net/pikoni/ikone45345/premierleague.gif" group-title="Sport Plus",Premijer Legue
 http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/71274
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/sportplusnba.gif" group-title="Sport Plus",NBA TV HD
