@@ -881,12 +881,8 @@ http://stream.kukaj.se/stream/2/video.m3u8
 http://stream.kukaj.se/stream/20/video.m3u8
 #EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\", Štrbské pleso zjazdovky
 http://stream.profi-net.sk:1935/tmr/STREAM32.stream/playlist.m3u8
-#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",Sova
-https://kukaj.profi-net.sk/live/PLAMIENKA1.stream/chunklist.m3u8
 #EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",Bociany
 https://kukaj.profi-net.sk/live/BOCIANY_BESENOVA_4K.stream/chunklist.m3u8
-#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",Vtáky v podkroví
-https://kukaj.profi-net.sk/livetrans/KUVIK1.stream_aac/chunklist.m3u8
 #EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\", Tatranská Lomnica štart
 http://stream.profi-net.sk:1935/tmr/STREAM33.stream/playlist.m3u8
 #EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",Kamzíky Tatry
@@ -899,8 +895,6 @@ http://stream.kukaj.se/stream/3/video.m3u8
 http://stream.profi-net.sk:1935/tmr/STREAM43.stream/playlist.m3u8
 #EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",Skalnaté pleso Tatry 
 http://stream.profi-net.sk:1935/tmr//STREAM29.stream/playlist.m3u8
-#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",Vtáky 
-http://kukaj.profi-net.sk:1935/live/PLAMIENKA2.stream/chunklist.m3u8
 #EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",Donovaly
 http://stream.profi-net.sk:1935/tmr/STREAM3.stream/playlist.m3u8
 #EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",zjazdovka
