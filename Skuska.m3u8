@@ -811,6 +811,32 @@ http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgur
 #EXTINF:-1 tvg-id="" tvg-name="Moto GP" tvg-logo="https://repo.ottshow.net/pikoni/pikoni25.9/Sport%20plus/motogp.gif" group-title="Sport Plus",Moto GP
 http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/75534
 
+#EXTINF:0,Ziggo Sport Select
+http://86.87.15.10:8004/play/a02d
+#EXTINF:0,Ziggo TV
+http://86.87.15.10:8004/play/a02e
+#EXTINF:0,Ziggo Sport
+http://86.87.15.10:8008/play/a01h
+#EXTINF:0,Ziggo Sport 2
+http://86.87.15.10:8004/play/a02b
+#EXTINF:0,Ziggo Sport 4
+http://86.87.15.10:8004/play/a02a
+#EXTINF:0,Ziggo Sport Docu
+http://86.87.15.10:8009/play/a00y
+#EXTINF:0,Ziggo Sport Golf
+http://86.87.15.10:8006/play/a02p
+#EXTINF:0,Ziggo Sport Tennis
+http://86.87.15.10:8009/play/a00z
+#EXTINF:0,ESPN
+http://86.87.15.10:8003/play/a01w
+#EXTINF:0,ESPN 2
+http://86.87.15.10:8003/play/a022
+#EXTINF:0,ESPN 3
+http://86.87.15.10:8001/play/a01k
+#EXTINF:0,ESPN 4
+http://86.87.15.10:8003/play/a023
+#EXTINF:0,Eurosport 1
+http://86.87.15.10:8005/play/a00e
 
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Express
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=971&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
