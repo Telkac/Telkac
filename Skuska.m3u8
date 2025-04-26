@@ -729,8 +729,6 @@ http://stream.kukaj.se/stream/15/video.m3u8
 http://stream.kukaj.se/stream/18/video.m3u8
 #EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",Prešov 
 http://stream.kukaj.se/stream/2/video.m3u8
-#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",Námestie 
-http://stream.kukaj.se/stream/20/video.m3u8
 #EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\", Štrbské pleso zjazdovky
 http://stream.profi-net.sk:1935/tmr/STREAM32.stream/playlist.m3u8
 #EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",Bociany
