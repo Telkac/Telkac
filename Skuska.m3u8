@@ -664,6 +664,15 @@ http://213.91.178.133:8000/play/a05y
 #EXTINF:-1,222_Eurosport 2 HD
 http://213.91.178.133:8000/play/a04b
 
+#EXTINF:-1,UA: SETANTA SPORT FHD
+http://provider-uk.net:8080/Negulescu_Iacob_Nicusor/RZQ0RurazoixCw8RxGNwY0o/17536
+#EXTINF:-1,UA: SETANTA SPORT PLUS FHD
+http://provider-uk.net:8080/Negulescu_Iacob_Nicusor/RZQ0RurazoixCw8RxGNwY0o/54036
+#EXTINF:-1,UA: Sport 1
+http://provider-uk.net:8080/Negulescu_Iacob_Nicusor/RZQ0RurazoixCw8RxGNwY0o/14684
+#EXTINF:-1,UA: Sport 2
+http://provider-uk.net:8080/Negulescu_Iacob_Nicusor/RZQ0RurazoixCw8RxGNwY0o/42702
+
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Express
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=971&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun rádio
