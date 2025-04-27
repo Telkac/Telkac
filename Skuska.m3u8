@@ -766,6 +766,8 @@ http://stream.profi-net.sk:1935/tmr/STREAM39.stream/playlist.m3u8
 http://stream.strba.sk:1935/strba/VYHLAD_NAMESTIE.stream/playlist.m3u8
 #EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",Prešov 
 http://stream.kukaj.se/stream/7/video.m3u8
+#EXTINF:-1,Rajecké Teplice
+https://stream.profi-net.sk/commercial/RAJECKETEPLICE.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Tatry" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Tatry
 http://88.212.15.20:16000/udp/232.232.70.2:5004
@@ -809,3 +811,56 @@ http://stream.kukaj.se/stream/1/video.m3u8
 http://stream.kukaj.se/stream/12/video.m3u8
 #EXTINF:-1 tvg-id="Praha" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Praha
 http://live.idnes.cz/slow/amc_720p/playlist.m3u8
+EXTINF:-1 group-title="Чешская Республика 🇨🇿",Letisko Praha
+http://live.idnes.cz/slow/planespotting/playlist.m3u8
+
+#EXTINF:-1,Словакия 1
+https://webcam.bergregions.insyscd.net/live/meander_aqua_1/index.m3u8
+#EXTINF:-1,Словакия 10
+http://stream.kukaj.se/stream/24/video.m3u8
+#EXTINF:-1,Словакия 11
+http://stream.profi-net.sk:1935/tmr/STREAM3.stream/playlist.m3u8
+#EXTINF:-1,Словакия 12
+http://parksnow.zivekamery.sk:1935/donovaly/DONOVALY.stream/playlist.m3u8
+#EXTINF:-1,Словакия 13
+http://stream.strba.sk:1935/strba/VYHLAD_NOVESTRB.stream/playlist.m3u8
+#EXTINF:-1,Словакия 14
+http://stream.profi-net.sk:1935/tmr/STREAM6.stream/playlist.m3u8
+#EXTINF:-1,Словакия 15
+https://webcam.bergregions.insyscd.net/live/meander_aqua_2/index.m3u8
+#EXTINF:-1,Словакия 16
+http://stream.kukaj.se/stream/1b/video.m3u8
+#EXTINF:-1,Словакия 17
+http://stream.kukaj.se/stream/2/video.m3u8
+#EXTINF:-1,Словакия 18
+http://stream.kukaj.se/stream/3/video.m3u8
+#EXTINF:-1,Словакия 19
+http://stream.kukaj.se/stream/4/video.m3u8
+#EXTINF:-1,Словакия 2
+http://stream.profi-net.sk:1935/tmr/STREAM2.stream/playlist.m3u8
+#EXTINF:-1,Словакия 20
+http://stream.kukaj.se/stream/5b/video.m3u8
+#EXTINF:-1,Словакия 21
+https://stream.profi-net.sk/commercial/RAJECKETEPLICE.stream/chunklist.m3u8
+#EXTINF:-1,Словакия 22
+https://stream.profi-net.sk/tmr/STREAM12.stream/chunklist.m3u8
+#EXTINF:-1,Словакия 23
+https://therme.sk:8088/live/livestream.m3u8
+#EXTINF:-1,Словакия 24
+https://kukaj.profi-net.sk/live/BOCIANY_BESENOVA_4K.stream/chunklist.m3u8
+#EXTINF:-1,Словакия 25
+https://kukaj.profi-net.sk/livetrans/KUVIK2.stream_aac/chunklist.m3u8
+#EXTINF:-1,Словакия 3
+http://stream.profi-net.sk:1935/tmr/STREAM33.stream/playlist.m3u8
+#EXTINF:-1,Словакия 4
+http://stream.profi-net.sk:1935/tmr/STREAM54.stream/playlist.m3u8
+#EXTINF:-1,Словакия 5
+http://stream.profi-net.sk:1935/tmr/STREAM7.stream/playlist.m3u8
+#EXTINF:-1,Словакия 6
+http://stream.profi-net.sk:1935/tmr/STREAM43.stream/playlist.m3u8
+#EXTINF:-1,Словакия 7
+http://stream.profi-net.sk:1935/tmr/STREAM48.stream/playlist.m3u8
+#EXTINF:-1,Словакия 8
+https://nstream.tssgroup.cloud/tss/fitechbb/video1.m3u8
+#EXTINF:-1,Словакия 9
+http://stream.kukaj.se/stream/8b/video.m3u8
