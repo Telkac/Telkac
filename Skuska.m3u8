@@ -814,53 +814,108 @@ http://live.idnes.cz/slow/amc_720p/playlist.m3u8
 EXTINF:-1 group-title="Чешская Республика 🇨🇿",Letisko Praha
 http://live.idnes.cz/slow/planespotting/playlist.m3u8
 
-#EXTINF:-1,Словакия 1
+#EXTINF:-1,Live kamera
 https://webcam.bergregions.insyscd.net/live/meander_aqua_1/index.m3u8
-#EXTINF:-1,Словакия 10
+#EXTINF:-1,Live kamera
 http://stream.kukaj.se/stream/24/video.m3u8
-#EXTINF:-1,Словакия 11
+#EXTINF:-1,Live kamera
 http://stream.profi-net.sk:1935/tmr/STREAM3.stream/playlist.m3u8
-#EXTINF:-1,Словакия 12
+#EXTINF:-1,Live kamera
 http://parksnow.zivekamery.sk:1935/donovaly/DONOVALY.stream/playlist.m3u8
-#EXTINF:-1,Словакия 13
+#EXTINF:-1,Live kamera
 http://stream.strba.sk:1935/strba/VYHLAD_NOVESTRB.stream/playlist.m3u8
-#EXTINF:-1,Словакия 14
+#EXTINF:-1,Live kamera
 http://stream.profi-net.sk:1935/tmr/STREAM6.stream/playlist.m3u8
-#EXTINF:-1,Словакия 15
+#EXTINF:-1,Live kamera
 https://webcam.bergregions.insyscd.net/live/meander_aqua_2/index.m3u8
-#EXTINF:-1,Словакия 16
+#EXTINF:-1,Live kamera
 http://stream.kukaj.se/stream/1b/video.m3u8
-#EXTINF:-1,Словакия 17
+#EXTINF:-1,Live kamera
 http://stream.kukaj.se/stream/2/video.m3u8
-#EXTINF:-1,Словакия 18
+#EXTINF:-1,Live kamera
 http://stream.kukaj.se/stream/3/video.m3u8
-#EXTINF:-1,Словакия 19
+#EXTINF:-1,Live kamera
 http://stream.kukaj.se/stream/4/video.m3u8
-#EXTINF:-1,Словакия 2
+#EXTINF:-1,Live kamera
 http://stream.profi-net.sk:1935/tmr/STREAM2.stream/playlist.m3u8
-#EXTINF:-1,Словакия 20
+#EXTINF:-1,Live kamera
 http://stream.kukaj.se/stream/5b/video.m3u8
-#EXTINF:-1,Словакия 21
+#EXTINF:-1,Live kamera
 https://stream.profi-net.sk/commercial/RAJECKETEPLICE.stream/chunklist.m3u8
-#EXTINF:-1,Словакия 22
+#EXTINF:-1,Live kamera
 https://stream.profi-net.sk/tmr/STREAM12.stream/chunklist.m3u8
-#EXTINF:-1,Словакия 23
+#EXTINF:-1,Live kamera
 https://therme.sk:8088/live/livestream.m3u8
-#EXTINF:-1,Словакия 24
+#EXTINF:-1,Live kamera
 https://kukaj.profi-net.sk/live/BOCIANY_BESENOVA_4K.stream/chunklist.m3u8
-#EXTINF:-1,Словакия 25
+#EXTINF:-1,Live kamera
 https://kukaj.profi-net.sk/livetrans/KUVIK2.stream_aac/chunklist.m3u8
-#EXTINF:-1,Словакия 3
+#EXTINF:-1,Live kamera
 http://stream.profi-net.sk:1935/tmr/STREAM33.stream/playlist.m3u8
-#EXTINF:-1,Словакия 4
+#EXTINF:-1,Live kamera
 http://stream.profi-net.sk:1935/tmr/STREAM54.stream/playlist.m3u8
-#EXTINF:-1,Словакия 5
+#EXTINF:-1,Live kamera
 http://stream.profi-net.sk:1935/tmr/STREAM7.stream/playlist.m3u8
-#EXTINF:-1,Словакия 6
+#EXTINF:-1,Live kamera
 http://stream.profi-net.sk:1935/tmr/STREAM43.stream/playlist.m3u8
-#EXTINF:-1,Словакия 7
+#EXTINF:-1,Live kamera
 http://stream.profi-net.sk:1935/tmr/STREAM48.stream/playlist.m3u8
-#EXTINF:-1,Словакия 8
+#EXTINF:-1,Live kamera
 https://nstream.tssgroup.cloud/tss/fitechbb/video1.m3u8
-#EXTINF:-1,Словакия 9
+#EXTINF:-1,Live kamera
 http://stream.kukaj.se/stream/8b/video.m3u8
+#EXTINF:-1,Live kamera
+https://stream.profi-net.sk/tmr/STREAM9.stream/chunklist.m3u8
+#EXTINF:-1,Live kamera
+https://stream.profi-net.sk/tmr/STREAM11.stream/chunklist.m3u8
+#EXTINF:-1,Live kamera
+https://stream.profi-net.sk/tmr/STREAM14.stream/chunklist.m3u8
+#EXTINF:-1,Live kamera
+https://stream.profi-net.sk/tmr/STREAM15.stream/chunklist.m3u8
+#EXTINF:-1,Live kamera
+https://stream.profi-net.sk/tmr/STREAM17.stream/chunklist.m3u8
+#EXTINF:-1,Live kamera
+https://stream.profi-net.sk/tmr/STREAM21.stream/chunklist.m3u8
+#EXTINF:-1,Live kamera
+https://stream.profi-net.sk/tmr/STREAM22.stream/chunklist.m3u8
+#EXTINF:-1,Live kamera
+https://stream.profi-net.sk/tmr/STREAM23.stream/chunklist.m3u8
+#EXTINF:-1,Live kamera
+https://stream.profi-net.sk/tmr/STREAM25.stream/chunklist.m3u8
+#EXTINF:-1,Live kamera
+https://stream.profi-net.sk/tmr/STREAM29.stream/chunklist.m3u8
+#EXTINF:-1,Live kamera
+https://stream.profi-net.sk/tmr/STREAM31.stream/chunklist.m3u8
+#EXTINF:-1,Live kamera
+https://stream.profi-net.sk/tmr/STREAM32.stream/chunklist.m3u8
+#EXTINF:-1,Live kamera
+https://stream.profi-net.sk/tmr/STREAM34.stream/chunklist.m3u8
+#EXTINF:-1,Live kamera
+https://stream.profi-net.sk/tmr/STREAM39.stream/chunklist.m3u8
+#EXTINF:-1,Live kamera
+https://stream.profi-net.sk/tmr/STREAM43.stream/chunklist.m3u8
+#EXTINF:-1,Live kamera
+https://stream.profi-net.sk/tmr/STREAM44.stream/chunklist.m3u8
+#EXTINF:-1,Live kamera
+https://stream.profi-net.sk/tmr/STREAM46.stream/chunklist.m3u8
+#EXTINF:-1,Live kamera
+https://stream.profi-net.sk/tmr/STREAM50.stream/chunklist.m3u8
+#EXTINF:-1,Live kamera
+https://stream.profi-net.sk/tmr/STREAM51.stream/chunklist.m3u8
+#EXTINF:-1,Live kamera
+https://stream.profi-net.sk/tmr/STREAM52.stream/chunklist.m3u8
+#EXTINF:-1,Live kamera
+https://stream.profi-net.sk/tmr/STREAM55.stream/chunklist.m3u8
+#EXTINF:-1,Live kamera
+https://stream.profi-net.sk/tmr/STREAM3.stream/chunklist.m3u8
+
+
+
+
+
+
+
+
+
+
+
