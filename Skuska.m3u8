@@ -177,6 +177,8 @@ http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mňam TV.cz" tvg-name="" tvg-logo="https://imnam.cz/wp-content/uploads/2024/11/Logo_Mnam_2022-2.png" group-title="Dokumentárne",Mňam TV
 
+#EXTINF:-1 group-title="4k" tvg-logo="https://epg.ovh/logo/NASA+UHD.png",Nasa 4K
+http://cdnx1.plusx.tv:4000/NASA/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
 
 #EXTINF:-1 tvg-id="Jojko.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/815-jojko-hd.png" group-title="Detské",Jojko
 http://88.212.15.19/live/test_jojko_25p/playlist.m3u8
