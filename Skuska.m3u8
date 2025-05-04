@@ -117,9 +117,11 @@ http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Spark TV.cz" tvg-name="Up network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/TV_Spark.svg/revision/latest/scale-to-width-down/300?cb=20231109173805" group-title="Všeobecné",Spark
 http://88.212.15.19/live/test_upnetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal+ Action.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1024px-Canal%2B_Action_2024.svg.png" group-title="Všeobecné",Canal Plus Action 
-
+http://185.236.230.212:9981/play/a0bw
 #EXTINF:-1 tvg-id="Warner TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/526px-Warner2018LA.png" group-title="Všeobecné",Warner TV
 http://213.215.119.236:88/Warner_TV/index.m3u8
+#EXTINF:-1,EPIC DRAMA
+http://185.236.230.212:9981/play/a0bg
 
 #EXTINF:-1 tvg-id="Nova International.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1-nova-international-hd.png" group-title="Všeobecné",Nova International
 http://194.160.135.34:8088/udp/233.10.47.61:1234
@@ -175,10 +177,10 @@ http://213.215.119.236:88/HGTV/index.m3u8
 http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Food Network.cz" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/2048px-Food_Network_logo.svg.png" group-title="Dokumentárne",Food Network
 
+#EXTINF:-1,HOBBY TV
+http://185.236.230.212:9981/play/a0c4
 #EXTINF:-1 tvg-id="Mňam TV.cz" tvg-name="" tvg-logo="https://imnam.cz/wp-content/uploads/2024/11/Logo_Mnam_2022-2.png" group-title="Dokumentárne",Mňam TV
 
-#EXTINF:-1 group-title="4k" tvg-logo="https://epg.ovh/logo/NASA+UHD.png",Nasa 4K
-http://cdnx1.plusx.tv:4000/NASA/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
 
 #EXTINF:-1 tvg-id="Jojko.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/815-jojko-hd.png" group-title="Detské",Jojko
 http://88.212.15.19/live/test_jojko_25p/playlist.m3u8
