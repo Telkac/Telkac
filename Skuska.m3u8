@@ -120,6 +120,8 @@ http://88.212.15.19/live/test_upnetwork/playlist.m3u8
 http://185.236.230.212:9981/play/a0bw
 #EXTINF:-1 tvg-id="Warner TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/526px-Warner2018LA.png" group-title="Všeobecné",Warner TV
 http://213.215.119.236:88/Warner_TV/index.m3u8
+#EXTINF:-1,PARAMOUNT NETWORK
+http://185.236.230.212:9981/play/a0as
 #EXTINF:-1,EPIC DRAMA
 http://185.236.230.212:9981/play/a0bg
 
