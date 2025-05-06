@@ -190,6 +190,7 @@ http://88.212.15.19/live/test_jojko_25p/playlist.m3u8
 http://88.212.15.19/live/test_rik/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT :D.cz" tvg-url="decko.cz" tvg-url="ctart.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ctdart.png" group-title="Detské",ČT :D/art
 http://194.160.135.34:8088/udp/233.10.47.119:1234
+http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Jim Jam.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1770-jimjam.png" group-title="Detské",Jim Jam.cz
 http://88.212.15.19/live/test_jim_jam/playlist.m3u8
 #EXTINF:-1 tvg-id="Lala TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/810-lala-tv-hd.png" group-title="Detské",Lala TV
@@ -277,25 +278,23 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/p
 http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33912
 #EXTINF:-1,Magic tv RO 🇷🇴
 http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/81307
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 #EXTINF:-1,U tv RO 🇷🇴
 http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33910
 #EXTINF:-1,Kiss tv RO 🇷🇴
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 
-#EXTINF:-1 tvg-id="MoozDance.ro" http-referrer="https://mooz.tv/live-ro/#MoozDance",MoozDance (576p)
+#EXTINF:-1 tvg-id="MoozDance.ro" http-referrer="https://mooz.tv/live-ro/#MoozDance",Mooz Dance RO 🇷🇴
 #EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozDance
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
-#EXTINF:-1 tvg-id="MoozHits.ro" http-referrer="https://mooz.tv/live-ro/#MoozHits",MoozHits (576p)
+#EXTINF:-1 tvg-id="MoozHits.ro" http-referrer="https://mooz.tv/live-ro/#MoozHits",Mooz Hits RO 🇷🇴
 #EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozHits
 https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
-#EXTINF:-1 tvg-id="MoozRo.ro" http-referrer="https://mooz.tv/live-ro/#MoozRo",MoozRo (576p)
+#EXTINF:-1 tvg-id="MoozRo.ro" http-referrer="https://mooz.tv/live-ro/#MoozRo",Mooz RO 🇷🇴
 #EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozRo
 https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
-
-#EXTINF:-1,Mooz Dance RO 🇷🇴
-
-#EXTINF:-1,Mooz Hits RO 🇷🇴
-
+#EXTINF:-1 tvg-id="RockTV.ro",Rock TV RO 🇷🇴
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1,HIT Music Channel RO 🇷🇴
 
 #EXTINF:-1 tvg-id="SENZI.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1410-senzi-hd.png" group-title="Hudobné",SENZI HD
@@ -387,13 +386,17 @@ https://stream.polar.cz/polar/polarlive-1/manifest.m3u8
 #EXTINF:-1 tvg-id="Polar.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/polar.png" group-title="Všeobecné",Polar 2 HD
 https://stream.polar.cz/polar2/polarlive2-1/manifest.m3u8
 #EXTINF:-1 tvg-id="PRAHA TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/prahatv.png" group-title="Všeobecné",Praha TV HD
+#EXTINF:-1 tvg-id="TVLiptov.cz",TV Liptov
+http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVLocAll.sk",TV LocAll (406p)
+http://tv.geniusnet.sk:8081/localltv/pl.m3u8
 
 #EXTINF:-1 tvg-id="TV Brno 1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/tvloga/f578709d7d5086d1a4a09b024dbc3cd5a7c36b28/1024/brno1.png" group-title="Všeobecné",TV BRNO 1 HD
 https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
 #EXTINF:-1 tvg-id="VychodoceskaTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/v1.png" group-title="Všeobecné",Východočeská televize V1
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 #EXTINF:-1 tvg-id="Noe.cz.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvnoehd.png" group-title="Všeobecné",TV Noe
-https://n105.quickmedia.tv/noe-abr/noe-abr/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-id="Noe+.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.cC9jrOpq4VTv9_u2Rldv1wHaE-&pid=Api&P=0&h=180" group-title="Všeobecné",TV Noe +
 https://n105.quickmedia.tv/noe-2-abr/noe-2-abr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="JC1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/jc1.png" group-title="Všeobecné",JČ1 regionální televize
