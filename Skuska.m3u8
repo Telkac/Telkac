@@ -736,6 +736,11 @@ http://cdnx1.plusx.tv:4000/260/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523
 #EXTINF:-1 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/FightBox%20HD.png",FightBox
 http://cdnx1.plusx.tv:4000/261/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
 
+#EXTINF:-1,|HU| M4 sport
+http://185.236.230.212:9981/play/a0a1
+#EXTINF:-1,|HU| RTL
+http://185.236.230.212:9981/play/a0a2
+
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Express
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=971&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun rádio
