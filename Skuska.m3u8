@@ -323,6 +323,7 @@ http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/sport2.png" group-title="Športové",Sport 2
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Nova Sport 1.cz" tvg-name="Nova Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/e10dfe9bb607e5f45f2a77088f02077c.png" group-title="Športové",Nova Sport 1
 http://194.160.135.34:8088/udp/233.10.47.60:1234
 http://213.215.119.236:88/Nova_sport_1/index.m3u8
@@ -334,6 +335,16 @@ http://213.215.119.236:88/Nova_sport_3/index.m3u8
 http://213.215.119.236:88/Nova_sport_4/index.m3u8
 #EXTINF:-1 tvg-id="Nova Sport 5.cz" tvg-name="Nova Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/1b14f0b13c2ce6746983df7ad1426e31.png" group-title="Športové",Nova Sport 5
 http://213.215.119.236:88/Nova_sport_5/index.m3u8
+
+#EXTINF:-1,|CZ| NOVA SPORT 2 HD
+http://185.236.230.212:9981/play/a0bh
+#EXTINF:-1,|CZ| NOVA SPORT 3 HD
+http://185.236.230.212:9981/play/a0au
+#EXTINF:-1,|CZ| NOVA SPORT 4 HD
+http://185.236.230.212:9981/play/a0av
+#EXTINF:-1,|CZ| NOVA SPORT 5 HD
+http://185.236.230.212:9981/play/a0bq
+
 #EXTINF:-1 tvg-id="Canal+ Sport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Športové",CANAL+ Sport
 http://116.202.237.33:8080/CNLS1/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 #EXTINF:-1 tvg-id="Canal+ Sport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Športové",CANAL+ Sport 2
