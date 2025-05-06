@@ -179,8 +179,6 @@ http://213.215.119.236:88/HGTV/index.m3u8
 http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Food Network.cz" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/2048px-Food_Network_logo.svg.png" group-title="Dokumentárne",Food Network
 
-#EXTINF:-1,HOBBY TV
-http://185.236.230.212:9981/play/a0c4
 #EXTINF:-1 tvg-id="Mňam TV.cz" tvg-name="" tvg-logo="https://imnam.cz/wp-content/uploads/2024/11/Logo_Mnam_2022-2.png" group-title="Dokumentárne",Mňam TV
 
 
