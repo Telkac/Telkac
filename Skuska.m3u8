@@ -125,6 +125,8 @@ http://185.236.230.212:9981/play/a0as
 #EXTINF:-1 tvg-id="Epic Drama.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Všeobecné",Epic Drama
 http://185.236.230.212:9981/play/a0bg
 
+#EXTINF:-1 tvg-id="Markíza International.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Mark%C3%ADza_International_%282022%29.svg/revision/latest?cb=20220811142013" group-title="Všeobecné",Markiza
+http://185.236.230.212:9981/play/a0bi
 #EXTINF:-1 tvg-id="Nova International.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1-nova-international-hd.png" group-title="Všeobecné",Nova International
 http://194.160.135.34:8088/udp/233.10.47.61:1234
 #EXTINF:-1 tvg-id="Prima SK.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primahd.png" group-title="Všeobecné",Prima SK
