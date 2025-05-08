@@ -326,23 +326,13 @@ http://88.212.15.19/live/test_sport_2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nova Sport 1.cz" tvg-name="Nova Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/e10dfe9bb607e5f45f2a77088f02077c.png" group-title="Športové",Nova Sport 1
 http://194.160.135.34:8088/udp/233.10.47.60:1234
-http://213.215.119.236:88/Nova_sport_1/index.m3u8
 #EXTINF:-1 tvg-id="Nova Sport 2.cz" tvg-name="Nova Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1a7b19a5befb4c38325242e0eff1d0c0.png" group-title="Športové",Nova Sport 2
-http://213.215.119.236:88/Nova_sport_2/index.m3u8
-#EXTINF:-1 tvg-id="Nova Sport 3.cz" tvg-name="Nova Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/9e84927c960532259bef903a820a7f6a.png" group-title="Športové",Nova Sport 3
-http://213.215.119.236:88/Nova_sport_3/index.m3u8
-#EXTINF:-1 tvg-id="Nova Sport 4.cz" tvg-name="Nova Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/29a06e7727a720e6f9fa2e5e92da9da6.png" group-title="Športové",Nova Sport 4
-http://213.215.119.236:88/Nova_sport_4/index.m3u8
-#EXTINF:-1 tvg-id="Nova Sport 5.cz" tvg-name="Nova Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/1b14f0b13c2ce6746983df7ad1426e31.png" group-title="Športové",Nova Sport 5
-http://213.215.119.236:88/Nova_sport_5/index.m3u8
-
-#EXTINF:-1,|CZ| NOVA SPORT 2 HD
 http://185.236.230.212:9981/play/a0bh
-#EXTINF:-1,|CZ| NOVA SPORT 3 HD
+#EXTINF:-1 tvg-id="Nova Sport 3.cz" tvg-name="Nova Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/9e84927c960532259bef903a820a7f6a.png" group-title="Športové",Nova Sport 3
 http://185.236.230.212:9981/play/a0au
-#EXTINF:-1,|CZ| NOVA SPORT 4 HD
+#EXTINF:-1 tvg-id="Nova Sport 4.cz" tvg-name="Nova Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/29a06e7727a720e6f9fa2e5e92da9da6.png" group-title="Športové",Nova Sport 4
 http://185.236.230.212:9981/play/a0av
-#EXTINF:-1,|CZ| NOVA SPORT 5 HD
+#EXTINF:-1 tvg-id="Nova Sport 5.cz" tvg-name="Nova Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/1b14f0b13c2ce6746983df7ad1426e31.png" group-title="Športové",Nova Sport 5
 http://185.236.230.212:9981/play/a0bq
 
 #EXTINF:-1 tvg-id="Canal+ Sport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Športové",CANAL+ Sport
