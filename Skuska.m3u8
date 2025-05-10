@@ -449,13 +449,13 @@ http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33812
 #EXTINF:-1,SPORT1 (DSF).cz
 http://188.60.179.180:8000/play/a04g
 
-#EXTINF:0,SKY SPORTS MAIN EVENT UHD
+#EXTINF:0,SKY SPORTS MAIN EVENT UHD 🇬🇧
 http://7pal.short.gy/SSMEuhd
-#EXTINF:0,TNT SPORTS 1
+#EXTINF:0,TNT SPORTS 1 🇺🇸
 http://7pal.short.gy/tntspts1
-#EXTINF:0,TNT SPORTS 1
+#EXTINF:0,TNT SPORTS 1 🇺🇸
 http://7pal.short.gy/tntspts2
-#EXTINF:0,TNT SPORTS 3
+#EXTINF:0,TNT SPORTS 3 🇺🇸
 http://7pal.short.gy/tntspts3
 
 #EXTINF:-1 tvg-id="MUTV.HD.uk" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/MUTV.webp",MUTV 🇬🇧
@@ -469,7 +469,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="ESPN.Premium.HDTV.(Chile).(FOXSP1HD).cl" tvg-name="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DAZN%20F1.webp",ESPN Premium 🇨🇱
 http://45.184.87.142:8000/play/a045
 
-#EXTINF:0 tvg-name="NHL Network" tvg-logo="http://troya.info/images/chIcons/1067.png" tvg-rec="0",NHL Network
+#EXTINF:0 tvg-name="NHL Network" tvg-logo="http://troya.info/images/chIcons/1067.png" tvg-rec="0",NHL Network 🇺🇸
 http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" group-title="Sport" tvg-logo="https://play-lh.googleusercontent.com/lMZ8IE19zdpnlDuZSPtapCYDBDwOGXlovEMsZHXClDzl0m_MHuMM1Hsdo-oohnFW3Q",TYC Sports Play 🇦🇷
@@ -575,30 +575,30 @@ http://92.118.251.84:8080/Eurosport2/index.m3u8
 #EXTINF:-1,Eurosport 1 Deutschland 🇩🇪
 http://188.60.179.180:8000/play/xxEurosport1DExx
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/bein-sports.png",Bein SportXtra ñ 🇪🇸ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/bein-sports.png",Bein SportXtra ñ 🇪🇸
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png",SkySport F1
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png",SkySport F1 🇬🇧
 http://cord-cutter.net:8080/live/95549031/69361122/35244.ts
-#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsaction.png",SkySport Action
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsaction.png",SkySport Action 🇬🇧
 http://cord-cutter.net:8080/live/95549031/69361122/53705.ts
-#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmix.png",SkySport Mix
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmix.png",SkySport Mix 🇬🇧
 http://cord-cutter.net:8080/live/95549031/69361122/53706.ts
-#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsracing.png",SkySport Racing
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsracing.png",SkySport Racing 🇬🇧
 http://cord-cutter.net:8080/live/95549031/69361122/76842.ts
 
-#EXTINF:-1,TNT SPORTS 1
+#EXTINF:-1,TNT SPORTS 1 🇺🇸
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
-#EXTINF:-1,TNT SPORTS 2
+#EXTINF:-1,TNT SPORTS 2 🇺🇸
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp2
-#EXTINF:-1,TNT SPORTS 3
+#EXTINF:-1,TNT SPORTS 3 🇺🇸
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp3
 
-#EXTINF:-1,201_Diema Sport HD
+#EXTINF:-1,201_Diema Sport HD 🇷🇴
 http://213.91.178.133:8000/play/a06q
-#EXTINF:-1,202_Diema Sport 2 HD
+#EXTINF:-1,202_Diema Sport 2 HD 🇷🇴
 http://213.91.178.133:8000/play/a08e
-#EXTINF:-1,203_Diema Sport 3 HD
+#EXTINF:-1,203_Diema Sport 3 HD 🇷🇴
 http://213.91.178.133:8000/play/a08f
 #EXTINF:-1,204_Nova Sport
 http://213.91.178.133:8000/play/a04a
@@ -628,14 +628,10 @@ http://cdnx1.plusx.tv:4000/194/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523
 http://cdnx1.plusx.tv:4000/193/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
 #EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+News.png",Polsat Sport News
 http://cdnx1.plusx.tv:4000/192/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+1.png",Polsat Sport Premium 1 50fps
-http://cdnx1.plusx.tv:4000/191/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
 #EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+1.png",Polsat Sport Premium 1
-http://cdnx1.plusx.tv:4000/301fps/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+2.png",Polsat Sport Premium 2 50fps
-http://cdnx1.plusx.tv:4000/190/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
+http://cdnx1.plusx.tv:4000/191/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
 #EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+2.png",Polsat Sport Premium 2
-http://cdnx1.plusx.tv:4000/302fps/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
+http://cdnx1.plusx.tv:4000/190/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
 #EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+3.png",Polsat Sport Premium 3
 http://cdnx1.plusx.tv:4000/189/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
 #EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+4.png",Polsat Sport Premium 4
@@ -677,27 +673,27 @@ http://cdnx1.plusx.tv:4000/260/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523
 #EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/FightBox%20HD.png",FightBox
 http://cdnx1.plusx.tv:4000/261/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
 
-#EXTINF:-1 group-title="Sport",MATCH4 HU
+#EXTINF:-1 group-title="Sport",MATCH4 HU 🇭🇺
 http://195.189.60.31:8003/play/a0gl/index.m3u8
-#EXTINF:-1,M4 sport HU
+#EXTINF:-1,M4 sport HU 🇭🇺
 http://185.236.230.212:9981/play/a0a1
-#EXTINF:-1 group-title="Sport",Sport 1 HU
+#EXTINF:-1 group-title="Sport",Sport 1 HU 🇭🇺
 http://195.189.60.31:8003/play/a0f2/index.m3u8
-#EXTINF:-1 group-title="Sport",SPORT 2 HU
+#EXTINF:-1 group-title="Sport",SPORT 2 HU 🇭🇺
 http://195.189.60.31:8003/play/a09t/index.m3u8
-#EXTINF:-1,RTL HU
+#EXTINF:-1,RTL HU 🇭🇺
 http://185.236.230.212:9981/play/a0a2
-#EXTINF:-1 group-title="Sport",M5 HU
+#EXTINF:-1 group-title="Sport",M5 HU 🇭🇺
 http://195.189.60.31:8003/play/a0fd/index.m3u8
-#EXTINF:-1 group-title="Sport",RTL HU
+#EXTINF:-1 group-title="Sport",RTL HU 🇭🇺
 http://195.189.60.31:8003/play/a0gp/index.m3u8
-#EXTINF:-1 group-title="Sport",TVR Sport RO
+#EXTINF:-1 group-title="Sport",TVR Sport RO 🇷🇴
 http://195.189.60.31:8003/play/a0ey/index.m3u8
-#EXTINF:-1,|NL| ESPN 1 HD
+#EXTINF:-1,|NL| ESPN 1 HD 🇳🇱
 http://185.236.230.212:9981/play/a09s
-#EXTINF:-1,|NL| ESPN 2 HD
+#EXTINF:-1,|NL| ESPN 2 HD 🇳🇱
 http://185.236.230.212:9981/play/a0ah
-#EXTINF:-1,|NL| ESPN 4 HD
+#EXTINF:-1,|NL| ESPN 4 HD 🇳🇱
 http://185.236.230.212:9981/play/a09p
 
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Express
