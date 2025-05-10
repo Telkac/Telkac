@@ -749,92 +749,92 @@ http://stream.funradio.sk:8000/dance128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio FM
 http://live.slovakradio.sk:8000/FM_128.mp3
 
-#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",Prešov stanica
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Prešov stanica
 http://stream.kukaj.se/stream/1/video.m3u8
-#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",Prešov 
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Prešov
 http://stream.kukaj.se/stream/11/video.m3u8
-#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\", Prešov námestie
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Prešov námestie
 http://stream.kukaj.se/stream/12/video.m3u8
-#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",Tri koruny
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Tri koruny
 http://stream.kukaj.se/stream/15/video.m3u8
-#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",Prešov 
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Prešov
 http://stream.kukaj.se/stream/18/video.m3u8
-#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",Prešov 
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Prešov
 http://stream.kukaj.se/stream/2/video.m3u8
-#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\", Štrbské pleso zjazdovky
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Štrbské pleso zjazdovky
 http://stream.profi-net.sk:1935/tmr/STREAM32.stream/playlist.m3u8
-#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",Bociany
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Bociany
 https://kukaj.profi-net.sk/live/BOCIANY_BESENOVA_4K.stream/chunklist.m3u8
-#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\", Tatranská Lomnica štart
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Tatranská Lomnica štart
 http://stream.profi-net.sk:1935/tmr/STREAM33.stream/playlist.m3u8
-#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",Kamzíky Tatry
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Kamzíky Tatry
 http://kukaj.profi-net.sk:1935/live/KAMZIKY.stream/chunklist.m3u8
-#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",zjazdovka Tatry 
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Zjazdovka Tatry
 http://stream.profi-net.sk:1935/tmr/STREAM31.stream/playlist.m3u8
-#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",Prešov 
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Prešov
 http://stream.kukaj.se/stream/3/video.m3u8
-#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",zjazdovka Tatry
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Zjazdovka Tatry
 http://stream.profi-net.sk:1935/tmr/STREAM43.stream/playlist.m3u8
-#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",Skalnaté pleso Tatry 
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Skalnaté pleso Tatry
 http://stream.profi-net.sk:1935/tmr//STREAM29.stream/playlist.m3u8
-#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",Donovaly
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Donovaly
 http://stream.profi-net.sk:1935/tmr/STREAM3.stream/playlist.m3u8
-#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",zjazdovka
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Zjazdovka
 http://parksnow.zivekamery.sk:1935/donovaly/DONOVALY.stream/playlist.m3u8
-#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",Štrbské pleso nové jazero
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Štrbské pleso nové jazero
 http://stream.strba.sk:1935/strba/VYHLAD_NOVESTRB.stream/playlist.m3u8
-#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",Jasná 
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Jasná
 http://stream.profi-net.sk:1935/tmr/STREAM39.stream/playlist.m3u8
-#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\", Štrbské pleso námestie
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Štrbské pleso námestie
 http://stream.strba.sk:1935/strba/VYHLAD_NAMESTIE.stream/playlist.m3u8
-#EXTINF:-1 group-title=\\\"Словакия 🇸🇰\\\",Prešov 
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Prešov
 http://stream.kukaj.se/stream/7/video.m3u8
-#EXTINF:-1,Rajecké Teplice
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Rajecké Teplice
 https://stream.profi-net.sk/commercial/RAJECKETEPLICE.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Tatry" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Tatry
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Tatry
 http://88.212.15.20:16000/udp/232.232.70.2:5004
-#EXTINF:-1 tvg-id="Štrbské Pleso (pohľad na Móryho vyhliadku)" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Všeobecné",Štrbské Pleso (pohľad na Móryho vyhliadku)
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Štrbské Pleso (pohľad na Móryho vyhliadku)
 http://stream.strba.sk:1935/strba/MORYHO_VYH.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Štrbské Pleso - Námestie MS" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Všeobecné",Štrbské Pleso - Námestie MS
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Štrbské Pleso - Námestie MS
 https://stream.profi-net.sk/strba/VYHLAD_NAMESTIE.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Kojsova Hola" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Kojsova Hola
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Kojsova Hola
 http://88.212.15.20:16000/udp/232.232.70.16:5004
-#EXTINF:-1 tvg-id="Sturova aupark" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Sturova aupark
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Sturova aupark
 http://88.212.15.20:16000/udp/232.232.70.10:5004
-#EXTINF:-1 tvg-id="Aupark" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Aupark
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Aupark
 http://88.212.15.20:16000/udp/232.232.70.11:5004
-#EXTINF:-1 tvg-id="Jazero plocha" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Jazero plocha
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Jazero plocha
 http://88.212.15.20:16000/udp/232.232.70.1:5004
-#EXTINF:-1 tvg-id="Secovska" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery", Košice Secovska
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Secovska
 http://88.212.15.20:16000/udp/232.232.70.4:5004
-#EXTINF:-1 tvg-id="Hlinkova" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Hlinkova
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Hlinkova
 http://88.212.15.20:16000/udp/232.232.70.5:5004
-#EXTINF:-1 tvg-id="Amfiteater" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Amfiteater
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Amfiteater
 http://88.212.15.20:16000/udp/232.232.70.6:5004
-#EXTINF:-1 tvg-id="Jazero plocha" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Jazero plocha
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Jazero plocha
 http://88.212.15.20:16000/udp/232.232.70.8:5004
-#EXTINF:-1 tvg-id="Nizne Kapustniky" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Nizne Kapustniky
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Nizne Kapustniky
 http://88.212.15.20:16000/udp/232.232.70.9:5004
-#EXTINF:-1 tvg-id="Mier" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Mier
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Mier
 http://88.212.15.20:16000/udp/232.232.70.12:5004
-#EXTINF:-1 tvg-id="Magistrat" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Magistrat
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Magistrat
 http://88.212.15.20:16000/udp/232.232.70.13:5004
-#EXTINF:-1 tvg-id="Humenne" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Humenne
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Humenne
 http://88.212.15.20:16000/udp/232.232.70.14:5004
-#EXTINF:-1 tvg-id="Moldavska" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Moldavska
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Moldavska
 http://88.212.15.20:16000/udp/232.232.70.15:5004
-#EXTINF:-1 tvg-id="Herlianska" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Herlianska
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Herlianska
 http://88.212.15.20:16000/udp/232.232.70.20:5004
-#EXTINF:-1 tvg-id="Banská Štiavnica" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Banská Štiavnica
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Banská Štiavnica
 http://88.212.15.20:16000/udp/232.232.70.22:5004
-#EXTINF:-1 tvg-id="Prešov stanica" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Prešov stanica
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Prešov stanica
 http://stream.kukaj.se/stream/1/video.m3u8
-#EXTINF:-1 tvg-id="Prešov, konkatedrála sv. Mikuláša" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Prešov, konkatedrála sv. Mikuláša
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Prešov, konkatedrála sv. Mikuláša
 http://stream.kukaj.se/stream/12/video.m3u8
-#EXTINF:-1 tvg-id="Praha" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Praha
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Praha
 http://live.idnes.cz/slow/amc_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="Praha" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Praha Letisko
+#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Praha Letisko
 http://live.idnes.cz/slow/planespotting/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Live kamera
