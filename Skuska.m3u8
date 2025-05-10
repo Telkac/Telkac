@@ -677,12 +677,22 @@ http://cdnx1.plusx.tv:4000/260/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523
 #EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/FightBox%20HD.png",FightBox
 http://cdnx1.plusx.tv:4000/261/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
 
-#EXTINF:-1 group-title="-",MATCH4
+#EXTINF:-1 group-title="Sport",MATCH4 HU
 http://195.189.60.31:8003/play/a0gl/index.m3u8
-#EXTINF:-1,|HU| M4 sport
+#EXTINF:-1,M4 sport HU
 http://185.236.230.212:9981/play/a0a1
-#EXTINF:-1,|HU| RTL
+#EXTINF:-1 group-title="Sport",Sport 1 HU
+http://195.189.60.31:8003/play/a0f2/index.m3u8
+#EXTINF:-1 group-title="Sport",SPORT 2 HU
+http://195.189.60.31:8003/play/a09t/index.m3u8
+#EXTINF:-1,RTL HU
 http://185.236.230.212:9981/play/a0a2
+#EXTINF:-1 group-title="Sport",M5 HU
+http://195.189.60.31:8003/play/a0fd/index.m3u8
+#EXTINF:-1 group-title="Sport",RTL HU
+http://195.189.60.31:8003/play/a0gp/index.m3u8
+#EXTINF:-1 group-title="Sport",TVR Sport RO
+http://195.189.60.31:8003/play/a0ey/index.m3u8
 #EXTINF:-1,|NL| ESPN 1 HD
 http://185.236.230.212:9981/play/a09s
 #EXTINF:-1,|NL| ESPN 2 HD
