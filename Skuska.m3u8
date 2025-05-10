@@ -59,7 +59,7 @@ http://88.212.15.19/live/test_prima_cool_hd_hevc_50/playlist.m3u8
 http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima ZOOM.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primazoomhd.png" group-title="Všeobecné",Prima ZOOM
 http://88.212.15.19/live/test_prima_zoom_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Prima MAX.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primamaxhd.png" group-title="Filmy a seriály / Movies and serials",Prima MAX
+#EXTINF:-1 tvg-id="Prima MAX.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primamaxhd.png" group-title="Všeobecné",Prima MAX
 http://88.212.15.19/live/test_prima_max_hd_hevc50/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima Krimi.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primakrimi.png" group-title="Všeobecné",Prima KRIMI
 http://88.212.15.19/live/prima_krimi_avc_25p/playlist.m3u8
@@ -360,11 +360,11 @@ http://213.215.119.236:88/Eurosport2/index.m3u8
 #EXTINF:-1 tvg-id="Sporty TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/SportyTVSD.png" group-title="Športové",Sporty TV
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
 
-#EXTINF:-1 tvg-id="TV Doktor.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://yt3.googleusercontent.com/lPSjPrqEOIUGQlOBSXQ0UtVACOCtbRvvt54Ia2LWcBnmLujI66LNgbFGFau4YrPeJJJNLYc9-g=s900-c-k-c0x00ffffff-no-rj" group-title="Lifestyle",TV Doktor
+#EXTINF:-1 tvg-id="TV Doktor.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://yt3.googleusercontent.com/lPSjPrqEOIUGQlOBSXQ0UtVACOCtbRvvt54Ia2LWcBnmLujI66LNgbFGFau4YrPeJJJNLYc9-g=s900-c-k-c0x00ffffff-no-rj" group-title="Všeobecné",TV Doktor
 https://live.tvdoktor.sk/high/index.m3u8
 #EXTINF:-1,TV Bratislava.cz
 http://88.212.15.9:5000/live/tvbratislava/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTV HD.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Lifestyle",Fashion TV
+#EXTINF:-1 tvg-id="FashionTV HD.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Fashion TV
 https://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LifeTV.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Life TV
 https://lifetv.mpks.sk/s.m3u8
@@ -389,7 +389,7 @@ https://stream.polar.cz/polar2/polarlive2-1/manifest.m3u8
 #EXTINF:-1 tvg-id="PRAHA TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/prahatv.png" group-title="Všeobecné",Praha TV HD
 #EXTINF:-1 tvg-id="TVLiptov.cz",TV Liptov
 http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVLocAll.cz",TV LocAll (406p)
+#EXTINF:-1 tvg-id="TVLocAll.cz",TV LocAll
 http://tv.geniusnet.sk:8081/localltv/pl.m3u8
 #EXTINF:-1,Severka
 http://88.212.15.9:5000/live/severka/playlist.m3u8
@@ -420,7 +420,7 @@ https://1459594018.rsc.cdn77.org/1459594018/index.m3u8
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV OSEM.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="-" group-title="Všeobecné",TV8
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-name="NR SR" tvg-logo="https://i.imgur.com/sPDiS5q.png" tvg-id="TVNRSR.sk" group-title="Slovakia",NR SR
+#EXTINF:-1 tvg-name="NR SR" tvg-logo="https://i.imgur.com/sPDiS5q.png" tvg-id="TVNRSR.sk" group-title="Všeobecné",NR SR
 https://sktv.plainrock127.xyz/get.php?x=NR_SR
 
 #EXTINF:-1 tvg-id="tv-digi-sport-1" tvg-name="Digi Sport 1" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport1.gif" group-title="Sport",Digi Sport 1 🇷🇴
