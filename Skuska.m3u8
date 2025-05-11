@@ -259,17 +259,17 @@ https://dash2.antik.sk/live/test_mtv_dance_1200_atk/playlist.m3u8
 http://88.212.15.19/live/test_mtv_dance_1200_atk/playlist.m3u8
 #EXTINF:0,MTV.cz
 http://194.160.135.34:8088/udp/233.10.47.68:1234
-#EXTINF:0,MTV 00s
+#EXTINF:-1 tvg-id="MTV 00s" tvg-name="MTV 00s" tvg-logo="" group-title="Hudobné",MTV 00s
 #EXTVLCOPT:network-caching=1000
 http://185.236.229.62:9981/play/a066
 http://88.212.15.19/live/test_vh1_sd_hevc50/playlist.m3u8
-#EXTINF:0,MTV 80s
+#EXTINF:-1 tvg-id="MTV 80s" tvg-name="MTV 80s" tvg-logo="" group-title="Hudobné",MTV 80s
 #EXTVLCOPT:network-caching=1000
 https://dash2.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
-#EXTINF:0,MTV 90s
+#EXTINF:-1 tvg-id="MTV 90s" tvg-name="MTV 90s" tvg-logo="" group-title="Hudobné",MTV 90s
 http://185.236.229.62:9981/play/a07f
 http://88.212.15.19/live/test_mtv_rocks_1200_atk/playlist.m3u8
-#EXTINF:0,MTV Live HD 
+#EXTINF:-1 tvg-id="MTV Live HD" tvg-name="MTV Live HD" tvg-logo="" group-title="Hudobné",MTV Live HD
 #EXTVLCOPT:network-caching=1000
 http://185.236.229.62:9981/play/a063
 #EXTINF:-1 tvg-name="Deejay TV" tvg-logo="https://i.imgur.com/rlaKH6k.png" tvg-id="DeejayTV.it" group-title="Italy",Deejay TV
