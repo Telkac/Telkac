@@ -299,9 +299,9 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
 #EXTINF:-1 tvg-id="SENZI.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1410-senzi-hd.png" group-title="Hudobné",SENZI HD
 http://88.212.15.19/live/test_senzi_hevc/playlist.m3u8
-#EXTINF:0,Šlágr 1
+#EXTINF:0,Šlágr Originál.cz
 http://185.236.230.212:9981/play/a0ci
-#EXTINF:0,Šlágr 2
+#EXTINF:0,Šlágr Muzika.cz
 http://212.102.38.45/live/test_slagr_2_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="SlagrPremium.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://slagrtv.cz/img/slagr-premium-2-logo.png" group-title="Hudobné",Šlágr Premium
 https://stream-17.mazana.tv/slagrpremium.m3u
@@ -451,7 +451,7 @@ http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33812
 http://cdnx1.plusx.tv:4000/195/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
 #EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Fight.png",Polsat Sport Fight.cz
 http://cdnx1.plusx.tv:4000/194/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport.png",Polsat Sport
+#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport.png",Polsat Sport.cz
 http://cdnx1.plusx.tv:4000/193/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
 #EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+News.png",Polsat Sport News.cz
 http://cdnx1.plusx.tv:4000/192/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
@@ -491,7 +491,7 @@ http://cdnx1.plusx.tv:4000/272/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523
 http://cdnx1.plusx.tv:4000/264/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
 #EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Eurosport%202%20HD.png",Eurosport 2
 http://cdnx1.plusx.tv:4000/263/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Extreme%20Sports%20HD.png",Extreme Sports
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Extreme%20Sports%20HD.png",Extreme Sports.cz
 http://cdnx1.plusx.tv:4000/262/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
 #EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Sportklub.png",SportKlub
 http://cdnx1.plusx.tv:4000/175/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
