@@ -237,23 +237,23 @@ https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
 https://dash2.antik.sk/live/test_rebel/playlist.m3u8
 #EXTINF:-1 tvg-id="Retro Music.cz" tvg-country="CZ;SK" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/retro.jpg" group-title="Hudobné",RetroMusicTV
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="http://46.36.40.22/1023/mtvhits.png" group-title="Hudobné",MTV Hits
-http://45.5.117.182:8000/play/a0f1/index.m3u8
-http://88.212.15.19/live/test_mtv_hits_1200_atk/playlist.m3u8
-#EXTINF:0,Club MTV.cz
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="https://en.m.wikipedia.org/wiki/MTV_Live_(international_TV_channel)#/media/File%3AMTV_Live_2021_logo.svg" group-title="Hudobné",MTV Live
 http://185.236.229.62:9981/play/a063
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/MTV_Hits_logo.png" group-title="Hudobné",MTV Hits
+http://88.212.15.19/live/test_mtv_hits_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="Club MTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Club_MTV_2021_logo.svg" group-title="Hudobné",Club MTV
 https://dash2.antik.sk/live/test_mtv_dance_1200_atk/playlist.m3u8
 http://88.212.15.19/live/test_mtv_dance_1200_atk/playlist.m3u8
-#EXTINF:0,MTV.cz
+#EXTINF:-1 tvg-id="MTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/MTV.png" group-title="Hudobné",MTV
 http://194.160.135.34:8088/udp/233.10.47.68:1234
-#EXTINF:-1 tvg-id="MTV 00s" tvg-name="MTV 00s" tvg-logo="" group-title="Hudobné",MTV 00s
+#EXTINF:-1 tvg-id="MTV 00s" tvg-name="MTV 00s" tvg-logo="https://sk.m.wikipedia.org/wiki/MTV_00s#/media/S%C3%BAbor%3AMTV_00s_remaster.png" group-title="Hudobné",MTV 00s
 #EXTVLCOPT:network-caching=1000
 http://185.236.229.62:9981/play/a066
 http://88.212.15.19/live/test_vh1_sd_hevc50/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV 80s" tvg-name="MTV 80s" tvg-logo="" group-title="Hudobné",MTV 80s
+#EXTINF:-1 tvg-id="MTV 80s" tvg-name="MTV 80s" tvg-logo="https://en.m.wikipedia.org/wiki/MTV_80s#/media/File%3AMTV_80s_2022.png" group-title="Hudobné",MTV 80s
 #EXTVLCOPT:network-caching=1000
 https://dash2.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV 90s" tvg-name="MTV 90s" tvg-logo="" group-title="Hudobné",MTV 90s
+#EXTINF:-1 tvg-id="MTV 90s" tvg-name="MTV 90s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/MTV_90s_logo.png" group-title="Hudobné",MTV 90s
 http://185.236.229.62:9981/play/a07f
 http://88.212.15.19/live/test_mtv_rocks_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV Live HD" tvg-name="MTV Live HD" tvg-logo="" group-title="Hudobné",MTV Live HD
