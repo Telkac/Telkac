@@ -993,7 +993,10 @@ https://stream.profi-net.sk/tmr/STREAM52.stream/chunklist.m3u8
 https://stream.profi-net.sk/tmr/STREAM55.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Live kamera
 https://stream.profi-net.sk/tmr/STREAM3.stream/chunklist.m3u8
-
+#EXTINF:-1 tvg-id="4K" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Živé kamery",Aquarium 4K
+http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
+#EXTINF:-1 tvg-id="4K" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Živé kamery",Fireplace 4K
+https://d22w22d3eu3t35.cloudfront.net/playlist.m3u8
 
 
 
