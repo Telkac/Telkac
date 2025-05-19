@@ -247,14 +247,14 @@ https://dash2.antik.sk/live/test_mtv_dance_1200_atk/playlist.m3u8
 http://88.212.15.19/live/test_mtv_dance_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://en.m.wikipedia.org/wiki/MTV#/media/File%3AMTV_2021_(brand_version).svg" group-title="Hudobné",MTV
 http://194.160.135.34:8088/udp/233.10.47.68:1234
-#EXTINF:-1 tvg-id="MTV 00s" tvg-name="MTV 00s" tvg-logo="https://commons.m.wikimedia.org/wiki/Category:MTV_logos#/media/File%3AMTV_00s_remaster.png" group-title="Hudobné",MTV 00s
+#EXTINF:-1 tvg-id="MTV 00s (pl).cz" tvg-name="MTV 00s" tvg-logo="https://commons.m.wikimedia.org/wiki/Category:MTV_logos#/media/File%3AMTV_00s_remaster.png" group-title="Hudobné",MTV 00s
 #EXTVLCOPT:network-caching=1000
 http://185.236.229.62:9981/play/a066
 http://88.212.15.19/live/test_vh1_sd_hevc50/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV 80s" tvg-name="MTV 80s" tvg-logo="https://commons.m.wikimedia.org/wiki/Category:MTV_logos#/media/File%3AMTV_80s_2022.png" group-title="Hudobné",MTV 80s
+#EXTINF:-1 tvg-id="MTV 80s (pl).cz" tvg-name="MTV 80s" tvg-logo="https://commons.m.wikimedia.org/wiki/Category:MTV_logos#/media/File%3AMTV_80s_2022.png" group-title="Hudobné",MTV 80s
 #EXTVLCOPT:network-caching=1000
 https://dash2.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV 90s" tvg-name="MTV 90s" tvg-logo="https://commons.m.wikimedia.org/wiki/Category:MTV_logos#/media/File%3AMTV_90s_logo.png" group-title="Hudobné",MTV 90s
+#EXTINF:-1 tvg-id="MTV 90s (pl).cz" tvg-name="MTV 90s" tvg-logo="https://commons.m.wikimedia.org/wiki/Category:MTV_logos#/media/File%3AMTV_90s_logo.png" group-title="Hudobné",MTV 90s
 http://185.236.229.62:9981/play/a07f
 http://88.212.15.19/live/test_mtv_rocks_1200_atk/playlist.m3u8
 
@@ -310,7 +310,7 @@ http://88.212.15.19/live/test_senzi_hevc/playlist.m3u8
 http://185.236.230.212:9981/play/a0ci
 #EXTINF:0,Šlágr Muzika.cz
 http://212.102.38.45/live/test_slagr_2_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="SlagrPremium.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://slagrtv.cz/img/slagr-premium-2-logo.png" group-title="Hudobné",Šlágr Premium
+#EXTINF:-1 tvg-id="Premium.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://slagrtv.cz/img/slagr-premium-2-logo.png" group-title="Hudobné",Šlágr Premium
 https://stream-17.mazana.tv/slagrpremium.m3u
 http://88.212.15.19/live/test_slager_premium_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="360TuneBox.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/346-360-tunebox-hd.png" group-title="Hudobné",360 TuneBox
@@ -383,7 +383,7 @@ https://lifetv.mpks.sk/s.m3u8
 http://88.212.15.27/live/test_park_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.maxim.iptv.antik.sk/app/assets/upload/channels/60a2b0c04cbc73c131beb0eaf490ed26.svg" group-title="Športové",Tanečné súťaže HD
 http://88.212.15.19/live/tanecnesutaze/index.m3u8
-#EXTINF:-1 tvg-id="CentralTV(src01).sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="-" group-title="Všeobecné",Central TV
+#EXTINF:-1 tvg-id="CETV.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="-" group-title="Všeobecné",Central TV
 https://arenasportslovakia.ddns.net/hls/cetv2.m3u8
 #EXTINF:-1 tvg-id="RELAX.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/relax.png" group-title="Všeobecné",RELAX
 https://dash2.antik.sk/live/test_relax/playlist.m3u8
