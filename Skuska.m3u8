@@ -343,6 +343,8 @@ http://185.236.230.212:9981/play/a0au
 http://185.236.230.212:9981/play/a0av
 #EXTINF:-1 tvg-id="Nova Sport 5.cz" tvg-name="Nova Sport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Nova_Sport_5_2024.png" group-title="Sport",Nova Sport 5
 http://185.236.230.212:9981/play/a0bq
+#EXTINF:-1 tvg-id="Nova Sport 5.cz" tvg-name="Nova Sport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Nova_Sport_5_2024.png" group-title="Sport",Nova Sport 5 SK
+http://185.236.230.212:9982/play/a09w
 
 #EXTINF:-1 tvg-id="Canal+ Sport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",CANAL+ Sport
 http://116.202.237.33:8080/CNLS1/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
@@ -524,6 +526,13 @@ http://195.189.60.31:8003/play/a0fd/index.m3u8
 http://195.189.60.31:8003/play/a0gp/index.m3u8
 #EXTINF:-1 group-title="Sport",TVR Sport RO 🇷🇴
 http://195.189.60.31:8003/play/a0ey/index.m3u8
+
+#EXTINF:-1,|NL| Ziggo sport 1 🇳🇱
+http://185.236.230.212:9982/play/a09f
+#EXTINF:-1,|NL| Ziggo sport 2 🇳🇱
+http://185.236.230.212:9982/play/a099
+#EXTINF:-1,|NL| Ziggo sport 6 🇳🇱
+http://185.236.230.212:9982/play/a09a
 #EXTINF:-1,|NL| ESPN 1 HD 🇳🇱
 http://185.236.230.212:9981/play/a09s
 #EXTINF:-1,|NL| ESPN 2 HD 🇳🇱
