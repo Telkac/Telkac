@@ -579,7 +579,6 @@ http://45.159.74.14:80/Eurosport/playlist.m3u8
 http://109.233.89.166/Eurosport_1_HD/mono.m3u8
 #EXTINF:-1 tvg-id="EUROSPORT.1.eurosport" tvg-name="" group-title="Sport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇵🇱🇬🇧 
 http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
-
 #EXTINF:-1 tvg-id="Eurosport.2.es" tvg-name="" group-title="Sport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇪🇸 
 http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport.2.es" tvg-name="" group-title="Sport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇪🇸 
@@ -588,6 +587,16 @@ https://nxt.plus:8443/live/olmos/1234guz/59830.ts
 http://62.210.123.134:98/live/an75d/75d/145.ts
 #EXTINF:-1 tvg-id="EUROSPORT.2.POLAND.eurosport" tvg-name="" group-title="Sport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇵🇱🇬🇧
 http://109.233.89.166/Eurosport_2_HD/mono.m3u8
+#EXTINF:-1,EuroSport 1 HD
+http://92.118.251.84:8080/Eurosport1/index.m3u8
+#EXTINF:-1,EuroSport 2 HD
+http://92.118.251.84:8080/Eurosport2/index.m3u8
+#EXTINF:-1,Eurosport 1 DE 🇩🇪
+http://188.60.179.180:8000/play/xxEurosport1DExx
+#EXTINF:-1 group-title="-",Eurosport 1 DE 🇩🇪
+http://161.123.69.10:8000/play/a032
+
+
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="" group-title="Tennis 🎾🏓🏸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tennistv.webp",Tennis tv 🇺🇸
 http://49.0.64.96:8007/TENNIS
@@ -660,14 +669,6 @@ http://188.60.179.180:8000/play/xxRaiSportPlusHDxx
 
 #EXTINF:-1,CanaL Sport TV
 http://146.59.85.40:89/canal2/mpegts
-
-#EXTINF:-1,EuroSport 1 HD
-http://92.118.251.84:8080/Eurosport1/index.m3u8
-#EXTINF:-1,EuroSport 2 HD
-http://92.118.251.84:8080/Eurosport2/index.m3u8
-
-#EXTINF:-1,Eurosport 1 Deutschland 🇩🇪
-http://188.60.179.180:8000/play/xxEurosport1DExx
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/bein-sports.png",Bein SportXtra ñ 🇪🇸
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
