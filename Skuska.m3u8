@@ -303,6 +303,8 @@ https://s-pl-01.mediatool.tv/playout/hdpl-abr/index.m3u8
 https://s-pl-01.mediatool.tv/playout/hmpl-abr/index.m3u8
 #EXTINF:-1 tvg-id="SAYHi.cz",SAYHi PL 🇵🇱
 https://s-pl-01.mediatool.tv/playout/shpl-abr/index.m3u8
+#EXTINF:-1,Clarity 4K Deep House
+http://ru2.team.ga:80/ch1551/mono.m3u8?token=faervol.dIZLuorxl2JoSbAr1BRtTzyL190p0zCK3KCM9Pd2IRXVo9AVodusGZqm0A9cL4LZ
 
 #EXTINF:-1 tvg-id="SENZI.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1410-senzi-hd.png" group-title="Hudobné",SENZI HD
 http://88.212.15.19/live/test_senzi_hevc/playlist.m3u8
@@ -767,6 +769,12 @@ https://smart.pendy.dpdns.org/Smart.php?id=Astrobein3
 
 #EXTINF:-1,RMC Sport 1 SD FR 🇫🇷
 http://51.254.199.122:8080/SARMC1/index.m3u8
+
+#EXTINF:0,Diema Sport 2 4K
+http://de.online24.pm/play/51001/A0DA7023B261967/video.m3u8
+#EXTINF:0,Diema Sport 3 4K
+http://de.online24.pm/play/51000/A0DA7023B261967/video.m3u8
+
 
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Express
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=971&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
