@@ -303,6 +303,12 @@ https://s-pl-01.mediatool.tv/playout/hdpl-abr/index.m3u8
 https://s-pl-01.mediatool.tv/playout/hmpl-abr/index.m3u8
 #EXTINF:-1 tvg-id="SAYHi.cz",SAYHi PL 🇵🇱
 https://s-pl-01.mediatool.tv/playout/shpl-abr/index.m3u8
+#EXTINF:-1,Best of Dance TV
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
+#EXTINF:-1,Dance TV Channel 2 - Deep House
+https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
+#EXTINF:-1,Techno Warehouse
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1,Clarity 4K Deep House
 http://ru2.team.ga:80/ch1551/mono.m3u8?token=faervol.dIZLuorxl2JoSbAr1BRtTzyL190p0zCK3KCM9Pd2IRXVo9AVodusGZqm0A9cL4LZ
 
