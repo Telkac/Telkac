@@ -466,74 +466,58 @@ http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33810
 http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33812
 
 #EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Extra.png",Polsat Sport Extra.cz
-http://cdnx1.plusx.tv:4000/195/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Fight.png",Polsat Sport Fight.cz
-http://cdnx1.plusx.tv:4000/194/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport.png",Polsat Sport.cz
-http://cdnx1.plusx.tv:4000/193/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+News.png",Polsat Sport News.cz
-http://cdnx1.plusx.tv:4000/192/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+1.png",Polsat Sport Premium 1.cz
-http://cdnx1.plusx.tv:4000/191/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+2.png",Polsat Sport Premium 2.cz
-http://cdnx1.plusx.tv:4000/190/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+3.png",Polsat Sport Premium 3.cz
-http://cdnx1.plusx.tv:4000/189/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+4.png",Polsat Sport Premium 4.cz
-http://cdnx1.plusx.tv:4000/188/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+5.png",Polsat Sport Premium 5.cz
-http://cdnx1.plusx.tv:4000/187/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+6.png",Polsat Sport Premium 6.cz
-http://cdnx1.plusx.tv:4000/186/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%20HD.png",Canal+ Sport.cz
-http://cdnx1.plusx.tv:4000/297/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%202%20HD.png",Canal+ Sport 2.cz
-http://cdnx1.plusx.tv:4000/298/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Canal++Sport+3+HD.png",Canal+ Sport 3.cz
-http://cdnx1.plusx.tv:4000/340/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Canal++Sport+4+HD.png",Canal+ Sport 4.cz
-http://cdnx1.plusx.tv:4000/341/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="https://epg.ovh/logo/Canal++Sport+5.png",Canal+ Sport 5.cz
-http://cdnx1.plusx.tv:4000/215/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Eleven+Sports+4K.png",Eleven Sports 1 4K
-http://cdnx1.plusx.tv:4000/325es4k/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%201.png",Eleven Sports 1.cz
-http://cdnx1.plusx.tv:4000/271/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%202.png",Eleven Sports 2.cz
-http://cdnx1.plusx.tv:4000/270/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%203.png",Eleven Sports 3.cz
-http://cdnx1.plusx.tv:4000/269/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%204.png",Eleven Sports 4.cz
-http://cdnx1.plusx.tv:4000/272/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Eurosport%201%20HD.png",Eurosport 1
-http://cdnx1.plusx.tv:4000/264/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Eurosport%202%20HD.png",Eurosport 2
-http://cdnx1.plusx.tv:4000/263/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Extreme%20Sports%20HD.png",Extreme Sports.cz
-http://cdnx1.plusx.tv:4000/262/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Sportklub.png",SportKlub
-http://cdnx1.plusx.tv:4000/175/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/FightKlub%20HD.png",FightKlub
-http://cdnx1.plusx.tv:4000/260/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
-#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/FightBox%20HD.png",FightBox
-http://cdnx1.plusx.tv:4000/261/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
 
-EXTINF:-1 group-title="Sport",MATCH4 HU 🇭🇺
+#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Fight.png",Polsat Sport Fight.cz
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport.png",Polsat Sport.cz
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+News.png",Polsat Sport News.cz
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+1.png",Polsat Sport Premium 1.cz
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+2.png",Polsat Sport Premium 2.cz
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+3.png",Polsat Sport Premium 3.cz
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+4.png",Polsat Sport Premium 4.cz
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+5.png",Polsat Sport Premium 5.cz
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+6.png",Polsat Sport Premium 6.cz
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%20HD.png",Canal+ Sport.cz
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%202%20HD.png",Canal+ Sport 2.cz
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Canal++Sport+3+HD.png",Canal+ Sport 3.cz
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Canal++Sport+4+HD.png",Canal+ Sport 4.cz
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://epg.ovh/logo/Canal++Sport+5.png",Canal+ Sport 5.cz
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Eleven+Sports+4K.png",Eleven Sports 1 4K
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%201.png",Eleven Sports 1.cz
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%202.png",Eleven Sports 2.cz
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%203.png",Eleven Sports 3.cz
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%204.png",Eleven Sports 4.cz
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Eurosport%201%20HD.png",Eurosport 1
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Eurosport%202%20HD.png",Eurosport 2
+
+
+#EXTINF:-1 group-title="Sport",MATCH4 HU 🇭🇺
 http://195.189.60.31:8003/play/a0gl/index.m3u8
-#EXTINF:-1,M4 sport HU 🇭🇺
-http://185.236.230.212:9981/play/a0a1
 #EXTINF:-1 group-title="Sport",Sport 1 HU 🇭🇺
 http://195.189.60.31:8003/play/a0f2/index.m3u8
-#EXTINF:-1 group-title="Sport",SPORT 2 HU 🇭🇺
-http://195.189.60.31:8003/play/a09t/index.m3u8
 #EXTINF:-1,RTL HU 🇭🇺
 http://185.236.230.212:9981/play/a0a2
 #EXTINF:-1 group-title="Sport",M5 HU 🇭🇺
 http://195.189.60.31:8003/play/a0fd/index.m3u8
-#EXTINF:-1 group-title="Sport",RTL HU 🇭🇺
-http://195.189.60.31:8003/play/a0gp/index.m3u8
-#EXTINF:-1 group-title="Sport",TVR Sport RO 🇷🇴
-http://195.189.60.31:8003/play/a0ey/index.m3u8
 
 #EXTINF:-1,|NL| Ziggo sport 1 🇳🇱
 http://185.236.230.212:9982/play/a09f
@@ -548,14 +532,11 @@ http://185.236.230.212:9981/play/a0ah
 #EXTINF:-1,|NL| ESPN 4 HD 🇳🇱
 http://185.236.230.212:9981/play/a09p
 
-#EXTINF:-1,SPORT1 (DSF).cz
-http://188.60.179.180:8000/play/a04g
-
 #EXTINF:0,SKY SPORTS MAIN EVENT UHD 🇬🇧
 http://7pal.short.gy/SSMEuhd
 #EXTINF:0,TNT SPORTS 1 🇺🇸
 http://7pal.short.gy/tntspts1
-#EXTINF:0,TNT SPORTS 1 🇺🇸
+#EXTINF:0,TNT SPORTS 2 🇺🇸
 http://7pal.short.gy/tntspts2
 #EXTINF:0,TNT SPORTS 3 🇺🇸
 http://7pal.short.gy/tntspts3
@@ -565,8 +546,6 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 
 #EXTINF:-1 tvg-id="Real.Madrid.TV.es" tvg-name="" group-title="Sport" tvg-logo="https://www.realmadrid.com/apple-icon-120x120.png",Real Madrid Tv 🇬🇧
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-id="Real.Madrid.TV.es" tvg-name="" group-title="Sport" tvg-logo="https://www.realmadrid.com/apple-icon-120x120.png",Real Madrid Tv 🇪🇸 
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.Premium.HDTV.(Chile).(FOXSP1HD).cl" tvg-name="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DAZN%20F1.webp",ESPN Premium 🇨🇱
 http://45.184.87.142:8000/play/a045
@@ -574,31 +553,12 @@ http://45.184.87.142:8000/play/a045
 #EXTINF:0 tvg-name="NHL Network" tvg-logo="http://troya.info/images/chIcons/1067.png" tvg-rec="0",NHL Network 🇺🇸
 http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="TyCSports.ar" group-title="Sport" tvg-logo="https://play-lh.googleusercontent.com/lMZ8IE19zdpnlDuZSPtapCYDBDwOGXlovEMsZHXClDzl0m_MHuMM1Hsdo-oohnFW3Q",TYC Sports Play 🇦🇷
-https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
-
 #EXTINF:-1 tvg-id="Eurosport.1.es" tvg-name="" group-title="Sport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇪🇸 
 http://185.189.225.157/EuroSport1/index.m3u8 
 #EXTINF:-1 tvg-id="EUROSPORT.1.BRITISH.eurosport" tvg-name="" group-title="Sport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇬🇧 
 http://62.210.123.134:98/live/an75d/75d/144.ts
-#EXTINF:-1 tvg-id="EUROSPORT.1.BRITISH.eurosport" tvg-name="" group-title="Sport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇷🇺🇬🇧 
-http://45.159.74.14:80/Eurosport/playlist.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT.1.POLAND.eurosport" tvg-name="" group-title="Sport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇵🇱🇬🇧 
-http://109.233.89.166/Eurosport_1_HD/mono.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT.1.eurosport" tvg-name="" group-title="Sport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇵🇱🇬🇧 
-http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="Eurosport.2.es" tvg-name="" group-title="Sport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇪🇸 
-http://185.189.225.157/EuroSport2/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport.2.es" tvg-name="" group-title="Sport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇪🇸 
-https://nxt.plus:8443/live/olmos/1234guz/59830.ts
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="" group-title="Sport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇬🇧 
 http://62.210.123.134:98/live/an75d/75d/145.ts
-#EXTINF:-1 tvg-id="EUROSPORT.2.POLAND.eurosport" tvg-name="" group-title="Sport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇵🇱🇬🇧
-http://109.233.89.166/Eurosport_2_HD/mono.m3u8
-#EXTINF:-1,EuroSport 1 HD
-http://92.118.251.84:8080/Eurosport1/index.m3u8
-#EXTINF:-1,EuroSport 2 HD
-http://92.118.251.84:8080/Eurosport2/index.m3u8
 #EXTINF:-1,Eurosport 1 DE 🇩🇪
 http://188.60.179.180:8000/play/xxEurosport1DExx
 #EXTINF:-1 group-title="-",Eurosport 1 DE 🇩🇪
@@ -675,9 +635,6 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 #EXTINF:-1,Rai Sport + HD 🇮🇹
 http://188.60.179.180:8000/play/xxRaiSportPlusHDxx
 
-#EXTINF:-1,CanaL Sport TV
-http://146.59.85.40:89/canal2/mpegts
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/bein-sports.png",Bein SportXtra ñ 🇪🇸
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
@@ -717,64 +674,6 @@ http://213.91.178.133:8000/play/a05n
 http://213.91.178.133:8000/play/a05y
 #EXTINF:-1,Eurosport 2 HD
 http://213.91.178.133:8000/play/a04b
-
-#EXTINF:-1,Astro Premier League 1
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
-#EXTINF:-1,Astro EPL 1 backup
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp1x
-#EXTINF:-1,Astro Premier League 2
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
-#EXTINF:-1,Astro Grandstand
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
-#EXTINF:-1,Astro Football
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
-#EXTINF:-1,Astro Sports Plus
-https://smart.pendy.dpdns.org/Smart.php?id=go_sportsplus
-#EXTINF:-1,Astro W-Sports
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp5
-#EXTINF:-1,Supersports 1
-https://smart.pendy.dpdns.org/Smart.php?id=Assp1
-#EXTINF:-1,Supersports 2
-https://smart.pendy.dpdns.org/Smart.php?id=Assp2
-#EXTINF:-1,Supersports 3
-https://smart.pendy.dpdns.org/Smart.php?id=Assp3
-#EXTINF:-1,Supersports 4
-https://smart.pendy.dpdns.org/Smart.php?id=Assp4
-#EXTINF:-1,NBA TV
-https://smart.pendy.dpdns.org/Smart.php?id=Nba
-#EXTINF:-1,Astro Cricket
-https://smart.pendy.dpdns.org/Smart.php?id=Acricket
-#EXTINF:-1,Astro Golf
-https://smart.pendy.dpdns.org/Smart.php?id=Agolf
-#EXTINF:-1,Tnt Sports 1
-https://smart.pendy.dpdns.org/Smart.php?id=6fac0aaead
-#EXTINF:-1,TNT Sports 2
-https://smart.pendy.dpdns.org/Smart.php?id=d9a76a79cc
-#EXTINF:-1,TNT Sports 3
-https://smart.pendy.dpdns.org/Smart.php?id=5fea4d73db
-#EXTINF:-1,TNT Sports 4
-https://smart.pendy.dpdns.org/Smart.php?id=tntsport4
-#EXTINF:-1,Skysports F1
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongf1
-#EXTINF:-1,Skysports Cricket
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongcricket
-#EXTINF:-1,Skysports EPL
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongepl
-#EXTINF:-1,Skysports Main Event
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongmain
-#EXTINF:-1,Skysports News
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongnews
-#EXTINF:-1,Skysports Mix
-https://smart.pendy.dpdns.org/Smart.php?id=tiankongmix
-#EXTINF:-1,Astro Beinsports 1
-https://smart.pendy.dpdns.org/Smart.php?id=Astrobein1
-#EXTINF:-1,Astro Beinsports 2
-https://smart.pendy.dpdns.org/Smart.php?id=Astrobein2
-#EXTINF:-1,Astro Beinsports 3
-https://smart.pendy.dpdns.org/Smart.php?id=Astrobein3
-
-#EXTINF:-1,RMC Sport 1 SD FR 🇫🇷
-http://51.254.199.122:8080/SARMC1/index.m3u8
 
 #EXTINF:0,Diema Sport 2 4K
 http://de.online24.pm/play/51001/A0DA7023B261967/video.m3u8
