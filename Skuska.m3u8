@@ -442,13 +442,13 @@ http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
 https://sktv.plainrock127.xyz/get.php?x=NR_SR
 
 
-#EXTINF:-1 tvg-id="tv-digi-sport-1" tvg-name="Digi Sport 1" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport1.gif" group-title="Sport",Digi Sport 1 🇷🇴
+#EXTINF:-1 tvg-id="tv-digi-sport-1" tvg-name="Digi Sport 1" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport1.gif" group-title="Sport",Digi Sport 1 RO 🇷🇴
 http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33797
-#EXTINF:-1 tvg-id="digi-sport-2" tvg-name="Digi Sport 2" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport2.gif" group-title="Sport",Digi Sport 2 🇷🇴
+#EXTINF:-1 tvg-id="digi-sport-2" tvg-name="Digi Sport 2" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport2.gif" group-title="Sport",Digi Sport 2 RO 🇷🇴
 http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33799
-#EXTINF:-1 tvg-id="digi-sport-3" tvg-name="Digi Sport 3" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport3.gif" group-title="Sport",Digi Sport 3 🇷🇴
+#EXTINF:-1 tvg-id="digi-sport-3" tvg-name="Digi Sport 3" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport3.gif" group-title="Sport",Digi Sport 3 RO 🇷🇴
 http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33801
-#EXTINF:-1 tvg-id="digi-sport-4" tvg-name="Digi Sport 4" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport4.gif" group-title="Sport",Digi Sport 4 🇷🇴
+#EXTINF:-1 tvg-id="digi-sport-4" tvg-name="Digi Sport 4" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport4.gif" group-title="Sport",Digi Sport 4 RO 🇷🇴
 http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33803
 #EXTINF:0,RO: Prima Sport 1 🇷🇴
 http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33815
@@ -564,8 +564,6 @@ http://188.60.179.180:8000/play/xxEurosport1DExx
 #EXTINF:-1 group-title="-",Eurosport 1 DE 🇩🇪
 http://161.123.69.10:8000/play/a032
 
-
-
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="" group-title="Tennis 🎾🏓🏸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tennistv.webp",Tennis tv 🇺🇸
 http://49.0.64.96:8007/TENNIS
 
@@ -626,9 +624,6 @@ http://185.236.229.62:9981/play/a05c
 http://185.236.229.62:9981/play/a02k
 #EXTINF:-1,Super Polsat HD 🇵🇱
 http://185.236.229.62:9981/play/a043
-#EXTINF:0,Polsat Sport Fight.cz
-#EXTVLCOPT:network-caching=1000
-http://185.236.229.62:9981/play/a06l
 
 #EXTINF:-1 tvg-id="IT:.Sport.Italia.it" group-title="Sport" tvg-logo="https://www.sportitalia.it/wp-content/uploads/2024/02/cropped-logo-si-180x180.png",Sport Italia 🇮🇹
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
@@ -675,9 +670,9 @@ http://213.91.178.133:8000/play/a05y
 #EXTINF:-1,Eurosport 2 HD
 http://213.91.178.133:8000/play/a04b
 
-#EXTINF:0,Diema Sport 2 4K
+#EXTINF:0,Diema Sport 2 (4K) 🇷🇴
 http://de.online24.pm/play/51001/A0DA7023B261967/video.m3u8
-#EXTINF:0,Diema Sport 3 4K
+#EXTINF:0,Diema Sport 3 (4K) 🇷🇴
 http://de.online24.pm/play/51000/A0DA7023B261967/video.m3u8
 
 
