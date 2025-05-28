@@ -720,6 +720,28 @@ http://176.124.21.225:8004/play/a03h
 #EXTINF:-1 group-title="-",Матч! Футбол 3
 http://176.124.21.225:8004/play/a03i
 
+#EXTINF:-1 group-title="-",Claro Sports 1 HD
+http://190.149.62.46:8004/play/a0jl/index.m3u8
+#EXTINF:-1 group-title="-",Claro Sports 2 HD
+http://190.149.62.46:8004/play/a0jm/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 4 HD
+http://190.149.62.46:8004/play/a0kr/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 HD
+http://190.149.62.46:8004/play/a0nv/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 3 HD
+http://190.149.62.46:8004/play/a0nw/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 4
+http://190.149.62.46:8004/play/a0m7/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 6 HD
+http://190.149.62.46:8004/play/a0nx/index.m3u8
+#EXTINF:-1 group-title="-",ESPN HD
+http://190.149.62.46:8004/play/a0nu/index.m3u8
+#EXTINF:-1,TNT Sports Premiun HD
+http://190.102.246.93:9005/play/a059
+#EXTINF:-1,TNT Sports Premiun HD
+http://190.102.246.93:9005/play/a025
+
+
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Express
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=971&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun rádio
