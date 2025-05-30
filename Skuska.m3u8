@@ -304,20 +304,12 @@ https://s-pl-01.mediatool.tv/playout/hdpl-abr/index.m3u8
 https://s-pl-01.mediatool.tv/playout/hmpl-abr/index.m3u8
 #EXTINF:-1 tvg-id="SAYHi.cz",SAYHi PL 🇵🇱
 https://s-pl-01.mediatool.tv/playout/shpl-abr/index.m3u8
-#EXTINF:-1,Best of Dance TV
-https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
-#EXTINF:-1,Dance TV Channel 2 - Deep House
-https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
-#EXTINF:-1,Techno Warehouse
-https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:-1,Clarity 4K Deep House
-http://ru2.team.ga:80/ch1551/mono.m3u8?token=faervol.dIZLuorxl2JoSbAr1BRtTzyL190p0zCK3KCM9Pd2IRXVo9AVodusGZqm0A9cL4LZ
 
 #EXTINF:-1 tvg-id="SENZI.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1410-senzi-hd.png" group-title="Hudobné",SENZI HD
 http://88.212.15.19/live/test_senzi_hevc/playlist.m3u8
-#EXTINF:0,Šlágr Originál.cz
+#EXTINF:-1 tvg-id="Šlágr Originál.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Hudobné",Šlágr 1
 http://185.236.230.212:9981/play/a0ci
-#EXTINF:0,Šlágr Muzika.cz
+#EXTINF:-1 tvg-id="Šlágr Muzika.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Hudobné",Šlágr 2
 http://212.102.38.45/live/test_slagr_2_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="Premium.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://slagrtv.cz/img/slagr-premium-2-logo.png" group-title="Hudobné",Šlágr Premium
 https://stream-17.mazana.tv/slagrpremium.m3u
