@@ -292,9 +292,9 @@ https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1,HIT Music Channel RO 🇷🇴
 
-#EXTINF:-1 tvg-id="4Fun.TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Hudobné",4Fun.TV PL 🇵🇱
+#EXTINF:-1 tvg-id="4Fun.TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://en.m.wikipedia.org/wiki/4fun.tv#/media/File%3A4fun.tv_Logo_(2017).svg" group-title="Hudobné",4Fun.TV PL 🇵🇱
 https://stream.4fun.tv:8888/hls/4f.m3u8
-#EXTINF:-1 tvg-id="4Fun Dance.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Hudobné",4Fun Dance PL 🇵🇱
+#EXTINF:-1 tvg-id="4Fun Dance.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/4FUN_DANCE.png" group-title="Hudobné",4Fun Dance PL 🇵🇱
 http://188.60.179.180:8000/play/FUnDance
 #EXTINF:-1 tvg-id="EskaRockDobrzeRockuje.pl",Eska Rock Dobrze Rockuje PL 🇵🇱
 https://s-pl-01.mediatool.tv/playout/erpl-abr/index.m3u8
