@@ -24,7 +24,6 @@ http://88.212.15.19/live/test_wau_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TA3.cz" tvg-logo="https://i.imgur.com/kPFBxc9.png" tvg-id="TA3.sk" group-title="Všeobecné",TA3
 http://88.212.15.19/live/test_ta3_25p/playlist.m3u8
-http://149.100.19.130:8001/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="JOJ 24.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/owEVXRE.png" group-title="Všeobecné",JOJ 24
 https://dvr2.kablova.tv/JOJ_24/index.m3u8
 #EXTINF:-1 tvg-id="RTVS 24.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/sdSsFU0.png" group-title="Všeobecné",RTVS:24
