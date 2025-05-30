@@ -384,7 +384,7 @@ https://lifetv.mpks.sk/s.m3u8
 http://88.212.15.27/live/test_park_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.maxim.iptv.antik.sk/app/assets/upload/channels/60a2b0c04cbc73c131beb0eaf490ed26.svg" group-title="Športové",Tanečné súťaže HD
 http://88.212.15.19/live/tanecnesutaze/index.m3u8
-#EXTINF:-1 tvg-id="CETV.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="-" group-title="Všeobecné",Central TV
+#EXTINF:-1 tvg-id="CETV.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://www.cetv.sk/wp-content/uploads/2019/10/TV-Central-logo-zellow-bolt.png" group-title="Všeobecné",Central TV
 https://arenasportslovakia.ddns.net/hls/cetv2.m3u8
 #EXTINF:-1 tvg-id="RELAX.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/relax.png" group-title="Všeobecné",RELAX
 https://dash2.antik.sk/live/test_relax/playlist.m3u8
