@@ -292,7 +292,7 @@ https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1,HIT Music Channel RO 🇷🇴
 
-#EXTINF:-1 tvg-id="4Fun.TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv_Logo_%282017%29.svg/1280px-4fun.tv_Logo_%282017%29.svg.png" group-title="Hudobné",4Fun.TV PL 🇵🇱
+#EXTINF:-1 tvg-id="4Fun.TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://logosandtypes.com/wp-content/uploads/2020/08/4fun-tv.svg" group-title="Hudobné",4Fun.TV PL 🇵🇱
 https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1 tvg-id="4Fun Dance.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/4FUN_DANCE.png" group-title="Hudobné",4Fun Dance PL 🇵🇱
 http://188.60.179.180:8000/play/FUnDance
