@@ -398,7 +398,7 @@ https://stream.polar.cz/polar/polarlive-1/manifest.m3u8
 https://stream.polar.cz/polar2/polarlive2-1/manifest.m3u8
 #EXTINF:-1 tvg-id="PRAHA TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/prahatv.png" group-title="Všeobecné",Praha TV HD
 
-#EXTINF:-1 tvg-id="TVLiptov.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",TV Liptov
+#EXTINF:-1 tvg-id="TVLiptov.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://lh6.googleusercontent.com/proxy/B_WlQa7BS2i-Ln_W-umTF3gMBoKo8qQumIQlCrurvDRAw8AZKjnVB4GZkGXvkBxJ7FqyTwDkCi1_ADKdwv3cZg" group-title="Všeobecné",TV Liptov
 http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLocAll.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",TV LocAll
 http://tv.geniusnet.sk:8081/localltv/pl.m3u8
