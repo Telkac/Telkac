@@ -732,6 +732,163 @@ http://190.102.246.93:9005/play/a059
 #EXTINF:-1,TNT Sports Premiun HD
 http://190.102.246.93:9005/play/a025
 
+#EXTINF:0,Матч! Футбол 1 HD
+http://88.218.242.235:82/14105/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Матч! Футбол 2 HD
+http://88.218.242.235:82/1401/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Матч! Футбол 3 HD
+http://88.218.242.235:82/1402/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Матч! Футбол 1
+http://88.218.242.235:82/1305/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Матч! Футбол 2
+http://88.218.242.235:82/1306/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Матч! Футбол 3
+http://88.218.242.235:82/1307/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Матч! Игра HD
+http://88.218.242.235:82/0215/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Матч! Игра
+http://88.218.242.235:82/1303/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Матч! Арена HD
+http://88.218.242.235:82/12104/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Матч! Арена
+http://88.218.242.235:82/1301/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Матч! ТВ HD
+http://88.218.242.235:82/2204/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Матч! ТВ
+http://88.218.242.235:82/2224/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Телеканал Футбол HD
+http://88.218.242.235:82/7988/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Телеканал Футбол
+http://88.218.242.235:82/5567/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Sport 1
+http://88.218.242.235:82/0162/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Sport 2
+http://88.218.242.235:82/5569/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Матч! Премьер HD
+http://88.218.242.235:82/1403/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Матч! Премьер
+http://88.218.242.235:82/1423/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Матч! Боец
+http://88.218.242.235:82/1302/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Матч! Планета
+http://88.218.242.235:82/5528/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Матч! Страна
+http://88.218.242.235:82/6637/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Бокс ТВ
+http://88.218.242.235:82/422/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Русский экстрим
+http://88.218.242.235:82/0143/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Extreme sports
+http://88.218.242.235:82/19109/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Viju+ Sport HD
+http://88.218.242.235:82/5568/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,KHL Prime HD
+http://88.218.242.235:82/0206/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,KHL ТВ
+http://88.218.242.235:82/1318/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Конный мир
+http://88.218.242.235:82/0150/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Точка отрыва
+http://88.218.242.235:82/19110/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,XSPORT
+http://88.218.242.235:82/6189/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Setanta Sports 1
+http://88.218.242.235:82/5509/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Setanta Sports 2
+http://88.218.242.235:82/5510/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Setanta Sports 3 HD
+http://88.218.242.235:82/8912/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Setanta Sports Украина HD
+http://88.218.242.235:82/5511/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Setanta Sports Украина
+http://88.218.242.235:82/5583/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Setanta Sports+ Украина HD
+http://88.218.242.235:82/6268/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,ММА-ТВ
+http://88.218.242.235:82/1325/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Мир баскетбола
+http://88.218.242.235:82/1326/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,FightBox
+http://88.218.242.235:82/5529/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Fast and FunBox HD
+http://88.218.242.235:82/5530/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Super Tennis HD
+http://88.218.242.235:82/6301/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Удар HD
+http://88.218.242.235:82/5532/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Драйв
+http://88.218.242.235:82/5563/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Go3 Sport 1 HD
+http://88.218.242.235:82/5586/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Go3 Sport 2 HD
+http://88.218.242.235:82/6563/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,V Sport Vinter HD
+http://88.218.242.235:82/5587/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,BeIN Sport 1 HD
+http://88.218.242.235:82/5588/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,BeIN Sport 2 HD
+http://88.218.242.235:82/5589/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,BeIN Sport 3 HD
+http://88.218.242.235:82/5590/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,BeIN Sport 4 HD
+http://88.218.242.235:82/5591/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,BeIN Sport 5 HD
+http://88.218.242.235:82/5592/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,BeIN Sport 6 HD
+http://88.218.242.235:82/5593/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Bein Sports 7 HD
+http://88.218.242.235:82/9015/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,TNT Sports 1 HD
+http://88.218.242.235:82/5597/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,TNT Sports 2 HD
+http://88.218.242.235:82/7915/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,TNT Sports 3 HD
+http://88.218.242.235:82/5594/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Старт HD
+http://88.218.242.235:82/6261/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,NBA TV
+http://88.218.242.235:82/6307/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Хоккей ТВ HD
+http://88.218.242.235:82/6511/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,WWE Russian
+http://88.218.242.235:82/6817/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Eurosport 1 CEE HD
+http://88.218.242.235:82/7206/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Eurosport 2 CEE HD
+http://88.218.242.235:82/7207/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Trace Sport Stars HD
+http://88.218.242.235:82/7700/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Qazsport
+http://88.218.242.235:82/7728/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Q League HD
+http://88.218.242.235:82/7730/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Setanta Sports Казахстан HD
+http://88.218.242.235:82/7732/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,V Sport Football HD
+http://88.218.242.235:82/7733/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,V Sport Golf HD
+http://88.218.242.235:82/7734/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Матч! Страна HD
+http://88.218.242.235:82/8014/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Sky Sport Tennis
+http://88.218.242.235:82/8015/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Dubai Sports 2
+http://88.218.242.235:82/8914/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Dubai Sports 3
+http://88.218.242.235:82/8915/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Fightbox HD
+http://88.218.242.235:82/9012/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Суспільне Спорт
+http://88.218.242.235:82/9046/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Q Sport.KG
+http://88.218.242.235:82/9154/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,Живи активно HD
+http://88.218.242.235:82/9259/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,CineMan Фитнес
+http://88.218.242.235:82/9365/index.m3u8?token=xnv6X3xBd4
+#EXTINF:0,TVPlay FOOTBALL WORLD CUPS
+http://88.218.242.235:82/10192/index.m3u8?token=xnv6X3xBd4
+
 
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Express
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=971&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
