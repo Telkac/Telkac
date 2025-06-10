@@ -825,6 +825,9 @@ http://ice6.abradio.cz/relax-sea128.mp3
 http://ice6.abradio.cz/relax-thunder-rain128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Zvuk vtákov
 http://ice6.abradio.cz/relax-morning-birds128.mp3
+#EXTINF:-1 group-title="Музыкальные ������" tvg-logo="https://i.postimg.cc/vTYFgPBB/LOGO23-RADIO.png" ,TRANCE IS STAR RADIO
+https://myradio24.org/tisradio_video.m3u8
+
 
 #EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Prešov stanica
 http://stream.kukaj.se/stream/1/video.m3u8
