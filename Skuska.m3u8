@@ -752,15 +752,15 @@ http://195.181.169.152:8080/Tring_Sport_3_HD_AL/video.m3u8?token=test
 #EXTINF:-1,Tring Sport 4 HD
 http://195.181.169.152:8080/Tring_Sport_4_HD_AL/video.m3u8?token=test
 
-#EXTINF:-1 tvg-name="Bein Sport 1 HD
+#EXTINF:-1,Bein Sport 1 HD
 http://99.27.51.147:8080/BeinSport/index.m3u8
-#EXTINF:-1 tvg-name="Bein Sport 2 HD
+#EXTINF:-1,Bein Sport 2 HD
 http://99.27.51.147:8080/BeinSport2/index.m3u8
-#EXTINF:-1 tvg-name="Bein Sport 3 HD
+#EXTINF:-1,Bein Sport 3 HD
 http://99.27.51.147:8080/BeinSport3/index.m3u8
-#EXTINF:-1 tvg-name="EuroSport 1 HD
+#EXTINF:-1,EuroSport 1 HD
 http://99.27.51.147:8080/EuroSport/index.m3u8
-#EXTINF:-1 tvg-name="EuroSport 2 HD
+#EXTINF:-1,EuroSport 2 HD
 http://99.27.51.147:8080/EuroSport2/index.m3u8
 
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Express
