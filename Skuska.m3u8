@@ -536,7 +536,8 @@ http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33812
 
 #EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Eurosport%202%20HD.png",Eurosport 2
 
-
+#EXTINF:-1 tvg-id="",MATCH4 HD
+http://195.91.102.40:9981/stream/channelid/292392499?ticket=2297CB5AF609BD7D44DD1A87C9BFFC98AB7BB8FB&profile=webtv-h264-aac-matroska
 #EXTINF:-1 group-title="Sport",MATCH4 HU 🇭🇺
 http://195.189.60.31:8003/play/a0gl/index.m3u8
 #EXTINF:-1 group-title="Sport",Sport 1 HU 🇭🇺
@@ -545,6 +546,14 @@ http://195.189.60.31:8003/play/a0f2/index.m3u8
 http://185.236.230.212:9981/play/a0a2
 #EXTINF:-1 group-title="Sport",M5 HU 🇭🇺
 http://195.189.60.31:8003/play/a0fd/index.m3u8
+#EXTINF:-1 tvg-id="",Spiler1 TV
+http://195.91.102.40:9981/stream/channelid/1995806516?ticket=93902AE26331E9B2D6E8F4E9C42B4B440B69B5BD&profile=webtv-h264-aac-matroska
+#EXTINF:-1 tvg-id="",Spiler2 TV
+http://195.91.102.40:9981/stream/channelid/1477584591?ticket=6EA922EF610B283F5B5783EF62D77D911FFB450D&profile=webtv-h264-aac-matroska
+#EXTINF:-1 tvg-id="",Sport1
+http://195.91.102.40:9981/stream/channelid/1363207875?ticket=E6BD2B86529D08B665F70ECDAB01326678DB506D&profile=webtv-h264-aac-matroska
+#EXTINF:-1 tvg-id="",Sport2
+http://195.91.102.40:9981/stream/channelid/1572516401?ticket=6C346D1D9D67379FD64F09B07B5AC026793C49F1&profile=webtv-h264-aac-matroska
 
 #EXTINF:-1,|NL| Ziggo sport 1 🇳🇱
 http://185.236.230.212:9982/play/a09f
