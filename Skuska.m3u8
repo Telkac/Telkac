@@ -905,6 +905,32 @@ https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium402
 #EXTINF:-1, Digi Sport 4 🇷🇴
 https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium403
 
+#EXTINF:-1 group-title="-",142_Nova Sport HD
+http://87.120.179.187:8000/play/a00l
+http://87.120.179.187:8000/play/a02f
+#EXTINF:-1 group-title="-",145_Diema Sport HD
+http://87.120.179.187:8000/play/a00b
+#EXTINF:-1 group-title="-",146_Diema Sport 2
+http://87.120.179.187:8000/play/a01j
+#EXTINF:-1 group-title="-",167_Max Sport 1 HD
+http://87.120.179.187:8000/play/a00k
+#EXTINF:-1 group-title="-",168_Max Sport 2 HD
+http://87.120.179.187:8000/play/a00f
+#EXTINF:-1,Nova Sport
+http://213.169.39.30:5102
+#EXTINF:-1,MAX SPORT1 HD
+http://213.169.39.30:5138
+#EXTINF:-1,MAX SPORT2 HD
+http://213.169.39.30:5140
+#EXTINF:-1,MAX SPORT3 HD
+http://213.169.39.30:5142
+#EXTINF:-1,MAX Sport 4 HD
+http://213.169.39.30:5130
+#EXTINF:-1,Diema Sport HD
+http://213.169.39.30:5134
+#EXTINF:-1,Diema Sport 2 HD
+http://213.169.39.30:5136
+
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Express
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=971&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun rádio
