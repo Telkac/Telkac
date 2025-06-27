@@ -880,6 +880,31 @@ http://213.91.178.133:8000/play/a0ar
 #EXTINF:-1 group-title="SPORT SPORTS",Max Sport 4
 http://213.91.178.133:8000/play/a05n
 
+#EXTINF:-1,Arena Sport 1 HR 🇭🇷
+https://hls8.ua3.wisp.cat/ArenaSport1_HR/video.m3u8?token=5ofokd8
+##EXTINF:-1,Arena Sport 2 HR 🇭🇷
+https://hls8.ua3.wisp.cat/ArenaSport2_HR/video.m3u8?token=5ofokd8
+#EXTINF:-1,Arena Sport 3 HR 🇭🇷
+https://hls8.ua3.wisp.cat/ArenaSport3_HR/video.m3u8?token=5ofokd8
+#EXTINF:-1,Arena Sport 4 HR 🇭🇷
+https://hls8.ua3.wisp.cat/ArenaSport4_HR/video.m3u8?token=5ofokd8
+#EXTINF:-1,Arena Sport 5 HR 🇭🇷
+https://hls8.ua3.wisp.cat/ArenaSport5_HR/video.m3u8?token=5ofokd8
+#EXTINF:-1,Arena 1 Premium
+https://hls8.ua3.wisp.cat/Arena_Sport_Premium_1/video.m3u8?token=5ofokd8
+#EXTINF:-1,Arena 2 Premium
+https://hls8.ua3.wisp.cat/Arena_Sport_Premium_2/video.m3u8?token=5ofokd8
+#EXTINF:-1,Arena 3 Premium
+https://hls8.ua3.wisp.cat/Arena_Sport_Premium_3/video.m3u8?token=5ofokd8
+#EXTINF:-1, Digi Sport 1 🇷🇴
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium400
+#EXTINF:-1, Digi Sport 2 🇷🇴
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium401
+#EXTINF:-1, Digi Sport 3 🇷🇴
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium402
+#EXTINF:-1, Digi Sport 4 🇷🇴
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium403
+
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Express
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=971&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun rádio
