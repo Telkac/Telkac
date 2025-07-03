@@ -931,6 +931,122 @@ http://213.169.39.30:5134
 #EXTINF:-1,Diema Sport 2 HD
 http://213.169.39.30:5136
 
+#EXTINF:-1,CANAL+ EXTRA 1 HD
+http://146.59.54.156/6027/mpegts
+#EXTINF:-1,CANAL+ EXTRA 2 HD
+http://146.59.54.156/6028/mpegts
+#EXTINF:-1,CANAL+ EXTRA 3 HD
+http://146.59.54.156/6029/mpegts
+#EXTINF:-1,CANAL+ EXTRA 4 HD
+http://146.59.54.156/6030/mpegts
+#EXTINF:-1,Sky Sport Tennis HD
+http://146.59.54.156/6035/mpegts
+#EXTINF:-1,EVENT1 HD
+http://146.59.54.156/6036/mpegts
+#EXTINF:-1,EVENT2 HD
+http://146.59.54.156/6037/mpegts
+#EXTINF:-1,EVENT3 HD
+http://146.59.54.156/6038/mpegts
+#EXTINF:-1,EVENT4 HD
+http://146.59.54.156/6039/mpegts
+#EXTINF:-1,Sky Sport F1 HD
+http://146.59.54.156/6042/mpegts
+#EXTINF:-1,Sky Sport Premier League HD
+http://146.59.54.156/6044/mpegts
+#EXTINF:-1,RMC Sport 1 HD
+http://146.59.54.156/6049/mpegts
+#EXTINF:-1,RMC Sport Live 2 HD
+http://146.59.54.156/6043/mpegts
+#EXTINF:-1,RMC Sport Live 3 HD
+http://146.59.54.156/6041/mpegts
+#EXTINF:-1,RMC Sport Live 4 HD
+http://146.59.54.156/6040/mpegts
+#EXTINF:-1,Sky Sport Bundesliga HD
+http://146.59.54.156/6047/mpegts
+#EXTINF:-1,Sky Sport Golf HD
+http://146.59.54.156/6045/mpegts
+#EXTINF:-1,Sky Sport Top Event HD
+http://146.59.54.156/6048/mpegts
+#EXTINF:-1,Sky Sport Mix HD
+http://146.59.54.156/6050/mpegts
+#EXTINF:-1,Polsat Sport Premium 1 HD
+http://145.239.19.144:18088/191/mpegts
+#EXTINF:-1,Polsat Sport Premium 2 HD
+http://145.239.19.144:18088/190/mpegts
+#EXTINF:-1,Eleven Sports 1 HD
+http://145.239.19.144:18088/271/mpegts
+#EXTINF:-1,Eleven Sports 2 HD
+http://145.239.19.144:18088/270/mpegts
+#EXTINF:-1,Eleven Sports 3 HD
+http://145.239.19.144:18088/269/mpegts
+#EXTINF:-1,Eleven Sports 4 HD
+http://145.239.19.144:18088/272/mpegts
+#EXTINF:-1,CANAL+ Premium HD
+http://145.239.19.144:18088/295/mpegts
+#EXTINF:-1,CANAL+ Sport HD
+http://145.239.19.144:18088/297/mpegts
+#EXTINF:-1,CANAL+ Sport 2 HD
+http://145.239.19.144:18088/298/mpegts
+#EXTINF:-1,CANAL+ Sport 3 HD
+http://145.239.19.144:18088/340/mpegts
+#EXTINF:-1,CANAL+ Sport 4 HD
+http://145.239.19.144:18088/341/mpegts
+
+#EXTINF:-1,Polsat Sport Premium 1
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_1/video.m3u8?token=5ofokd8
+#EXTINF:-1,Polsat Sport Premium 2
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_2/video.m3u8?token=5ofokd8
+#EXTINF:-1,Polsat Sport Premium PPV 3
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_3/video.m3u8?token=5ofokd8
+#EXTINF:-1,Polsat Sport Premium PPV 5
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_PPV5/video.m3u8?token=5ofokd8
+#EXTINF:-1,Polsat Sport Premium PPV 4
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_PPV4/video.m3u8?token=5ofokd8
+#EXTINF:-1,Polsat Sport Premium PPV 6
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_PPV6/video.m3u8?token=5ofokd8
+
+#EXTINF:-1,Super Sport 1 HD
+http://195.181.169.152:8080/Super_Sport_1_HD_AL/video.m3u8?token=test
+#EXTINF:-1,Super Sport 2 HD
+http://195.181.169.152:8080/Super_Sport_2_HD_AL/video.m3u8?token=test
+#EXTINF:-1,Super Sport 3 HD
+http://195.181.169.152:8080/Super_Sport_3_HD_AL/video.m3u8?token=test
+#EXTINF:-1,Super Sport 4 HD
+http://195.181.169.152:8080/Super_Sport_4_HD_AL/video.m3u8?token=test
+
+#EXTINF:-1,ESPN 2 HD
+http://190.102.246.93:9005/play/a05c
+#EXTINF:-1,ESPN 2 HD
+http://190.102.246.93:9005/play/a05a
+#EXTINF:-1,ESPN 2 HD
+http://190.102.246.93:9005/play/a026
+#EXTINF:-1,ESPN 2 HD
+http://190.102.246.93:9005/play/a02n
+#EXTINF:-1,ESPN 3 HD
+http://190.102.246.93:9005/play/a02l
+#EXTINF:-1,ESPN 4HD
+http://190.102.246.93:9005/play/a05o
+#EXTINF:-1,ESPN 4HD
+http://190.102.246.93:9005/play/a04j
+#EXTINF:-1,ESPN 5HD
+http://190.102.246.93:9005/play/a01q
+#EXTINF:-1,ESPN 6 HD
+http://190.102.246.93:9005/play/a01r
+#EXTINF:-1,ESPN HD
+http://190.102.246.93:9005/play/a04w
+#EXTINF:-1,ESPN HD
+http://190.102.246.93:9005/play/a01w
+#EXTINF:-1,ESPN HD
+http://190.102.246.93:9005/play/a02d
+#EXTINF:-1,ESPN PREMIUM
+http://190.102.246.93:9005/play/a029
+#EXTINF:-1,ESPN Premium HD
+http://190.102.246.93:9005/play/a00x
+#EXTINF:-1,TNT Sports Premiun HD
+http://190.102.246.93:9005/play/a059
+#EXTINF:-1,TNT Sports Premiun HD
+http://190.102.246.93:9005/play/a025
+
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Express
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=971&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun rádio
