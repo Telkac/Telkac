@@ -1105,6 +1105,38 @@ http://ice6.abradio.cz/relax-morning-birds128.mp3
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://i.postimg.cc/vTYFgPBB/LOGO23-RADIO.png",TRANCE IS STAR RADIO 
 https://myradio24.org/tisradio_video.m3u8
+#EXTINF:-1 group-title="Radio Spinner" tvg-logo="https://radiospinner.ru/images/logo.png",Club Dance
+https://live.radiospinner.com/club-sounds-96
+#EXTINF:-1 group-title="Radio Spinner" tvg-logo="https://radiospinner.ru/images/logo.png",Club Dance 00s
+https://live.radiospinner.com/clu00dance-96
+#EXTINF:-1 group-title="Radio Spinner" tvg-logo="https://radiospinner.ru/images/logo.png",Dance Party 90s
+https://live.radiospinner.com/90sdncprty-96
+#EXTINF:-1 group-title="Radio Spinner" tvg-logo="https://radiospinner.ru/images/logo.png",Deep House
+https://live.radiospinner.com/deep-house-96
+#EXTINF:-1 group-title="Radio Spinner" tvg-logo="https://radiospinner.ru/images/logo.png",Deep House Box
+https://live.radiospinner.com/dphbx-96
+#EXTINF:-1 group-title="Radio Spinner" tvg-logo="https://radiospinner.ru/images/logo.png",Deep Tech Party
+https://live.radiospinner.com/deepteparty-96
+#EXTINF:-1 group-title="Radio Spinner" tvg-logo="https://radiospinner.ru/images/logo.png",Disco House
+https://live.radiospinner.com/disco-house-96
+#EXTINF:-1 group-title="Radio Spinner" tvg-logo="https://radiospinner.ru/images/logo.png",House
+https://live.radiospinner.com/house-96
+#EXTINF:-1 group-title="Radio Spinner" tvg-logo="https://radiospinner.ru/images/logo.png",Ibiza Club
+https://live.radiospinner.com/ibzclb-96
+#EXTINF:-1 group-title="Radio Spinner" tvg-logo="https://radiospinner.ru/images/logo.png",Trance
+https://live.radiospinner.com/trance-96
+#EXTINF:-1 group-title="Radio Spinner" tvg-logo="https://radiospinner.ru/images/logo.png",Tropical House
+https://live.radiospinner.com/tropical-house-96
+#EXTINF:-1 group-title="Radio Spinner" tvg-logo="https://radiospinner.ru/images/logo.png",Vocal House
+https://live.radiospinner.com/vclhs-96
+#EXTINF:-1 group-title="Radio Spinner" tvg-logo="https://radiospinner.ru/images/logo.png",Vocal Trance
+https://live.radiospinner.com/vcltrnc-96
+#EXTINF:-1 group-title="1 FM" tvg-logo="https://i.postimg.cc/yx14KkcR/unnamed.png",1 FM - Dance One
+http://strm112.1.fm/dance_mobile_mp3
+#EXTINF:-1 group-title="1 FM" tvg-logo="https://i.postimg.cc/yx14KkcR/unnamed.png",1 FM - Deep House
+http://strm112.1.fm/deephouse_mobile_mp3
+#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d036eace.jpg",Deep House
+https://str6.pcradio.ru/deep_house-med
 
 #EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Prešov stanica
 http://stream.kukaj.se/stream/1/video.m3u8
