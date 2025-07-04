@@ -242,7 +242,7 @@ https://dash2.antik.sk/live/test_rebel/playlist.m3u8
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg" group-title="Hudobné",MTV Live
-http://185.236.229.62:9981/play/a063
+
 #EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/MTV_Hits_logo.png" group-title="Hudobné",MTV Hits
 http://88.212.15.19/live/test_mtv_hits_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="Club MTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Club_MTV_2021_logo.svg" group-title="Hudobné",Club MTV
@@ -367,22 +367,14 @@ http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport 1.cz" tvg-name="Eurosport 1.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title="Sport",Eurosport 1
 http://194.160.135.34:8088/udp/233.10.47.64:1234
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=661&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12,profile13,profile14&changed_at=1742507476&shaping=0&eta=1&ets=1
-http://213.215.119.236:88/Eurosport1/index.m3u8
+http://178.23.88.55/Eurosport_1/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport 2.cz" tvg-name="Eurosport 2.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="Sport",Eurosport 2
 http://194.160.135.34:8088/udp/233.10.47.65:1234
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=615&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
-http://213.215.119.236:88/Eurosport2/index.m3u8
+http://178.23.88.55/Eurosport_2/index.m3u8
 
 #EXTINF:-1 tvg-id="Sporty TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/SportyTVSD.png" group-title="Sport",Sporty TV
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
 
-#EXTINF:-1 tvg-id="be33d52a2037d5a1afc981819e605de3",CZ: EUROSPORT11
-http://185.112.249.46:9981/stream/channelid/718615486?profile=pass
-#EXTINF:-1 tvg-id="82e3fcab219bfeaaff332e60e63801e5",CZ: EUROSPORT2
-http://185.112.249.46:9981/stream/channelid/737993602?profile=pass
-#EXTINF:-1 tvg-id="4d82b6c58c54b22c3a0bef0f490a456f",CZ: Eurosports 1
-http://185.112.249.46:9981/stream/channelid/1169588813?profile=pass
 #EXTINF:-1 tvg-id="acc04851a2b485f7ce41ecd72b244a22",CZ: FI V Sport 1 Suomi
 http://185.112.249.46:9981/stream/channelid/1363722412?profile=pass
 #EXTINF:-1 tvg-id="69e43f3f6491c0c559876e7a0f8d1fca",CZ: NO V Sport Vinter
