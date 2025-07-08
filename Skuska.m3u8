@@ -1328,7 +1328,42 @@ http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
 #EXTINF:-1 tvg-id="4K" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Živé kamery",Fireplace 4K
 https://d22w22d3eu3t35.cloudfront.net/playlist.m3u8
 
-
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="RELAX: Turkiye" tvg-logo="http://logo.multicms.info/tvlogo/relax.jpg" group-title="RELAX VIDEO",RELAX: Turkiye
+http://105894.fly24.be:80/pikisi0101/AsSaNBsOo3/66433
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="RELAX: Sahiller" tvg-logo="" group-title="RELAX VIDEO",RELAX: Sahiller
+http://105894.fly24.be:80/pikisi0101/AsSaNBsOo3/264811
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="RELAX: Sonbahar" tvg-logo="http://logo.multicms.info/tvlogo/relax.jpg" group-title="RELAX VIDEO",RELAX: Sonbahar
+http://105894.fly24.be:80/pikisi0101/AsSaNBsOo3/246028
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="RELAX: Suyun Sesi" tvg-logo="http://logo.multicms.info/tvlogo/relax.jpg" group-title="RELAX VIDEO",RELAX: Suyun Sesi
+http://105894.fly24.be:80/pikisi0101/AsSaNBsOo3/66287
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="RELAX: Kar" tvg-logo="http://logo.multicms.info/tvlogo/relax.jpg" group-title="RELAX VIDEO",RELAX: Kar
+http://105894.fly24.be:80/pikisi0101/AsSaNBsOo3/65375
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="RELAX: Sahil ve Dalgalar" tvg-logo="http://logo.multicms.info/tvlogo/relax.jpg" group-title="RELAX VIDEO",RELAX: Sahil ve Dalgalar
+http://105894.fly24.be:80/pikisi0101/AsSaNBsOo3/65376
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="RELAX: Kış" tvg-logo="http://logo.multicms.info/tvlogo/relax.jpg" group-title="RELAX VIDEO",RELAX: Kış
+http://105894.fly24.be:80/pikisi0101/AsSaNBsOo3/64822
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="RELAX: Güne Uyanış" tvg-logo="http://logo.multicms.info/tvlogo/relax.jpg" group-title="RELAX VIDEO",RELAX: Güne Uyanış
+http://105894.fly24.be:80/pikisi0101/AsSaNBsOo3/64777
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="RELAX: Dron Dünyası" tvg-logo="http://logo.multicms.info/tvlogo/relax.jpg" group-title="RELAX VIDEO",RELAX: Dron Dünyası
+http://105894.fly24.be:80/pikisi0101/AsSaNBsOo3/64330
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="RELAX: Fire" tvg-logo="http://logo.multicms.info/tvlogo/relax.jpg" group-title="RELAX VIDEO",RELAX: Fire
+http://105894.fly24.be:80/pikisi0101/AsSaNBsOo3/64781
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="RELAX: Yağmur" tvg-logo="http://logo.multicms.info/tvlogo/relax.jpg" group-title="RELAX VIDEO",RELAX: Yağmur
+http://105894.fly24.be:80/pikisi0101/AsSaNBsOo3/64782
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="RELAX: Akvaryum" tvg-logo="http://logo.multicms.info/tvlogo/relax.jpg" group-title="RELAX VIDEO",RELAX: Akvaryum
+http://105894.fly24.be:80/pikisi0101/AsSaNBsOo3/64331
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="RELAX: Tropikal Sahil" tvg-logo="http://logo.multicms.info/tvlogo/relax.jpg" group-title="RELAX VIDEO",RELAX: Tropikal Sahil
+http://105894.fly24.be:80/pikisi0101/AsSaNBsOo3/81968
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="RELAX: Kamp Atesi" tvg-logo="http://logo.multicms.info/tvlogo/relax.jpg" group-title="RELAX VIDEO",RELAX: Kamp Atesi
+http://105894.fly24.be:80/pikisi0101/AsSaNBsOo3/100624
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="RELAX: Noel" tvg-logo="http://logo.multicms.info/tvlogo/relax.jpg" group-title="RELAX VIDEO",RELAX: Noel
+http://105894.fly24.be:80/pikisi0101/AsSaNBsOo3/165669
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="RELAX: Dünya" tvg-logo="http://logo.multicms.info/tvlogo/relax.jpg" group-title="RELAX VIDEO",RELAX: Dünya
+http://105894.fly24.be:80/pikisi0101/AsSaNBsOo3/65374
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="RELAX: Norway" tvg-logo="http://logo.multicms.info/tvlogo/relax.jpg" group-title="RELAX VIDEO",RELAX: Norway
+http://105894.fly24.be:80/pikisi0101/AsSaNBsOo3/244486
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="RELAX: Austria" tvg-logo="http://logo.multicms.info/tvlogo/relax.jpg" group-title="RELAX VIDEO",RELAX: Austria
+http://105894.fly24.be:80/pikisi0101/AsSaNBsOo3/64332
 
 
 
