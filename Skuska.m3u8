@@ -306,6 +306,8 @@ https://s-pl-01.mediatool.tv/playout/hdpl-abr/index.m3u8
 https://s-pl-01.mediatool.tv/playout/hmpl-abr/index.m3u8
 #EXTINF:-1 tvg-id="SAYHi.cz",SAYHi PL 🇵🇱
 https://s-pl-01.mediatool.tv/playout/shpl-abr/index.m3u8
+#EXTINF:0,group-title="Hudobné",VH1 🇺🇸
+http://23.237.104.106:8080/USA_VH1/index.m3u8
 
 #EXTINF:-1 tvg-id="SENZI.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1410-senzi-hd.png" group-title="Hudobné",SENZI HD
 http://88.212.15.19/live/test_senzi_hevc/playlist.m3u8
@@ -569,6 +571,9 @@ http://7pal.short.gy/tntspts2
 #EXTINF:0,TNT SPORTS 3 🇺🇸
 http://7pal.short.gy/tntspts3
 
+#EXTINF:0 tvg-name="NHL Network" tvg-logo="http://troya.info/images/chIcons/1067.png" tvg-rec="0",NHL Network 🇺🇸
+http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="MUTV.HD.uk" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/MUTV.webp",MUTV 🇬🇧
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
@@ -577,9 +582,6 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.Premium.HDTV.(Chile).(FOXSP1HD).cl" tvg-name="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DAZN%20F1.webp",ESPN Premium 🇨🇱
 http://45.184.87.142:8000/play/a045
-
-#EXTINF:0 tvg-name="NHL Network" tvg-logo="http://troya.info/images/chIcons/1067.png" tvg-rec="0",NHL Network 🇺🇸
-http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport.1.es" tvg-name="" group-title="Sport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇪🇸 
 http://185.189.225.157/EuroSport1/index.m3u8 
