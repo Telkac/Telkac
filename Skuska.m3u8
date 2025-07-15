@@ -309,6 +309,13 @@ https://s-pl-01.mediatool.tv/playout/shpl-abr/index.m3u8
 #EXTINF:0,group-title="Hudobné",VH1 🇺🇸
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 
+#EXTINF:-1 group-title="-",Deluxe_Dance BG
+http://83.228.75.166:8000/play/a0bi
+#EXTINF:-1 group-title="-",Deluxe Rap BG
+http://83.228.75.166:8000/play/a0by
+#EXTINF:-1 group-title="-",City TV BG
+http://83.228.75.166:8000/play/a06c
+
 #EXTINF:-1 tvg-id="SENZI.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1410-senzi-hd.png" group-title="Hudobné",SENZI HD
 http://88.212.15.19/live/test_senzi_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Šlágr Originál.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/%C5%A0lagr-logo.png" group-title="Hudobné",Šlágr 1
@@ -924,6 +931,17 @@ http://213.169.39.30:5130
 http://213.169.39.30:5134
 #EXTINF:-1,Diema Sport 2 HD
 http://213.169.39.30:5136
+
+#EXTINF:-1 group-title="-",141_MAX Sport 1 HD
+http://83.228.75.166:8000/play/a0be
+#EXTINF:-1 group-title="-",142_MAX Sport 2 HD
+http://83.228.75.166:8000/play/a0bf
+#EXTINF:-1 group-title="-",143_MAX Sport 3 HD
+http://83.228.75.166:8000/play/a0bg
+#EXTINF:-1 group-title="-",181_Eurosport HD
+http://83.228.75.166:8000/play/a0bb
+#EXTINF:-1 group-title="-",182_Eurosport 2 HD
+http://83.228.75.166:8000/play/a04b
 
 #EXTINF:-1,CANAL+ EXTRA 1 HD
 http://146.59.54.156/6027/mpegts
