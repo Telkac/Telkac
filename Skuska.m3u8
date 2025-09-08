@@ -1706,6 +1706,392 @@ http://105894.fly24.be:80/pikisi0101/AsSaNBsOo3/244486
 #EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="RELAX: Austria" tvg-logo="http://logo.multicms.info/tvlogo/relax.jpg" group-title="RELAX VIDEO",RELAX: Austria
 http://105894.fly24.be:80/pikisi0101/AsSaNBsOo3/64332
 
+#EXTINF:-1,ČT 1
+http://iptv.czsk.tv:3000/czsk/czsk/1
+#EXTINF:-1,ČT 2
+http://iptv.czsk.tv:3000/czsk/czsk/2
+#EXTINF:-1,Jednotka
+http://iptv.czsk.tv:3000/czsk/czsk/3
+#EXTINF:-1,Dvojka
+http://iptv.czsk.tv:3000/czsk/czsk/4
+#EXTINF:-1,Nova
+http://iptv.czsk.tv:3000/czsk/czsk/5
+#EXTINF:-1,Nova Intl.
+http://iptv.czsk.tv:3000/czsk/czsk/6791
+#EXTINF:-1,Nova Cinema
+http://iptv.czsk.tv:3000/czsk/czsk/7006
+#EXTINF:-1,Nova Action
+http://iptv.czsk.tv:3000/czsk/czsk/7
+#EXTINF:-1,Nova Gold
+http://iptv.czsk.tv:3000/czsk/czsk/8
+#EXTINF:-1,Nova Lady
+http://iptv.czsk.tv:3000/czsk/czsk/9
+#EXTINF:-1,Nova Fun
+http://iptv.czsk.tv:3000/czsk/czsk/625
+#EXTINF:-1,Prima
+http://iptv.czsk.tv:3000/czsk/czsk/10
+#EXTINF:-1,Prima Sk
+http://iptv.czsk.tv:3000/czsk/czsk/6790
+#EXTINF:-1,Prima MAX
+http://iptv.czsk.tv:3000/czsk/czsk/11
+#EXTINF:-1,Prima Cool
+http://iptv.czsk.tv:3000/czsk/czsk/12
+#EXTINF:-1,Prima Cool Sk
+http://iptv.czsk.tv:3000/czsk/czsk/6997
+#EXTINF:-1,Prima Show
+http://iptv.czsk.tv:3000/czsk/czsk/13
+#EXTINF:-1,Prima Krimi
+http://iptv.czsk.tv:3000/czsk/czsk/14
+#EXTINF:-1,Prima Krimi SK
+http://iptv.czsk.tv:3000/czsk/czsk/7096
+#EXTINF:-1,Prima Star
+http://iptv.czsk.tv:3000/czsk/czsk/6996
+#EXTINF:-1,Prima Love
+http://iptv.czsk.tv:3000/czsk/czsk/15
+#EXTINF:-1,Prima Love Sk
+http://iptv.czsk.tv:3000/czsk/czsk/16
+#EXTINF:-1,Markíza
+http://iptv.czsk.tv:3000/czsk/czsk/17
+#EXTINF:-1,Markíza Intl.
+http://iptv.czsk.tv:3000/czsk/czsk/6789
+#EXTINF:-1,Markíza Klasik
+http://iptv.czsk.tv:3000/czsk/czsk/18
+#EXTINF:-1,Markíza Krimi
+http://iptv.czsk.tv:3000/czsk/czsk/19
+#EXTINF:-1,Doma
+http://iptv.czsk.tv:3000/czsk/czsk/6995
+#EXTINF:-1,Dajto
+http://iptv.czsk.tv:3000/czsk/czsk/20
+#EXTINF:-1,Wau
+http://iptv.czsk.tv:3000/czsk/czsk/21
+#EXTINF:-1,JOJ
+http://iptv.czsk.tv:3000/czsk/czsk/22
+#EXTINF:-1,JOJ Plus
+http://iptv.czsk.tv:3000/czsk/czsk/23
+#EXTINF:-1,JOJ Family
+http://iptv.czsk.tv:3000/czsk/czsk/24
+#EXTINF:-1,JOJ Cinema
+http://iptv.czsk.tv:3000/czsk/czsk/25
+#EXTINF:-1,TV Seznam
+http://iptv.czsk.tv:3000/czsk/czsk/26
+#EXTINF:-1,Barrandov TV
+http://iptv.czsk.tv:3000/czsk/czsk/635
+#EXTINF:-1,Barrandov Krimi
+http://iptv.czsk.tv:3000/czsk/czsk/669
+#EXTINF:-1,Barrandov Kino
+http://iptv.czsk.tv:3000/czsk/czsk/673
+#EXTINF:-1,ČT D - ČT Art
+http://iptv.czsk.tv:3000/czsk/czsk/674
+#EXTINF:-1,ČT 24
+http://iptv.czsk.tv:3000/czsk/czsk/27
+#EXTINF:-1,CNN Prima News
+http://iptv.czsk.tv:3000/czsk/czsk/28
+#EXTINF:-1,TA3
+http://iptv.czsk.tv:3000/czsk/czsk/30
+#EXTINF:-1,JOJ 24
+http://iptv.czsk.tv:3000/czsk/czsk/31
+#EXTINF:-1,RTVS 24
+http://iptv.czsk.tv:3000/czsk/czsk/32
+#EXTINF:-1,TN Live
+http://iptv.czsk.tv:3000/czsk/czsk/6788
+#EXTINF:-1,Markíza TN Live
+http://iptv.czsk.tv:3000/czsk/czsk/6994
+#EXTINF:-1,A11
+http://iptv.czsk.tv:3000/czsk/czsk/7003
+#EXTINF:-1,Praha TV
+http://iptv.czsk.tv:3000/czsk/czsk/7097
+#EXTINF:-1,TV Brno
+http://iptv.czsk.tv:3000/czsk/czsk/7098
+#EXTINF:-1,TV Bratislava
+http://iptv.czsk.tv:3000/czsk/czsk/7099
+#EXTINF:-1,Nova Sport 1
+http://iptv.czsk.tv:3000/czsk/czsk/33
+#EXTINF:-1,Nova Sport 2
+http://iptv.czsk.tv:3000/czsk/czsk/34
+#EXTINF:-1,Nova Sport 3
+http://iptv.czsk.tv:3000/czsk/czsk/35
+#EXTINF:-1,Nova Sport 4
+http://iptv.czsk.tv:3000/czsk/czsk/36
+#EXTINF:-1,Nova Sport 5
+http://iptv.czsk.tv:3000/czsk/czsk/37
+#EXTINF:-1,Nova Sport 6
+http://iptv.czsk.tv:3000/czsk/czsk/38
+#EXTINF:-1,Oneplay Sport 1
+http://iptv.czsk.tv:3000/czsk/czsk/39
+#EXTINF:-1,Oneplay Sport 2
+http://iptv.czsk.tv:3000/czsk/czsk/40
+#EXTINF:-1,Oneplay Sport 3
+http://iptv.czsk.tv:3000/czsk/czsk/41
+#EXTINF:-1,Oneplay Sport 4
+http://iptv.czsk.tv:3000/czsk/czsk/42
+#EXTINF:-1,Oneplay Sport 1 MD 1
+http://iptv.czsk.tv:3000/czsk/czsk/43
+#EXTINF:-1,Oneplay Sport 1 MD 2
+http://iptv.czsk.tv:3000/czsk/czsk/44
+#EXTINF:-1,Oneplay Sport 1 MD 3
+http://iptv.czsk.tv:3000/czsk/czsk/45
+#EXTINF:-1,Oneplay Sport 1 MD 4
+http://iptv.czsk.tv:3000/czsk/czsk/46
+#EXTINF:-1,Oneplay Sport 2 MD 1
+http://iptv.czsk.tv:3000/czsk/czsk/47
+#EXTINF:-1,Oneplay Sport 1 MD 3
+http://iptv.czsk.tv:3000/czsk/czsk/45
+#EXTINF:-1,Oneplay Sport 1 MD 4
+http://iptv.czsk.tv:3000/czsk/czsk/46
+#EXTINF:-1,Oneplay Sport 2 MD 1
+http://iptv.czsk.tv:3000/czsk/czsk/47
+#EXTINF:-1,Oneplay Sport 2 MD 2
+http://iptv.czsk.tv:3000/czsk/czsk/48
+#EXTINF:-1,Oneplay Sport 2 MD 3
+http://iptv.czsk.tv:3000/czsk/czsk/49
+#EXTINF:-1,Oneplay Sport 2 MD 4
+http://iptv.czsk.tv:3000/czsk/czsk/50
+#EXTINF:-1,Oneplay Sport 3 MD 1
+http://iptv.czsk.tv:3000/czsk/czsk/55
+#EXTINF:-1,Oneplay Sport 3 MD 2
+http://iptv.czsk.tv:3000/czsk/czsk/56
+#EXTINF:-1,Oneplay Sport 3 MD 3
+http://iptv.czsk.tv:3000/czsk/czsk/57
+#EXTINF:-1,Oneplay Sport 3 MD 4
+http://iptv.czsk.tv:3000/czsk/czsk/58
+#EXTINF:-1,Oneplay Sport 4 MD 1
+http://iptv.czsk.tv:3000/czsk/czsk/59
+#EXTINF:-1,Oneplay Sport 4 MD 2
+http://iptv.czsk.tv:3000/czsk/czsk/60
+#EXTINF:-1,Oneplay Sport 4 MD 3
+http://iptv.czsk.tv:3000/czsk/czsk/61
+#EXTINF:-1,Oneplay Sport 4 MD 4
+http://iptv.czsk.tv:3000/czsk/czsk/62
+#EXTINF:-1,Canal+ Sport
+http://iptv.czsk.tv:3000/czsk/czsk/63
+#EXTINF:-1,Canal+ Sport 2
+http://iptv.czsk.tv:3000/czsk/czsk/64
+#EXTINF:-1,Canal+ Sport 3
+http://iptv.czsk.tv:3000/czsk/czsk/379
+#EXTINF:-1,Canal+ Sport 4
+http://iptv.czsk.tv:3000/czsk/czsk/65
+#EXTINF:-1,Canal+ Sport 5
+http://iptv.czsk.tv:3000/czsk/czsk/66
+#EXTINF:-1,Canal+ Sport 6
+http://iptv.czsk.tv:3000/czsk/czsk/7073
+#EXTINF:-1,Canal+ Sport 7
+http://iptv.czsk.tv:3000/czsk/czsk/7074
+#EXTINF:-1,Canal+ Sport 8
+http://iptv.czsk.tv:3000/czsk/czsk/7075
+#EXTINF:-1,Eurosport 1
+http://iptv.czsk.tv:3000/czsk/czsk/67
+#EXTINF:-1,Eurosport 1 4K
+http://iptv.czsk.tv:3000/czsk/czsk/6843
+#EXTINF:-1,Eurosport 2
+http://iptv.czsk.tv:3000/czsk/czsk/68
+#EXTINF:-1,Premier Sport 1
+http://iptv.czsk.tv:3000/czsk/czsk/69
+#EXTINF:-1,Premier Sport 2
+http://iptv.czsk.tv:3000/czsk/czsk/70
+#EXTINF:-1,Premier Sport 3
+http://iptv.czsk.tv:3000/czsk/czsk/71
+#EXTINF:-1,Premier Sport 3 Extra
+http://iptv.czsk.tv:3000/czsk/czsk/6800
+#EXTINF:-1,Sport 1
+http://iptv.czsk.tv:3000/czsk/czsk/72
+#EXTINF:-1,Sport 2
+http://iptv.czsk.tv:3000/czsk/czsk/73
+#EXTINF:-1,Arena Sport 1
+http://iptv.czsk.tv:3000/czsk/czsk/74
+#EXTINF:-1,Arena Sport 2
+http://iptv.czsk.tv:3000/czsk/czsk/75
+#EXTINF:-1,RTVS Šport
+http://iptv.czsk.tv:3000/czsk/czsk/76
+#EXTINF:-1,ČT Sport
+http://iptv.czsk.tv:3000/czsk/czsk/77
+#EXTINF:-1,JOJ Šport
+http://iptv.czsk.tv:3000/czsk/czsk/78
+#EXTINF:-1,JOJ Šport 2
+http://iptv.czsk.tv:3000/czsk/czsk/79
+#EXTINF:-1,Golf Channel
+http://iptv.czsk.tv:3000/czsk/czsk/137
+#EXTINF:-1,Auto Motor Sport
+http://iptv.czsk.tv:3000/czsk/czsk/668
+#EXTINF:-1,Sporty TV
+http://iptv.czsk.tv:3000/czsk/czsk/51
+#EXTINF:-1,Niké Liga 1
+http://iptv.czsk.tv:3000/czsk/czsk/6844
+#EXTINF:-1,Niké Liga 2
+http://iptv.czsk.tv:3000/czsk/czsk/6845
+#EXTINF:-1,Niké Liga 3
+http://iptv.czsk.tv:3000/czsk/czsk/6846
+#EXTINF:-1,Niké Liga 4
+http://iptv.czsk.tv:3000/czsk/czsk/6847
+#EXTINF:-1,Niké Liga 5
+http://iptv.czsk.tv:3000/czsk/czsk/6848
+#EXTINF:-1,HBO
+http://iptv.czsk.tv:3000/czsk/czsk/80
+#EXTINF:-1,HBO 2
+http://iptv.czsk.tv:3000/czsk/czsk/81
+#EXTINF:-1,HBO 3
+http://iptv.czsk.tv:3000/czsk/czsk/82
+#EXTINF:-1,Cinemax
+http://iptv.czsk.tv:3000/czsk/czsk/83
+#EXTINF:-1,Cinemax 2
+http://iptv.czsk.tv:3000/czsk/czsk/84
+#EXTINF:-1,AXN
+http://iptv.czsk.tv:3000/czsk/czsk/85
+#EXTINF:-1,AXN Black
+http://iptv.czsk.tv:3000/czsk/czsk/86
+#EXTINF:-1,AXN White
+http://iptv.czsk.tv:3000/czsk/czsk/87
+#EXTINF:-1,Filmbox
+http://iptv.czsk.tv:3000/czsk/czsk/88
+#EXTINF:-1,Filmbox Stars
+http://iptv.czsk.tv:3000/czsk/czsk/6792
+#EXTINF:-1,Filmbox Premium
+http://iptv.czsk.tv:3000/czsk/czsk/89
+#EXTINF:-1,Filmbox Family
+http://iptv.czsk.tv:3000/czsk/czsk/6793
+#EXTINF:-1,Filmbox Extra
+http://iptv.czsk.tv:3000/czsk/czsk/90
+#EXTINF:-1,Canal+ Action
+http://iptv.czsk.tv:3000/czsk/czsk/91
+#EXTINF:-1,Paramount Network
+http://iptv.czsk.tv:3000/czsk/czsk/92
+#EXTINF:-1,Strike TV
+http://iptv.czsk.tv:3000/czsk/czsk/93
+#EXTINF:-1,Film Europe
+http://iptv.czsk.tv:3000/czsk/czsk/94
+#EXTINF:-1,Film Europe +
+http://iptv.czsk.tv:3000/czsk/czsk/95
+#EXTINF:-1,CS Film
+http://iptv.czsk.tv:3000/czsk/czsk/96
+#EXTINF:-1,Epic Drama
+http://iptv.czsk.tv:3000/czsk/czsk/97
+#EXTINF:-1,Film+
+http://iptv.czsk.tv:3000/czsk/czsk/380
+#EXTINF:-1,Spark TV
+http://iptv.czsk.tv:3000/czsk/czsk/381
+#EXTINF:-1,AMC
+http://iptv.czsk.tv:3000/czsk/czsk/626
+#EXTINF:-1,Warner TV
+http://iptv.czsk.tv:3000/czsk/czsk/6998
+#EXTINF:-1,Prima Zoom
+http://iptv.czsk.tv:3000/czsk/czsk/98
+#EXTINF:-1,JOJ Svet
+http://iptv.czsk.tv:3000/czsk/czsk/99
+#EXTINF:-1,Spektrum
+http://iptv.czsk.tv:3000/czsk/czsk/651
+#EXTINF:-1,Spektrum Home
+http://iptv.czsk.tv:3000/czsk/czsk/100
+#EXTINF:-1,National Geographic
+http://iptv.czsk.tv:3000/czsk/czsk/101
+#EXTINF:-1,Nat Geo Wild
+http://iptv.czsk.tv:3000/czsk/czsk/102
+#EXTINF:-1,Viasat Explore
+http://iptv.czsk.tv:3000/czsk/czsk/103
+#EXTINF:-1,Viasat History
+http://iptv.czsk.tv:3000/czsk/czsk/104
+#EXTINF:-1,Viasat Nature
+http://iptv.czsk.tv:3000/czsk/czsk/136
+#EXTINF:-1,Love Nature
+http://iptv.czsk.tv:3000/czsk/czsk/628
+#EXTINF:-1,Love Nature 4K
+http://iptv.czsk.tv:3000/czsk/czsk/664
+#EXTINF:-1,BBC Earth
+http://iptv.czsk.tv:3000/czsk/czsk/105
+#EXTINF:-1,Discovery Channel
+http://iptv.czsk.tv:3000/czsk/czsk/106
+#EXTINF:-1,History
+http://iptv.czsk.tv:3000/czsk/czsk/107
+#EXTINF:-1,History2
+http://iptv.czsk.tv:3000/czsk/czsk/661
+#EXTINF:-1,Animal Planet
+http://iptv.czsk.tv:3000/czsk/czsk/108
+#EXTINF:-1,ID
+http://iptv.czsk.tv:3000/czsk/czsk/109
+#EXTINF:-1,True Crime
+http://iptv.czsk.tv:3000/czsk/czsk/110
+#EXTINF:-1,Crime and Inv.
+http://iptv.czsk.tv:3000/czsk/czsk/7100
+#EXTINF:-1,CS History
+http://iptv.czsk.tv:3000/czsk/czsk/111
+#EXTINF:-1,CS Mystery
+http://iptv.czsk.tv:3000/czsk/czsk/6794
+#EXTINF:-1,Paprika TV
+http://iptv.czsk.tv:3000/czsk/czsk/629
+#EXTINF:-1,Food Network
+http://iptv.czsk.tv:3000/czsk/czsk/113
+#EXTINF:-1,Fashion TV
+http://iptv.czsk.tv:3000/czsk/czsk/114
+#EXTINF:-1,HGTV
+http://iptv.czsk.tv:3000/czsk/czsk/631
+#EXTINF:-1,TLC
+http://iptv.czsk.tv:3000/czsk/czsk/632
+#EXTINF:-1,Fishing and Hunting
+http://iptv.czsk.tv:3000/czsk/czsk/662
+#EXTINF:-1,Travel Channel
+http://iptv.czsk.tv:3000/czsk/czsk/663
+#EXTINF:-1,Travel XP
+http://iptv.czsk.tv:3000/czsk/czsk/665
+#EXTINF:-1,Travel XP 4K
+http://iptv.czsk.tv:3000/czsk/czsk/666
+#EXTINF:-1,Disney Channel
+http://iptv.czsk.tv:3000/czsk/czsk/115
+#EXTINF:-1,Nickelodeon
+http://iptv.czsk.tv:3000/czsk/czsk/116
+#EXTINF:-1,Nick Jr
+http://iptv.czsk.tv:3000/czsk/czsk/6795
+#EXTINF:-1,Nick Toons
+http://iptv.czsk.tv:3000/czsk/czsk/6796
+#EXTINF:-1,Jojko
+http://iptv.czsk.tv:3000/czsk/czsk/117
+#EXTINF:-1,Minimax
+http://iptv.czsk.tv:3000/czsk/czsk/118
+#EXTINF:-1,Rik TV
+http://iptv.czsk.tv:3000/czsk/czsk/119
+#EXTINF:-1,Jim Jam
+http://iptv.czsk.tv:3000/czsk/czsk/6797
+#EXTINF:-1,Lala TV
+http://iptv.czsk.tv:3000/czsk/czsk/6798
+#EXTINF:-1,Duck TV
+http://iptv.czsk.tv:3000/czsk/czsk/6799
+#EXTINF:-1,Turbo TV
+http://iptv.czsk.tv:3000/czsk/czsk/7078
+#EXTINF:-1,Baby TV
+http://iptv.czsk.tv:3000/czsk/czsk/7079
+#EXTINF:-1,Óčko
+http://iptv.czsk.tv:3000/czsk/czsk/120
+#EXTINF:-1,Óčko Black
+http://iptv.czsk.tv:3000/czsk/czsk/121
+#EXTINF:-1,Óčko Star
+http://iptv.czsk.tv:3000/czsk/czsk/7004
+#EXTINF:-1,Óčko Expres
+http://iptv.czsk.tv:3000/czsk/czsk/7005
+#EXTINF:-1,Rebel
+http://iptv.czsk.tv:3000/czsk/czsk/122
+#EXTINF:-1,Retro Music
+http://iptv.czsk.tv:3000/czsk/czsk/123
+#EXTINF:-1,MTV
+http://iptv.czsk.tv:3000/czsk/czsk/6999
+#EXTINF:-1,MTV 00s
+http://iptv.czsk.tv:3000/czsk/czsk/124
+#EXTINF:-1,MTV 80s
+http://iptv.czsk.tv:3000/czsk/czsk/7000
+#EXTINF:-1,MTV 90s
+http://iptv.czsk.tv:3000/czsk/czsk/7001
+#EXTINF:-1,MTV Club
+http://iptv.czsk.tv:3000/czsk/czsk/7002
+#EXTINF:-1,MTV Hits
+http://iptv.czsk.tv:3000/czsk/czsk/125
+#EXTINF:-1,MTV Live
+http://iptv.czsk.tv:3000/czsk/czsk/3731
+#EXTINF:-1,Stingray Classica
+http://iptv.czsk.tv:3000/czsk/czsk/7076
+#EXTINF:-1,Stingray Djazz
+http://iptv.czsk.tv:3000/czsk/czsk/7077
+#EXTINF:-1,iConcerts
+http://iptv.czsk.tv:3000/czsk/czsk/7101
+#EXTINF:-1,Dusk TV
+http://iptv.czsk.tv:3000/czsk/czsk/126
+#EXTINF:-1,Extasy
+http://iptv.czsk.tv:3000/czsk/czsk/127
 
 
 
