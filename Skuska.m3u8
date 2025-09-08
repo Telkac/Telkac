@@ -432,6 +432,8 @@ http://185.112.249.46:9981/stream/channelid/877537711?profile=pass
 
 #EXTINF:-1 tvg-id="TV Doktor.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkirhR_sc03jo4uwX6AIOzNENW75vGH-DVdA&s" group-title="Všeobecné",TV Doktor
 https://live.tvdoktor.sk/high/index.m3u8
+#EXTINF:-1 group-title="-",TV SPARK
+http://185.236.230.212:9982/play/a092
 #EXTINF:-1 tvg-id="TV Bratislava.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TV_Bratislava.png" group-title="Všeobecné",TV Bratislava
 http://88.212.15.9:5000/live/tvbratislava/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTV HD.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/2560px-Fashion_TV_logo.svg.png" group-title="Všeobecné",Fashion TV
