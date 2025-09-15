@@ -1114,6 +1114,12 @@ http://ott.watch/stream/ZPIEW5659H/57.m3u8
 http://ott.watch/stream/ZPIEW5659H/54.m3u8
 #EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Erox HD
 http://ott.watch/stream/ZPIEW5659H/58.m3u8
+#EXTINF:-1 group-title="-",|XX| PENTHOUSE GOLD CZ
+http://185.236.230.212:9981/play/a0al
+#EXTINF:-1 group-title="-",|XX| PENTHOUSE REALITY CZ
+http://185.236.230.212:9981/play/a0am
+#EXTINF:-1 group-title="-",|XX| VIXEN HD
+http://185.236.230.212:9981/play/a09x
 
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Express
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=971&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
