@@ -1082,6 +1082,39 @@ http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=5461&line=country.m3u
 #EXTINF:-1 tvg-id="none" tvg-name="|SK| NOVA SPORT 5 HD🇸🇰" tvg-logo="noimg.jpg" group-title="Live-Tv: SPORT ", |SK| NOVA SPORT 5 HD🇸🇰
 http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=5556&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
 
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Redlight HD
+http://ott.watch/stream/ZPIEW5659H/51.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Hustler HD Europe
+http://ott.watch/stream/ZPIEW5659H/52.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Brazzers TV Europe HD
+http://ott.watch/stream/ZPIEW5659H/53.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Blue Hustler
+http://ott.watch/stream/ZPIEW5659H/280.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Private TV HD
+http://ott.watch/stream/ZPIEW5659H/282.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Barely Legal TV
+http://ott.watch/stream/ZPIEW5659H/289.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Playboy TV
+http://ott.watch/stream/ZPIEW5659H/290.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Cineman ExExEx HD
+http://ott.watch/stream/ZPIEW5659H/56.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Cineman ExExExTWO HD
+http://ott.watch/stream/ZPIEW5659H/59.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Red Lips HD
+http://ott.watch/stream/ZPIEW5659H/61.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Penthouse Gold HD
+http://ott.watch/stream/ZPIEW5659H/66.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Gags Network HD
+http://ott.watch/stream/ZPIEW5659H/458.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Babes TV HD
+http://ott.watch/stream/ZPIEW5659H/55.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Exxxotica HD
+http://ott.watch/stream/ZPIEW5659H/57.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Frenchlover
+http://ott.watch/stream/ZPIEW5659H/54.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Erox HD
+http://ott.watch/stream/ZPIEW5659H/58.m3u8
+
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Express
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=971&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun rádio
