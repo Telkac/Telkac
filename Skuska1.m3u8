@@ -1437,6 +1437,87 @@ http://213.169.39.30:5233
 #EXTINF:-1,RING HD
 http://213.169.39.30:5210
 
+#EXTINF:-1,SuperSports Premier League
+http://145.239.5.177:80/566/index.m3u8
+#EXTINF:-1,SUPER SPORTS LA LIGA
+http://145.239.5.177:80/565/index.m3u8
+#EXTINF:-1,SUPER SPORTS FOOTBALL
+http://145.239.5.177:80/564/index.m3u8
+#EXTINF:-1,+SPORT360
+http://145.239.5.177:80/561/index.m3u8
+#EXTINF:-1,+SPORT360
+http://178.33.239.54:8080/700/index.m3u8
+#EXTINF:-1,SUPER SPORTS PSL
+http://145.239.5.177:80/562/index.m3u8
+#EXTINF:-1,BENSPORTS 3
+http://145.239.5.177:80/559/index.m3u8
+#EXTINF:-1,BENSPORTS 2
+http://145.239.5.177:80/558/index.m3u8
+#EXTINF:-1,BENSPORTS 1
+http://145.239.5.177:80/557/index.m3u8
+#EXTINF:-1,+FOOT
+http://145.239.5.177:80/556/index.m3u8
+#EXTINF:-1,SUPER SPORT PREMIER LEAGUE
+http://178.33.239.54:8080/563/index.m3u8
+#EXTINF:-1,RMC SPORT 3
+http://145.239.5.177:80/526/index.m3u8
+#EXTINF:-1,RMC SPORT 2
+http://145.239.5.177:80/525/index.m3u8
+#EXTINF:-1,RMC SPORT 1
+http://178.33.239.54:8080/524/index.m3u8
+#EXTINF:-1,AMAZON PRIME 3
+http://145.239.5.177:80/518/index.m3u8
+#EXTINF:-1,beIN SPORT 3
+http://145.239.5.177:80/514/index.m3u8
+#EXTINF:-1,beIN SPORT 3
+http://145.239.5.177:80/514/index.m3u8
+#EXTINF:-1,beIN SPORT 2
+http://178.33.239.54:8080/513/index.m3u8
+#EXTINF:-1,beIN SPORT 1
+http://178.33.239.54:8080/512/index.m3u8
+#EXTINF:-1,TNT SPORTS 3
+http://178.33.239.54:8080/511/index.m3u8
+#EXTINF:-1,TNT SPORTS 2
+http://178.33.239.54:8080/510/index.m3u8
+#EXTINF:-1,TNT SPORTS 1
+http://178.33.239.54:8080/509/index.m3u8
+#EXTINF:-1,Sky Sport F1
+http://178.33.239.54:8080/508/index.m3u8
+#EXTINF:-1,Sky Sport Mix
+http://178.33.239.54:8080/507/index.m3u8
+#EXTINF:-1,Premier lige
+http://178.33.239.54:8080/506/index.m3u8
+#EXTINF:-1,Sky Sports MainEvent
+http://178.33.239.54:8080/502/index.m3u8
+#EXTINF:-1,Sky Sports Cricket
+http://178.33.239.54:8080/503/index.m3u8
+#EXTINF:-1,Sky Sport Action
+http://178.33.239.54:8080/504/index.m3u8
+#EXTINF:-1,Sky Sports News
+http://178.33.239.54:8080/501/index.m3u8
+#EXTINF:-1,Sky Sports Football
+http://178.33.239.54:8080/500/index.m3u8
+#EXTINF:-1,13eme Rue
+http://178.33.239.54:8080/316/index.m3u8
+#EXTINF:-1,TFX
+http://145.239.5.177:80/315/index.m3u8
+#EXTINF:-1,6 TER HD
+http://145.239.5.177:80/314/index.m3u8
+#EXTINF:-1,TF1 SERIE
+http://37.187.138.41:80/TF-un-serie/index.m3u8
+#EXTINF:-1,PARIS PREMIER
+http://145.239.5.177:80/312/index.m3u8
+#EXTINF:-1,CINE POLAR
+http://178.33.239.54:8080/317/index.m3u8
+#EXTINF:-1,BFMTV
+http://178.33.239.54:8080/311/index.m3u8
+#EXTINF:-1,AFRICA 24
+http://178.33.239.54:8080/310/index.m3u8
+#EXTINF:-1,FRANCE
+http://178.33.239.54:8080/303/index.m3u8
+#EXTINF:-1,FRANCE
+http://178.33.239.54:8080/302/index.m3u8
+
 
 
 
