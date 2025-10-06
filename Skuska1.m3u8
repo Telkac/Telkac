@@ -54,7 +54,7 @@ http://88.212.15.19/live/test_nova_lady_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima Cool.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primacoolhd.png" group-title="Všeobecné",Prima COOL SK
 http://88.212.15.19/live/test_prima_cool_hd_hevc_50/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima LOVE.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primalovehd.png" group-title="Všeobecné",Prima love
-http://185.236.230.212:9981/play/a0b3
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2411&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
 
 #EXTINF:-1 tvg-id="Prima ZOOM.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primazoomhd.png" group-title="Všeobecné",Prima ZOOM
 http://88.212.15.19/live/test_prima_zoom_hevc/playlist.m3u8
@@ -116,16 +116,15 @@ http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Spark TV.cz" tvg-name="Up network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/TV_Spark.svg/revision/latest/scale-to-width-down/300?cb=20231109173805" group-title="Všeobecné",Spark
 http://88.212.15.19/live/test_upnetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal+ Action.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1024px-Canal%2B_Action_2024.svg.png" group-title="Všeobecné",Canal Plus Action 
-http://185.236.230.212:9981/play/a0bw
+
 #EXTINF:-1 tvg-id="Warner TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/526px-Warner2018LA.png" group-title="Všeobecné",Warner TV
 
 #EXTINF:-1 tvg-id="Paramount Network.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/2056px-Paramount_Network.svg.png" group-title="Všeobecné",Paramount Network
-http://185.236.230.212:9981/play/a0as
+
 #EXTINF:-1 tvg-id="Epic Drama.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/ab/Epic_Drama_logo.png" group-title="Všeobecné",Epic Drama
-http://185.236.230.212:9981/play/a0bg
 
 #EXTINF:-1 tvg-id="Markíza International.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Mark%C3%ADza_International_%282022%29.svg/revision/latest?cb=20220811142013" group-title="Všeobecné",Markíza International
-http://185.236.230.212:9981/play/a0bi
+
 #EXTINF:-1 tvg-id="Nova International.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1-nova-international-hd.png" group-title="Všeobecné",Nova International
 http://194.160.135.34:8088/udp/233.10.47.61:1234
 #EXTINF:-1 tvg-id="Prima SK.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primahd.png" group-title="Všeobecné",Prima SK
@@ -298,35 +297,10 @@ https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1,HIT Music Channel RO 🇷🇴
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20240910T003714SQUARE.png" tvg-id="no_epg_music" group-title="Музыкальные", VEVO Country
-https://d3u2u3qzvtw7w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-apxt8ie33sx6d/Vevo_Country.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H1Aap4E.png" tvg-id="no_epg_music" group-title="Музыкальные", VEVO Retro Rock
-https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/3b/9a/03/3b9a0389e68b113b2778a796b588a6e5.jpg" tvg-id="no_epg_music" group-title="Музыкальные", Vevo '70s
-https://dlpg8tl1ugdoo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u38d4zi2bpmec/Vevo_70s.m3u8
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991132/600x337.webp?type=channelTile" tvg-id="no_epg_music" group-title="Музыкальные", Vevo '80s
-https://d17i214xp3vw8a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5vjb8mjxp73gd/Vevo_80s.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" tvg-id="no_epg_music" group-title="Музыкальные", Vevo '90s
-https://d321u5fu9qef79.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yinfe6h5dj8i1/Vevo_90s.m3u8
-#EXTINF:-1 tvg-logo="https://oxygeneventworks.com/wp-content/uploads/2016/03/logo_vevo_blk-600x400.png" tvg-id="no_epg_music" group-title="Музыкальные", Vevo 2010s
-https://d1td33xo32wcw8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eriheq1pngmtd/Vevo_2010s.m3u8
-#EXTINF:-1 tvg-logo="https://brand.vevo.com/wp-content/uploads/2021/03/home-img-02.svg" tvg-id="no_epg_music" group-title="Музыкальные", Vevo 2K
-https://d4dkvp1ga8v8z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkvocv263tp96/Vevo_2K.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-yapic/51381/lxysahjDZneFg1y0gtmLC8pOSI-1/orig" tvg-id="no_epg_music" group-title="Музыкальные", Vevo Features
-https://d1ze674i4apj8g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dnsrl2co4rjn8/Vevo_Features.m3u8
-#EXTINF:-1 tvg-logo="http://blog.lcotiv.com/i/20197093330.png" tvg-id="no_epg_music" group-title="Музыкальные", Vevo Latino
-https://d1ylrwzh4ekdq4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2v53vq46l9e0c/Vevo_Latino.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dZHktKR_d.webp?maxwidth=760&fidelity=grand" tvg-id="no_epg_music" group-title="Музыкальные", Vevo Pop
-https://d33yiufuiyic30.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f94huxetzks7d/Vevo_Pop.m3u8
-#EXTINF:-1 tvg-logo="https://admin.worldlivetv.stream/upload/files/thumbnail/vuth_1667586418_86792_64657.png" tvg-id="no_epg_music" group-title="Музыкальные", Vevo Hip Hop
-https://d14y8035xivxd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-46idq7bdmcbwf/Vevo_Hip_Hop.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?" tvg-id="no_epg_music" group-title="Музыкальные", Vevo R&B
-https://d3cu9t0v0j3v7r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-irsyy4yjtdieo/Vevo_R_B.m3u8
-
 #EXTINF:-1 tvg-id="4Fun.TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://img.favpng.com/10/21/14/4fun-tv-television-channel-8tv-4fun-gold-png-favpng-sUTP416a5K3zrwftEYqTcMSW1.jpg" group-title="Hudobné",4Fun.TV PL 🇵🇱
 https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1 tvg-id="4Fun Dance.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://seeklogo.com/images/1/4fun-dance-logo-6DBBB0A530-seeklogo.com.png" group-title="Hudobné",4Fun Dance PL 🇵🇱
-http://188.60.179.180:8000/play/FUnDance
+
 #EXTINF:-1 tvg-id="EskaRockDobrzeRockuje.pl",Eska Rock Dobrze Rockuje PL 🇵🇱
 https://s-pl-01.mediatool.tv/playout/erpl-abr/index.m3u8
 #EXTINF:-1 tvg-id="HiDance.cz",HiDance PL 🇵🇱
@@ -377,13 +351,13 @@ http://88.212.15.19/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Sport 1.cz" tvg-name="Nova Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_Sport_1_2024.png" group-title="Sport",Nova Sport 1
 http://194.160.135.34:8088/udp/233.10.47.60:1234
 #EXTINF:-1 tvg-id="Nova Sport 2.cz" tvg-name="Nova Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png" group-title="Sport",Nova Sport 2
-http://185.236.230.212:9981/play/a0bh
+
 #EXTINF:-1 tvg-id="Nova Sport 3.cz" tvg-name="Nova Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Nova_Sport_3.png" group-title="Sport",Nova Sport 3
-http://185.236.230.212:9981/play/a0au
+
 #EXTINF:-1 tvg-id="Nova Sport 4.cz" tvg-name="Nova Sport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Nova_Sport_4_2024.png" group-title="Sport",Nova Sport 4
-http://185.236.230.212:9981/play/a0av
+
 #EXTINF:-1 tvg-id="Nova Sport 5.cz" tvg-name="Nova Sport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Nova_Sport_5_2024.png" group-title="Sport",Nova Sport 5
-http://185.236.230.212:9981/play/a0bq
+
 #EXTINF:-1 tvg-id="Nova Sport 5.cz" tvg-name="Nova Sport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Nova_Sport_5_2024.png" group-title="Sport",Nova Sport 5 SK
 http://185.236.230.212:9982/play/a09w
 
@@ -393,9 +367,9 @@ http://116.202.237.33:8080/NS5/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b0
 http://116.202.237.33:8080/NS6/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
 #EXTINF:-1 tvg-id="Canal+ Sport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",CANAL+ Sport
-http://185.236.230.212:9981/play/a0bv
+
 #EXTINF:-1 tvg-id="Canal+ Sport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",CANAL+ Sport 2
-http://185.236.230.212:9981/play/a0c7
+
 #EXTINF:-1 tvg-id="Canal+ Sport 3.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",CANAL+ Sport 3
 
 #EXTINF:-1 tvg-id="Arena Sport 1.cz" tvg-name="Arena Sport 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Arena_Sport_TV_1.png" group-title="Sport",Arena Sport 1
@@ -1082,44 +1056,18 @@ http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=5461&line=country.m3u
 #EXTINF:-1 tvg-id="none" tvg-name="|SK| NOVA SPORT 5 HD🇸🇰" tvg-logo="noimg.jpg" group-title="Live-Tv: SPORT ", |SK| NOVA SPORT 5 HD🇸🇰
 http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=5556&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
 
-#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Redlight HD
-http://ott.watch/stream/ZPIEW5659H/51.m3u8
-#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Hustler HD Europe
-http://ott.watch/stream/ZPIEW5659H/52.m3u8
-#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Brazzers TV Europe HD
-http://ott.watch/stream/ZPIEW5659H/53.m3u8
-#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Blue Hustler
-http://ott.watch/stream/ZPIEW5659H/280.m3u8
-#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Private TV HD
-http://ott.watch/stream/ZPIEW5659H/282.m3u8
-#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Barely Legal TV
-http://ott.watch/stream/ZPIEW5659H/289.m3u8
-#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Playboy TV
-http://ott.watch/stream/ZPIEW5659H/290.m3u8
-#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Cineman ExExEx HD
-http://ott.watch/stream/ZPIEW5659H/56.m3u8
-#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Cineman ExExExTWO HD
-http://ott.watch/stream/ZPIEW5659H/59.m3u8
-#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Red Lips HD
-http://ott.watch/stream/ZPIEW5659H/61.m3u8
-#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Penthouse Gold HD
-http://ott.watch/stream/ZPIEW5659H/66.m3u8
-#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Gags Network HD
-http://ott.watch/stream/ZPIEW5659H/458.m3u8
-#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Babes TV HD
-http://ott.watch/stream/ZPIEW5659H/55.m3u8
-#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Exxxotica HD
-http://ott.watch/stream/ZPIEW5659H/57.m3u8
-#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Frenchlover
-http://ott.watch/stream/ZPIEW5659H/54.m3u8
-#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Erox HD
-http://ott.watch/stream/ZPIEW5659H/58.m3u8
-#EXTINF:-1 group-title="-",|XX| PENTHOUSE GOLD CZ
-http://185.236.230.212:9981/play/a0al
-#EXTINF:-1 group-title="-",|XX| PENTHOUSE REALITY CZ
-http://185.236.230.212:9981/play/a0am
-#EXTINF:-1 group-title="-",|XX| VIXEN HD
-http://185.236.230.212:9981/play/a09x
+#EXTINF:-1,Hustler
+https://176.116.105.82/Hustler/index.m3u8
+#EXTINF:-1,Extasy HD
+https://176.116.105.82/Extasy_HD/index.m3u8
+#EXTINF:-1,Dorcel HD
+https://176.116.105.82/Dorcel_HD/index.m3u8
+#EXTINF:-1,Hustler
+https://176.116.105.82/Hustler/index.m3u8
+#EXTINF:-1,Erox HD
+https://176.116.105.82/Erox_HD/index.m3u8
+#EXTINF:-1,EroXXX HD
+https://176.116.105.82/EroXXX_HD/index.m3u8
 
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Express
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=971&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
