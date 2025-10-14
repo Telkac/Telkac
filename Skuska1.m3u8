@@ -318,6 +318,8 @@ http://83.228.75.166:8000/play/a0bi
 http://83.228.75.166:8000/play/a0by
 #EXTINF:-1 group-title="-",City TV BG
 http://83.228.75.166:8000/play/a06c
+#EXTINF:-1 group-title="-",Hiel Music
+https://live.obslivestream.com/hielmusic/index.m3u8
 
 #EXTINF:-1 tvg-id="SENZI.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1410-senzi-hd.png" group-title="Hudobné",SENZI HD
 http://88.212.15.19/live/test_senzi_hevc/playlist.m3u8
