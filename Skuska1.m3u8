@@ -366,6 +366,20 @@ http://116.202.237.33:8080/NS5/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b0
 #EXTINF:-1 tvg-id="Nova Sport 6.cz" tvg-name="Nova Sport 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Nova_Sport_6_2024.png" group-title="Sport",Nova Sport 6
 http://116.202.237.33:8080/NS6/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
+#EXTINF:-1,Nova Sport 1 HD cz
+https://176.116.105.82/Nova_Sport1_HD/index.m3u8
+#EXTINF:-1,Nova Sport 2 SK HD
+https://176.116.105.82/NovaSport2_HD/index.m3u8
+#EXTINF:-1,Nova Sport 3 SK HD
+https://176.116.105.82/NovaSport3_HD/index.m3u8
+#EXTINF:-1,Nova Sport 4 SK HD
+https://176.116.105.82/NovaSport4_HD/index.m3u8
+#EXTINF:-1,Nova Sport 5 SK HD
+https://176.116.105.82/NovaSport5_HD/index.m3u8
+#EXTINF:-1,Nova Sport 6 HD cz
+https://176.116.105.82/NovaSport6_HD/index.m3u8
+
+
 #EXTINF:-1 tvg-id="Canal+ Sport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",CANAL+ Sport
 
 #EXTINF:-1 tvg-id="Canal+ Sport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",CANAL+ Sport 2
