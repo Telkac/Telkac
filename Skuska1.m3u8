@@ -175,7 +175,7 @@ http://88.212.15.19/live/test_cai_hevc/playlist.m3u8
 http://88.212.15.19/live/test_id_hevc_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC.cz" tvg-name="Sat crime invest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Dokumentárne",TLC
 http://88.212.15.19/live/test_tlc_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="bbc-earth.cz" tvg-logo="http://sms.cz/kategorie/televize/bmp/loga/velka/bbcearth.png",BBC Earth
+#EXTINF:-1 tvg-id="BBC Earth.cz" tvg-logo="http://sms.cz/kategorie/televize/bmp/loga/velka/bbcearth.png",BBC Earth
 http://mag-live.me:80/play/live.php?mac=00:1A:79:00:1B:CD&stream=690291&extension=ts&play.m3u8
 #EXTINF:-1 tvg-id="E! Entertainment.cz" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png" group-title="Dokumentárne",E! Entertainment
 
