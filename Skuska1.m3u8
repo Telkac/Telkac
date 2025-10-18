@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/czech3.xml.gz"
 
-#EXTINF:-1 tvg-id="Jednotka HD.sk,Jednotka.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/T7EWAe7.png" group-title="Všeobecné",Jednotka
+#EXTINF:-1 tvg-id="Jednotka HD.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/T7EWAe7.png" group-title="Všeobecné",Jednotka
 http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Dvojka.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/Ksi25UD.png" group-title="Všeobecné",Dvojka
 http://88.212.15.19/live/test_dvojka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Markíza.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mark%C3%ADza_%282022%29.svg/2560px-Mark%C3%ADza_%282022%29.svg.png" group-title="Všeobecné",Markiza
 http://88.212.15.19/live/test_markiza_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="JOJ.cz,JOJ HD.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://www.absolventi.stuba.sk/dokumenty/firmy/loga_web/joj-logo_horizontal_a.png" group-title="Všeobecné",JOJ
+#EXTINF:-1 tvg-id="JOJ HD.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://www.absolventi.stuba.sk/dokumenty/firmy/loga_web/joj-logo_horizontal_a.png" group-title="Všeobecné",JOJ
 http://88.212.15.19/live/test_joj_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="TV DAJTO.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Dajto.png" group-title="Všeobecné",Dajto
 http://88.212.15.19/live/test_dajto_25p/playlist.m3u8
