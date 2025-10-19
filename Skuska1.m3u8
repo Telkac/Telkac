@@ -1494,7 +1494,21 @@ http://178.23.88.55/Eurosport_1/index.m3u8
 #EXTINF:-1,Eurosport_2
 http://178.23.88.55/Eurosport_2/index.m3u8
 
-
+#EXTINF:0 tvg-id="Xeacbd3c220de39cfa7c855755d1291cf" tvg-name="JOJ Sport HD" tvg-logo="https://ip-tv.dev/images/ico/8546.png" , JOJ Sport HD
+#EXTGRP:SkyLink
+http://gr.seetv.cc/play/1134/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:0 tvg-id="X6fda506ca37562e7c8a37011eecb6995" tvg-name="CANAL+ Sport (CZ)" tvg-logo="https://ip-tv.dev/images/ico/9305.png" , CANAL+ Sport (CZ)
+#EXTGRP:SkyLink
+http://gr.seetv.cc/play/1135/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:0 tvg-id="Xba551cee37d621f3a459d798ae881e5e" tvg-name="CANAL+ Sport (SK)" tvg-logo="https://ip-tv.dev/images/ico/9305.png" , CANAL+ Sport (SK)
+#EXTGRP:SkyLink
+http://gr.seetv.cc/play/1136/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:0 tvg-id="Xba674f276a1f7dbe4c756d9ea0b50a38" tvg-name="CANAL+ Sport 2 (SK)" tvg-logo="https://ip-tv.dev/images/ico/10110.png" , CANAL+ Sport 2 (SK)
+#EXTGRP:SkyLink
+http://gr.seetv.cc/play/1137/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:0 tvg-id="Xfad8ef045fa357781cfb3163d4b45a09" tvg-name="Golf Channel" tvg-logo="https://ip-tv.dev/images/ico/9204.png" , Golf Channel
+#EXTGRP:SkyLink
+http://gr.seetv.cc/play/1138/FB4F94DA00C3BE0/video.m3u8
 
 
 
