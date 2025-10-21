@@ -1,5 +1,6 @@
-#EXTM3U url-tvg="https://www.open-epg.com/files/czech3.xml.gz"
+#EXTM3U url-tvg="https://www.open-epg.com/files/czech3.xml.gz"https://www.open-epg.com/files/slovakia1.xml.gz"https://www.open-epg.com/files/poland1.xml.gz"
 #EXTM3U url-tvg="https://www.open-epg.com/files/slovakia1.xml.gz"
+#EXTM3U url-tvg="https://www.open-epg.com/files/poland1.xml.gz"
 
 #EXTINF:-1 tvg-id="Jednotka.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/T7EWAe7.png" group-title="Všeobecné",Jednotka
 http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
@@ -1066,119 +1067,121 @@ http://gr.seetv.cc/play/1137/FB4F94DA00C3BE0/video.m3u8
 #EXTGRP:SkyLink
 http://gr.seetv.cc/play/1138/FB4F94DA00C3BE0/video.m3u8
 
-#EXTINF:-1,TVP1 HD
+#EXTINF:-1,TVP1.pl
 http://45.87.35.12:7001/stream
-#EXTINF:-1,TVP2 HD
+#EXTINF:-1,TVP2.pl
 http://45.87.35.12:7002/stream
-#EXTINF:-1,TV Trwam
+#EXTINF:-1,TV Trwam.pl
 http://45.87.35.12:7003/stream
-#EXTINF:-1,EskaTV HD
+#EXTINF:-1,EskaTV.pl
 http://45.87.35.12:7004/stream
-#EXTINF:-1,Service01
+#EXTINF:-1,Service01.pl
 http://45.87.35.12:7005/stream
-#EXTINF:-1,FokusTV
+#EXTINF:-1,FokusTV.pl
 http://45.87.35.12:7006/stream
-#EXTINF:-1,TVP ABC HD
+#EXTINF:-1,TVP ABC.pl
 http://45.87.35.12:7007/stream
-#EXTINF:-1,France 24 EN HD
+#EXTINF:-1,France 24 EN.pl
 http://45.87.35.12:7008/stream
-#EXTINF:-1,France 24 FR
+#EXTINF:-1,France 24 FR.pl
 http://45.87.35.12:7014/stream
-#EXTINF:-1,TVN HD
+#EXTINF:-1,TVN.pl
 http://45.87.35.12:7018/stream
 #EXTINF:-1,TVN 7 HD
+pl
 http://45.87.35.12:7019/stream
-#EXTINF:-1,Super Polsat HD
+#EXTINF:-1,Super Polsat HD.pl
 http://45.87.35.12:7021/stream
-#EXTINF:-1,TV4 HD
+#EXTINF:-1,TV4.pl
 http://45.87.35.12:7020/stream
-#EXTINF:-1,Puls HD
+#EXTINF:-1,Puls.pl
 http://45.87.35.12:7022/stream
-#EXTINF:-1,Puls 2 HD
+#EXTINF:-1,Puls 2.pl
 http://45.87.35.12:7023/stream
-#EXTINF:-1,TV6 HD
+#EXTINF:-1,TV6.pl
 http://45.87.35.12:7025/stream
-#EXTINF:-1,TVP Kobieta HD
+#EXTINF:-1,TVP Kobieta.pl
 http://45.87.35.12:7024/stream
-#EXTINF:-1,Stopklatka.tv
+#EXTINF:-1,Stopklatka.tv.pl
 http://45.87.35.12:7026/stream
-#EXTINF:-1,TVP Historia
+#EXTINF:-1,TVP Historia.pl
 http://45.87.35.12:7027/stream
-#EXTINF:-1,TVP3 Kielce HD
+#EXTINF:-1,TVP3 Kielce.pl
 http://45.87.35.12:7029/stream
-#EXTINF:-1,TVP info HD
+#EXTINF:-1,TVP info.pl
 http://45.87.35.12:7028/stream
 #EXTINF:-1,TVP Sport HD
+pl
 http://45.87.35.12:7030/stream
-#EXTINF:-1,TTV HD
+#EXTINF:-1,TTVpl
 http://45.87.35.12:7031/stream
-#EXTINF:-1,TVP Kultura HD
+#EXTINF:-1,TVP Kultura.pl
 http://45.87.35.12:7033/stream
-#EXTINF:-1,PoloTV
+#EXTINF:-1,PoloTV.pl
 http://45.87.35.12:7032/stream
-#EXTINF:-1,National Geographic HD
+#EXTINF:-1,National Geographic.pl
 http://45.87.35.12:7034/stream
-#EXTINF:-1,Discovery Channel HD
+#EXTINF:-1,Discovery Channel.pl
 http://45.87.35.12:7035/stream
-#EXTINF:-1,Polsat Sport Extra HD
+#EXTINF:-1,Polsat Sport Extra.pl
 http://45.87.35.12:7036/stream
-#EXTINF:-1,Polsat Sport News HD
+#EXTINF:-1,Polsat Sport News.pl
 http://45.87.35.12:7037/stream
-#EXTINF:-1,2x2TV HD
+#EXTINF:-1,2x2TV.pl
 http://45.87.35.12:7038/stream
-#EXTINF:-1,MINIMINI+ HD
+#EXTINF:-1,MINIMINI+.pl
 http://45.87.35.12:7039/stream
-#EXTINF:-1,2x2TV HD
+#EXTINF:-1,2x2TV.pl
 http://45.87.35.12:7040/stream
-#EXTINF:-1,Polsat 2 HD
+#EXTINF:-1,Polsat 2.pl
 http://45.87.35.12:7041/stream
-#EXTINF:-1,TopKids HD
+#EXTINF:-1,TopKids.pl
 http://45.87.35.12:7042/stream
-#EXTINF:-1,4Fun.TV
+#EXTINF:-1,4Fun.TV.pl
 http://45.87.35.12:7043/stream
-#EXTINF:-1,4Fun Kids
+#EXTINF:-1,4Fun Kids.pl
 http://45.87.35.12:7044/stream
-#EXTINF:-1,4Fun Dance
+#EXTINF:-1,4Fun Dance.pl
 http://45.87.35.12:7045/stream
-#EXTINF:-1,EskaTV extra HD
+#EXTINF:-1,EskaTV extra.pl
 http://45.87.35.12:7046/stream
-#EXTINF:-1,NowaTV HD
+#EXTINF:-1,NowaTV.pl
 http://45.87.35.12:7047/stream
-#EXTINF:-1,Eska Rock TV HD
+#EXTINF:-1,Eska Rock TV.pl
 http://45.87.35.12:7048/stream
-#EXTINF:-1,VOXmusicTV HD
+#EXTINF:-1,VOXmusicTV.pl
 http://45.87.35.12:7049/stream
-#EXTINF:-1,Polsat HD
+#EXTINF:-1,Polsat.pl
 http://45.87.35.12:7050/stream
-#EXTINF:-1,Polsat Film HD
+#EXTINF:-1,Polsat Film.pl
 http://45.87.35.12:7051/stream
-#EXTINF:-1,Polsat News HD
+#EXTINF:-1,Polsat News.pl
 http://45.87.35.12:7052/stream
-#EXTINF:-1,Polsat Sport News HD
+#EXTINF:-1,Polsat Sport News.pl
 http://45.87.35.12:7053/stream
-#EXTINF:-1,Polsat Sport HD
+#EXTINF:-1,Polsat Sport.pl
 http://45.87.35.12:7054/stream
-#EXTINF:-1,Polsat Sport Extra HD
+#EXTINF:-1,Polsat Sport Extra.pl
 http://45.87.35.12:7055/stream
-#EXTINF:-1,Polsat Play HD
+#EXTINF:-1,Polsat Play.pl
 http://45.87.35.12:7056/stream
-#EXTINF:-1,Polsat Cafe HD
+#EXTINF:-1,Polsat Cafe.pl
 http://45.87.35.12:7057/stream
-#EXTINF:-1,Polsat Music HD
+#EXTINF:-1,Polsat Music.pl
 http://45.87.35.12:7058/stream
-#EXTINF:-1,Polsat Seriale HD
+#EXTINF:-1,Polsat Seriale.pl
 http://45.87.35.12:7060/stream
-#EXTINF:-1,Polsat News 2 HD
+#EXTINF:-1,Polsat News 2.pl
 http://45.87.35.12:7059/stream
-#EXTINF:-1,Disco Polo Music HD
+#EXTINF:-1,Disco Polo Music.pl
 http://45.87.35.12:7061/stream
-#EXTINF:-1,Polsat Sport Fight HD
+#EXTINF:-1,Polsat Sport Fight.pl
 http://45.87.35.12:7062/stream
-#EXTINF:-1,Polsat Doku HD
+#EXTINF:-1,Polsat Doku.pl
 http://45.87.35.12:7063/stream
-#EXTINF:-1,Adventure HD
+#EXTINF:-1,Adventure.pl
 http://45.87.35.12:7064/stream
-#EXTINF:-1,PowerTV HD
+#EXTINF:-1,PowerTV.pl
 http://45.87.35.12:7065/stream
 #EXTINF:-1,Nuta TV HD
 http://45.87.35.12:7066/stream
