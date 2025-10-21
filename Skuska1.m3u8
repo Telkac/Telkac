@@ -1286,9 +1286,9 @@ http://45.87.35.12:7128/stream
 http://45.87.35.12:7130/stream
 #EXTINF:-1,Stopklatka tv HD.pl
 http://45.87.35.12:7131/stream
-#EXTINF:-1,Kino TV HD.pl
+#EXTINF:-1,Kino TV.cz
 http://45.87.35.12:7132/stream
-#EXTINF:-1,Kino Polska HD.pl
+#EXTINF:-1,Kino Polska.cz
 http://45.87.35.12:7133/stream
 #EXTINF:-1,Kino Polska Muzyka.pl
 http://45.87.35.12:7134/stream
@@ -1332,9 +1332,9 @@ http://45.87.35.12:7162/stream
 http://45.87.35.12:7163/stream
 #EXTINF:-1,SBN (Sonlife Broadcasting Network).pl
 http://45.87.35.12:7164/stream
-#EXTINF:-1,Polsat Games HD.pl
+#EXTINF:-1,Polsat Games.cz
 http://45.87.35.12:7167/stream
-#EXTINF:-1,Polsat Rodzina HD.pl
+#EXTINF:-1,Polsat Rodzina.cz
 http://45.87.35.12:7168/stream
 #EXTINF:-1,National Geographic Wild HD.pl
 http://45.87.35.12:7169/stream
@@ -1458,33 +1458,33 @@ http://45.87.35.12:7249/stream
 http://45.87.35.12:7147/stream
 #EXTINF:-1,CANAL+ Sport HD.pl
 http://45.87.35.12:7161/stream
-#EXTINF:-1,Eleven Sports 2 HD
+#EXTINF:-1,Eleven Sports 2.cz
 http://45.87.35.12:7114/stream
-#EXTINF:-1,Eleven Sports 3 HD
+#EXTINF:-1,Eleven Sports 3.cz
 http://45.87.35.12:7115/stream
-#EXTINF:-1,Eleven Sports 4 HD
+#EXTINF:-1,Eleven Sports 4.cz
 http://45.87.35.12:7116/stream
 #EXTINF:-1,CANAL+ SPORT HD
 http://45.87.35.12:7109/stream
-#EXTINF:-1,Eleven Sports 1 HD
+#EXTINF:-1,Eleven Sports 1.cz
 http://45.87.35.12:7113/stream
-#EXTINF:-1,CANAL+ SPORT 2 HD
+#EXTINF:-1,Eleven Sports 2.cz
 http://45.87.35.12:7110/stream
-#EXTINF:-1,Polsat Sport News.pl
+#EXTINF:-1,Polsat Sport News.cz
 http://45.87.35.12:7053/stream
-#EXTINF:-1,Polsat Sport.pl
+#EXTINF:-1,Polsat Sport.cz
 http://45.87.35.12:7054/stream
-#EXTINF:-1,Polsat Sport Extra.pl
+#EXTINF:-1,Polsat Sport Extra.cz
 http://45.87.35.12:7055/stream
 #EXTINF:-1,Eurosport 1 HD
 http://45.87.35.12:7093/stream
 #EXTINF:-1,Eurosport 2 HD
 http://45.87.35.12:7094/stream
-#EXTINF:-1,Polsat Sport Extra.pl
+#EXTINF:-1,Polsat Sport Extra.cz
 http://45.87.35.12:7036/stream
-#EXTINF:-1,Polsat Sport News.pl
+#EXTINF:-1,Polsat Sport News.cz
 http://45.87.35.12:7037/stream
-#EXTINF:-1,TVP Sport.pl
+#EXTINF:-1,TVP Sport.cz
 http://45.87.35.12:7030/stream
 
 
