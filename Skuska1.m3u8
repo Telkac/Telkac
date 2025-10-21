@@ -406,21 +406,19 @@ http://178.23.88.55/Eurosport_2/index.m3u8
 #EXTINF:-1 tvg-id="Sporty TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/SportyTVSD.png" group-title="Sport",Sporty TV
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
 
-#EXTINF:-1 tvg-id="acc04851a2b485f7ce41ecd72b244a22",CZ: FI V Sport 1 Suomi
-http://185.112.249.46:9981/stream/channelid/1363722412?profile=pass
-#EXTINF:-1 tvg-id="69e43f3f6491c0c559876e7a0f8d1fca",CZ: NO V Sport Vinter
+#EXTINF:-1 tvg-id="",Premier Sport 2
 http://185.112.249.46:9981/stream/channelid/1061151849?profile=pass
-#EXTINF:-1 tvg-id="4220a473f87bf4f0d160565a805ac543",CZ: Nova Sport 6 FHD
+#EXTINF:-1 tvg-id="",Sporty TV
 http://185.112.249.46:9981/stream/channelid/1940136002?profile=pass
-#EXTINF:-1 tvg-id="65ad908ad1eaca54984564e90aa54a14",CZ: ONEPLAY1 T3
+#EXTINF:-1 tvg-id="",ONEPLAY 1
 http://185.112.249.46:9981/stream/channelid/177253733?profile=pass
-#EXTINF:-1 tvg-id="67d14f66fce0256c46b842802204a5e3",CZ: ONEPLAY2 T2
+#EXTINF:-1 tvg-id="",ONEPLAY 2
 http://185.112.249.46:9981/stream/channelid/1716506983?profile=pass
-#EXTINF:-1 tvg-id="fb1c3cdfdd05ed24d8a459fe46a62a10",CZ: ONEPLAY3 T3
+#EXTINF:-1 tvg-id="",ONEPLAY 3
 http://185.112.249.46:9981/stream/channelid/1597775099?profile=pass
-#EXTINF:-1 tvg-id="584e6d781e08d1eb35bf2ad1bd4b220c",CZ: PREMIER SPORT1 T3
+#EXTINF:-1 tvg-id="",PREMIER SPORT 1
 http://185.112.249.46:9981/stream/channelid/2020429400?profile=pass
-#EXTINF:-1 tvg-id="af294e348a70d668c0ac1a9fcd983d18",CZ: PREMIER SPORT2 T2
+#EXTINF:-1 tvg-id="",PREMIER SPORT 2
 http://185.112.249.46:9981/stream/channelid/877537711?profile=pass
 
 #EXTINF:-1 tvg-id="TV Doktor.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkirhR_sc03jo4uwX6AIOzNENW75vGH-DVdA&s" group-title="Všeobecné",TV Doktor
@@ -428,7 +426,7 @@ https://live.tvdoktor.sk/high/index.m3u8
 #EXTINF:-1 group-title="SK",Kanal 1
 http://185.236.230.212:9982/play/a092
 #EXTINF:-1 tvg-id="TV Bratislava.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TV_Bratislava.png" group-title="Všeobecné",TV Bratislava
-http://88.212.15.9:5000/live/tvbratislava/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FashionTV HD.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/2560px-Fashion_TV_logo.svg.png" group-title="Všeobecné",Fashion TV
 https://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LifeTV.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Logo_Life_TV.png" group-title="Všeobecné",Life TV
@@ -436,7 +434,7 @@ https://lifetv.mpks.sk/s.m3u8
 #EXTINF:-1 tvg-id="TV RAJ.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",TV Raj
 
 #EXTINF:-1 tvg-id="Park TV.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1583-park-tv-hd.png" group-title="Všeobecné",Park TV
-http://88.212.15.27/live/test_park_tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.maxim.iptv.antik.sk/app/assets/upload/channels/60a2b0c04cbc73c131beb0eaf490ed26.svg" group-title="Športové",Tanečné súťaže HD
 http://88.212.15.19/live/tanecnesutaze/index.m3u8
 #EXTINF:-1 tvg-id="CETV.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://www.cetv.sk/wp-content/uploads/2019/10/TV-Central-logo-zellow-bolt.png" group-title="Všeobecné",Central TV
@@ -446,19 +444,18 @@ https://dash2.antik.sk/live/test_relax/playlist.m3u8
 #EXTINF:-1 tvg-id="A11.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/A11.png" group-title="Všeobecné",A11
 https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Vio TV
-http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_transcoded/playlist.m3u8
-#EXTINF:-1 tvg-id="POLAR.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/polar.png" group-title="Všeobecné",Polar TV HD
+
+#EXTINF:-1 tvg-id="POLAR.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/polar.png" group-title="Všeobecné",Polar TV
 https://stream.polar.cz/polar/polarlive-1/manifest.m3u8
-#EXTINF:-1 tvg-id="Polar.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/polar.png" group-title="Všeobecné",Polar 2 HD
+#EXTINF:-1 tvg-id="Polar.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/polar.png" group-title="Všeobecné",Polar 2
 https://stream.polar.cz/polar2/polarlive2-1/manifest.m3u8
-#EXTINF:-1 tvg-id="PRAHA TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/prahatv.png" group-title="Všeobecné",Praha TV HD
+#EXTINF:-1 tvg-id="PRAHA TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/prahatv.png" group-title="Všeobecné",Praha TV
 
 #EXTINF:-1 tvg-id="TVLiptov.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://lh6.googleusercontent.com/proxy/B_WlQa7BS2i-Ln_W-umTF3gMBoKo8qQumIQlCrurvDRAw8AZKjnVB4GZkGXvkBxJ7FqyTwDkCi1_ADKdwv3cZg" group-title="Všeobecné",TV Liptov
 http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLocAll.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",TV LocAll
 http://tv.geniusnet.sk:8081/localltv/pl.m3u8
 #EXTINF:-1 tvg-id="Severka.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Severka
-http://88.212.15.9:5000/live/severka/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Brno 1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/tvloga/f578709d7d5086d1a4a09b024dbc3cd5a7c36b28/1024/brno1.png" group-title="Všeobecné",TV BRNO 1 HD
 https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
@@ -467,7 +464,7 @@ https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 #EXTINF:-1 tvg-id="Noe.cz.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvnoehd.png" group-title="Všeobecné",TV Noe
 
 #EXTINF:-1 tvg-id="Noe+.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.cC9jrOpq4VTv9_u2Rldv1wHaE-&pid=Api&P=0&h=180" group-title="Všeobecné",TV Noe +
-https://n105.quickmedia.tv/noe-2-abr/noe-2-abr/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-id="JC1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/jc1.png" group-title="Všeobecné",JČ1 regionální televize
 https://stream.jc1.cz/hls/jc1.m3u8
 #EXTINF:-1 tvg-id="KuryrTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/kuryrtv.png" group-title="Všeobecné",Kurýr TV
@@ -489,7 +486,6 @@ https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV OSEM.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="-" group-title="Všeobecné",TV8
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-name="NR SR" tvg-logo="https://i.imgur.com/sPDiS5q.png" tvg-id="TVNRSR.sk" group-title="Všeobecné",NR SR
-https://sktv.plainrock127.xyz/get.php?x=NR_SR
 
 
 #EXTINF:-1 tvg-id="tv-digi-sport-1" tvg-name="Digi Sport 1" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport1.gif" group-title="Sport",Digi Sport 1 RO 🇷🇴
@@ -515,70 +511,12 @@ http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33810
 #EXTINF:0,RO: Eurosport 2 🇷🇴
 http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33812
 
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Extra.png",Polsat Sport Extra.cz
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Fight.png",Polsat Sport Fight.cz
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport.png",Polsat Sport.cz
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+News.png",Polsat Sport News.cz
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+1.png",Polsat Sport Premium 1.cz
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+2.png",Polsat Sport Premium 2.cz
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+3.png",Polsat Sport Premium 3.cz
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+4.png",Polsat Sport Premium 4.cz
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+5.png",Polsat Sport Premium 5.cz
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Polsat+Sport+Premium+6.png",Polsat Sport Premium 6.cz
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%20HD.png",Canal+ Sport.cz
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%202%20HD.png",Canal+ Sport 2.cz
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Canal++Sport+3+HD.png",Canal+ Sport 3.cz
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Canal++Sport+4+HD.png",Canal+ Sport 4.cz
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://epg.ovh/logo/Canal++Sport+5.png",Canal+ Sport 5.cz
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.ovh/logo/Eleven+Sports+4K.png",Eleven Sports 1 4K
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%201.png",Eleven Sports 1.cz
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%202.png",Eleven Sports 2.cz
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%203.png",Eleven Sports 3.cz
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%204.png",Eleven Sports 4.cz
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Eurosport%201%20HD.png",Eurosport 1
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://logo.plusx.tv/logo/Eurosport%202%20HD.png",Eurosport 2
-
-#EXTINF:-1 tvg-id="",MATCH4 HD
-http://195.91.102.40:9981/stream/channelid/292392499?ticket=2297CB5AF609BD7D44DD1A87C9BFFC98AB7BB8FB&profile=webtv-h264-aac-matroska
 #EXTINF:-1 group-title="Sport",MATCH4 HU 🇭🇺
 http://195.189.60.31:8003/play/a0gl/index.m3u8
 #EXTINF:-1 group-title="Sport",Sport 1 HU 🇭🇺
 http://195.189.60.31:8003/play/a0f2/index.m3u8
-#EXTINF:-1,RTL HU 🇭🇺
-http://185.236.230.212:9981/play/a0a2
-#EXTINF:-1 tvg-id="",M4 HD
-http://195.91.102.40:9981/stream/channelid/778620342?
 #EXTINF:-1 group-title="Sport",M5 HU 🇭🇺
 http://195.189.60.31:8003/play/a0fd/index.m3u8
-#EXTINF:-1 tvg-id="",Spiler1 TV
-http://195.91.102.40:9981/stream/channelid/1995806516?ticket=93902AE26331E9B2D6E8F4E9C42B4B440B69B5BD&profile=webtv-h264-aac-matroska
-#EXTINF:-1 tvg-id="",Spiler2 TV
-http://195.91.102.40:9981/stream/channelid/1477584591?ticket=6EA922EF610B283F5B5783EF62D77D911FFB450D&profile=webtv-h264-aac-matroska
-#EXTINF:-1 tvg-id="",Sport1
-http://195.91.102.40:9981/stream/channelid/1363207875?ticket=E6BD2B86529D08B665F70ECDAB01326678DB506D&profile=webtv-h264-aac-matroska
-#EXTINF:-1 tvg-id="",Sport2
-http://195.91.102.40:9981/stream/channelid/1572516401?ticket=6C346D1D9D67379FD64F09B07B5AC026793C49F1&profile=webtv-h264-aac-matroska
 
 #EXTINF:-1,|NL| Ziggo sport 1 🇳🇱
 http://185.236.230.212:9982/play/a09f
@@ -586,27 +524,9 @@ http://185.236.230.212:9982/play/a09f
 http://185.236.230.212:9982/play/a099
 #EXTINF:-1,|NL| Ziggo sport 6 🇳🇱
 http://185.236.230.212:9982/play/a09a
-#EXTINF:-1,|NL| ESPN 1 HD 🇳🇱
-http://185.236.230.212:9981/play/a09s
-#EXTINF:-1,|NL| ESPN 2 HD 🇳🇱
-http://185.236.230.212:9981/play/a0ah
-#EXTINF:-1,|NL| ESPN 4 HD 🇳🇱
-http://185.236.230.212:9981/play/a09p
-
-#EXTINF:0,SKY SPORTS MAIN EVENT UHD 🇬🇧
-http://7pal.short.gy/SSMEuhd
-#EXTINF:0,TNT SPORTS 1 🇺🇸
-http://7pal.short.gy/tntspts1
-#EXTINF:0,TNT SPORTS 2 🇺🇸
-http://7pal.short.gy/tntspts2
-#EXTINF:0,TNT SPORTS 3 🇺🇸
-http://7pal.short.gy/tntspts3
 
 #EXTINF:0 tvg-name="NHL Network" tvg-logo="http://troya.info/images/chIcons/1067.png" tvg-rec="0",NHL Network 🇺🇸
 http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="MUTV.HD.uk" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/MUTV.webp",MUTV 🇬🇧
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Real.Madrid.TV.es" tvg-name="" group-title="Sport" tvg-logo="https://www.realmadrid.com/apple-icon-120x120.png",Real Madrid Tv 🇬🇧
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
@@ -616,23 +536,7 @@ http://45.184.87.142:8000/play/a045
 
 #EXTINF:-1 tvg-id="Eurosport.1.es" tvg-name="" group-title="Sport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇪🇸 
 http://185.189.225.157/EuroSport1/index.m3u8 
-#EXTINF:-1 tvg-id="EUROSPORT.1.BRITISH.eurosport" tvg-name="" group-title="Sport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇬🇧 
-http://62.210.123.134:98/live/an75d/75d/144.ts
-#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="" group-title="Sport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇬🇧 
-http://62.210.123.134:98/live/an75d/75d/145.ts
-#EXTINF:-1,Eurosport 1 DE 🇩🇪
-http://188.60.179.180:8000/play/xxEurosport1DExx
-#EXTINF:-1 group-title="-",Eurosport 1 DE 🇩🇪
-http://161.123.69.10:8000/play/a032
 
-#EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="" group-title="Tennis 🎾🏓🏸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tennistv.webp",Tennis tv 🇺🇸
-http://49.0.64.96:8007/TENNIS
-
-#EXTINF:-1,ORF SPORT+ HD 🇩🇪
-http://188.60.179.180:7000/play/xxORFSportPlusHDxx
-
-#EXTINF:-1,CANAL+ SPORT 2 HD 🇵🇱
-http://185.236.229.62:9981/play/a05t
 #EXTINF:-1,CANAL+ SPORT 3 HD 🇵🇱
 http://185.236.229.62:9981/play/a05e
 #EXTINF:-1,CANAL+ SPORT 3 HD 🇵🇱
@@ -686,97 +590,66 @@ http://185.236.229.62:9981/play/a02k
 #EXTINF:-1,Super Polsat HD 🇵🇱
 http://185.236.229.62:9981/play/a043
 
-#EXTINF:-1 tvg-id="IT:.Sport.Italia.it" group-title="Sport" tvg-logo="https://www.sportitalia.it/wp-content/uploads/2024/02/cropped-logo-si-180x180.png",Sport Italia 🇮🇹
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
-#EXTINF:-1,Rai Sport + HD 🇮🇹
-http://188.60.179.180:8000/play/xxRaiSportPlusHDxx
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/bein-sports.png",Bein SportXtra ñ 🇪🇸
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png",SkySport F1 🇬🇧
 http://cord-cutter.net:8080/live/95549031/69361122/35244.ts
-#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsaction.png",SkySport Action 🇬🇧
-http://cord-cutter.net:8080/live/95549031/69361122/53705.ts
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmix.png",SkySport Mix 🇬🇧
 http://cord-cutter.net:8080/live/95549031/69361122/53706.ts
 #EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsracing.png",SkySport Racing 🇬🇧
 http://cord-cutter.net:8080/live/95549031/69361122/76842.ts
 
-#EXTINF:-1,TNT SPORTS 1 🇺🇸
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
-#EXTINF:-1,TNT SPORTS 2 🇺🇸
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp2
-#EXTINF:-1,TNT SPORTS 3 🇺🇸
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp3
-
-#EXTINF:-1 group-title="-",Claro Sports 1 HD
+#EXTINF:-1 group-title="-",Claro Sports 1
 http://190.149.62.46:8004/play/a0jl/index.m3u8
-#EXTINF:-1 group-title="-",Claro Sports 2 HD
+#EXTINF:-1 group-title="-",Claro Sports 2
 http://190.149.62.46:8004/play/a0jm/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 4 HD
+#EXTINF:-1 group-title="-",ESPN 4
 http://190.149.62.46:8004/play/a0kr/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 2 HD
+#EXTINF:-1 group-title="-",ESPN 2
 http://190.149.62.46:8004/play/a0nv/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 3 HD
+#EXTINF:-1 group-title="-",ESPN 3
 http://190.149.62.46:8004/play/a0nw/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 4
 http://190.149.62.46:8004/play/a0m7/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 6 HD
+#EXTINF:-1 group-title="-",ESPN 6
 http://190.149.62.46:8004/play/a0nx/index.m3u8
-#EXTINF:-1 group-title="-",ESPN HD
+#EXTINF:-1 group-title="-",ESPN
 http://190.149.62.46:8004/play/a0nu/index.m3u8
-#EXTINF:-1,TNT Sports Premiun HD
+#EXTINF:-1,TNT Sports Premiun
 http://190.102.246.93:9005/play/a059
-#EXTINF:-1,TNT Sports Premiun HD
+#EXTINF:-1,TNT Sports Premiun
 http://190.102.246.93:9005/play/a025
 
-#EXTINF:-1,Bein Sport 1 HD
+#EXTINF:-1,Bein Sport 1
 http://99.27.51.147:8080/BeinSport/index.m3u8
-#EXTINF:-1,Bein Sport 2 HD
-http://99.27.51.147:8080/BeinSport2/index.m3u8
-#EXTINF:-1,Bein Sport 3 HD
+#EXTINF:-1,Bein Sport 3
 http://99.27.51.147:8080/BeinSport3/index.m3u8
-#EXTINF:-1,EuroSport 1 HD
-http://99.27.51.147:8080/EuroSport/index.m3u8
-#EXTINF:-1,EuroSport 2 HD
-http://99.27.51.147:8080/EuroSport2/index.m3u8
 
-#EXTINF:-1 group-title="-",142_Nova Sport HD
-http://87.120.179.187:8000/play/a00l
-http://87.120.179.187:8000/play/a02f
-#EXTINF:-1 group-title="-",145_Diema Sport HD
-http://87.120.179.187:8000/play/a00b
-#EXTINF:-1 group-title="-",146_Diema Sport 2
-http://87.120.179.187:8000/play/a01j
-#EXTINF:-1 group-title="-",167_Max Sport 1 HD
-http://87.120.179.187:8000/play/a00k
-#EXTINF:-1 group-title="-",168_Max Sport 2 HD
-http://87.120.179.187:8000/play/a00f
 #EXTINF:-1,Nova Sport
 http://213.169.39.30:5102
-#EXTINF:-1,MAX SPORT1 HD
+#EXTINF:-1,MAX SPORT1
 http://213.169.39.30:5138
-#EXTINF:-1,MAX SPORT2 HD
+#EXTINF:-1,MAX SPORT2
 http://213.169.39.30:5140
-#EXTINF:-1,MAX SPORT3 HD
+#EXTINF:-1,MAX SPORT3
 http://213.169.39.30:5142
-#EXTINF:-1,MAX Sport 4 HD
+#EXTINF:-1,MAX Sport 4
 http://213.169.39.30:5130
-#EXTINF:-1,Diema Sport HD
+#EXTINF:-1,Diema Sport
 http://213.169.39.30:5134
-#EXTINF:-1,Diema Sport 2 HD
+#EXTINF:-1,Diema Sport 2
 http://213.169.39.30:5136
 
-#EXTINF:-1 group-title="-",141_MAX Sport 1 HD
+#EXTINF:-1 group-title="-",MAX Sport 1
 http://83.228.75.166:8000/play/a0be
-#EXTINF:-1 group-title="-",142_MAX Sport 2 HD
+#EXTINF:-1 group-title="-",MAX Sport 2
 http://83.228.75.166:8000/play/a0bf
-#EXTINF:-1 group-title="-",143_MAX Sport 3 HD
+#EXTINF:-1 group-title="-",MAX Sport 3
 http://83.228.75.166:8000/play/a0bg
-#EXTINF:-1 group-title="-",181_Eurosport HD
+#EXTINF:-1 group-title="-",Eurosport
 http://83.228.75.166:8000/play/a0bb
-#EXTINF:-1 group-title="-",182_Eurosport 2 HD
+#EXTINF:-1 group-title="-",Eurosport 2
 http://83.228.75.166:8000/play/a04b
 
 #EXTINF:-1,ESPN 2 HD
@@ -811,282 +684,6 @@ http://190.102.246.93:9005/play/a00x
 http://190.102.246.93:9005/play/a059
 #EXTINF:-1,TNT Sports Premiun HD
 http://190.102.246.93:9005/play/a025
-
-#EXTINF:-1 tvg-id="none" tvg-name="TR: Bein Sport 1 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Sport Channel ", TR: Bein Sport 1 HD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2621&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="TR: Bein Sport 2 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Sport Channel ", TR: Bein Sport 2 HD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2620&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="TR: Bein Sport 3 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Sport Channel ", TR: Bein Sport 3 HD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2619&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="PPV - 8" tvg-logo="noimg.jpg" group-title="Live-Tv: ", PPV - 8
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3919&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="PPV - 7" tvg-logo="noimg.jpg" group-title="Live-Tv: ", PPV - 7
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3918&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="PPV - 6" tvg-logo="noimg.jpg" group-title="Live-Tv: ", PPV - 6
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3917&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="PPV - 5" tvg-logo="noimg.jpg" group-title="Live-Tv: ", PPV - 5
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3916&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="PPV - 4" tvg-logo="noimg.jpg" group-title="Live-Tv: ", PPV - 4
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3915&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="PPV - 3" tvg-logo="noimg.jpg" group-title="Live-Tv: ", PPV - 3
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3914&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="PPV - 2" tvg-logo="noimg.jpg" group-title="Live-Tv: ", PPV - 2
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3913&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="PPV - 1" tvg-logo="noimg.jpg" group-title="Live-Tv: ", PPV - 1
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3912&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Eleven Sports 1 4K RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Eleven Sports 1 4K RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3911&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="SPORTOWA TV" tvg-logo="noimg.jpg" group-title="Live-Tv: ", SPORTOWA TV
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3910&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="E-Sport" tvg-logo="noimg.jpg" group-title="Live-Tv: ", E-Sport
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3909&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Gametoon RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Gametoon RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3908&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Polsat Games RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Polsat Games RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3907&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Golf Zone RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Golf Zone RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3906&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="FightKlub RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", FightKlub RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3905&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="FightBox RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", FightBox RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3904&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Extreme Sports RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Extreme Sports RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3903&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="SportKlub RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", SportKlub RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3902&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="TVP Sport RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", TVP Sport RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3901&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Motowizja RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Motowizja RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3900&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Canal+ Now RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Canal+ Now RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3899&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Polsat Sport Fight RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Polsat Sport Fight RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3898&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Polsat Sport Premium 6 RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Polsat Sport Premium 6 RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3897&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Polsat Sport Premium 5 RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Polsat Sport Premium 5 RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3896&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Polsat Sport Premium 4 RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Polsat Sport Premium 4 RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3895&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Polsat Sport Premium 3 RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Polsat Sport Premium 3 RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3894&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Polsat Sport Premium 2 RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Polsat Sport Premium 2 RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3893&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Polsat Sport Premium 1 RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Polsat Sport Premium 1 RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3892&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Polsat Sport 3 RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Polsat Sport 3 RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3891&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Polsat Sport 2 RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Polsat Sport 2 RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3890&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Polsat Sport 1 RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Polsat Sport 1 RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3889&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Eleven Sports 4 RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Eleven Sports 4 RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3888&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Eleven Sports 3 RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Eleven Sports 3 RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3887&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Eleven Sports 2 RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Eleven Sports 2 RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3886&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Eleven Sports 1 RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Eleven Sports 1 RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3885&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Eurosport 2 RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Eurosport 2 RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3884&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Eurosport 1 RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Eurosport 1 RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3883&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Canal+ Extra 7 HD RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Canal+ Extra 7 HD RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3882&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Canal+ Extra 6 HD RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Canal+ Extra 6 HD RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3881&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Canal+ Extra 5 HD RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Canal+ Extra 5 HD RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3880&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Canal+ Extra 4 HD RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Canal+ Extra 4 HD RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3879&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Canal+ Extra 3 HD RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Canal+ Extra 3 HD RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3878&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Canal+ Extra 2 HD RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Canal+ Extra 2 HD RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3877&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Canal+ Extra 1 HD RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Canal+ Extra 1 HD RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3876&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Canal+ Sport 5 RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Canal+ Sport 5 RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3875&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Canal+ Sport 4 RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Canal+ Sport 4 RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3874&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Canal+ Sport 3 RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Canal+ Sport 3 RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3873&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Canal+ Sport 2 RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Canal+ Sport 2 RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3872&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Canal+ Sport 1 RAW" tvg-logo="noimg.jpg" group-title="Live-Tv: ", Canal+ Sport 1 RAW
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3871&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="EX-YU: Arena Sport Premium 3" tvg-logo="noimg.jpg" group-title="Live-Tv: EURO | EX-YU ", EX-YU: Arena Sport Premium 3
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=885&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="EX_YU: Arena Sport Premium 2" tvg-logo="noimg.jpg" group-title="Live-Tv: EURO | EX-YU ", EX_YU: Arena Sport Premium 2
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=884&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="EX-YU: Arena Sport Premium 1" tvg-logo="noimg.jpg" group-title="Live-Tv: EURO | EX-YU ", EX-YU: Arena Sport Premium 1
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=883&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="EX-YU: SPORTSKA TV" tvg-logo="noimg.jpg" group-title="Live-Tv: EURO | EX-YU ", EX-YU: SPORTSKA TV
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=861&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="EX-YU: SPORT TV 1" tvg-logo="noimg.jpg" group-title="Live-Tv: EURO | EX-YU ", EX-YU: SPORT TV 1
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=860&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="EX-YU: SPORT KLUB GOLF" tvg-logo="noimg.jpg" group-title="Live-Tv: EURO | EX-YU ", EX-YU: SPORT KLUB GOLF
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=859&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="EX-YU: SPORT KLUB 9" tvg-logo="noimg.jpg" group-title="Live-Tv: EURO | EX-YU ", EX-YU: SPORT KLUB 9
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=858&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="EX-YU: SPORT KLUB 8" tvg-logo="noimg.jpg" group-title="Live-Tv: EURO | EX-YU ", EX-YU: SPORT KLUB 8
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=857&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: ", PT: ELEVEN SPORTS 5 HD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=263&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: ", PT: ELEVEN SPORTS 4 HD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=262&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: ", PT: ELEVEN SPORTS 3 HD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=261&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: ", PT: SPORT TV 4 FHD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=260&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="PT: SPORT TV 3 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: ", PT: SPORT TV 3 HD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=259&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="PT: SPORT TV 2 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: ", PT: SPORT TV 2 HD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=258&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: ", PT: SPORT TV 1 FHD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=257&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="CRO: SPORT KLUB 6" tvg-logo="noimg.jpg" group-title="Live-Tv: EURO | CROATIA ", CRO: SPORT KLUB 6
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3451&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="CRO: SPORT KLUB 5" tvg-logo="noimg.jpg" group-title="Live-Tv: EURO | CROATIA ", CRO: SPORT KLUB 5
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3450&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="CRO: SPORT KLUB 4" tvg-logo="noimg.jpg" group-title="Live-Tv: EURO | CROATIA ", CRO: SPORT KLUB 4
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3449&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="CRO: SPORT KLUB 3" tvg-logo="noimg.jpg" group-title="Live-Tv: EURO | CROATIA ", CRO: SPORT KLUB 3
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3448&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="CRO: SPORT KLUB 2" tvg-logo="noimg.jpg" group-title="Live-Tv: EURO | CROATIA ", CRO: SPORT KLUB 2
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3447&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="CRO: SPORT KLUB 1" tvg-logo="noimg.jpg" group-title="Live-Tv: EURO | CROATIA ", CRO: SPORT KLUB 1
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3446&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="CRO: ARENA SPORT 6" tvg-logo="noimg.jpg" group-title="Live-Tv: EURO | CROATIA ", CRO: ARENA SPORT 6
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3445&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="CRO: ARENA SPORT 5" tvg-logo="noimg.jpg" group-title="Live-Tv: EURO | CROATIA ", CRO: ARENA SPORT 5
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3444&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="CRO: ARENA SPORT 4" tvg-logo="noimg.jpg" group-title="Live-Tv: EURO | CROATIA ", CRO: ARENA SPORT 4
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3443&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="CRO: ARENA SPORT 3" tvg-logo="noimg.jpg" group-title="Live-Tv: EURO | CROATIA ", CRO: ARENA SPORT 3
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3442&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="CRO: ARENA SPORT 2" tvg-logo="noimg.jpg" group-title="Live-Tv: EURO | CROATIA ", CRO: ARENA SPORT 2
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3441&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="CRO: ARENA SPORT 1" tvg-logo="noimg.jpg" group-title="Live-Tv: EURO | CROATIA ", CRO: ARENA SPORT 1
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3440&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="CRO: MAX SPORT 4" tvg-logo="noimg.jpg" group-title="Live-Tv: EURO | CROATIA ", CRO: MAX SPORT 4
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3439&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="CRO: MAX SPORT 3" tvg-logo="noimg.jpg" group-title="Live-Tv: EURO | CROATIA ", CRO: MAX SPORT 3
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3438&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="CRO: MAX SPORT 2" tvg-logo="noimg.jpg" group-title="Live-Tv: EURO | CROATIA ", CRO: MAX SPORT 2
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3437&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="CRO: MAX SPORT 1" tvg-logo="noimg.jpg" group-title="Live-Tv: EURO | CROATIA ", CRO: MAX SPORT 1
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=3436&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="FightBox" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", FightBox
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2980&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Motor Vision" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Motor Vision
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2979&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Trace Sports Star HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Trace Sports Star HD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2978&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Pro Arena FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Pro Arena FHD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2977&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Pro Arena" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Pro Arena
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2976&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Sport Extra FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Sport Extra FHD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2975&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Prima Sport 5 HDR" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Prima Sport 5 HDR
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2974&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Prima Sport 5 FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Prima Sport 5 FHD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2973&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Prima Sport 5 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Prima Sport 5 HD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2972&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Prima Sport 4 HDR" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Prima Sport 4 HDR
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2971&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Prima Sport 4 FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Prima Sport 4 FHD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2970&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Prima Sport 4 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Prima Sport 4 HD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2969&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Prima Sport 3 HDR" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Prima Sport 3 HDR
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2968&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Prima Sport 3 FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Prima Sport 3 FHD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2967&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Prima Sport 3 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Prima Sport 3 HD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2966&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Prima Sport 2 HDR" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Prima Sport 2 HDR
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2965&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Prima Sport 2 FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Prima Sport 2 FHD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2964&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Prima Sport 2 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Prima Sport 2 HD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2963&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Prima Sport 1 HDR" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Prima Sport 1 HDR
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2962&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Prima Sport 1 FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Prima Sport 1 FHD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2961&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Prima Sport 1 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Prima Sport 1 HD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2960&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Prima 4K" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Prima 4K
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2959&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="EuroSport 2 FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", EuroSport 2 FHD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2958&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="EuroSport 2 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", EuroSport 2 HD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2957&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="EuroSport 1 FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", EuroSport 1 FHD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2956&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="EuroSport 1 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", EuroSport 1 HD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2955&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="EuroSport1 Romania FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", EuroSport1 Romania FHD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2954&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Eurosport 4K" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Eurosport 4K
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2953&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Digi Sport 4 HDR" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Digi Sport 4 HDR
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2952&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Digi Sport 4 FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Digi Sport 4 FHD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2951&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Digi Sport 4 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Digi Sport 4 HD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2950&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Digi Sport 3 HDR" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Digi Sport 3 HDR
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2949&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Digi Sport 3 FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Digi Sport 3 FHD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2948&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Digi Sport 3 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Digi Sport 3 HD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2947&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Digi Sport 2 HDR" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Digi Sport 2 HDR
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2946&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Digi Sport 2 FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Digi Sport 2 FHD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2945&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Digi Sport 2 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Digi Sport 2 HD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2944&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Digi Sport 1 HDR" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Digi Sport 1 HDR
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2943&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Digi Sport 1 FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Digi Sport 1 FHD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2942&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Digi Sport 1 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Digi Sport 1 HD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2941&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="Digi Sport 1 4K" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", Digi Sport 1 4K
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2940&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="TVR Sport FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", TVR Sport FHD
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2939&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="⚡⚡⚡ CANALE SPORT ⚡⚡⚡" tvg-logo="noimg.jpg" group-title="Live-Tv: Romania ", ⚡⚡⚡ CANALE SPORT ⚡⚡⚡
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2938&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="|CZ| NOVA SPORT 1 HD🇨🇿" tvg-logo="noimg.jpg" group-title="Live-Tv: SPORT ", |CZ| NOVA SPORT 1 HD🇨🇿
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=5487&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="|CZ| CANAL+ SPORT 2 HD🇨🇿" tvg-logo="noimg.jpg" group-title="Live-Tv: SPORT ", |CZ| CANAL+ SPORT 2 HD🇨🇿
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=5450&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="|CZ| SPORT 2 HD CZ/SK🇨🇿" tvg-logo="noimg.jpg" group-title="Live-Tv: SPORT ", |CZ| SPORT 2 HD CZ/SK🇨🇿
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=5496&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="|CZ| CT SPORT HD🇨🇿" tvg-logo="noimg.jpg" group-title="Live-Tv: sport ", |CZ| CT SPORT HD🇨🇿
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=5461&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-#EXTINF:-1 tvg-id="none" tvg-name="|SK| NOVA SPORT 5 HD🇸🇰" tvg-logo="noimg.jpg" group-title="Live-Tv: SPORT ", |SK| NOVA SPORT 5 HD🇸🇰
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=5556&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
-
-#EXTINF:-1,Hustler
-https://176.116.105.82/Hustler/index.m3u8
-#EXTINF:-1,Extasy HD
-https://176.116.105.82/Extasy_HD/index.m3u8
-#EXTINF:-1,Dorcel HD
-https://176.116.105.82/Dorcel_HD/index.m3u8
-#EXTINF:-1,Hustler
-https://176.116.105.82/Hustler/index.m3u8
-#EXTINF:-1,Erox HD
-https://176.116.105.82/Erox_HD/index.m3u8
-#EXTINF:-1,EroXXX HD
-https://176.116.105.82/EroXXX_HD/index.m3u8
 
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Express
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=971&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
@@ -1142,8 +739,6 @@ http://stream.funradio.sk:8000/dance128.mp3
 http://live.slovakradio.sk:8000/FM_128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio Rock
 https://stream.bauermedia.sk/rock-hi.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio TechnoBase FM
-http://listen.technobase.fm/aac-hd.pls
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Zvuk mora
 http://ice6.abradio.cz/relax-sea128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Zvuk búrky
@@ -1184,8 +779,6 @@ https://live.radiospinner.com/vcltrnc-96
 http://strm112.1.fm/dance_mobile_mp3
 #EXTINF:-1 group-title="1 FM" tvg-logo="https://i.postimg.cc/yx14KkcR/unnamed.png",1 FM - Deep House
 http://strm112.1.fm/deephouse_mobile_mp3
-#EXTINF:-1 group-title="PC Radio" tvg-logo="https://pcradio.ru/images/stations/61b09d036eace.jpg",Deep House
-https://str6.pcradio.ru/deep_house-med
 
 #EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Prešov stanica
 http://stream.kukaj.se/stream/1/video.m3u8
@@ -1201,8 +794,6 @@ http://stream.kukaj.se/stream/18/video.m3u8
 http://stream.kukaj.se/stream/2/video.m3u8
 #EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Štrbské pleso zjazdovky
 http://stream.profi-net.sk:1935/tmr/STREAM32.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Bociany
-https://kukaj.profi-net.sk/live/BOCIANY_BESENOVA_4K.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Tatranská Lomnica štart
 http://stream.profi-net.sk:1935/tmr/STREAM33.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Kamzíky Tatry
@@ -1230,42 +821,7 @@ http://stream.kukaj.se/stream/7/video.m3u8
 #EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Rajecké Teplice
 https://stream.profi-net.sk/commercial/RAJECKETEPLICE.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Tatry
-http://88.212.15.20:16000/udp/232.232.70.2:5004
-#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Štrbské Pleso (pohľad na Móryho vyhliadku)
-http://stream.strba.sk:1935/strba/MORYHO_VYH.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Štrbské Pleso - Námestie MS
-https://stream.profi-net.sk/strba/VYHLAD_NAMESTIE.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Kojsova Hola
-http://88.212.15.20:16000/udp/232.232.70.16:5004
-#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Sturova aupark
-http://88.212.15.20:16000/udp/232.232.70.10:5004
-#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Aupark
-http://88.212.15.20:16000/udp/232.232.70.11:5004
-#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Jazero plocha
-http://88.212.15.20:16000/udp/232.232.70.1:5004
-#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Secovska
-http://88.212.15.20:16000/udp/232.232.70.4:5004
-#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Hlinkova
-http://88.212.15.20:16000/udp/232.232.70.5:5004
-#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Amfiteater
-http://88.212.15.20:16000/udp/232.232.70.6:5004
-#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Jazero plocha
-http://88.212.15.20:16000/udp/232.232.70.8:5004
-#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Nizne Kapustniky
-http://88.212.15.20:16000/udp/232.232.70.9:5004
-#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Mier
-http://88.212.15.20:16000/udp/232.232.70.12:5004
-#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Magistrat
-http://88.212.15.20:16000/udp/232.232.70.13:5004
-#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Humenne
-http://88.212.15.20:16000/udp/232.232.70.14:5004
-#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Moldavska
-http://88.212.15.20:16000/udp/232.232.70.15:5004
-#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Košice Herlianska
-http://88.212.15.20:16000/udp/232.232.70.20:5004
-#EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Banská Štiavnica
-http://88.212.15.20:16000/udp/232.232.70.22:5004
+
 #EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Prešov stanica
 http://stream.kukaj.se/stream/1/video.m3u8
 #EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Prešov, konkatedrála sv. Mikuláša
@@ -1489,14 +1045,12 @@ http://178.33.239.54:8080/302/index.m3u8
 http://178.23.88.55/Arena_sport/index.m3u8
 #EXTINF:-1,Sport1
 http://178.23.88.55/Sport1/index.m3u8
-#EXTINF:-1,Nova_Sport
-http://178.23.88.55/Nova_Sport_2/index.m3u8
 #EXTINF:-1,Eurosport_1
 http://178.23.88.55/Eurosport_1/index.m3u8
 #EXTINF:-1,Eurosport_2
 http://178.23.88.55/Eurosport_2/index.m3u8
 
-#EXTINF:0 tvg-id="Xeacbd3c220de39cfa7c855755d1291cf" tvg-name="JOJ Sport HD" tvg-logo="https://ip-tv.dev/images/ico/8546.png" , JOJ Sport HD
+#EXTINF:0 tvg-id="" tvg-name="JOJ Sport HD" tvg-logo="https://ip-tv.dev/images/ico/8546.png" , JOJ Sport HD
 #EXTGRP:SkyLink
 http://gr.seetv.cc/play/1134/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:0 tvg-id="X6fda506ca37562e7c8a37011eecb6995" tvg-name="CANAL+ Sport (CZ)" tvg-logo="https://ip-tv.dev/images/ico/9305.png" , CANAL+ Sport (CZ)
