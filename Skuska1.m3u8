@@ -392,6 +392,15 @@ https://176.116.105.82/NovaSport6_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal+ Sport 3.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",CANAL+ Sport 3
 
+#EXTINF:0 tvg-id="" tvg-name="CANAL+ Sport (CZ)" tvg-logo="https://ip-tv.dev/images/ico/9305.png" , CANAL+ Sport (CZ)
+#EXTGRP:SkyLink
+http://gr.seetv.cc/play/1135/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:0 tvg-id="Canal+ Sport.cz" tvg-name="CANAL+ Sport (SK)" tvg-logo="https://ip-tv.dev/images/ico/9305.png" , CANAL+ Sport (SK)
+#EXTGRP:SkyLink
+http://gr.seetv.cc/play/1136/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:0 tvg-id="Canal+ Sport 2.cz" tvg-name="CANAL+ Sport 2 (SK)" tvg-logo="https://ip-tv.dev/images/ico/10110.png" , CANAL+ Sport 2 (SK)
+#EXTGRP:SkyLink
+http://gr.seetv.cc/play/1137/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:-1 tvg-id="Arena Sport 1.cz" tvg-name="Arena Sport 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Arena_Sport_TV_1.png" group-title="Sport",Arena Sport 1
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 tvg-id="Arena Sport 2.cz" tvg-name="Arena Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Logo_Arena_Sport_TV_2.png" group-title="Sport",Arena Sport 2
@@ -1054,16 +1063,16 @@ http://178.23.88.55/Eurosport_2/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="JOJ Sport HD" tvg-logo="https://ip-tv.dev/images/ico/8546.png" , JOJ Sport HD
 #EXTGRP:SkyLink
 http://gr.seetv.cc/play/1134/FB4F94DA00C3BE0/video.m3u8
-#EXTINF:0 tvg-id="X6fda506ca37562e7c8a37011eecb6995" tvg-name="CANAL+ Sport (CZ)" tvg-logo="https://ip-tv.dev/images/ico/9305.png" , CANAL+ Sport (CZ)
+#EXTINF:0 tvg-id="" tvg-name="CANAL+ Sport (CZ)" tvg-logo="https://ip-tv.dev/images/ico/9305.png" , CANAL+ Sport (CZ)
 #EXTGRP:SkyLink
 http://gr.seetv.cc/play/1135/FB4F94DA00C3BE0/video.m3u8
-#EXTINF:0 tvg-id="Xba551cee37d621f3a459d798ae881e5e" tvg-name="CANAL+ Sport (SK)" tvg-logo="https://ip-tv.dev/images/ico/9305.png" , CANAL+ Sport (SK)
+#EXTINF:0 tvg-id="" tvg-name="CANAL+ Sport (SK)" tvg-logo="https://ip-tv.dev/images/ico/9305.png" , CANAL+ Sport (SK)
 #EXTGRP:SkyLink
 http://gr.seetv.cc/play/1136/FB4F94DA00C3BE0/video.m3u8
-#EXTINF:0 tvg-id="Xba674f276a1f7dbe4c756d9ea0b50a38" tvg-name="CANAL+ Sport 2 (SK)" tvg-logo="https://ip-tv.dev/images/ico/10110.png" , CANAL+ Sport 2 (SK)
+#EXTINF:0 tvg-id="" tvg-name="CANAL+ Sport 2 (SK)" tvg-logo="https://ip-tv.dev/images/ico/10110.png" , CANAL+ Sport 2 (SK)
 #EXTGRP:SkyLink
 http://gr.seetv.cc/play/1137/FB4F94DA00C3BE0/video.m3u8
-#EXTINF:0 tvg-id="Xfad8ef045fa357781cfb3163d4b45a09" tvg-name="Golf Channel" tvg-logo="https://ip-tv.dev/images/ico/9204.png" , Golf Channel
+#EXTINF:0 tvg-id="" tvg-name="Golf Channel" tvg-logo="https://ip-tv.dev/images/ico/9204.png" , Golf Channel
 #EXTGRP:SkyLink
 http://gr.seetv.cc/play/1138/FB4F94DA00C3BE0/video.m3u8
 
