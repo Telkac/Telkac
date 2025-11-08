@@ -180,11 +180,11 @@ http://88.212.15.19/live/test_id_hevc_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC.cz" tvg-name="Sat crime invest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Dokumentárne",TLC
 http://88.212.15.19/live/test_tlc_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC Earth.cz" tvg-logo="http://sms.cz/kategorie/televize/bmp/loga/velka/bbcearth.png",BBC Earth
-
+https://176.116.105.82/BBC_Earth_HD/index.m3u8
 #EXTINF:-1 tvg-id="HGTV.cz" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1024px-HGTV_logo.png" group-title="Dokumentárne",HGTV
-
+https://176.116.105.82/HGTV_HD/index.m3u8
 #EXTINF:-1 tvg-id="Hobbytv.cz" tvg-name="" tvg-logo="" group-title="Dokumentárne",HobbyTV
-
+https://176.116.105.82/HobbyTV_HD/index.m3u8
 #EXTINF:-1 tvg-id="Paprika.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvpaprika.png" group-title="Dokumentárne",TV Paprika
 http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Food Network.cz" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/2048px-Food_Network_logo.svg.png" group-title="Dokumentárne",Food Network
@@ -270,6 +270,7 @@ http://88.212.15.19/live/test_mtv_rocks_1200_atk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MagicTV.bg" group-title="Hudobné",Magic TV BG 🇧🇬 
 https://bss1.neterra.tv/magictv/magictv.m3u8
+http://78.108.251.7/MagicTV/mono.m3u8
 #EXTINF:-1 tvg-id="CityTV.bg" group-title="Hudobné",City TV BG 🇧🇬 
 
 #EXTINF:-1 tvg-id="Deluxe Music.cz" group-title="Hudobné",Deluxe Music DE 🇩🇪
@@ -1122,6 +1123,30 @@ http://46.36.37.186:8082/play/Golf%20Channel%20HD.m3u8
 http://46.36.37.186:8082/play/Arena%20Sport%201.m3u8
 #EXTINF:-1 provider="Oneplay" tvg-chno="52" tvg-name="Arena Sport 2" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/27abdac0-4679-48d2-bb8d-d23d8ce2a094" catchup-days="7" catchup="shift", Arena Sport 2
 http://46.36.37.186:8082/play/Arena%20Sport%202.m3u8
+
+#EXTINF:-1,Extasy HD
+https://176.116.105.82/Extasy_HD/index.m3u8
+#EXTINF:-1,Dorcel HD
+https://176.116.105.82/Dorcel_HD/index.m3u8
+#EXTINF:-1,Hustler
+https://176.116.105.82/Hustler/index.m3u8
+#EXTINF:-1,Erox HD
+https://176.116.105.82/Erox_HD/index.m3u8
+#EXTINF:-1,EroXXX HD
+https://176.116.105.82/EroXXX_HD/index.m3u8
+#EXTINF:-1,Playboy TV HD
+https://176.116.105.82/PlayboyTV_HD/index.m3u8
+#EXTINF:-1,PassionXXX HD
+https://shift03.isp.bg/PassionXXX/index.m3u8
+#EXTINF:-1,Erox HD
+https://shift03.isp.bg/Erox/index.m3u8
+#EXTINF:-1,Erox HD
+https://shift03.isp.bg/Eroxxx/index.m3u8
+#EXTINF:-1,XXL
+https://shift03.isp.bg/XXL/index.m3u8
+#EXTINF:-1,vixen HD
+http://185.188.188.237:5000/live/vixen/playlist.m3u8
+
 
 #EXTINF:-1 group-title="SPORT", POLSAT SPORT 1 HD
 http://4.team.ga:80/ch932/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW4xhEF1CwgGKWMpZCblIwmhAM6h6-3ixJg5_3vSCBKyd
