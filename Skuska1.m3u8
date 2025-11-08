@@ -126,7 +126,8 @@ http://185.188.188.237:5000/live/canalaction/playlist.m3u8
 http://185.188.188.237:5000/live/paramount/playlist.m3u8
 #EXTINF:-1 tvg-id="Epic Drama.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/ab/Epic_Drama_logo.png" group-title="Všeobecné",Epic Drama
 https://176.116.105.82/Epic_Drama_HD/index.m3u8
-#EXTINF:-1 tvg-id="Markíza International.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Mark%C3%ADza_International_%282022%29.svg/revision/latest?cb=20220811142013" group-title="Všeobecné",Markíza International
+#EXTINF:-1 tvg-id="story4.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Všeobecné",Story 4
+http://185.236.230.212:9982/play/a08w
 
 #EXTINF:-1 tvg-id="Nova International.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1-nova-international-hd.png" group-title="Všeobecné",Nova International
 http://194.160.135.34:8088/udp/233.10.47.61:1234
@@ -179,19 +180,17 @@ http://88.212.15.19/live/test_id_hevc_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC.cz" tvg-name="Sat crime invest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Dokumentárne",TLC
 http://88.212.15.19/live/test_tlc_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC Earth.cz" tvg-logo="http://sms.cz/kategorie/televize/bmp/loga/velka/bbcearth.png",BBC Earth
-http://mag-live.me:80/play/live.php?mac=00:1A:79:00:1B:CD&stream=690291&extension=ts&play.m3u8
-#EXTINF:-1 tvg-id="E! Entertainment.cz" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png" group-title="Dokumentárne",E! Entertainment
 
 #EXTINF:-1 tvg-id="HGTV.cz" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1024px-HGTV_logo.png" group-title="Dokumentárne",HGTV
 
 #EXTINF:-1 tvg-id="Hobbytv.cz" tvg-name="" tvg-logo="" group-title="Dokumentárne",HobbyTV
-https://176.116.105.82/HobbyTV_HD/index.m3u8
+
 #EXTINF:-1 tvg-id="Paprika.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvpaprika.png" group-title="Dokumentárne",TV Paprika
 http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Food Network.cz" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/2048px-Food_Network_logo.svg.png" group-title="Dokumentárne",Food Network
 
 #EXTINF:-1 tvg-id="Mňam TV.cz" tvg-name="" tvg-logo="https://imnam.cz/wp-content/uploads/2024/11/Logo_Mnam_2022-2.png" group-title="Dokumentárne",Mňam TV
-http://185.236.230.212:9982/play/a08y
+
 
 #EXTINF:-1 tvg-id="Jojko.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/815-jojko-hd.png" group-title="Detské",Jojko
 http://88.212.15.19/live/test_jojko_25p/playlist.m3u8
@@ -272,8 +271,7 @@ http://88.212.15.19/live/test_mtv_rocks_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="MagicTV.bg" group-title="Hudobné",Magic TV BG 🇧🇬 
 https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 tvg-id="CityTV.bg" group-title="Hudobné",City TV BG 🇧🇬 
-https://tv.city.bg/play/tshls/citytv/3.m3u8
-https://tv.city.bg/play/tshls/citytv/index.m3u8
+
 #EXTINF:-1 tvg-id="Deluxe Music.cz" group-title="Hudobné",Deluxe Music DE 🇩🇪
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="Deluxe Music.cz" group-title="Hudobné",Deluxe Dance Music DE 🇩🇪
@@ -290,14 +288,11 @@ http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33910
 #EXTINF:-1,Kiss tv RO 🇷🇴
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-id="MoozDance.ro" http-referrer="https://mooz.tv/live-ro/#MoozDance",Mooz Dance RO 🇷🇴
-#EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozDance
-https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
+
 #EXTINF:-1 tvg-id="MoozHits.ro" http-referrer="https://mooz.tv/live-ro/#MoozHits",Mooz Hits RO 🇷🇴
-#EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozHits
-https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
+
 #EXTINF:-1 tvg-id="MoozRo.ro" http-referrer="https://mooz.tv/live-ro/#MoozRo",Mooz RO 🇷🇴
-#EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozRo
-https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
+
 #EXTINF:-1 tvg-id="RockTV.ro",Rock TV RO 🇷🇴
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1,HIT Music Channel RO 🇷🇴
@@ -317,19 +312,13 @@ https://s-pl-01.mediatool.tv/playout/shpl-abr/index.m3u8
 #EXTINF:0,group-title="Hudobné",VH1 🇺🇸
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 
-#EXTINF:-1 group-title="-",Deluxe_Dance BG
-http://83.228.75.166:8000/play/a0bi
-#EXTINF:-1 group-title="-",Deluxe Rap BG
-http://83.228.75.166:8000/play/a0by
-#EXTINF:-1 group-title="-",City TV BG
-http://83.228.75.166:8000/play/a06c
 #EXTINF:-1 group-title="-",Hiel Music
 https://live.obslivestream.com/hielmusic/index.m3u8
 
 #EXTINF:-1 tvg-id="SENZI.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1410-senzi-hd.png" group-title="Hudobné",SENZI HD
 http://88.212.15.19/live/test_senzi_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Šlágr Originál.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/%C5%A0lagr-logo.png" group-title="Hudobné",Šlágr 1
-http://185.236.230.212:9981/play/a0ci
+
 #EXTINF:-1 tvg-id="Šlágr Muzika.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/%C5%A0l%C3%A1gr_2.png" group-title="Hudobné",Šlágr 2
 http://212.102.38.45/live/test_slagr_2_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="Premium.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://slagrtv.cz/img/slagr-premium-2-logo.png" group-title="Hudobné",Šlágr Premium
