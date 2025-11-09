@@ -346,7 +346,6 @@ http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nova Sport 1.cz" tvg-name="Nova Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_Sport_1_2024.png" group-title="Sport",Nova Sport 1
-http://194.160.135.34:8088/udp/233.10.47.60:1234
 http://185.188.188.237:5000/live/novasport1/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Sport 2.cz" tvg-name="Nova Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png" group-title="Sport",Nova Sport 2
 http://185.188.188.237:5000/live/novasport2/playlist.m3u8
@@ -1176,6 +1175,278 @@ http://85.11.144.9:50999/23
 http://85.11.144.9:50999/24
 #EXTINF:-1,Arena 5 HD
 http://85.11.144.9:50999/25
+
+#EXTINF:0 tvg-id="Xbox-sportcast-live4" tvg-name="BOX SportCast Live 4 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live4.png" , BOX SportCast Live 4 HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/4227/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live5" tvg-name="BOX SportCast Live 5 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live5.png" , BOX SportCast Live 5 HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/4228/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live6" tvg-name="BOX SportCast Live 6 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live6.png" , BOX SportCast Live 6 HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/4232/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live7" tvg-name="BOX SportCast Live 7 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live7.png" , BOX SportCast Live 7 HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/4233/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live8" tvg-name="BOX SportCast Live 8 HD" tvg-logo="https://ip-tv.dev/images/epg/4234.png?v1743766406" , BOX SportCast Live 8 HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/4234/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live9" tvg-name="BOX SportCast Live 9 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live9.png" , BOX SportCast Live 9 HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/4235/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-name="MMA Junkie" tvg-logo="https://ip-tv.dev/images/ico/MMAJunkie.png" , MMA Junkie
+#EXTGRP:Спорт
+http://de.online24.pm/play/5718/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-name="Dubai Sports 2" tvg-logo="https://ip-tv.dev/images/ico/dubaisports2.png" , Dubai Sports 2
+#EXTGRP:Спорт
+http://de.online24.pm/play/5406/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-name="Dubai Sports 3" tvg-logo="https://ip-tv.dev/images/ico/dubaisports3.png" , Dubai Sports 3
+#EXTGRP:Спорт
+http://de.online24.pm/play/5407/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xdiema-sport-1" tvg-name="Diema Sport HD" tvg-logo="https://ip-tv.dev/images/ico/diema-sport-1.png" , Diema Sport HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/51002/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xdiema-sport-2" tvg-name="Diema Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/diema-sport-2.png" , Diema Sport 2 HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/51003/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xdiema-sport-3" tvg-name="Diema Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/diema-sport-3.png" , Diema Sport 3 HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/51004/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xdiema-sport-2" tvg-name="Diema Sport 2 4K" tvg-logo="https://ip-tv.dev/images/ico/diema-sport-2.png" , Diema Sport 2 4K
+#EXTGRP:Спорт
+http://de.online24.pm/play/51001/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xdiema-sport-3" tvg-name="Diema Sport 3 4K" tvg-logo="https://ip-tv.dev/images/epg/51000.jpg?v1743766303" , Diema Sport 3 4K
+#EXTGRP:Спорт
+http://de.online24.pm/play/51000/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xclarity4k-edinoborstva" tvg-name="Clarity4K Единоборства" tvg-logo="https://ip-tv.dev/images/ico/clarity4k-edinoborstva.png" , Clarity4K Единоборства
+#EXTGRP:Спорт
+http://de.online24.pm/play/4611/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-name="Abu Dhabi Sports 2 FHD" tvg-logo="https://ip-tv.dev/images/epg/51010.jpg?v1743766350" , Abu Dhabi Sports 2 FHD
+#EXTGRP:Спорт
+http://de.online24.pm/play/51010/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xbelarus5" tvg-name="Беларусь 5" tvg-logo="https://ip-tv.dev/epg/icon/belarus5.png" , Беларусь 5
+#EXTGRP:Беларусь
+http://de.online24.pm/play/1467/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xsport1-lt" tvg-name="Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/sport1-lt.png" tvg-rec="5" timeshift="5", Sport 1 HD
+#EXTGRP:Литва
+http://de.online24.pm/play/3714/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xsport1-baltic" tvg-name="Sport 1 Baltic" tvg-logo="https://ip-tv.dev/images/ico/sport1-baltic.png" tvg-rec="5" timeshift="5", Sport 1 Baltic
+#EXTGRP:Литва
+http://de.online24.pm/play/876/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xsport2-baltic" tvg-name="Sport 2 Baltic" tvg-logo="https://ip-tv.dev/images/ico/sport2-baltic.png" tvg-rec="5" timeshift="5", Sport 2 Baltic
+#EXTGRP:Литва
+http://de.online24.pm/play/6972/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-name="Sport 4" tvg-logo="https://ip-tv.dev/images/ico/sport4-ua.png" , Sport 4
+#EXTGRP:Литва
+http://de.online24.pm/play/6708/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xtvplay-sports" tvg-name="Go3 Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/tvplay-sports.png" tvg-rec="5" timeshift="5", Go3 Sport 1 HD
+#EXTGRP:Литва
+http://de.online24.pm/play/6709/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xtvplay-sports-plus" tvg-name="Go3 Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/tvplay-sports-plus.png" tvg-rec="5" timeshift="5", Go3 Sport 2 HD
+#EXTGRP:Литва
+http://de.online24.pm/play/6710/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xtv3-sport-3" tvg-name="Go3 Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/tv3-sport-3.png" tvg-rec="5" timeshift="5", Go3 Sport 3 HD
+#EXTGRP:Литва
+http://de.online24.pm/play/6711/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xtv3-sport-open" tvg-name="Go3 Sport Open HD" tvg-logo="https://ip-tv.dev/images/ico/tv3-sport-open.png" tvg-rec="5" timeshift="5", Go3 Sport Open HD
+#EXTGRP:Литва
+http://de.online24.pm/play/6712/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xfilmzone-lv" tvg-name="Filmzone HD" tvg-logo="https://ip-tv.dev/images/ico/filmzone.png" tvg-rec="5" timeshift="5", Filmzone HD
+#EXTGRP:Латвия
+http://de.online24.pm/play/6729/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xtvplay-sports" tvg-name="Go3 Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/tvplay-sports.png" tvg-rec="5" timeshift="5", Go3 Sport 1 HD
+#EXTGRP:Латвия
+http://de.online24.pm/play/6718/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xtvplay-sports-plus" tvg-name="Go3 Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/tvplay-sports-plus.png" tvg-rec="5" timeshift="5", Go3 Sport 2 HD
+#EXTGRP:Латвия
+http://de.online24.pm/play/6719/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xtv3-sport-3" tvg-name="Go3 Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/tv3-sport-3.png" tvg-rec="5" timeshift="5", Go3 Sport 3 HD
+#EXTGRP:Латвия
+http://de.online24.pm/play/6720/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xgo3-sport4" tvg-name="Go3 Sport 4 HD" tvg-logo="https://ip-tv.dev/images/ico/go3-sport4.png" tvg-rec="5" timeshift="5", Go3 Sport 4 HD
+#EXTGRP:Латвия
+http://de.online24.pm/play/6721/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xtv3-sport-open" tvg-name="Go3 Sport Open HD" tvg-logo="https://ip-tv.dev/images/ico/tv3-sport-open.png" tvg-rec="5" timeshift="5", Go3 Sport Open HD
+#EXTGRP:Латвия
+http://de.online24.pm/play/6722/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xbest4sport" tvg-name="Best4Sport HD" tvg-logo="https://ip-tv.dev/images/ico/best4sport.png" tvg-rec="5" timeshift="5", Best4Sport HD
+#EXTGRP:Латвия
+http://de.online24.pm/play/6726/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xbest4sport2" tvg-name="Best4Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/best4sport2.png" tvg-rec="5" timeshift="5", Best4Sport 2 HD
+#EXTGRP:Латвия
+http://de.online24.pm/play/6725/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xtvplay-sports" tvg-name="Go3 Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/tvplay-sports.png" tvg-rec="5" timeshift="5", Go3 Sport 1 HD
+#EXTGRP:Эстония
+http://de.online24.pm/play/6713/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xtvplay-sports-plus" tvg-name="Go3 Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/tvplay-sports-plus.png" tvg-rec="5" timeshift="5", Go3 Sport 2 HD
+#EXTGRP:Эстония
+http://de.online24.pm/play/6714/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xtv3-sport-3" tvg-name="Go3 Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/tv3-sport-3.png" tvg-rec="5" timeshift="5", Go3 Sport 3 HD
+#EXTGRP:Эстония
+http://de.online24.pm/play/6715/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xgo3-sport4" tvg-name="Go3 Sport 4 HD" tvg-logo="https://ip-tv.dev/images/ico/go3-sport4.png" tvg-rec="5" timeshift="5", Go3 Sport 4 HD
+#EXTGRP:Эстония
+http://de.online24.pm/play/6716/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sport-bl1" tvg-name="Sky Sport Bundesliga HD" tvg-logo="https://ip-tv.dev/images/ico/sky-sport-bl1.png" tvg-rec="5" timeshift="5", Sky Sport Bundesliga HD
+#EXTGRP:Германия
+http://de.online24.pm/play/836/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sport-aus" tvg-name="Sky Sport Austria HD DE" tvg-logo="https://ip-tv.dev/images/epg/5129.png?v1743758276" tvg-rec="5" timeshift="5", Sky Sport Austria HD DE
+#EXTGRP:Германия
+http://de.online24.pm/play/5129/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sports-f1" tvg-name="Sky Sports F1 HD" tvg-logo="https://ip-tv.dev/images/epg/9923.png?v1743758303" tvg-rec="5" timeshift="5", Sky Sports F1 HD
+#EXTGRP:Германия
+http://de.online24.pm/play/9923/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="X10675" tvg-name="Sky Sport Top Event HD" tvg-logo="https://ip-tv.dev/images/epg/925.png?v1743760891" , Sky Sport Top Event HD
+#EXTGRP:Германия
+http://de.online24.pm/play/925/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sports-golf" tvg-name="Sky Sport Golf HD" tvg-logo="https://ip-tv.dev/images/ico/sky-sports-golf.png" tvg-rec="5" timeshift="5", Sky Sport Golf HD
+#EXTGRP:Германия
+http://de.online24.pm/play/924/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sport-hd1" tvg-name="Sky Sport 1 HD DE" tvg-logo="https://ip-tv.dev/images/ico/sky-sport-hd1.png" tvg-rec="5" timeshift="5", Sky Sport 1 HD DE
+#EXTGRP:Германия
+http://de.online24.pm/play/833/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="X10785" tvg-name="Sky Sport Mix" tvg-logo="https://ip-tv.dev/images/epg/745.png?v1743758367" , Sky Sport Mix
+#EXTGRP:Германия
+http://de.online24.pm/play/745/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="X10634" tvg-name="Sky Sport Tennis HD" tvg-logo="https://ip-tv.dev/images/epg/916.png?v1743758380" tvg-rec="5" timeshift="5", Sky Sport Tennis HD
+#EXTGRP:Германия
+http://de.online24.pm/play/916/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sport-news" tvg-name="Sky Sports News HD" tvg-logo="https://ip-tv.dev/images/ico/sky-sports-news.png" tvg-rec="5" timeshift="5", Sky Sports News HD
+#EXTGRP:Германия
+http://de.online24.pm/play/832/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="X10880" tvg-name="Sky Sport Premier League" tvg-logo="https://ip-tv.dev/images/epg/818.png?v1743758392" tvg-rec="5" timeshift="5", Sky Sport Premier League
+#EXTGRP:Германия
+http://de.online24.pm/play/818/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="X76756" tvg-name="ORF SPORT+" tvg-logo="https://ip-tv.dev/images/epg/936.png?v1743760969" tvg-rec="5" timeshift="5", ORF SPORT+
+#EXTGRP:Германия
+http://de.online24.pm/play/936/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="X401577" tvg-name="Sport 1 HD" tvg-logo="https://ip-tv.dev/images/epg/976.png?v1743758438" tvg-rec="5" timeshift="5", Sport 1 HD
+#EXTGRP:Германия
+http://de.online24.pm/play/976/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="XeSports1.de" tvg-name="ESports 1" tvg-logo="https://ip-tv.dev/images/epg/856.png?v1743758424" tvg-rec="5" timeshift="5", ESports 1
+#EXTGRP:Германия
+http://de.online24.pm/play/856/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="XSPORT1+.de" tvg-name="Sport 1+" tvg-logo="https://ip-tv.dev/images/epg/977.png?v1743758448" tvg-rec="5" timeshift="5", Sport 1+
+#EXTGRP:Германия
+http://de.online24.pm/play/977/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="X76619" tvg-name="Eurosport 1 HD" tvg-logo="https://ip-tv.dev/images/epg/822.png?v1743758461" tvg-rec="5" timeshift="5", Eurosport 1 HD
+#EXTGRP:Германия
+http://de.online24.pm/play/822/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="X76705" tvg-name="Sportdigital EDGE" tvg-logo="https://ip-tv.dev/images/epg/956.png?v1743758515" tvg-rec="5" timeshift="5", Sportdigital EDGE
+#EXTGRP:Германия
+http://de.online24.pm/play/956/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-name="Sportdigital FUSSBALL HD" tvg-logo="https://ip-tv.dev/images/epg/967.png?v1743758479" , Sportdigital FUSSBALL HD
+#EXTGRP:Германия
+http://de.online24.pm/play/967/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="X10635" tvg-name="Sky Replay" tvg-logo="https://ip-tv.dev/images/epg/5136.png?v1743758530" tvg-rec="5" timeshift="5", Sky Replay
+#EXTGRP:Германия
+http://de.online24.pm/play/5136/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="X10918" tvg-name="Sky Showcase HD" tvg-logo="https://ip-tv.dev/images/epg/831.png?v1743760999" tvg-rec="5" timeshift="5", Sky Showcase HD
+#EXTGRP:Германия
+http://de.online24.pm/play/831/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="X991623" tvg-name="One HD" tvg-logo="https://ip-tv.dev/images/ico/one1.png" tvg-rec="5" timeshift="5", One HD
+#EXTGRP:Израиль
+http://de.online24.pm/play/1506/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="X991784" tvg-name="One 2 HD" tvg-logo="https://ip-tv.dev/images/ico/one1.png" tvg-rec="5" timeshift="5", One 2 HD
+#EXTGRP:Израиль
+http://de.online24.pm/play/6915/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="XONEDoco.il" tvg-name="ONE DOCO HD" tvg-logo="https://ip-tv.dev/images/ico/7120.png" tvg-rec="5" timeshift="5", ONE DOCO HD
+#EXTGRP:Израиль
+http://de.online24.pm/play/1780/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="XEdgeSport.il" tvg-name="Edge Sport HD" tvg-logo="https://ip-tv.dev/images/ico/10473.png" tvg-rec="5" timeshift="5", Edge Sport HD
+#EXTGRP:Израиль
+http://de.online24.pm/play/1788/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="X991787" tvg-name="Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/sport1.png" tvg-rec="5" timeshift="5", Sport 1 HD
+#EXTGRP:Израиль
+http://de.online24.pm/play/1522/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="X991796" tvg-name="Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/sport2.png" tvg-rec="5" timeshift="5", Sport 2 HD
+#EXTGRP:Израиль
+http://de.online24.pm/play/1521/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="X991788" tvg-name="Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/sport3.png" tvg-rec="5" timeshift="5", Sport 3 HD
+#EXTGRP:Израиль
+http://de.online24.pm/play/1565/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="X991783" tvg-name="Sport 4 HD" tvg-logo="https://ip-tv.dev/images/ico/sport4.png" tvg-rec="5" timeshift="5", Sport 4 HD
+#EXTGRP:Израиль
+http://de.online24.pm/play/1566/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="X991606" tvg-name="Sport 5 HD" tvg-logo="https://ip-tv.dev/images/ico/sport5.png" tvg-rec="5" timeshift="5", Sport 5 HD
+#EXTGRP:Израиль
+http://de.online24.pm/play/1507/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="X991790" tvg-name="Sport 5 Stars HD" tvg-logo="https://ip-tv.dev/images/ico/sport5stars.png" tvg-rec="5" timeshift="5", Sport 5 Stars HD
+#EXTGRP:Израиль
+http://de.online24.pm/play/6916/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="X5Gold.il" tvg-name="Sport 5 Gold" tvg-logo="https://ip-tv.dev/images/ico/7056.png" tvg-rec="5" timeshift="5", Sport 5 Gold
+#EXTGRP:Израиль
+http://de.online24.pm/play/6923/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="X991605" tvg-name="Sport 5 Plus HD" tvg-logo="https://ip-tv.dev/images/ico/sport5plus.png" tvg-rec="5" timeshift="5", Sport 5 Plus HD
+#EXTGRP:Израиль
+http://de.online24.pm/play/6924/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="X991593" tvg-name="Sport 5 Live HD" tvg-logo="https://ip-tv.dev/images/ico/sport5live.png" tvg-rec="5" timeshift="5", Sport 5 Live HD
+#EXTGRP:Израиль
+http://de.online24.pm/play/1531/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xsportklub-pl" tvg-name="Sport Klub PL" tvg-logo="https://ip-tv.dev/images/ico/sportklub-pl.png" , Sport Klub PL
+#EXTGRP:Польша
+http://de.online24.pm/play/1925/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xtvp-sport" tvg-name="TVP Sport HD" tvg-logo="https://ip-tv.dev/images/ico/tvp-sport.png" , TVP Sport HD
+#EXTGRP:Польша
+http://de.online24.pm/play/1910/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xeleven-sports-1" tvg-name="Eleven Sports 1 HD" tvg-logo="https://ip-tv.dev/images/ico/eleven-sports-1.png" , Eleven Sports 1 HD
+#EXTGRP:Польша
+http://de.online24.pm/play/1904/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xeleven-sports-2" tvg-name="Eleven Sports 2 HD" tvg-logo="https://ip-tv.dev/images/ico/eleven-sports-2.png" , Eleven Sports 2 HD
+#EXTGRP:Польша
+http://de.online24.pm/play/1903/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xeleven-sports-3" tvg-name="Eleven Sports 3 HD" tvg-logo="https://ip-tv.dev/images/ico/eleven-sports-3.png" , Eleven Sports 3 HD
+#EXTGRP:Польша
+http://de.online24.pm/play/5445/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xeleven-sports-4 " tvg-name="Eleven Sports 4 HD" tvg-logo="https://ip-tv.dev/images/ico/eleven-sports-4 .png" , Eleven Sports 4 HD
+#EXTGRP:Польша
+http://de.online24.pm/play/5446/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xeurosport1-pl" tvg-name="Eurosport 1 HD PL" tvg-logo="https://ip-tv.dev/images/ico/eurosport1pl.png" , Eurosport 1 HD PL
+#EXTGRP:Польша
+http://de.online24.pm/play/5453/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xeurosport2-pl" tvg-name="Eurosport 2 HD PL" tvg-logo="https://ip-tv.dev/images/ico/eurosport2pl.png" , Eurosport 2 HD PL
+#EXTGRP:Польша
+http://de.online24.pm/play/5454/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="XGolf.Channel.HD.pl" tvg-name="Golf Channel", Golf Channel
+#EXTGRP:Польша
+http://de.online24.pm/play/5614/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xfightbox-hd" tvg-name="FightBox HD" tvg-logo="https://ip-tv.dev/images/ico/fightbox-hd.png" , FightBox HD
+#EXTGRP:Польша
+http://de.online24.pm/play/5467/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xmotowizja-pl" tvg-name="Motowizija" tvg-logo="https://ip-tv.dev/images/ico/Motowizija.png" , Motowizija
+#EXTGRP:Польша
+http://de.online24.pm/play/5468/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xextreme-sports" tvg-name="Extreme Sport" tvg-logo="https://ip-tv.dev/images/ico/extreme-sports.png" , Extreme Sport
+#EXTGRP:Польша
+http://de.online24.pm/play/5469/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xpolsat-sport" tvg-name="Polsat Sport" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport.png" , Polsat Sport
+#EXTGRP:Польша
+http://de.online24.pm/play/5456/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xpolsat-sport-extra" tvg-name="Polsat Sport 2", Polsat Sport 2
+#EXTGRP:Польша
+http://de.online24.pm/play/5452/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xpolsat-sport-extra" tvg-name="Polsat Sport 3" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport-extra.png" , Polsat Sport 3
+#EXTGRP:Польша
+http://de.online24.pm/play/5457/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xpolsat-sport-pr1" tvg-name="Polsat Sport Premium 1 HD" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport-pr1.png" , Polsat Sport Premium 1 HD
+#EXTGRP:Польша
+http://de.online24.pm/play/5447/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xpolsat-sport-pr2" tvg-name="Polsat Sport Premium 2 HD" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport-pr2.png" , Polsat Sport Premium 2 HD
+#EXTGRP:Польша
+http://de.online24.pm/play/5448/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xpolsat-sport-pr3" tvg-name="Polsat Sport Premium 3 HD" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport-pr3.png" , Polsat Sport Premium 3 HD
+#EXTGRP:Польша
+http://de.online24.pm/play/5449/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xpolsat-sport-pr4" tvg-name="Polsat Sport Premium 4 HD" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport-pr4.png" , Polsat Sport Premium 4 HD
+#EXTGRP:Польша
+http://de.online24.pm/play/5450/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xpolsat-sport-pr5" tvg-name="Polsat Sport Premium 5 HD" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport-pr5.png" , Polsat Sport Premium 5 HD
+#EXTGRP:Польша
+http://de.online24.pm/play/5451/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="Xpolsat-sport-fight" tvg-name="Polsat Sport Fight" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport-fight.png" , Polsat Sport Fight
+#EXTGRP:Польша
+http://de.online24.pm/play/5458/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0 tvg-id="XSilk1" tvg-name="Silk Sport 1" tvg-
 
 #EXTINF:-1,Extasy HD
 https://176.116.105.82/Extasy_HD/index.m3u8
