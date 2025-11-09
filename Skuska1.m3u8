@@ -1446,7 +1446,91 @@ http://de.online24.pm/play/5451/0E5BF0B5A9755BD/video.m3u8
 #EXTINF:0 tvg-id="Xpolsat-sport-fight" tvg-name="Polsat Sport Fight" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport-fight.png" , Polsat Sport Fight
 #EXTGRP:Польша
 http://de.online24.pm/play/5458/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XSilk1" tvg-name="Silk Sport 1" tvg-
+
+#EXTINF:-1,Astro Premier League 1
+https://smt.passwdword.xyz/Smart.php?id=go_assp1
+#EXTINF:-1,Astro EPL 1 backup
+https://smt.passwdword.xyz/Smart.php?id=go_assp1x
+#EXTINF:-1,Astro Premier League 2
+https://smt.passwdword.xyz/Smart.php?id=go_assp2
+#EXTINF:-1 ,Astro Grandstand
+https://smt.passwdword.xyz/Smart.php?id=go_assp3
+#EXTINF:-1,Astro Football
+https://smt.passwdword.xyz/Smart.php?id=go_assp4
+#EXTINF:-1,Astro Sports Plus
+https://smt.passwdword.xyz/Smart.php?id=go_sportsplus
+#EXTINF:-1,Astro Badminton 1
+https://smt.passwdword.xyz/Smart.php?id=go_badminton1
+#EXTINF:-1,Astro Badminton 2
+https://smt.passwdword.xyz/Smart.php?id=go_badminton2
+#EXTINF:-1,Astro W-Sports
+https://smt.passwdword.xyz/Smart.php?id=go_assp5
+#EXTINF:-1,Supersports 1
+https://smt.passwdword.xyz/Smart.php?id=Assp1
+#EXTINF:-1,Supersports 2
+https://smt.passwdword.xyz/Smart.php?id=Assp2
+#EXTINF:-1,Supersports 3
+https://smt.passwdword.xyz/Smart.php?id=Assp3
+#EXTINF:-1,Supersports 4
+https://smt.passwdword.xyz/Smart.php?id=Assp4
+#EXTINF:-1,WWE
+https://smt.passwdword.xyz/Smart.php?id=Wwe
+#EXTINF:-1,Fight Sports
+https://smt.passwdword.xyz/Smart.php?id=Fs
+#EXTINF:-1,NBA TV
+https://smt.passwdword.xyz/Smart.php?id=Nba
+#EXTINF:-1,Astro Cricket
+https://smt.passwdword.xyz/Smart.php?id=Acricket
+#EXTINF:-1,Astro Golf
+https://smt.passwdword.xyz/Smart.php?id=Agolf
+#EXTINF:-1,Tnt Sports 1
+https://smt.passwdword.xyz/Smart.php?id=6fac0aaead
+#EXTINF:-1,TNT Sports 2
+https://smt.passwdword.xyz/Smart.php?id=d9a76a79cc
+#EXTINF:-1,TNT Sports 3
+https://smt.passwdword.xyz/Smart.php?id=5fea4d73db
+#EXTINF:-1,TNT Sports 4
+https://smt.passwdword.xyz/Smart.php?id=tntsport4
+#EXTINF:-1,Sony Ten 1
+https://smt.passwdword.xyz/Smart.php?id=ten1_raj
+#EXTINF:-1,Sony Ten 2
+https://smt.passwdword.xyz/Smart.php?id=ten2_raj
+#EXTINF:-1,Sony Ten 3
+https://smt.passwdword.xyz/Smart.php?id=ten3_raj
+#EXTINF:-1,SPOTV 1 HD
+https://smt.passwdword.xyz/Smart.php?id=go_spotv
+#EXTINF:-1,SPO TV 2
+https://smt.passwdword.xyz/Smart.php?id=go_spotv2
+#EXTINF:-1,Skysports F1
+https://smt.passwdword.xyz/Smart.php?id=tiankongf1
+#EXTINF:-1,Skysports Cricket
+https://smt.passwdword.xyz/Smart.php?id=tiankongcricket
+#EXTINF:-1,Skysports EPL
+https://smt.passwdword.xyz/Smart.php?id=tiankongepl
+#EXTINF:-1,Skysports Main Event
+https://smt.passwdword.xyz/Smart.php?id=tiankongmain
+#EXTINF:-1,Skysports News
+https://smt.passwdword.xyz/Smart.php?id=tiankongnews
+#EXTINF:-1,Skysports Mix
+https://smt.passwdword.xyz/Smart.php?id=tiankongmix
+#EXTINF:-1,Rugby Pass TV
+https://smt.passwdword.xyz/Smart.php?id=Rugbypasstv
+#EXTINF:-1,RTM Sports HD
+https://smt.passwdword.xyz/Smart.php?id=Rtmsport
+#EXTINF:-1,Arena
+https://smt.passwdword.xyz/Smart.php?id=Arena
+#EXTINF:-1,Arena 2
+https://smt.passwdword.xyz/Smart.php?id=Arena2
+#EXTINF:-1,BolaArena 1
+https://smt.passwdword.xyz/Smart.php?id=Bolaarena1
+#EXTINF:-1,BolaArena 2
+https://smt.passwdword.xyz/Smart.php?id=Bolaarena2
+#EXTINF:-1,Astro Beinsports 1
+https://smt.passwdword.xyz/Smart.php?id=Astrobein1
+#EXTINF:-1,Astro Beinsports 2
+https://smt.passwdword.xyz/Smart.php?id=Astrobein2
+#EXTINF:-1,Astro Beinsports 3
+https://smt.passwdword.xyz/Smart.php?id=Astrobein3
 
 #EXTINF:-1,Extasy HD
 https://176.116.105.82/Extasy_HD/index.m3u8
