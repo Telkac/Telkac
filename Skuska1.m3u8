@@ -1259,7 +1259,12 @@ http://85.11.144.9:50999/103
 http://85.11.144.9:50999/104
 #EXTINF:-1,Dorcel XXX HD
 http://85.11.144.9:50999/105
-
+#EXTINF:-1,leo HD
+http://185.98.209.11:81/leo/index.m3u8?token=test
+#EXTINF:-1,penthouse2 HD
+http://185.98.209.11:81/penthouse2/index.m3u8?token=test
+#EXTINF:-1,penthouse1 HD
+http://185.98.209.11:81/penthouse1/index.m3u8?token=test
 
 #EXTINF:-1 group-title="SPORT", POLSAT SPORT 1 HD
 http://4.team.ga:80/ch932/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW4xhEF1CwgGKWMpZCblIwmhAM6h6-3ixJg5_3vSCBKyd
