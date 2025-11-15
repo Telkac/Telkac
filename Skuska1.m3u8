@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.open-epg.com/files/czech3.xml.gz,https://www.open-epg.com/files/slovakia1.xml.gz,https://www.open-epg.com/files/poland1.xml.gz"
+#EXTM3U url-tvg="https://www.open-epg.com/files/czech3.xml.gz"
 #EXTM3U url-tvg="https://www.open-epg.com/files/slovakia1.xml.gz"
 #EXTM3U url-tvg="https://www.open-epg.com/files/poland1.xml.gz"
 
