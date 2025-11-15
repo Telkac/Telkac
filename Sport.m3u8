@@ -783,3 +783,24 @@ http://185.112.249.46:9981/stream/channelid/1940136002?profile=pass
 http://185.112.249.46:9981/stream/channelid/1363722412?profile=pass
 #EXTINF:-1 tvg-id="69e43f3f6491c0c559876e7a0f8d1fca" tvg-chno="10",CZ: NO V Sport Vinter
 http://185.112.249.46:9981/stream/channelid/1061151849?profile=pass
+
+#EXTINF:-1 tvg-id="65ad908ad1eaca54984564e90aa54a14" tvg-chno="1",CZ: ONEPLAY1 T3
+http://185.112.249.46:9981/stream/channelid/177253733?profile=pass
+#EXTINF:-1 tvg-id="67d14f66fce0256c46b842802204a5e3" tvg-chno="2",CZ: ONEPLAY2 T2
+http://185.112.249.46:9981/stream/channelid/1716506983?profile=pass
+#EXTINF:-1 tvg-id="fb1c3cdfdd05ed24d8a459fe46a62a10" tvg-chno="3",CZ: ONEPLAY3 T3
+http://185.112.249.46:9981/stream/channelid/1597775099?profile=pass
+#EXTINF:-1 tvg-id="be33d52a2037d5a1afc981819e605de3" tvg-chno="4",CZ: EUROSPORT11 kolo
+http://185.112.249.46:9981/stream/channelid/718615486?profile=pass
+#EXTINF:-1 tvg-id="82e3fcab219bfeaaff332e60e63801e5" tvg-chno="5",CZ: EUROSPORT22
+http://185.112.249.46:9981/stream/channelid/737993602?profile=pass
+#EXTINF:-1 tvg-id="584e6d781e08d1eb35bf2ad1bd4b220c" tvg-chno="6",CZ: PREMIER SPORT1 T3
+http://185.112.249.46:9981/stream/channelid/2020429400?profile=pass
+#EXTINF:-1 tvg-id="af294e348a70d668c0ac1a9fcd983d18" tvg-chno="7",CZ: PREMIER SPORT2 T2 kolo
+http://185.112.249.46:9981/stream/channelid/877537711?profile=pass
+#EXTINF:-1 tvg-id="4220a473f87bf4f0d160565a805ac543" tvg-chno="8",NOVA SPORT6 kolo
+http://185.112.249.46:9981/stream/channelid/1940136002?profile=pass
+#EXTINF:-1 tvg-id="acc04851a2b485f7ce41ecd72b244a22" tvg-chno="9",CZ: FI V Sport 1 Suomi
+http://185.112.249.46:9981/stream/channelid/1363722412?profile=pass
+#EXTINF:-1 tvg-id="69e43f3f6491c0c559876e7a0f8d1fca" tvg-chno="10",CZ: NO V Sport Vinter
+http://185.112.249.46:9981/stream/channelid/1061151849?profile=pass
