@@ -56,7 +56,7 @@ http://88.212.15.19/live/test_nova_lady_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima Cool.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primacoolhd.png" group-title="Všeobecné",Prima COOL SK
 http://88.212.15.19/live/test_prima_cool_hd_hevc_50/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima LOVE.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primalovehd.png" group-title="Všeobecné",Prima love
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2411&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
+http://185.188.188.237:5000/live/primalove/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Prima ZOOM.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primazoomhd.png" group-title="Všeobecné",Prima ZOOM
 http://88.212.15.19/live/test_prima_zoom_hevc/playlist.m3u8
@@ -335,7 +335,7 @@ http://88.212.15.19/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/QWEY2a5.png" group-title="Sport",JOJ Šport
 http://88.212.15.19/live/test_joj_sport_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ Šport 2.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://img.joj.sk/rx/c6a89774-505a-48a4-8ce5-3f26d902e00c.png" group-title="Sport",JOJ Šport 2
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2423&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
+https://176.116.105.82/JOJSport2_HD/index.m3u8
 #EXTINF:-1 tvg-id="ČT sport.cz" tvg-url="ctsport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/I2dltZW.png" group-title="Sport",ČT sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-name="ČT sport Plus" tvg-logo="https://i.imgur.com/5JiMynW.png" tvg-id="" group-title="Sport",ČT sport Plus
