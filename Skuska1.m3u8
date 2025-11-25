@@ -126,7 +126,6 @@ http://185.188.188.237:5000/live/paramount/playlist.m3u8
 #EXTINF:-1 tvg-id="Epic Drama.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/ab/Epic_Drama_logo.png" group-title="Všeobecné",Epic Drama
 https://176.116.105.82/Epic_Drama_HD/index.m3u8
 #EXTINF:-1 tvg-id="story4.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Všeobecné",Story 4
-http://185.236.230.212:9982/play/a08w
 
 #EXTINF:-1 tvg-id="Nova International.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1-nova-international-hd.png" group-title="Všeobecné",Nova International
 http://194.160.135.34:8088/udp/233.10.47.61:1234
@@ -159,11 +158,11 @@ http://88.212.15.19/live/test_spektrum/playlist.m3u8
 #EXTINF:-1 tvg-id="Spektrum Home.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/spektrumhome.png" group-title="Dokumentárné",Spektrum Home
 http://88.212.15.19/live/test_home_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Viasat Nature.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Dokumentárne",Viasat Nature
-http://185.236.230.212:9982/play/a08p
+http://185.188.188.237:5000/live/viasatnature/playlist.m3u8
 #EXTINF:-1 tvg-id="Viasat Explore.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Viasat_Explore-logo.svg/1428px-Viasat_Explore-logo.svg.png" group-title="Dokumentárne",Viasat Explore
-
+http://185.188.188.237:5000/live/viasatexplore/playlist.m3u8
 #EXTINF:-1 tvg-id="Viasat History.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Viasat_History-logo.svg/1426px-Viasat_History-logo.svg.png" group-title="Dokumentárne",Viasat History
-http://185.236.230.212:9982/play/a08o
+http://185.188.188.237:5000/live/viasathistory/playlist.m3u8
 #EXTINF:-1 tvg-id="History Channel.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="Dokumentárne",History
 http://88.212.15.19/live/test_history/playlist.m3u8
 #EXTINF:-1 tvg-id="CS History.cz" tvg-name="CShistory " tvg-logo="https://www.jojgroup.sk/wp-content/uploads/CS-history-2.png" group-title="Dokumentárne",CS History
