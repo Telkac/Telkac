@@ -384,10 +384,10 @@ https://176.116.105.82/NovaSport6_HD/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="CANAL+ Sport (CZ)" tvg-logo="https://ip-tv.dev/images/ico/9305.png" , CANAL+ Sport (CZ)
 #EXTGRP:SkyLink
 http://gr.seetv.cc/play/1135/FB4F94DA00C3BE0/video.m3u8
-#EXTINF:0 tvg-id="Canal+ Sport.cz" tvg-name="CANAL+ Sport (SK)" tvg-logo="https://ip-tv.dev/images/ico/9305.png" , CANAL+ Sport (SK)
+#EXTINF:0 tvg-id="Canal+ Sport.cz" tvg-name="CANAL+ Sport (SK)" tvg-logo="https://ip-tv.dev/images/ico/9305.png" , CANAL+ Sport 1
 #EXTGRP:SkyLink
 http://gr.seetv.cc/play/1136/FB4F94DA00C3BE0/video.m3u8
-#EXTINF:0 tvg-id="Canal+ Sport 2.cz" tvg-name="CANAL+ Sport 2 (SK)" tvg-logo="https://ip-tv.dev/images/ico/10110.png" , CANAL+ Sport 2 (SK)
+#EXTINF:0 tvg-id="Canal+ Sport 2.cz" tvg-name="CANAL+ Sport 2 (SK)" tvg-logo="https://ip-tv.dev/images/ico/10110.png" , CANAL+ Sport 2
 #EXTGRP:SkyLink
 http://gr.seetv.cc/play/1137/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:-1 tvg-id="Arena Sport 1.cz" tvg-name="Arena Sport 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Arena_Sport_TV_1.png" group-title="Sport",Arena Sport 1
@@ -402,14 +402,10 @@ http://185.188.188.237:5000/live/eurosport2/playlist.m3u8
 #EXTINF:-1 tvg-id="Sporty TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/SportyTVSD.png" group-title="Sport",Sporty TV
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
 
-#EXTINF:-1 tvg-id="",Premier Sport 2
-http://185.112.249.46:9981/stream/channelid/1061151849?profile=pass
-#EXTINF:-1 tvg-id="",Sporty TV
-http://185.112.249.46:9981/stream/channelid/1940136002?profile=pass
 #EXTINF:-1 tvg-id="",ONEPLAY 1
-http://185.112.249.46:9981/stream/channelid/177253733?profile=pass
+
 #EXTINF:-1 tvg-id="",ONEPLAY 2
-http://185.112.249.46:9981/stream/channelid/1716506983?profile=pass
+
 #EXTINF:-1 tvg-id="",ONEPLAY 3
 http://185.112.249.46:9981/stream/channelid/1597775099?profile=pass
 #EXTINF:-1 tvg-id="",PREMIER SPORT 1
@@ -419,8 +415,6 @@ http://185.112.249.46:9981/stream/channelid/877537711?profile=pass
 
 #EXTINF:-1 tvg-id="TV Doktor.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkirhR_sc03jo4uwX6AIOzNENW75vGH-DVdA&s" group-title="Všeobecné",TV Doktor
 https://live.tvdoktor.sk/high/index.m3u8
-#EXTINF:-1 group-title="SK",Kanal 1
-http://185.236.230.212:9982/play/a092
 #EXTINF:-1 tvg-id="TV Bratislava.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TV_Bratislava.png" group-title="Všeobecné",TV Bratislava
 
 #EXTINF:-1 tvg-id="FashionTV HD.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/2560px-Fashion_TV_logo.svg.png" group-title="Všeobecné",Fashion TV
