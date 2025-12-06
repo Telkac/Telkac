@@ -372,6 +372,11 @@ http://gr.seetv.cc/play/1136/FB4F94DA00C3BE0/video.m3u8
 http://gr.seetv.cc/play/1137/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:-1 tvg-id="Canal+ Sport 3.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",CANAL+ Sport 3
 
+#EXTINF:-1,Premier Sport 1 cz
+http://185.188.188.237:5000/live/premiersport/playlist.m3u8
+#EXTINF:-1,Premier Sport 2 cz
+http://185.188.188.237:5000/live/premiersport2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Arena Sport 1.cz" tvg-name="Arena Sport 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Arena_Sport_TV_1.png" group-title="Sport",Arena Sport 1
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 tvg-id="Arena Sport 2.cz" tvg-name="Arena Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Logo_Arena_Sport_TV_2.png" group-title="Sport",Arena Sport 2
@@ -383,6 +388,17 @@ http://185.188.188.237:5000/live/eurosport/playlist.m3u8
 http://185.188.188.237:5000/live/eurosport2/playlist.m3u8
 #EXTINF:-1 tvg-id="Sporty TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/SportyTVSD.png" group-title="Sport",Sporty TV
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="30c1afe350eea7e59a97a550e82fc0ee",CZ: ONEPLAY1
+https://5de78b09-4.b-cdn.net/stream/channelid/1672462640?profile=pass
+#EXTINF:-1 tvg-id="6bac3c96a2b2125dbf4f17200cc1824e",CZ: ONEPLAY2
+https://5de78b09-4.b-cdn.net/stream/channelid/373075051?profile=pass
+#EXTINF:-1 tvg-id="22226ba5adfb9e88c9621b27c2c18579",CZ: ONEPLAY3
+https://5de78b09-4.b-cdn.net/stream/channelid/627778082?profile=pass
+#EXTINF:-1 tvg-id="de554ab5e200403b22ec7bafe2814b01",CZ: PREMIER SPORT1
+https://5de78b09-4.b-cdn.net/stream/channelid/894064094?profile=pass
+#EXTINF:-1 tvg-id="3b78315d5c23a44a640d28efb29796f0",CZ: PREMIER SPORT2
+https://5de78b09-4.b-cdn.net/stream/channelid/1563523131?profile=pass
 
 #EXTINF:-1 tvg-id="",ONEPLAY 1
 
