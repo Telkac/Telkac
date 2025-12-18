@@ -169,7 +169,7 @@ http://88.212.15.19/live/test_history/playlist.m3u8
 http://88.212.15.19/live/test_cs_history_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CS Mystery.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/CS_Mystery.png/800px-CS_Mystery.png" group-title="Dokumentárne",CS Mystery
 http://88.212.15.19/live/test_cs_mystery_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="The Fishing and Hunting.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Fishing-and-hunting-logo.png" group-title="Dokumentárne",Fishing and Hunting
+#EXTINF:-1 tvg-id="Fishing and Hunting.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Fishing-and-hunting-logo.png" group-title="Dokumentárne",Fishing and Hunting
 http://88.212.15.19/live/test_fishing_hunting/playlist.m3u8
 #EXTINF:-1 tvg-id="Crime and Investigation.cz" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Dokumentárne",Crime and Investigation
 http://88.212.15.19/live/test_cai_hevc/playlist.m3u8
