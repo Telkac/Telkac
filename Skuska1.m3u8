@@ -379,7 +379,10 @@ http://185.188.188.237:5000/live/eurosport2/playlist.m3u8
 #EXTINF:-1 tvg-id="Sporty TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/SportyTVSD.png" group-title="Sport",Sporty TV
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
 
-
+#EXTINF:-1 tvg-id="",Oneplay Sport 1.cz
+http://185.112.249.46:9981/stream/channelid/177253733?profile=pass
+#EXTINF:-1 tvg-id="",Oneplay Sport 2.cz
+http://185.112.249.46:9981/stream/channelid/1716506983?profile=pass
 #EXTINF:-1 tvg-id="",Oneplay Sport 3.cz
 http://185.112.249.46:9981/stream/channelid/1597775099?profile=pass
 #EXTINF:-1 tvg-id="Premier Sport 1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Sport",PREMIER SPORT 1
