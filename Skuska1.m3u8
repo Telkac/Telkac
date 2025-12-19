@@ -49,7 +49,7 @@ http://88.212.15.19/live/nova_cinema_avc_25p/playlist.m3u8
 http://88.212.15.19/live/nova_action_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Fun.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novafun.png" group-title="Všeobecné",Nova Fun
 http://88.212.15.19/live/nova_fun_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Nova Krimi.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novagold.png" group-title="Všeobecné",Nova Krimi
+#EXTINF:-1 tvg-id="Nova Krimi.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://en.wikipedia.org/wiki/Nova_Krimi#/media/File%3ANova_Krimi_Logo.webp" group-title="Všeobecné",Nova Krimi
 http://88.212.15.19/live/nova_gold_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Lady.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novalady.png" group-title="Všeobecné",Nova Lady
 http://88.212.15.19/live/test_nova_lady_hevc_25p/playlist.m3u8
@@ -99,7 +99,7 @@ http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8
 http://88.212.15.19/live/test_filmbox_family_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinemax.cz" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/2560px-Cinemax_%28Yellow%29.svg.png" group-title="Všeobecné",Cinemax
 http://88.212.15.19/live/test_cinemax_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Cinemax 2.cz" tvg-name="Cinemax 2" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/6/60/Cinemax_2_Coldland.svg/revision/latest?cb=20210314025322" group-title="Všeobecné",Cinemax 2
+#EXTINF:-1 tvg-id="Cinemax 2.cz" tvg-name="Cinemax 2" tvg-logo="https://dreamlogos.fandom.com/wiki/Cinemax_2_(Pawston)?file=Cinemax_2_Coldland.svg" group-title="Všeobecné",Cinemax 2
 http://88.212.15.19/live/test_cinemax2_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/amc.png" group-title="Všeobecné",AMC
 http://88.212.15.19/live/test_amc_25p/playlist.m3u8
