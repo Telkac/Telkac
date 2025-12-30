@@ -1188,4 +1188,425 @@ http://185.188.188.237:5000/live/eurosport2/playlist.m3u8
 #EXTINF:-1,golf channel HD
 http://185.188.188.237:5000/live/golfchannel/playlist.m3u8
 
+#EXTINF:-1,BeIN Sports 4K
+https://uzayterligi.lol/static/bs11.m3u8
+#EXTINF:-1,BeIN Sports 1
+https://uzayterligi.lol/static/bs1.m3u8
+#EXTINF:-1,BeIN Sports UHD 2
+https://uzayterligi.lol/static/bs2.m3u8
+#EXTINF:-1,BeIN Sports UHD 3
+https://uzayterligi.lol/static/bs3.m3u8
+#EXTINF:-1,BeIN Sports UHD 4
+https://uzayterligi.lol/static/bs4.m3u8
+#EXTINF:-1,BeIN Sports UHD 5
+https://uzayterligi.lol/static/bs5.m3u8
+#EXTINF:-1,S SPORT HD 1
+https://uzayterligi.lol/static/ss11.m3u8
+#EXTINF:-1,S SPORT HD 2
+https://uzayterligi.lol/static/ss2.m3u8
+#EXTINF:-1,S SPORT+ PLUS HD
+https://uzayterligi.lol/static/pl1.m3u8
+#EXTINF:-1,S SPORT+ PLUS HD 2
+https://uzayterligi.lol/static/pl2.m3u8
+#EXTINF:-1,S SPORT+ PLUS HD 3
+https://uzayterligi.lol/static/pl3.m3u8
+#EXTINF:-1,S SPORT+ PLUS HD 4
+https://uzayterligi.lol/static/pl4.m3u8
+#EXTINF:-1,S SPORT+ PLUS HD 5
+https://uzayterligi.lol/static/pl5.m3u8
+#EXTINF:-1,S SPORT+ PLUS HD 6
+https://uzayterligi.lol/static/pl6.m3u8
+#EXTINF:-1,TABİİ SPOR HD
+https://uzayterligi.lol/static/tabi.m3u8
+#EXTINF:-1,TABİİ SPOR 1 HD
+https://uzayterligi.lol/static/tabi1.m3u8
+#EXTINF:-1,TABİİ SPOR HD 2
+https://uzayterligi.lol/static/tabi2.m3u8
+#EXTINF:-1,TABİİ SPOR HD 3
+https://uzayterligi.lol/static/tabi3.m3u8
+#EXTINF:-1,TABİİ SPOR HD 4
+https://uzayterligi.lol/static/tabi4.m3u8
+#EXTINF:-1,TABİİ SPOR HD 5
+https://uzayterligi.lol/static/tabi5.m3u8
+#EXTINF:-1,TABİİ SPOR HD 6
+https://uzayterligi.lol/static/tabi6.m3u8
+#EXTINF:0,TRT1
+https://uzayterligi.lol/static/trt1.m3u8
+#EXTINF:-1,beinsport 1 HD
+http://176.123.10.77:8480/b1/index.m3u8
+#EXTINF:-1,beinsport 2 HD
+http://176.123.10.77:8480/b2/index.m3u8
+#EXTINF:-1,beinsport 4 HD
+http://176.123.10.77:8480/b4/index.m3u8
+#EXTINF:-1,beinsport 5 HD
+http://176.123.10.77:8480/b5/index.m3u8
+#EXTINF:-1,beinsportmax 1 HD
+http://176.123.10.77:8480/bmax1/index.m3u8
+#EXTINF:-1,beinsportmax 2 HD
+http://176.123.10.77:8480/bmax2/index.m3u8
+#EXTINF:-1,ssport 1 HD
+http://176.123.10.77:8480/s1/index.m3u8
+#EXTINF:-1,ssport 2 HD
+http://176.123.10.77:8480/s2/index.m3u8
+#EXTINF:1,smartsport 1 HD
+http://176.123.10.77:8480/smart1/index.m3u8
+#EXTINF:1,smartsport 2 HD
+http://176.123.10.77:8480/smart2/index.m3u8
+#EXTINF:1,eurosport 1 HD
+http://176.123.10.77:8480/euro1/index.m3u8
+#EXTINF:1,eurosport 2 HD
+http://176.123.10.77:8480/euro2/index.m3u8
+#EXTINF:1,tivibu spor 1 HD
+http://176.123.10.77:8480/t1/index.m3u8
+#EXTINF:1,tivibu spor 2 HD
+http://176.123.10.77:8480/t2/index.m3u8
+#EXTINF:1,tivibu spor 3 HD
+http://176.123.10.77:8480/t3/index.m3u8
+#EXTINF:1,tivibu spor 4 HD
+http://176.123.10.77:8480/t4/index.m3u8
+#EXTINF:1,trt spor HD
+http://176.123.10.77:8480/trtspor/index.m3u8
+#EXTINF:1,trt apor yildiz HD
+http://176.123.10.77:8480/trtsporyildiz/index.m3u8
+#EXTINF:1,a spor HD
+http://176.123.10.77:8480/aspor/index.m3u8
+#EXTINF:1,atv
+http://176.123.10.77:8480/atv/index.m3u8
+#EXTINF:1,tv8
+http://176.123.10.77:8480/tv8/index.m3u8
+#EXTINF:-1,BeIN Sports 1
+https://dga1op10s1u3lep.eaf7037ecd540a.click/live/beinsports-1/playlist.m3u8
+#EXTINF:-1,BeIN Sports 2
+https://dga1op10s1u3lep.eaf7037ecd540a.click/live/beinsports-2/playlist.m3u8
+#EXTINF:-1,BeIN Sports 3
+https://dga1op10s1u3lep.eaf7037ecd540a.click/live/beinsports-3/playlist.m3u8
+#EXTINF:-1,BeIN Sports 4
+https://dga1op10s1u3lep.eaf7037ecd540a.click/live/beinsports-4/playlist.m3u8
+#EXTINF:-1,Bein Sports 5
+https://dga1op10s1u3lep.eaf7037ecd540a.click/live/beinsports-5/playlist.m3u8
+#EXTINF:-1,Sport 1 HD
+https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport1/live/1080p/index.m3u8
+#EXTINF:-1,Sport 2 HD
+https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport2/live/1080p/index.m3u8
+#EXTINF:-1,Sport 3 HD
+https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1103.telewebion.com/ek/sport3/live/1080p/index.m3u8
+#EXTINF:-1,TALKSPORT HD
+https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+#EXTINF:-1,bein1
+https://ww.dooballfree.vip/live/bein1/playlist.m3u8
+#EXTINF:-1,bein2 HD
+https://ww.dooballfree.vip/live/bein2/playlist.m3u8
+#EXTINF:-1,bein3
+https://ww.dooballfree.vip/live/bein3/playlist.m3u8
+#EXTINF:-1,sporttv 2
+https://ww.dooballfree.vip/live/sporttv2/playlist.m3u8
+#EXTINF:-1,sporttv 3
+https://ww.dooballfree.vip/live/sporttv3/playlist.m3u8
+#EXTINF:-1,eurosport 1 es
+https://ww.dooballfree.vip/live/eurosport1es/playlist.m3u8
+#EXTINF:-1,eurosport 2 es
+https://ww.dooballfree.vip/live/eurosport2es/playlist.m3u8
+#EXTINF:-1,nba tv
+https://ww.dooballfree.vip/live/nba/playlist.m3u8
+#EXTINF:-1,Mutv
+https://ww.dooballfree.vip/live/mutv/playlist.m3u8
+#EXTINF:-1,sport tv 1
+https://ww.dooballfree.vip/live/dklsport1/playlist.m3u8
+#EXTINF:-1,sport tv 2
+https://ww.dooballfree.vip/live/dklsport2/playlist.m3u8
+#EXTINF:-1,True sports 1
+https://ww.dooballfree.vip/live/tsp1/playlist.m3u8
+#EXTINF:-1,True sports 2
+https://ww.dooballfree.vip/live/tsp2/playlist.m3u8
+#EXTINF:-1,True Football 3
+https://ww.dooballfree.vip/live/tpf3/playlist.m3u8
+#EXTINF:-1,True Football 4
+https://ww.dooballfree.vip/live/tpf4/playlist.m3u8
+#EXTINF:-1,True sports 5
+https://ww.dooballfree.vip/live/tsp5/playlist.m3u8
+#EXTINF:-1,True sports 7
+https://ww.dooballfree.vip/live/tsp7/playlist.m3u8
+#EXTINF:-1,Futbol TV HD
+https://vod.splay.uz/live_splay/original/FutbolTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Trace_Sport Star HD
+https://vod.splay.uz/live_splay/original/Trace_Sport_Stars/index.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Fightbox
+https://webtvstream.bhtelecom.ba/hls7/fightbox.m3u8
+#EXTINF:-1,Arena Sport 1 HR 🇭🇷
+https://hls8.ua3.wisp.cat/ArenaSport1_HR/video.m3u8?token=JYtCLkiUhf
+##EXTINF:-1,Arena Sport 2 HR 🇭🇷
+https://hls8.ua3.wisp.cat/ArenaSport2_HR/video.m3u8?token=JYtCLkiUhf
+#EXTINF:-1,Arena Sport 3 HR 🇭🇷
+https://hls8.ua3.wisp.cat/ArenaSport3_HR/video.m3u8?token=JYtCLkiUhf
+#EXTINF:-1,Arena Sport 4 HR 🇭🇷
+https://hls8.ua3.wisp.cat/ArenaSport4_HR/video.m3u8?token=JYtCLkiUhf
+#EXTINF:-1,Arena Sport 5 HR 🇭🇷
+https://hls8.ua3.wisp.cat/ArenaSport5_HR/video.m3u8?token=JYtCLkiUhf
+#EXTINF:-1,Arena 1 Premium
+https://hls8.ua3.wisp.cat/Arena_Sport_Premium_1/video.m3u8?token=JYtCLkiUhf
+#EXTINF:-1,Arena 2 Premium
+https://hls8.ua3.wisp.cat/Arena_Sport_Premium_2/video.m3u8?token=JYtCLkiUhf
+#EXTINF:-1,Arena 3 Premium
+https://hls8.ua3.wisp.cat/Arena_Sport_Premium_3/video.m3u8?token=JYtCLkiUhf
+#EXTINF:-1,Polsat Sport Premium 1
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_1/video.m3u8?token=JYtCLkiUhf
+#EXTINF:-1,Polsat Sport Premium 2
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_2/video.m3u8?token=JYtCLkiUhf
+#EXTINF:-1,Polsat Sport Premium PPV 3
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_3/video.m3u8?token=JYtCLkiUhf
+#EXTINF:-1,Polsat Sport Premium PPV 5
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_PPV5/video.m3u8?token=JYtCLkiUhf
+#EXTINF:-1,Polsat Sport Premium PPV 4
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_PPV4/video.m3u8?token=JYtCLkiUhf
+#EXTINF:-1,Polsat Sport Premium PPV 6
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_PPV6/video.m3u8?token=JYtCLkiUhf
+#EXTINF:-1 group-title="SPORT", DIGI SPORT 1 HD
+http://lb.wisp.cat/lb0/DigiSport_1_HD_RO/mpegts?token=JYtCLkiUhf
+#EXTINF:-1 group-title="SPORT", DIGI SPORT 2 HD
+http://lb.wisp.cat/lb0/DigiSport_2_HD_RO/mpegts?token=JYtCLkiUhf
+#EXTINF:-1 group-title="SPORT", DIGI SPORT 3 HD
+http://lb.wisp.cat/lb0/DigiSport3FHDRO/mpegts?token=JYtCLkiUhf
+#EXTINF:-1 group-title="SPORT", DIGI SPORT 4 HD
+http://lb.wisp.cat/lb0/DigiSport4FHDRO/mpegts?token=JYtCLkiUhf
+#EXTINF:-1,EUROSPORT 1
+http://lb.wisp.cat/lb0/Eurosport_1_HD/mpegts?token=JYtCLkiUhf
+#EXTINF:-1,EUROSPORT 2
+http://lb.wisp.cat/lb0/CH_EUROSPORT2/mpegts?token=JYtCLkiUhf
+#EXTINF:-1,CANAL+ Sport
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:-1,GOLF+
+http://151.80.18.177:86/GOLF+_HD/index.m3u8
+#EXTINF:-1,Euro Sport HD
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1,Euro Sport 2 HD
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:-1,Super Sport 1 HD
+http://195.181.169.152:8080/Super_Sport_1_HD_AL/video.m3u8?token=test
+#EXTINF:-1,Super Sport 2 HD
+http://195.181.169.152:8080/Super_Sport_2_HD_AL/video.m3u8?token=test
+#EXTINF:-1,Super Sport 3 HD
+http://195.181.169.152:8080/Super_Sport_3_HD_AL/video.m3u8?token=test
+#EXTINF:-1,Super Sport 4 HD
+http://195.181.169.152:8080/Super_Sport_4_HD_AL/video.m3u8?token=test
+#EXTINF:-1,Tring Sport 1 HD
+http://195.181.169.152:8080/Tring_Sport_1_HD_AL/video.m3u8?token=test
+#EXTINF:-1,Tring Sport 2 HD
+http://195.181.169.152:8080/Tring_Sport_2_HD_AL/video.m3u8?token=test
+#EXTINF:-1,Tring Sport 3 HD
+http://195.181.169.152:8080/Tring_Sport_3_HD_AL/video.m3u8?token=test
+#EXTINF:-1,Tring Sport 4 HD
+http://195.181.169.152:8080/Tring_Sport_4_HD_AL/video.m3u8?token=test
+#EXTINF:-1,Nova Sport 1 HD cz
+https://176.116.105.82/Nova_Sport1_HD/index.m3u8
+#EXTINF:-1,Nova Sport 2 SK HD
+https://176.116.105.82/NovaSport2_HD/index.m3u8
+#EXTINF:-1,Nova Sport 3 SK HD
+https://176.116.105.82/NovaSport3_HD/index.m3u8
+#EXTINF:-1,Nova Sport 4 SK HD
+https://176.116.105.82/NovaSport4_HD/index.m3u8
+#EXTINF:-1,Nova Sport 5 SK HD
+https://176.116.105.82/NovaSport5_HD/index.m3u8
+#EXTINF:-1,Nova Sport 6 HD cz
+https://176.116.105.82/NovaSport6_HD/index.m3u8
+#EXTINF:-1,Arena Sport 1 HD
+https://176.116.105.82/Arena_Sport1_HD/index.m3u8
+#EXTINF:-1,Arena Sport 2 HD
+https://176.116.105.82/Arena_Sport2_HD/index.m3u8
+#EXTINF:-1,FightBox HD
+https://176.116.105.82/FightBox_HD/index.m3u8
+#EXTINF:-1,Sport 1 HD cz
+https://176.116.105.82/Sport1_HD/index.m3u8
+#EXTINF:-1,Sport 2 HD cz
+https://176.116.105.82/Sport2_HD/index.m3u8
+#EXTINF:-1,JOJ Sport HD
+https://176.116.105.82/JOJSport_HD/index.m3u8
+#EXTINF:-1,JOJ Sport 2 HD
+https://176.116.105.82/JOJSport2_HD/index.m3u8
+#EXTINF:-1,Golf Channel HD cz
+https://176.116.105.82/GolfChannel_HD/index.m3u8
+#EXTINF:-1,FightBox HD
+https://176.116.105.82/FightBox_HD/index.m3u8
+#EXTINF:-1,XSPORT_HD
+https://176.116.105.82/XSPORT_HD/index.m3u8
+#EXTINF:-1,Eurosport HD cz
+https://176.116.105.82/Eurosport_HD/index.m3u8
+#EXTINF:-1,Eurosport 2 HD cz
+https://176.116.105.82/Eurosport2_HD/index.m3u8
+#EXTINF:-1,AutoMotorSport HD
+https://176.116.105.82/AutoMotorSport_HD/index.m3u8
+#EXTINF:-1,Extreme_Sports
+https://176.116.105.82/Extreme_Sports/index.m3u8
+#EXTINF:-1,M1 Sport
+http://dvr1.kablova.tv/M1/mpegts
+#EXTINF:-1,M2 Sport
+http://dvr4.kablova.tv/M2/mpegts
+#EXTINF:-1,M3 Sport
+http://dvr1.kablova.tv/M3/mpegts
+#EXTINF:-1,M4 Sport
+http://dvr1.kablova.tv/M4/index.m3u8
+#EXTINF:-1,Nova_Sport 1 HD
+http://dvr2.kablova.tv/Nova_Sport/mpegts
+#EXTINF:-1,Arena Sport 1 HD
+http://dvr2.kablova.tv/Arena_sport/mpegts
+#EXTINF:-1,Sport 1 HD
+http://dvr2.kablova.tv/Sport1/mpegts
+#EXTINF:-1,Eurosport HD
+http://dvr2.kablova.tv/Eurosport_1/mpegts
+#EXTINF:-1,Eurosport 2 HD
+http://dvr2.kablova.tv/Eurosport_2/mpegts
+#EXTINF:0,STVR Šport HD
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2120&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
+#EXTINF:0,Arena Sport 2 HD
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=681&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
+#EXTINF:0,Sport 1 HD
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=727&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
+#EXTINF:0,Sport 2 HD
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=729&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
+#EXTINF:0,Eurosport 1 HD
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=661&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12,profile13,profile14&changed_at=1742507476&shaping=0&eta=1&ets=1
+#EXTINF:0,Eurosport 2 HD
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=615&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
+#EXTINF:0,Golf Channel HD
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=296&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
+#EXTINF:0,JOJ Šport 2 HD
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2423&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
+#EXTINF:0,JOJ Šport HD
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2164&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
+#EXTINF:-1,NOVA SPORT 5
+http://116.202.237.33:8080/NS5/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1,NOVA SPORT 6
+http://116.202.237.33:8080/NS6/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1,CANAL + SPORT
+http://116.202.237.33:8080/CNLS1/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1,CANAL + SPORT 2
+http://116.202.237.33:8080/CNLS2/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1,CANAL + SPORT
+http://116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1,SKY SPORTS
+http://103.161.35.76/5648251/index.m3u8
+#EXTINF:-1,DİGİ SPORT 1 ro
+http://103.161.35.76/RO-115/index.m3u8
+#EXTINF:-1,DİGİ SPORT 2 ro
+http://103.161.35.76/RO-116/index.m3u8
+#EXTINF:-1,DİGİ SPORT 3 ro
+http://103.161.35.76/RO-117/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DİGİ SPORT 4 ro
+http://103.161.35.76/RO-118/tracks-v1a1/mono.m3u8
+#EXTINF:-1,EUROSPORT 1 HD ro
+http://103.161.35.76/RO-110/index.m3u8
+#EXTINF:-1,EUROSPORT 2 HD ro
+http://103.161.35.76/RO-111/index.m3u8
+#EXTINF:-1,DİGİ 24
+http://103.161.35.76/RO-112/index.m3u8
+#EXTINF:-1,DİGİ SPORT 1 HD ro
+http://origi-JW-1.netvil43.store:80/RO-115/tracks-v1a1/mono.m3u8?token=c1lhc3Q1ZVhxcXJIZTU2c2ZhdTRtWlBiMkppd3k2K0EyNE9keU5xbG1YekRxb1d1Z1plV282T1dlNU9xZ3FxeGxaT3ZvNmFGbkxLSHZJV2ZrN3Fzbm93PQ%3D%3D
+#EXTINF:-1,DİGİ SPORT 2 HD ro
+http://origi-JW-1.netvil43.store:80/RO-116/tracks-v1a1/mono.m3u8?token=c1lhc3Q1ZVhxcXJIZTU2c2ZhdTRtWlBiMkppd3k2K0EyNE9keU5xbG1YekRxb1d1Z1plV282T1dlNU9xZ3FxeGxaT3ZvNmFGbkxLSHZJV2ZrN3Fzbm93PQ%3D%3D
+#EXTINF:-1,DİGİ SPORT 3 HD ro
+http://origi-JW-1.netvil43.store:80/RO-117/tracks-v1a1/mono.m3u8?token=c1lhc3Q1ZVhxcXJIZTU2c2ZhdTRtWlBiMkppd3k2K0EyNE9keU5xbG1YekRxb1d1Z1plV282T1dlNU9xZ3FxeGxaT3ZvNmFGbkxLSHZJV2ZrN3Fzbm93PQ%3D%3D
+#EXTINF:-1,DİGİ SPORT 4 HD ro
+http://origi-JW-1.netvil43.store:80/RO-118/tracks-v1a1/mono.m3u8?token=c1lhc3Q1ZVhxcXJIZTU2c2ZhdTRtWlBiMkppd3k2K0EyNE9keU5xbG1YekRxb1d1Z1plV282T1dlNU9xZ3FxeGxaT3ZvNmFGbkxLSHZJV2ZrN3Fzbm93PQ%3D%3D
+#EXTINF:-1,EUROSPORT 1 ro
+http://origi-JW-1.netvil43.store:80/RO-110/tracks-v1a1/mono.m3u8?token=c1lhc3Q1ZVhxcXJIZTU2c2ZhdTRtWlBiMkppd3k2K0EyNE9keU5xbG1YekRxb1d1Z1plV282T1dlNU9xZ3FxeGxaT3ZvNmFGbkxLSHZJV2ZrN3Fzbm93PQ%3D%3D
+#EXTINF:-1,EUROSPORT 2 ro
+http://origi-JW-1.netvil43.store:80/RO-111/tracks-v1a1/mono.m3u8?token=c1lhc3Q1ZVhxcXJIZTU2c2ZhdTRtWlBiMkppd3k2K0EyNE9keU5xbG1YekRxb1d1Z1plV282T1dlNU9xZ3FxeGxaT3ZvNmFGbkxLSHZJV2ZrN3Fzbm93PQ%3D%3D
+#EXTINF:-1,Premier Sport 1 cz
+http://185.188.188.237:5000/live/premiersport/playlist.m3u8
+#EXTINF:-1,Premier Sport 2 cz
+http://185.188.188.237:5000/live/premiersport2/playlist.m3u8
+#EXTINF:-1,ctsport HD
+http://185.188.188.237:5000/live/ctsport/playlist.m3u8
+#EXTINF:-1,jojsport HD
+http://185.188.188.237:5000/live/jojsport/playlist.m3u8
+#EXTINF:-1,rtvssport HD
+http://185.188.188.237:5000/live/rtvssport/playlist.m3u8
+#EXTINF:-1,canal+sport 2 SK HD
+http://185.188.188.237:5000/live/canalsport2/playlist.m3u8
+#EXTINF:-1,novasport 1 HD
+http://185.188.188.237:5000/live/novasport1/playlist.m3u8
+#EXTINF:-1,novasport 2 HD
+http://185.188.188.237:5000/live/novasport2/playlist.m3u8
+#EXTINF:-1,novasport 3 HD
+http://185.188.188.237:5000/live/novasport3/playlist.m3u8
+#EXTINF:-1,novasport1 4 HD
+http://185.188.188.237:5000/live/novasport4/playlist.m3u8
+#EXTINF:-1,novasport1 5 HD
+http://185.188.188.237:5000/live/novasport5/playlist.m3u8
+#EXTINF:-1,arenasport 1 HD
+http://185.188.188.237:5000/live/arenasport1/playlist.m3u8
+#EXTINF:-1,arenasport 2 HD
+http://185.188.188.237:5000/live/arenasport2/playlist.m3u8
+#EXTINF:-1,sport 1 HD
+http://185.188.188.237:5000/live/sport1/playlist.m3u8
+#EXTINF:-1,sport 2 HD
+http://185.188.188.237:5000/live/sport2/playlist.m3u8
+#EXTINF:-1,eurosport 1 HD
+http://185.188.188.237:5000/live/eurosport/playlist.m3u8
+#EXTINF:-1,eurosport2 HD
+http://185.188.188.237:5000/live/eurosport2/playlist.m3u8
+#EXTINF:-1,golf channel HD
+http://185.188.188.237:5000/live/golfchannel/playlist.m3u8
+体育频道|Astro Premier League 1,http://51.89.166.17:3002/index.php?id=go_assp1
+体育频道|Astro EPL 1 backup,http://51.89.166.17:3002/index.php?id=go_assp1x
+体育频道|Astro Premier League 2,http://51.89.166.17:3002/index.php?id=go_assp2
+体育频道|Astro Grandstand,http://51.89.166.17:3002/index.php?id=go_assp3
+体育频道|Astro Football,http://51.89.166.17:3002/index.php?id=go_assp4
+体育频道|Astro Sports Plus,http://51.89.166.17:3002/index.php?id=go_sportsplus
+体育频道|Astro Badminton 1,http://51.89.166.17:3002/index.php?id=go_badminton1
+体育频道|Astro Badminton 2,http://51.89.166.17:3002/index.php?id=go_badminton2
+体育频道|Astro W-Sports,http://51.89.166.17:3002/index.php?id=go_assp5
+体育频道|Supersports 1,http://51.89.166.17:3002/index.php?id=Assp1
+体育频道|Supersports 2,http://51.89.166.17:3002/index.php?id=Assp2
+体育频道|Supersports 3,http://51.89.166.17:3002/index.php?id=Assp3
+体育频道|Supersports 4,http://51.89.166.17:3002/index.php?id=Assp4
+体育频道|WWE,http://51.89.166.17:3002/index.php?id=Wwe
+体育频道|Fight Sports,http://51.89.166.17:3002/index.php?id=Fs
+体育频道|NBA TV,http://51.89.166.17:3002/index.php?id=Nba
+体育频道|Astro Cricket,http://51.89.166.17:3002/index.php?id=Acricket
+体育频道|Astro Golf,http://51.89.166.17:3002/index.php?id=Agolf
+体育频道|Tnt Sports 1,http://51.89.166.17:3002/index.php?id=6fac0aaead
+体育频道|TNT Sports 2,http://51.89.166.17:3002/index.php?id=d9a76a79cc
+体育频道|TNT Sports 3,http://51.89.166.17:3002/index.php?id=5fea4d73db
+体育频道|TNT Sports 4,http://51.89.166.17:3002/index.php?id=tntsport4
+体育频道|Sony Ten 1,http://51.89.166.17:3002/index.php?id=ten1_raj
+体育频道|Sony Ten 2,http://51.89.166.17:3002/index.php?id=ten2_raj
+体育频道|Sony Ten 3,http://51.89.166.17:3002/index.php?id=ten3_raj
+体育频道|SPOTV 1 HD,http://51.89.166.17:3002/index.php?id=go_spotv
+体育频道|SPO TV 2,http://51.89.166.17:3002/index.php?id=go_spotv2
+体育频道|Skysports F1,http://51.89.166.17:3002/index.php?id=tiankongf1
+体育频道|Skysports Cricket,http://51.89.166.17:3002/index.php?id=tiankongcricket
+体育频道|Skysports EPL,http://51.89.166.17:3002/index.php?id=tiankongepl
+体育频道|Skysports Main Event,http://51.89.166.17:3002/index.php?id=tiankongmain
+体育频道|Skysports News,http://51.89.166.17:3002/index.php?id=tiankongnews
+体育频道|Skysports Mix,http://51.89.166.17:3002/index.php?id=tiankongmix
+体育频道|RTM Sports HD,http://51.89.166.17:3002/index.php?id=Rtmsport
+体育频道|Arena,http://51.89.166.17:3002/index.php?id=Arena
+体育频道|Arena 2,http://51.89.166.17:3002/index.php?id=Arena2
+体育频道|BolaArena 1,http://51.89.166.17:3002/index.php?id=Bolaarena1
+体育频道|BolaArena 2,http://51.89.166.17:3002/index.php?id=Bolaarena2
+体育频道|Astro Beinsports 1,http://51.89.166.17:3002/index.php?id=Astrobein1
+体育频道|Astro Beinsports 2,http://51.89.166.17:3002/index.php?id=Astrobein2
+体育频道|Astro Beinsports 3,http://51.89.166.17:3002/index.php?id=Astrobein
+#EXTINF:-1,J Sports 1
+https://nl.utako.moe/js1/index.m3u8
+#EXTINF:-1,J SportsJ Sports 2
+https://nl.utako.moe/js2/index.m3u8
+#EXTINF:-1,J SportsJ Sports 3
+https://nl.utako.moe/js3/index.m3u8
+#EXTINF:-1,J SportsJ Sports 4
+https://nl.utako.moe/js4/index.m3u8
+#EXTINF:-1,J NHK
+https://nl.utako.moe/NHK_G/index.m3u8
+Skysport calcio
+https://bizz-streams2u.shop/my/stream-870.php
+Skysport24
+https://bizz-streams2u.shop/my/stream-869.php
+Skysport
+https://bizz-streams2u.sho
+
+
 
