@@ -222,7 +222,7 @@ http://88.212.15.19/live/test_disney/playlist.m3u8
 http://88.212.15.19/live/test_disney_junior/playlist.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Detské",Cartoon Network
 https://flexi-s1.purplecdn.xyz/CartoonNetwork/index.m3u8
-#EXTINF:-1 tvg-id="Tom a Jerry" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Detské",Tom & Jerry
+#EXTINF:-1 tvg-id="Tom a Jerry" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Detské",Tom & Jerry - nonstop 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Óčko.cz" tvg-country="CZ;SK" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ocko.png" group-title="Hudobné",Óčko
