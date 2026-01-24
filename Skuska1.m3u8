@@ -224,6 +224,8 @@ http://88.212.15.19/live/test_disney_junior/playlist.m3u8
 https://flexi-s1.purplecdn.xyz/CartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-id="Tom a Jerry" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Detské",Tom & Jerry - nonstop 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-id="Mr.bean" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB900003KR_20250107T031153SQUARE.png" tvg-chno="4823" group-title="Kids",Mr Bean Animated
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Óčko.cz" tvg-country="CZ;SK" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ocko.png" group-title="Hudobné",Óčko
 http://88.212.15.19/live/test_ocko/playlist.m3u8
@@ -1684,6 +1686,21 @@ http://79.127.207.193:80/Rai2/playlist.m3u8
 http://79.127.207.193:80/Rai3/playlist.m3u8
 #EXTINF:1.Rai Sport HD
 http://79.127.207.193:80/RaiSport/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tom&Jerry" tvg-logo="https://m.media-amazon.com/images/M/MV5BODY2YWI1OTAtY2FhZS00MGI1LTk0YjUtYmE3MDk0OGFkMWUyXkEyXkFqcGc@._V1_.jpg" group-title="Kids",Tom & Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://spoo.me/Friends" group-title="Premium 24/7", Friends
+https://hls.watchfriends.net/hls/friends/master.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://spoo.me/HIMYM" group-title="Premium 24/7", How I Met Your Mother
+http://wickediptv.xyz/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/224210.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24.7.Dummy.us" tvg-logo="http://x.playerlatino.live/thebigbangtheory.png" group-title="Premium 24/7",The Big Bang Theory
+http://amazing-prada.xyz/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/224605.m3u8
+
+#EXTINF:-1 tvg-name="24.7.Dummy.us" tvg-logo="http://x.playerlatino.live/twoandhalfmen.png" group-title="Premium 24/7",Two And a Half Men
+http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:33:64:37&stream=976576&extension=ts
 
 
 
