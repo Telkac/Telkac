@@ -194,7 +194,6 @@ http://88.212.15.19/live/test_jojko_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Rik TV.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/725-rik-tv-hd.png" group-title="Detské",Rik
 http://88.212.15.19/live/test_rik/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT :D.cz" tvg-url="decko.cz" tvg-url="ctart.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ctdart.png" group-title="Detské",ČT :D/art
-http://194.160.135.34:8088/udp/233.10.47.119:1234
 http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Jim Jam.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1770-jimjam.png" group-title="Detské",Jim Jam
 http://88.212.15.19/live/test_jim_jam/playlist.m3u8
