@@ -36,7 +36,7 @@ http://212.102.38.45/live/test_ct24_hevc/playlist.m3u8
 http://212.102.38.45/live/test_cnn_pirma_news/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ČT1.cz" tvg-url="ct1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/qBlEbN3.png" group-title="Všeobecné",ČT1
-http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
+http://212.102.38.45/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT2.cz" tvg-url="ct2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/HpnGC6A.png" group-title="Všeobecné",ČT2
 http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nova.png" group-title="Všeobecné",Nova
