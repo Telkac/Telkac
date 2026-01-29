@@ -38,17 +38,17 @@ http://212.102.38.45/live/test_cnn_pirma_news/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT1.cz" tvg-url="ct1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/qBlEbN3.png" group-title="Všeobecné",ČT1
 http://212.102.38.45/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT2.cz" tvg-url="ct2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/HpnGC6A.png" group-title="Všeobecné",ČT2
-http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
+http://212.102.38.45/live/test_ct2_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nova.png" group-title="Všeobecné",Nova
-http://88.212.15.19/live/nova_avc_25p/playlist.m3u8
+http://212.102.38.45/live/nova_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primahd.png" group-title="Všeobecné",Prima
-http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
+http://212.102.38.45/live/prima_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Cinema.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novacinema.png" group-title="Všeobecné",Nova Cinema
-http://88.212.15.19/live/nova_cinema_avc_25p/playlist.m3u8
+http://212.102.38.45/live/nova_cinema_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Action.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novaaction.png" group-title="Všeobecné",Nova Action
-http://88.212.15.19/live/nova_action_avc_25p/playlist.m3u8
+http://212.102.38.45/live/nova_action_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Fun.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novafun.png" group-title="Všeobecné",Nova Fun
-http://88.212.15.19/live/nova_fun_avc_25p/playlist.m3u8
+http://212.102.38.45/live/nova_fun_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Krimi.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://en.wikipedia.org/wiki/Nova_Krimi#/media/File%3ANova_Krimi_Logo.webp" group-title="Všeobecné",Nova Krimi
 http://88.212.15.19/live/nova_gold_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Lady.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novalady.png" group-title="Všeobecné",Nova Lady
