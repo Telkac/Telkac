@@ -163,7 +163,7 @@ http://185.188.188.237:5000/live/viasatexplore/playlist.m3u8
 #EXTINF:-1 tvg-id="Viasat History.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Viasat_History-logo.svg/1426px-Viasat_History-logo.svg.png" group-title="Dokumentárne",Viasat History
 http://185.188.188.237:5000/live/viasathistory/playlist.m3u8
 #EXTINF:-1 tvg-id="History Channel.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="Dokumentárne",History
-http://88.212.15.19/live/test_history/playlist.m3u8
+http://212.102.38.45/live/test_history/playlist.m3u8
 #EXTINF:-1 tvg-id="CS History.cz" tvg-name="CShistory " tvg-logo="https://www.jojgroup.sk/wp-content/uploads/CS-history-2.png" group-title="Dokumentárne",CS History
 http://212.102.38.45/live/test_cs_history_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CS Mystery.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/CS_Mystery.png/800px-CS_Mystery.png" group-title="Dokumentárne",CS Mystery
