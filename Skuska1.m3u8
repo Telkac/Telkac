@@ -4,38 +4,36 @@
 
 #EXTINF:-1 tvg-id="Jednotka.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/T7EWAe7.png" group-title="Všeobecné",Jednotka
 http://212.102.38.45/live/test_jednotka_25p/playlist.m3u8
-http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Dvojka.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/Ksi25UD.png" group-title="Všeobecné",Dvojka
-http://88.212.15.19/live/test_dvojka_25p/playlist.m3u8
+http://212.102.38.45/live/test_dvojka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Markíza.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mark%C3%ADza_%282022%29.svg/2560px-Mark%C3%ADza_%282022%29.svg.png" group-title="Všeobecné",Markiza
 http://212.102.38.45/live/test_markiza_25p/playlist.m3u8
-http://88.212.15.19/live/test_markiza_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://www.absolventi.stuba.sk/dokumenty/firmy/loga_web/joj-logo_horizontal_a.png" group-title="Všeobecné",JOJ
-http://88.212.15.19/live/test_joj_25p/playlist.m3u8
+http://212.102.38.45/live/test_joj_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="TV DAJTO.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Dajto.png" group-title="Všeobecné",Dajto
-http://88.212.15.19/live/test_dajto_25p/playlist.m3u8
+http://212.102.38.45/live/test_dajto_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Doma.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/TV_Doma.png" group-title="Všeobecné",Doma
-http://88.212.15.19/live/test_doma_hd_hevc/playlist.m3u8
+http://212.102.38.45/live/test_doma_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Markíza KRIMI.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mark%C3%ADza_Krimi_Logo_2022.svg/2560px-Mark%C3%ADza_Krimi_Logo_2022.svg.png" group-title="Všeobecné",Markiza Krimi
-http://88.212.15.19/live/test_markiza_krimi_hevc/playlist.m3u8
+http://212.102.38.45/live/test_markiza_krimi_hevc/playlist.m3u8
 https://cdnsk003.panaccess.com/local/Markiza_krimi/index.m3u8
 #EXTINF:-1 tvg-id="Markíza KLASIK.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Mark%C3%ADza_Klasik.svg/2560px-Mark%C3%ADza_Klasik.svg.png" group-title="Všeobecné",Markiza Klasik
 https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8
 #EXTINF:-1 tvg-id="JOJ Plus.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/fKPliTj.png" group-title="Všeobecné",JOJ Plus
-http://88.212.15.19/live/test_pluska_25p/playlist.m3u8
+http://212.102.38.45/live/test_pluska_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="WAU.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/wO5ifff.png" group-title="Všeobecné",WAU
-http://88.212.15.19/live/test_wau_25p/playlist.m3u8
+http://212.102.38.45/live/test_wau_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TA3.cz" tvg-logo="https://i.imgur.com/kPFBxc9.png" tvg-id="TA3.sk" group-title="Všeobecné",TA3
-http://88.212.15.19/live/test_ta3_25p/playlist.m3u8
+http://212.102.38.45/live/test_ta3_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ 24.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/owEVXRE.png" group-title="Všeobecné",JOJ 24
 https://dvr2.kablova.tv/JOJ_24/index.m3u8
 #EXTINF:-1 tvg-id="RTVS 24.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/sdSsFU0.png" group-title="Všeobecné",RTVS:24
-http://88.212.15.19/live/test_trojka_25p/playlist.m3u8
+http://212.102.38.45/live/test_trojka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT24.cz" tvg-url="ct24.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/pUMRFs1.png" group-title="Všeobecné",ČT24
-http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
+http://212.102.38.45/live/test_ct24_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN Prima News.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CNN_Prima_News_SVG_Logo.svg/2560px-CNN_Prima_News_SVG_Logo.svg.png" group-title="Všeobecné",CNN Prima News
-http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8
+http://212.102.38.45/live/test_cnn_pirma_news/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ČT1.cz" tvg-url="ct1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/qBlEbN3.png" group-title="Všeobecné",ČT1
 http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
