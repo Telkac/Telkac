@@ -75,7 +75,7 @@ http://212.102.38.45/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
 #EXTINF:-1 tvg-id="Krimi Barrandov.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvbarrandov.png" group-title="Všeobecné",Krimi Barrandov
 http://212.102.38.45/live/test_barrandov_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="CS Film.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/csfilm.png" group-title="Všeobecné",CS Film-CS Horror
-
+http://185.188.188.237:5000/live/csfilm/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JOJ Cinema.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/jojcinema.png" group-title="Všeobecné",JOJ Cinema
 http://212.102.38.45/live/test_joj_cinema_25p/playlist.m3u8
@@ -110,7 +110,7 @@ http://212.102.38.45/live/test_black/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN White.cz" tvg-name="AXN White" tvg-logo="https://a0.anyrgb.com/pngimg/1486/102/axn-beyond-axn-spin-axn-black-axn-white-axn-sci-fi-ncis-los-angeles-sony-television-axn-sony-television-channel.png" group-title="Všeobecné",AXN White
 http://212.102.38.45/live/test_white/playlist.m3u8
 #EXTINF:-1 tvg-id="Film Europe.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmeurope.png" group-title="Všeobecné",Film Europe
-
+http://185.188.188.237:5000/live/filmeurope/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmBox Arthouse.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmeurope.png" group-title="Všeobecné",FilmBox Arthouse
 https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="Seznam.cz TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/seznamtv.png" group-title="Všeobecné",Seznam.cz TV
@@ -122,7 +122,7 @@ http://185.188.188.237:5000/live/canalaction/playlist.m3u8
 #EXTINF:-1 tvg-id="Warner TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/526px-Warner2018LA.png" group-title="Všeobecné",Warner TV
 
 #EXTINF:-1 tvg-id="Paramount Network.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/2056px-Paramount_Network.svg.png" group-title="Všeobecné",Paramount Network
-
+http://185.188.188.237:5000/live/paramount/playlist.m3u8
 #EXTINF:-1 tvg-id="Epic Drama.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/ab/Epic_Drama_logo.png" group-title="Všeobecné",Epic Drama
 
 #EXTINF:-1 tvg-id="story4.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Všeobecné",Story 4
@@ -382,11 +382,96 @@ https://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 https://lifetv.mpks.sk/s.m3u8
 #EXTINF:-1 tvg-id="TV RAJ.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",TV Raj
 
+#EXTINF:-1, Skvelé TV
+https://dash3.antik.sk/live/test_skvele_tv_fhd/playlist.m3u8
+#EXTINF:-1, Chilli TV
+https://dash2.antik.sk/live/chilli_tv/index.m3u8
 #EXTINF:-1 tvg-id="Park TV.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1583-park-tv-hd.png" group-title="Všeobecné",Park TV
-
+https://dash2.antik.sk/live/test_park_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.maxim.iptv.antik.sk/app/assets/upload/channels/60a2b0c04cbc73c131beb0eaf490ed26.svg" group-title="Športové",Tanečné súťaže HD
 http://212.102.38.45/live/tanecnesutaze/index.m3u8
 #EXTINF:-1 tvg-id="CETV.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://www.cetv.sk/wp-content/uploads/2019/10/TV-Central-logo-zellow-bolt.png" group-title="Všeobecné",Central TV
+EXTINF:-1, TV Piánko
+https://dash2.antik.sk/live/test_pianko/playlist.m3u8
+#EXTINF:-1, Mestská TV Košice
+https://dash2.antik.sk/live/test_mtv_kosice/playlist.m3u8
+#EXTINF:-1, RVTV
+https://dash2.antik.sk/live/test_roznava/playlist.m3u8
+#EXTINF:-1, Miestna TV Trebišov
+https://dash3.antik.sk/live/test_trebisov/playlist.m3u8
+#EXTINF:-1, HNTV
+https://dash3.antik.sk/live/test_hntv/playlist.m3u8
+#EXTINF:-1, BTV
+https://dash2.antik.sk/live/test_btv/playlist.m3u8
+#EXTINF:-1, Moldava TV
+https://dash2.antik.sk/live/test_moldava/playlist.m3u8
+#EXTINF:-1, TV9
+https://dash3.antik.sk/live/test_tv9/playlist.m3u8
+#EXTINF:-1, TV7
+https://dash2.antik.sk/live/test_tv7/playlist.m3u8
+#EXTINF:-1, ČSRTV
+https://dash2.antik.sk/live/test_csrtv/playlist.m3u8
+#EXTINF:-1, TV SEN
+https://dash3.antik.sk/live/test_tv_sen_atktv/playlist.m3u8
+#EXTINF:-1, TV Ružinov
+https://dash2.antik.sk/live/test_ruzinov/playlist.m3u8
+#EXTINF:-1, TV Kežmarok
+https://dash2.antik.sk/live/test_severka/playlist.m3u8
+#EXTINF:-1, TV Romana
+https://dash3.antik.sk/live/test_romana/playlist.m3u8
+#EXTINF:-1, TV Bratislava
+https://dash2.antik.sk/live/test_batv/playlist.m3u8
+#EXTINF:-1, Life TV
+https://dash2.antik.sk/live/test_life/playlist.m3u8
+#EXTINF:-1, TV RAJ
+https://dash2.antik.sk/live/test_raj/playlist.m3u8
+#EXTINF:-1, TV Vega
+https://dash2.antik.sk/live/test_vega/playlist.m3u8
+#EXTINF:-1, TV Panoŕama
+https://dash2.antik.sk/live/test_panorama/playlist.m3u8
+#EXTINF:-1, ATV Žiar
+https://dash3.antik.sk/live/test_atv_ziar/playlist.m3u8
+#EXTINF:-1, TV Zemplín
+https://dash2.antik.sk/live/test_zemplin/playlist.m3u8
+#EXTINF:-1, TV Poprad
+https://dash3.antik.sk/live/test_poprad/playlist.m3u8
+#EXTINF:-1, TV Reduta
+https://dash3.antik.sk/live/tv_reduta/playlist.m3u8
+#EXTINF:-1, Mestská Televízia Partizánske
+https://dash2.antik.sk/live/test_partizanske/playlist.m3u8
+#EXTINF:-1, TV Považie
+https://dash3.antik.sk/live/test_povazie/playlist.m3u8
+#EXTINF:-1, Mestská Televízia Trnava
+https://dash3.antik.sk/live/test_trnava/playlist.m3u8
+#EXTINF:-1, CENTRAL TV
+https://dash3.antik.sk/live/test_central/playlist.m3u8
+#EXTINF:-1, TV Mistral
+https://dash2.antik.sk/live/test_mistral_atktv/playlist.m3u8
+#EXTINF:-1, TV Nitrička
+https://dash2.antik.sk/live/test_nitricka/playlist.m3u8
+#EXTINF:-1, TV Nové Zámky
+https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
+#EXTINF:-1, Západoslovenská TV
+https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8
+#EXTINF:-1, TV Vita
+https://dash2.antik.sk/live/test_vita/playlist.m3u8
+#EXTINF:-1, TV8
+https://dash2.antik.sk/live/test_osem/playlist.m3u8
+#EXTINF:-1, Régió TV
+https://dash3.antik.sk/live/test_regio_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVLiptov.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://lh6.googleusercontent.com/proxy/B_WlQa7BS2i-Ln_W-umTF3gMBoKo8qQumIQlCrurvDRAw8AZKjnVB4GZkGXvkBxJ7FqyTwDkCi1_ADKdwv3cZg" group-title="Všeobecné",TV Liptov
+http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVLocAll.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",TV LocAll
+http://tv.geniusnet.sk:8081/localltv/pl.m3u8
+#EXTINF:-1 tvg-id="Severka.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Severka
+
+#EXTINF:-1 tvg-id="Mňau TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/mnau.png" group-title="Všeobecné",Mnau TV HD
+https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TV OSEM.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="-" group-title="Všeobecné",TV8
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-name="NR SR" tvg-logo="https://i.imgur.com/sPDiS5q.png" tvg-id="TVNRSR.sk" group-title="Všeobecné",NR SR
+https://dash3.antik.sk/live/test_nrsr/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="RELAX.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/relax.png" group-title="Všeobecné",RELAX
 https://dash2.antik.sk/live/test_relax/playlist.m3u8
@@ -399,12 +484,6 @@ https://stream.polar.cz/polar/polarlive-1/manifest.m3u8
 #EXTINF:-1 tvg-id="Polar.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/polar.png" group-title="Všeobecné",Polar 2
 https://stream.polar.cz/polar2/polarlive2-1/manifest.m3u8
 #EXTINF:-1 tvg-id="PRAHA TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/prahatv.png" group-title="Všeobecné",Praha TV
-
-#EXTINF:-1 tvg-id="TVLiptov.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://lh6.googleusercontent.com/proxy/B_WlQa7BS2i-Ln_W-umTF3gMBoKo8qQumIQlCrurvDRAw8AZKjnVB4GZkGXvkBxJ7FqyTwDkCi1_ADKdwv3cZg" group-title="Všeobecné",TV Liptov
-http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVLocAll.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",TV LocAll
-http://tv.geniusnet.sk:8081/localltv/pl.m3u8
-#EXTINF:-1 tvg-id="Severka.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Severka
 
 #EXTINF:-1 tvg-id="TV Brno 1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/tvloga/f578709d7d5086d1a4a09b024dbc3cd5a7c36b28/1024/brno1.png" group-title="Všeobecné",TV BRNO 1 HD
 https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
@@ -430,12 +509,6 @@ https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
 https://1459594018.rsc.cdn77.org/1459594018/index.m3u8
 #EXTINF:-1 tvg-id="ElektrikaTV.cz",Elektrika TV
 https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Mňau TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/mnau.png" group-title="Všeobecné",Mnau TV HD
-https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="TV OSEM.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="-" group-title="Všeobecné",TV8
-http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-name="NR SR" tvg-logo="https://i.imgur.com/sPDiS5q.png" tvg-id="TVNRSR.sk" group-title="Všeobecné",NR SR
-https://dash3.antik.sk/live/test_nrsr/playlist.m3u8
 
 #EXTINF:0 tvg-name="NHL Network" tvg-logo="http://troya.info/images/chIcons/1067.png" tvg-rec="0",NHL Network 🇺🇸
 http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
