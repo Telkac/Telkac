@@ -16,9 +16,8 @@ http://212.102.38.45/live/test_dajto_25p/playlist.m3u8
 http://212.102.38.45/live/test_doma_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Markíza KRIMI.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mark%C3%ADza_Krimi_Logo_2022.svg/2560px-Mark%C3%ADza_Krimi_Logo_2022.svg.png" group-title="Všeobecné",Markiza Krimi
 http://212.102.38.45/live/test_markiza_krimi_hevc/playlist.m3u8
-https://cdnsk003.panaccess.com/local/Markiza_krimi/index.m3u8
 #EXTINF:-1 tvg-id="Markíza KLASIK.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Mark%C3%ADza_Klasik.svg/2560px-Mark%C3%ADza_Klasik.svg.png" group-title="Všeobecné",Markiza Klasik
-https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8
+https://cdnsk004.panaccess.com/local/Markiza_Klasik/index.m3u8
 #EXTINF:-1 tvg-id="JOJ Plus.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/fKPliTj.png" group-title="Všeobecné",JOJ Plus
 http://212.102.38.45/live/test_pluska_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="WAU.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/wO5ifff.png" group-title="Všeobecné",WAU
