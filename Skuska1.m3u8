@@ -43,6 +43,7 @@ http://212.102.38.45/live/test_ct2_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nova.png" group-title="Všeobecné",Nova
 http://212.102.38.45/live/nova_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primahd.png" group-title="Všeobecné",Prima
+http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
 http://212.102.38.45/live/prima_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Cinema.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novacinema.png" group-title="Všeobecné",Nova Cinema
 http://212.102.38.45/live/nova_cinema_avc_25p/playlist.m3u8
@@ -277,13 +278,8 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1 tvg-id="4Fun Dance.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://seeklogo.com/images/1/4fun-dance-logo-6DBBB0A530-seeklogo.com.png" group-title="Hudobné",4Fun Dance PL 🇵🇱
 
-#EXTINF:-1 tvg-id="EskaRockDobrzeRockuje.pl",Eska Rock Dobrze Rockuje PL 🇵🇱
-
-#EXTINF:-1 tvg-id="HiDance.cz",HiDance PL 🇵🇱
-
-#EXTINF:-1 tvg-id="HiMusic.cz",HiMusic PL 🇵🇱
-
-#EXTINF:-1 tvg-id="SAYHi.cz",SAYHi PL 🇵🇱
+#EXTINF:-1 tvg-id="VantageRock",VantageRock
+https://hls.vantagetv.ee/vrock_stream/index.m3u8
 
 #EXTINF:0,group-title="Hudobné",VH1 🇺🇸
 http://23.237.104.106:8080/USA_VH1/index.m3u8
