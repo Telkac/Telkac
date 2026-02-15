@@ -33,7 +33,7 @@ https://dvr2.kablova.tv/JOJ_24/index.m3u8
 http://212.102.38.45/live/test_trojka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT24.cz" tvg-url="ct24.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/pUMRFs1.png" group-title="Všeobecné",ČT24
 http://212.102.38.45/live/test_ct24_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="CNN Prima News.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CNN_Prima_News_SVG_Logo.svg/2560px-CNN_Prima_News_SVG_Logo.svg.png" group-title="Všeobecné",CNN Prima News
+#EXTINF:-1 tvg-id="CNN Prima News.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://en.wikipedia.org/wiki/CNN_Prima_News#/media/File%3ACNN_Prima_News_SVG_Logo.svg" group-title="Všeobecné",CNN Prima News
 http://212.102.38.45/live/test_cnn_pirma_news/playlist.m3u8
 
 
