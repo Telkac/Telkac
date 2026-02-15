@@ -124,7 +124,7 @@ http://185.188.188.237:5000/live/canalaction/playlist.m3u8
 #EXTINF:-1 tvg-id="Warner TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/526px-Warner2018LA.png" group-title="Všeobecné",Warner TV
 
 #EXTINF:-1 tvg-id="Paramount Network.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/2056px-Paramount_Network.svg.png" group-title="Všeobecné",Paramount Network
-http://185.188.188.237:5000/live/paramount/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Epic Drama.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/ab/Epic_Drama_logo.png" group-title="Všeobecné",Epic Drama
 
 #EXTINF:-1 tvg-id="story4.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Všeobecné",Story 4
