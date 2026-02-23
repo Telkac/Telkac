@@ -131,9 +131,9 @@ http://185.188.188.237:5000/live/canalaction/playlist.m3u8
 #EXTINF:-1 tvg-id="story4.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Všeobecné",Story 4
 
 #EXTINF:-1 tvg-id="Nova International.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1-nova-international-hd.png" group-title="Všeobecné",Nova International
-
+http://194.160.135.34:8088/udp/233.10.47.61:1234
 #EXTINF:-1 tvg-id="Prima SK.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primahd.png" group-title="Všeobecné",Prima SK
-
+http://194.160.135.34:8088/udp/233.10.47.81:1234
 #EXTINF:-1 tvg-id="Prima COOL SK.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://staticeu.sweet.tv/images/icons/channels/v2/863-prima-cool-hd.png" group-title="Všeobecné",Prima COOL SK
 http://212.102.38.45/live/prima_cool_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ Family.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/jojfamilyhd.png" group-title="Všeobecné",JOJ Family SK
@@ -252,7 +252,7 @@ https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 https://bss1.neterra.tv/magictv/magictv.m3u8
 http://78.108.251.7/MagicTV/mono.m3u8
 #EXTINF:-1 tvg-id="CityTV.bg" group-title="Hudobné",City TV BG 🇧🇬 
-
+https://tv.city.bg/play/tshls/citytv/3.m3u8
 #EXTINF:-1 tvg-id="Deluxe Music.cz" group-title="Hudobné",Deluxe Music DE 🇩🇪
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="Deluxe Music.cz" group-title="Hudobné",Deluxe Dance Music DE 🇩🇪
@@ -266,6 +266,8 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Now Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png" tvg-id="NowRock.uk" group-title="UK",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0, VEVO Retro Rock
+https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
 
 #EXTINF:-1,Totalmusic 2000s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
@@ -310,7 +312,7 @@ https://live.obslivestream.com/hielmusic/index.m3u8
 #EXTINF:-1 tvg-id="SENZI.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1410-senzi-hd.png" group-title="Hudobné",SENZI HD
 http://212.102.38.45/live/test_senzi_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Šlágr Originál.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/%C5%A0lagr-logo.png" group-title="Hudobné",Šlágr 1
-
+https://stream-13.mazana.tv/slagroriginal.m3u
 #EXTINF:-1 tvg-id="Šlágr Muzika.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/%C5%A0l%C3%A1gr_2.png" group-title="Hudobné",Šlágr 2
 http://212.102.38.45/live/test_slagr_2_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="Premium.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://slagrtv.cz/img/slagr-premium-2-logo.png" group-title="Hudobné",Šlágr Premium
@@ -350,7 +352,7 @@ http://185.188.188.237:5000/live/novasport4/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Sport 5.cz" tvg-name="Nova Sport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Nova_Sport_5_2024.png" group-title="Sport",Nova Sport 5
 http://185.188.188.237:5000/live/novasport5/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Sport 6.cz" tvg-name="Nova Sport 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Nova_Sport_6_2024.png" group-title="Sport",Nova Sport 6
-
+http://185.112.249.46:9981/stream/channelid/1940136002?profile=pass
 #EXTINF:0 tvg-id="" tvg-name="CANAL+ Sport (CZ)" tvg-logo="https://ip-tv.dev/images/ico/9305.png" , CANAL+ Sport (CZ)
 #EXTGRP:SkyLink
 
@@ -670,6 +672,9 @@ http://stream.kukaj.se/stream/12/video.m3u8
 http://live.idnes.cz/slow/amc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Praha Letisko
 http://live.idnes.cz/slow/planespotting/playlist.m3u8
+#EXTINF:0,iDNES TV: Vitznau-Rigi ve Švýcarsku
+https://live.idnes.cz/slow/svycarsko_720p/manifest.m3u8
+
 #EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Live kamera
 https://webcam.bergregions.insyscd.net/live/meander_aqua_1/index.m3u8
 #EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Live kamera
@@ -859,6 +864,13 @@ http://79.127.207.193:80/ArenaFight/playlist.m3u8
 http://79.127.207.193:80/FightNetwork/playlist.m3u8
 #EXTINF:1.Rai Sport HD
 http://79.127.207.193:80/RaiSport/playlist.m3u8
+
+#EXTINF:0,BEIN SPORTS 1 HD
+http://99.27.51.147:8080/BeinSport/index.m3u8
+#EXTINF:0,Bein Sport 2 HD
+http://99.27.51.147:8080/BeinSport2/index.m3u8
+#EXTINF:0,Bein Sport 3 HD
+http://99.27.51.147:8080/BeinSport3/index.m3u8
 
 #EXTINF:0 tvg-name="NHL Network" tvg-logo="http://troya.info/images/chIcons/1067.png" tvg-rec="0",NHL Network 🇺🇸
 http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
