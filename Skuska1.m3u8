@@ -364,11 +364,6 @@ http://185.112.249.46:9981/stream/channelid/1940136002?profile=pass
 
 #EXTINF:-1 tvg-id="Canal+ Sport 3.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",CANAL+ Sport 3
 
-#EXTINF:-1,Premier Sport 1.cz
-http://185.188.188.237:5000/live/premiersport/playlist.m3u8
-#EXTINF:-1,Premier Sport 2.cz
-http://185.188.188.237:5000/live/premiersport2/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Arena Sport 1.cz" tvg-name="Arena Sport 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Arena_Sport_TV_1.png" group-title="Sport",Arena Sport 1
 http://212.102.38.45/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 tvg-id="Arena Sport 2.cz" tvg-name="Arena Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Logo_Arena_Sport_TV_2.png" group-title="Sport",Arena Sport 2
@@ -383,14 +378,18 @@ https://dash2.antik.sk/live/sporty_tv/index.m3u8
 
 #EXTINF:-1 tvg-id="Oneplay Sport 1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://oneplaysport.cz/assets/front/img/channels/ops_1.png" group-title="Sport",Oneplay Sport 1
 http://185.112.249.46:9981/stream/channelid/177253733?profile=pass
-#EXTINF:-1 tvg-id="Oneplay Sport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Sport",Oneplay Sport 2
+#EXTINF:-1 tvg-id="Oneplay Sport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://oneplaysport.cz/assets/front/img/channels/ops_2.png" group-title="Sport",Oneplay Sport 2
 http://185.112.249.46:9981/stream/channelid/1716506983?profile=pass
-#EXTINF:-1 tvg-id="Oneplay Sport 3.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Sport",Oneplay Sport 3
+#EXTINF:-1 tvg-id="Oneplay Sport 3.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://oneplaysport.cz/assets/front/img/channels/ops_3.png" group-title="Sport",Oneplay Sport 3
 http://185.112.249.46:9981/stream/channelid/1597775099?profile=pass
-#EXTINF:-1 tvg-id="Premier Sport 1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Sport",PREMIER SPORT 1
+#EXTINF:-1 tvg-id="Premier Sport 1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://oneplaysport.cz/assets/front/img/channels/ps_1.png" group-title="Sport",PREMIER SPORT 1
 http://185.112.249.46:9981/stream/channelid/2020429400?profile=pass
-#EXTINF:-1 tvg-id="Premier Sport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Sport",PREMIER SPORT 2
+#EXTINF:-1 tvg-id="Premier Sport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://oneplaysport.cz/assets/front/img/channels/ps_2.png" group-title="Sport",PREMIER SPORT 2
 http://185.112.249.46:9981/stream/channelid/877537711?profile=pass
+#EXTINF:-1,Premier Sport 1.cz
+http://185.188.188.237:5000/live/premiersport/playlist.m3u8
+#EXTINF:-1,Premier Sport 2.cz
+http://185.188.188.237:5000/live/premiersport2/playlist.m3u8
 #EXTINF:-1 tvg-id="M4 Sport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/M4_Sport_log%C3%B3_2025.png/960px-M4_Sport_log%C3%B3_2025.png" group-title="Sport",M4 Sport
 http://88.212.15.19/live/m4_hun/index.m3u8
 
