@@ -55,7 +55,7 @@ http://212.102.38.45/live/nova_action_avc_25p/playlist.m3u8
 http://212.102.38.45/live/nova_fun_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Krimi.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://en.wikipedia.org/wiki/Nova_Krimi#/media/File%3ANova_Krimi_Logo.webp" group-title="Všeobecné",Nova Krimi
 http://212.102.38.45/live/nova_gold_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Nova Lady.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novalady.png" group-title="Všeobecné",Nova Lady
+#EXTINF:-1 tvg-id="Nova Lady.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Nova_Lady_2021.png/960px-Logo_Nova_Lady_2021.png" group-title="Všeobecné",Nova Lady
 http://212.102.38.45/live/test_nova_lady_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima Cool.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primacoolhd.png" group-title="Všeobecné",Prima COOL
 http://185.188.188.237:5000/live/primacool/playlist.m3u8
