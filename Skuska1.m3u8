@@ -53,7 +53,7 @@ http://212.102.38.45/live/nova_cinema_avc_25p/playlist.m3u8
 http://212.102.38.45/live/nova_action_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Fun.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novafun.png" group-title="Všeobecné",Nova Fun
 http://212.102.38.45/live/nova_fun_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Nova Krimi.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://en.wikipedia.org/wiki/Nova_Krimi#/media/File%3ANova_Krimi_Logo.webp" group-title="Všeobecné",Nova Krimi
+#EXTINF:-1 tvg-id="Nova Krimi.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/nova-gold-2.png" group-title="Všeobecné",Nova Krimi
 http://212.102.38.45/live/nova_gold_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Lady.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Nova_Lady_2021.png/960px-Logo_Nova_Lady_2021.png" group-title="Všeobecné",Nova Lady
 http://212.102.38.45/live/test_nova_lady_hevc_25p/playlist.m3u8
@@ -118,9 +118,9 @@ http://185.188.188.237:5000/live/filmeurope/playlist.m3u8
 https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="Seznam.cz TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/seznamtv.png" group-title="Všeobecné",Seznam.cz TV
 http://212.102.38.45/live/test_seznam_hevc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Kanal 1.cz" tvg-name="" tvg-logo="https://static.hnonline.sk/images/slike/2025/09/01/5954889.png" group-title="Všeobecné",Kanal 1
+#EXTINF:-1 tvg-id="Kanal 1.cz" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Kanal_1_CZ%26SK_2025_%28white%29.svg/revision/latest?cb=20260118191833" group-title="Všeobecné",Kanal 1
 http://212.102.38.45/live/test_upnetwork/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal+ Action.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1024px-Canal%2B_Action_2024.svg.png" group-title="Všeobecné",Canal Plus Action 
+#EXTINF:-1 tvg-id="Canal+ Action.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/960px-Canal%2B_Action_2024.svg.png" group-title="Všeobecné",Canal Plus Action 
 http://185.188.188.237:5000/live/canalaction/playlist.m3u8
 #EXTINF:-1 tvg-id="Warner TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/526px-Warner2018LA.png" group-title="Všeobecné",Warner TV
 
