@@ -42,9 +42,9 @@ http://212.102.38.45/live/test_cnn_pirma_news/playlist.m3u8
 http://212.102.38.45/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT2.cz" tvg-url="ct2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/HpnGC6A.png" group-title="Všeobecné",ČT2
 http://212.102.38.45/live/test_ct2_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Nova.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nova.png" group-title="Všeobecné",Nova
+#EXTINF:-1 tvg-id="Nova.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/TV_Nova_Logo_2024.svg/1280px-TV_Nova_Logo_2024.svg.png" group-title="Všeobecné",Nova
 http://212.102.38.45/live/nova_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Prima.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primahd.png" group-title="Všeobecné",Prima
+#EXTINF:-1 tvg-id="Prima.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Prima_TV_logo.svg/1280px-Prima_TV_logo.svg.png" group-title="Všeobecné",Prima
 http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
 http://212.102.38.45/live/prima_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Cinema.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/novacinema.png" group-title="Všeobecné",Nova Cinema
@@ -118,7 +118,7 @@ http://185.188.188.237:5000/live/filmeurope/playlist.m3u8
 https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="Seznam.cz TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/seznamtv.png" group-title="Všeobecné",Seznam.cz TV
 http://212.102.38.45/live/test_seznam_hevc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Kanal 1.cz" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Kanal_1_CZ%26SK_2025_%28white%29.svg/revision/latest?cb=20260118191833" group-title="Všeobecné",Kanal 1
+#EXTINF:-1 tvg-id="Kanal 1.cz" tvg-name="" tvg-logo="https://www.kanal1group.sk/wp-content/uploads/2025/09/kanal1-1200x623.jpg" group-title="Všeobecné",Kanal 1
 http://212.102.38.45/live/test_upnetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal+ Action.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/960px-Canal%2B_Action_2024.svg.png" group-title="Všeobecné",Canal Plus Action 
 http://185.188.188.237:5000/live/canalaction/playlist.m3u8
