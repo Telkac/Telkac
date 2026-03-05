@@ -158,7 +158,7 @@ http://212.102.38.45/live/test_ngc/playlist.m3u8
 http://212.102.38.45/live/test_ngw/playlist.m3u8
 #EXTINF:-1 tvg-id="Spektrum.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/spektrum.png" group-title="Dokumentárne",Spektrum
 http://212.102.38.45/live/test_spektrum/playlist.m3u8
-#EXTINF:-1 tvg-id="Spektrum Home.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/spektrumhome.png" group-title="Dokumentárné",Spektrum Home
+#EXTINF:-1 tvg-id="Spektrum Home.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/spektrumhome.png" group-title="Dokumentárne",Spektrum Home
 http://212.102.38.45/live/test_home_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Viasat Nature.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Dokumentárne",Viasat Nature
 http://185.188.188.237:5000/live/viasatnature/playlist.m3u8
@@ -483,7 +483,7 @@ https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV OSEM.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="-" group-title="Všeobecné",TV8
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
 https://dash2.antik.sk/live/test_osem/playlist.m3u8
-#EXTINF:-1 tvg-name="NR SR" tvg-logo="https://i.imgur.com/sPDiS5q.png" tvg-id="TVNRSR.sk" group-title="Všeobecné",NR SR
+#EXTINF:-1 tvg-name="TV NR SR.cz" tvg-logo="https://i.imgur.com/sPDiS5q.png" tvg-id="TVNRSR.sk" group-title="Všeobecné",NR SR
 https://dash3.antik.sk/live/test_nrsr/playlist.m3u8
 
 
