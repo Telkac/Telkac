@@ -780,98 +780,6 @@ https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
 #EXTINF:-1 tvg-id="4K" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Živé kamery",Aquarium 4K
 http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
 
-
-#EXTINF:-1,Arena Sport 1 HD
-http://79.127.207.193:80/ArenaSport1HD/playlist.m3u8
-#EXTINF:-1,Arena Sport 2 HD
-http://79.127.207.193:80/ArenaSport2HD/playlist.m3u8
-#EXTINF:-1,Arena Sport 3 HD
-http://79.127.207.193:80/ArenaSport3HD/playlist.m3u8
-#EXTINF:-1,Arena Sport 4 HD
-http://79.127.207.193:80/ArenaSport4HD/playlist.m3u8
-#EXTINF:-1,Arena Sport 5 HD
-http://79.127.207.193:80/ArenaSport5HD/playlist.m3u8
-#EXTINF:-1,Arena Sport 6 HD
-http://79.127.207.193:80/ArenaSport6HD/playlist.m3u8
-#EXTINF:-1,Arena Sport 7 HD
-http://79.127.207.193:80/ArenaSport7HD/playlist.m3u8
-#EXTINF:-1,Arena Sport 9 HD
-http://79.127.207.193:80/ArenaSport9HD/playlist.m3u8
-#EXTINF:-1,Arena Sport 10 HD
-http://79.127.207.193:80/ArenaSport10HD/playlist.m3u8
-#EXTINF:-1,Arena Premium 1 HD
-http://79.127.207.193:80/ArenaPremium1HD/playlist.m3u8
-#EXTINF:-1,Arena Premium 2 HD
-http://79.127.207.193:80/ArenaPremium2HD/playlist.m3u8
-#EXTINF:-1,Arena Premium 3 HD
-http://79.127.207.193:80/ArenaPremium3HD/playlist.m3u8
-#EXTINF:-1,Arena Premium 4
-http://79.127.207.193:80/SK1SRHD/playlist.m3u8
-#EXTINF:-1,Arena Premium 5
-http://79.127.207.193:80/SK2SRHD/playlist.m3u8
-#EXTINF:-1,Super Sport 1 HD
-http://79.127.207.193:80/Supersport1/playlist.m3u8
-#EXTINF:-1,Super Sport 2 HD
-http://79.127.207.193:80/Supersport2/playlist.m3u8
-#EXTINF:-1,Super Sport 3 HD
-http://79.127.207.193:80/Supersport3/playlist.m3u8
-#EXTINF:-1,Super Sport 4 HD
-http://79.127.207.193:80/Supersport4/playlist.m3u8
-#EXTINF:-1,Super Sport 5 HD
-http://79.127.207.193:80/Supersport5/playlist.m3u8
-#EXTINF:-1,Super Sport 6 HD
-http://79.127.207.193:80/Supersport6/playlist.m3u8
-#EXTINF:-1,Super Sport 7 HD
-http://79.127.207.193:80/Supersport7/playlist.m3u8
-#EXTINF:-1,SPORT KLUB 1 HD
-http://79.127.207.193:80/SK1HRHD/playlist.m3u8
-#EXTINF:-1,SPORT KLUB 2 HD
-http://79.127.207.193:80/SK2HRHD/playlist.m3u8
-#EXTINF:-1,SPORT KLUB 3 HD
-http://79.127.207.193:80/SK3HRHD/playlist.m3u8
-#EXTINF:-1,SPORT KLUB 4 HD
-http://79.127.207.193:80/SK4HRHD/playlist.m3u8
-#EXTINF:-1,Art Sport 1 HD
-http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
-#EXTINF:-1,Art Sport 2 HD
-http://79.127.207.193:80/ArtSport2/playlist.m3u8
-#EXTINF:-1,Art Sport 3 HD
-http://79.127.207.193:80/ArtSport3/playlist.m3u8
-#EXTINF:-1,Art Sport 4 HD
-http://79.127.207.193:80/ArtSport4/playlist.m3u8
-#EXTINF:-1,Art Sport 5 HD
-http://79.127.207.193:80/ArtSport5/playlist.m3u8
-#EXTINF:-1,Art Sport 6 HD
-http://79.127.207.193:80/ArtSport6/playlist.m3u8
-#EXTINF:-1,Tring Sport 1 HD
-http://79.127.207.193:80/TringSport1HD/playlist.m3u8
-#EXTINF:-1,Tring Sport 2 HD
-http://79.127.207.193:80/TringSport2HD/playlist.m3u8
-#EXTINF:-1,KSport 1 HD
-http://79.127.207.193:80/KSport1/playlist.m3u8
-#EXTINF:-1,KSport 2 HD
-http://79.127.207.193:80/KSport2/playlist.m3u8
-#EXTINF:-1,KSport 3 HD
-http://79.127.207.193:80/KSport3/playlist.m3u8
-#EXTINF:-1,KSport 4 HD
-http://79.127.207.193:80/KSport4/playlist.m3u8
-#EXTINF:-1,Max Sport 1 HD
-http://79.127.207.193:80/MaxSport1HR/playlist.m3u8
-#EXTINF:-1,Max Sport 2 HD
-http://79.127.207.193:80/MaxSport2HR/playlist.m3u8
-#EXTINF:-1,RTSH Sport HD
-http://79.127.207.193:80/RTSHSport/playlist.m3u8
-#EXTINF:-1,Euro Sport 1 HD
-http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
-#EXTINF:-1,Euro Sport 2 HD
-http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
-#EXTINF:-1,Arena Fight HD
-http://79.127.207.193:80/ArenaFight/playlist.m3u8
-#EXTINF:-1,Fight Network HD
-http://79.127.207.193:80/FightNetwork/playlist.m3u8
-#EXTINF:1.Rai Sport HD
-http://79.127.207.193:80/RaiSport/playlist.m3u8
-
 #EXTINF:0,BEIN SPORTS 1 HD
 http://99.27.51.147:8080/BeinSport/index.m3u8
 #EXTINF:0,Bein Sport 2 HD
@@ -879,8 +787,6 @@ http://99.27.51.147:8080/BeinSport2/index.m3u8
 #EXTINF:0,Bein Sport 3 HD
 http://99.27.51.147:8080/BeinSport3/index.m3u8
 
-#EXTINF:0 tvg-name="NHL Network" tvg-logo="http://troya.info/images/chIcons/1067.png" tvg-rec="0",NHL Network 🇺🇸
-http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Real.Madrid.TV.es" tvg-name="" group-title="Sport" tvg-logo="https://www.realmadrid.com/apple-icon-120x120.png",Real Madrid Tv 🇬🇧
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/bein-sports.png",Bein SportXtra ñ 🇪🇸
@@ -978,15 +884,13 @@ http://79.127.207.193:80/FightNetwork/playlist.m3u8
 #EXTINF:-1,Rai Sport HD
 http://79.127.207.193:80/RaiSport/playlist.m3u8
 
+#EXTINF:22,Penthouse Gold
+http://185.98.209.11:81/penthouse1/index.m3u8?token=test
+#EXTINF:20,Penthouse Reality TV
+http://185.98.209.11:81/penthouse2/index.m3u8?token=test
+#EXTINF:40,leo HD
+http://185.98.209.11:81/leo/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Tom&Jerry" tvg-logo="https://m.media-amazon.com/images/M/MV5BODY2YWI1OTAtY2FhZS00MGI1LTk0YjUtYmE3MDk0OGFkMWUyXkEyXkFqcGc@._V1_.jpg" group-title="Kids",Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://spoo.me/HIMYM" group-title="Premium 24/7", How I Met Your Mother
-http://wickediptv.xyz/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/224210.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24.7.Dummy.us" tvg-logo="http://x.playerlatino.live/thebigbangtheory.png" group-title="Premium 24/7",The Big Bang Theory
-http://amazing-prada.xyz/live/7XnMWsx0CQOnRaOB/vjmLj63HPEEwoj4s/224605.m3u8
-
-
 
