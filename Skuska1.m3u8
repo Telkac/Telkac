@@ -7,7 +7,7 @@ http://212.102.38.45/live/test_jednotka_25p/playlist.m3u8
 http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Dvojka.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dvojka_logo.svg/960px-Dvojka_logo.svg.png" group-title="Všeobecné",Dvojka
 http://212.102.38.45/live/test_dvojka_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Markíza.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mark%C3%ADza_%282022%29.svg/960px-Mark%C3%ADza_%282022%29.svg.png" group-title="Všeobecné",Markiza
+#EXTINF:-1 tvg-id="Markíza.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://web02.antik.sk/assets/img/channels/88aecef2b2abd7bfe49cd1ea2e5a4819.svg" group-title="Všeobecné",Markiza
 http://212.102.38.45/live/test_markiza_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://www.absolventi.stuba.sk/dokumenty/firmy/loga_web/joj-logo_horizontal_a.png" group-title="Všeobecné",JOJ
 http://212.102.38.45/live/test_joj_25p/playlist.m3u8
@@ -483,7 +483,7 @@ https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV OSEM.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="-" group-title="Všeobecné",TV8
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
 https://dash2.antik.sk/live/test_osem/playlist.m3u8
-#EXTINF:-1 tvg-name="TV NR SR.cz" tvg-logo="https://i.imgur.com/sPDiS5q.png" tvg-id="TVNRSR.sk" group-title="Všeobecné",NR SR
+#EXTINF:-1 tvg-name="TV NR SR.cz" tvg-logo="https://web02.antik.sk/assets/img/channels/b5a78d60f2038ca4617ef859e9bccd03.svg" tvg-id="TVNRSR.sk" group-title="Všeobecné",NR SR
 https://dash3.antik.sk/live/test_nrsr/playlist.m3u8
 
 
