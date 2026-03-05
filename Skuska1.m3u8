@@ -21,7 +21,7 @@ http://212.102.38.45/live/test_markiza_krimi_hevc/playlist.m3u8
 https://cdnsk004.panaccess.com/local/Markiza_Klasik/index.m3u8
 #EXTINF:-1 tvg-id="JOJ Plus.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/fKPliTj.png" group-title="Všeobecné",JOJ Plus
 http://212.102.38.45/live/test_pluska_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="WAU.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/wO5ifff.png" group-title="Všeobecné",WAU
+#EXTINF:-1 tvg-id="JOJ Krimi.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://img.joj.sk/rx660n/c1a3e328-8454-4977-a2ee-f9081b105bf0" group-title="Všeobecné",JOJ Krimi
 http://212.102.38.45/live/test_wau_25p/playlist.m3u8
 
 
