@@ -570,6 +570,19 @@ https://stream.bauermedia.sk/rock-hi.mp3
 #EXTINF:0,Radio Slovensko
 http://live.slovakradio.sk:8000/Slovensko_128.mp
 
+#EXTINF:0,Trance radio
+http://trance.radioparty.pl:8015
+#EXTINF:0,Vocal Trance radio
+http://s2.radioparty.pl:8000/vocaltrance
+#EXTINF:0,Amsterdam Trance radio
+http://prmstrm.1.fm:8000/atr
+#EXTINF:0,Deep House radio
+https://radio4.cdm-radio.com:18012/stream-mp3-Deep
+#EXTINF:0,Radio Party
+http://s4.radioparty.pl:8000/rp.mp3
+#EXTINF:0,Energy 2000 radio
+http://energy2000.radioparty.pl:8005
+
 #EXTINF:0,1 FM - Deep House
 http://strm112.1.fm/deephouse_mobile_mp3
 
