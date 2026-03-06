@@ -535,6 +535,8 @@ http://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
 https://streamer05.low-latency.cz/oiktv/index.m3u8
 #EXTINF:-1 tvg-id="PlzenTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/zakplzen.png" group-title="Všeobecné",Plzeň TV
 https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
+#EXTINF:-1 tvg-id="DVTV Extra.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/DVTV_Extra.svg/revision/latest/scale-to-width-down/250?cb=20251124015250" group-title="Všeobecné",DVTV Extra
+https://antik.streaming.tivio.studio/channels/IxLi19VRasgu94bIaXbH/index.m3u8
 #EXTINF:-1 tvg-id="ElektrikaTV.cz",Elektrika TV
 https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
 
