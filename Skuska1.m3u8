@@ -73,7 +73,7 @@ http://212.102.38.45/live/test_prima_star_hevc_25p/playlist.m3u8
 http://212.102.38.45/live/test_prima_show_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Barrandov.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvbarrandov.png" group-title="Všeobecné",TV Barrandov
 http://212.102.38.45/live/test_barrandov/playlist.m3u8
-#EXTINF:-1 tvg-id="Kino Barrandov.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvbarrandov.png" group-title="Všeobecné",Kino Barrandov
+#EXTINF:-1 tvg-id="Kino Barrandov HD.sk" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvbarrandov.png" group-title="Všeobecné",Kino Barrandov Kino Barrandov.cz
 http://212.102.38.45/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
 #EXTINF:-1 tvg-id="Krimi Barrandov.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvbarrandov.png" group-title="Všeobecné",Krimi Barrandov
 http://212.102.38.45/live/test_barrandov_plus_atk_1200/playlist.m3u8
