@@ -270,6 +270,22 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:0, VEVO Retro Rock
 https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
 
+#EXTINF:0,Power Dance
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:0,Vantage Dance
+https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8
+#EXTINF:0,Vantage Rock
+https://hls.vantagetv.ee/vrock_stream/index.m3u8
+
+#EXTINF:0,Vevo 2K
+https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+#EXTINF:0,Vevo 70s
+https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
+#EXTINF:0,Vevo 80s
+https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+#EXTINF:0,Vevo 90s
+https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+
 #EXTINF:-1,Totalmusic 2000s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1,Totalmusic 80s
@@ -898,6 +914,12 @@ http://79.127.207.193:80/FightNetwork/playlist.m3u8
 #EXTINF:-1,Rai Sport HD
 http://79.127.207.193:80/RaiSport/playlist.m3u8
 
+#EXTINF:-1,KHL
+http://31.148.48.15/KHL_TV/index.m3u8
+#EXTINF:-1,KHL Prime
+http://31.148.48.15/KHL_TV_HD/index.m3u8
+#EXTINF:-1,Tenis Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 
 #EXTINF:22,🔞 XXX-Penthouse Gold
 http://185.98.209.11:81/penthouse1/index.m3u8?token=test
