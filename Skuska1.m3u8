@@ -898,12 +898,38 @@ http://79.127.207.193:80/FightNetwork/playlist.m3u8
 #EXTINF:-1,Rai Sport HD
 http://79.127.207.193:80/RaiSport/playlist.m3u8
 
-#EXTINF:22,Penthouse Gold
+
+#EXTINF:22,🔞 XXX-Penthouse Gold
 http://185.98.209.11:81/penthouse1/index.m3u8?token=test
-#EXTINF:20,Penthouse Reality TV
+#EXTINF:20,🔞XXX-Penthouse Reality TV
 http://185.98.209.11:81/penthouse2/index.m3u8?token=test
-#EXTINF:40,leo HD
+#EXTINF:40,🔞 XXX-Leo
 http://185.98.209.11:81/leo/index.m3u8?token=test
+#EXTINF:-1,🔞 XXX-DORCEL
+http://77.76.145.201:4040/udp/239.39.33.73:1234
+#EXTINF:-1,🔞 XXX-PASSION
+http://77.76.145.201:4040/udp/239.39.33.39:1234
+#EXTINF:-1,🔞 XXX-centoXcento
+http://77.76.145.201:4040/udp/239.39.33.38:1234
+#EXTINF:-1,🔞 XXX-PINKO CLUB
+http://77.76.145.201:4040/udp/239.39.33.40:1234
+#EXTINF:-1,🔞 XXX-PENTHOUSE
+http://77.76.145.201:4040/udp/239.39.33.41:1234
+#EXTINF:-1,🔞 XXX
+http://77.76.145.201:4040/udp/239.39.33.42:1234
+#EXTINF:-1,🔞 XXX-DORCEL HD
+http://77.76.145.201:4040/udp/239.39.33.34:1234
+#EXTINF:-1,🔞 XXX-PassionXXX
+http://77.76.145.201:4040/udp/239.39.32.211:1234
+#EXTINF:-1,🔞 XXX-PassionXXX 2
+http://77.76.145.201:4040/udp/239.39.32.212:1234
+#EXTINF:-1,🔞 XXX-PassionXXX 3
+http://77.76.145.201:4040/udp/239.39.32.128:1234
+#EXTINF:-1,🔞 XXX-XY Plus
+http://77.76.145.201:4040/udp/239.39.32.129:1234
+#EXTINF:-1,🔞 XXX-XY Plus2
+http://77.76.145.201:4040/udp/239.39.32.130:1234
+
 
 #EXTINF:-1 tvg-id="Tom&Jerry" tvg-logo="https://m.media-amazon.com/images/M/MV5BODY2YWI1OTAtY2FhZS00MGI1LTk0YjUtYmE3MDk0OGFkMWUyXkEyXkFqcGc@._V1_.jpg" group-title="Kids",Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
