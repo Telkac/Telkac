@@ -498,7 +498,9 @@ http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
 http://tv.geniusnet.sk:8081/localltv/pl.m3u8
 #EXTINF:-1 tvg-id="Severka.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Severka
 
-#EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Régió TV
+#EXTINF:-1 tvg-id="Moldava TV.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Moldava TV
+https://dash2.antik.sk/live/test_moldava/playlist.m3u8
+#EXTINF:-1 tvg-id="Regio tv.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Regio TV
 https://dash3.antik.sk/live/test_regio_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mňau TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/mnau.png" group-title="Všeobecné",Mnau TV HD
@@ -539,6 +541,10 @@ https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
 https://antik.streaming.tivio.studio/channels/IxLi19VRasgu94bIaXbH/index.m3u8
 #EXTINF:-1 tvg-id="ElektrikaTV.cz",Elektrika TV
 https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="SuperYacht TV.cz",SuperYacht TV
+https://dash3.antik.sk/live/test_superyacht/playlist.m3u8
+#EXTINF:-1 group-title="PARK TV.cz", PARK TV
+https://dash2.antik.sk/live/test_park_tv/playlist.m3u8
 
 
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio Kosice
@@ -952,6 +958,47 @@ http://77.76.145.201:4040/udp/239.39.32.129:1234
 #EXTINF:-1,🔞 XXX-XY Plus2
 http://77.76.145.201:4040/udp/239.39.32.130:1234
 
+
+#EXTINF:-1 group-title="Antik TV SK", TVP World
+https://dash3.antik.sk/live/test_tvp_world/playlist.m3u8
+#EXTINF:-1 group-title="Antik TV SK", TVP Info
+https://dash3.antik.sk/live/test_tvp_info/playlist.m3u8
+#EXTINF:-1 group-title="Antik TV SK", TVP Polonia
+https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
+#EXTINF:-1 group-title="Antik TV SK", FREEДОМ
+https://dash2.antik.sk/live/test_uatv/playlist.m3u8
+#EXTINF:-1 group-title="Antik TV SK", Espreso TV
+https://dash3.antik.sk/live/test_espresso/playlist.m3u8
+#EXTINF:-1 group-title="Antik TV SK", Current Time
+https://dash2.antik.sk/live/test_current_time_atktv/playlist.m3u8
+#EXTINF:-1 group-title="Antik TV SK", Armenia 1 TV
+https://dash2.antik.sk/live/test_armenia/playlist.m3u8
+#EXTINF:-1 group-title="Antik TV SK", Euronews
+https://dash3.antik.sk/live/test_euronews/playlist.m3u8
+#EXTINF:-1 group-title="Antik TV SK", NHK World Japan
+https://dash3.antik.sk/live/test_nhk/playlist.m3u8
+#EXTINF:-1 group-title="Antik TV SK", Arirang TV
+https://dash2.antik.sk/live/test_arirang/playlist.m3u8
+#EXTINF:-1 group-title="Antik TV SK", TRT World
+https://dash3.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+#EXTINF:-1 group-title="Antik TV SK", Al Jazeera English
+https://dash3.antik.sk/live/test_aljazeera_eng/playlist.m3u8
+#EXTINF:-1 group-title="Antik TV SK", Al Jazeera
+https://dash2.antik.sk/live/test_aljazeera/playlist.m3u8
+#EXTINF:-1 group-title="Antik TV SK", Sky News
+https://dash2.antik.sk/live/test_skynews/playlist.m3u8
+#EXTINF:-1 group-title="Antik TV SK", France24 English
+https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8
+#EXTINF:-1 group-title="Antik TV SK", France24
+https://dash2.antik.sk/live/test_france24_france/playlist.m3u8
+#EXTINF:-1 group-title="Antik TV SK", Rai 1
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:-1 group-title="Antik TV SK", Rai 3
+https://dash3.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+#EXTINF:-1 group-title="Antik TV SK", CGTN
+https://dash3.antik.sk/live/test_cgtn/playlist.m3u8
+#EXTINF:-1 group-title="Antik TV SK", CGTN Documentary
+https://dash2.antik.sk/live/test_cgtn_doc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tom&Jerry" tvg-logo="https://m.media-amazon.com/images/M/MV5BODY2YWI1OTAtY2FhZS00MGI1LTk0YjUtYmE3MDk0OGFkMWUyXkEyXkFqcGc@._V1_.jpg" group-title="Kids",Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
