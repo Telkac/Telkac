@@ -1,7 +1,7 @@
+#PLAYLIST:Luky IPTV
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/czech3.xml.gz,https://www.open-epg.com/files/slovakia1.xml.gz,https://www.open-epg.com/files/poland1.xml.gz"
 #EXTM3U url-tvg="https://www.open-epg.com/files/czech3.xml.gz,https://www.open-epg.com/files/slovakia1.xml.gz,https://www.open-epg.com/files/poland1.xml.gz"
 
-#PLAYLIST:Luky IPTV
 #EXTINF:-1 tvg-id="Jednotka.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Jednotka_logo.svg/1280px-Jednotka_logo.svg.png" group-title="Všeobecné",Jednotka
 http://212.102.38.45/live/test_jednotka_25p/playlist.m3u8
 http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
