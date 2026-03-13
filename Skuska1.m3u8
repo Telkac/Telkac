@@ -934,6 +934,18 @@ http://185.98.209.11:81/penthouse2/index.m3u8?token=test
 #EXTINF:40,🔞 XXX-Leo
 http://185.98.209.11:81/leo/index.m3u8?token=test
 
+#EXTINF:-1,FENTV
+http://188.214.144.230:5555/FENTV
+#EXTINF:-1,PLANETAHD
+http://188.214.144.230:5555/PLANETAHD
+#EXTINF:-1,XYMAX
+http://188.214.144.230:5555/XYMAX
+#EXTINF:-1,XYMIX
+http://188.214.144.230:5555/XYMIX
+#EXTINF:-1,redlighthd
+http://188.214.144.230:5555/redlighthd
+#EXTINF:-1,Private
+http://188.214.144.230:5555/privatehd
 
 #EXTINF:-1 group-title="Antik TV SK", TVP World
 https://dash3.antik.sk/live/test_tvp_world/playlist.m3u8
