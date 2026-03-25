@@ -822,6 +822,8 @@ http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
 
 #EXTINF:-1 tvg-id="PolsatSport1.cz",Polsat Sport 1 🇵🇱
 http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd
+#EXTINF:-1 tvg-id="TVPSport.cz",TVP Sport 🇵🇱
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 
 #EXTINF:0,BEIN SPORTS 1 HD
 http://99.27.51.147:8080/BeinSport/index.m3u8
