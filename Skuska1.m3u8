@@ -1,6 +1,6 @@
 #PLAYLIST:Luky IPTV
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/czech3.xml.gz,https://www.open-epg.com/files/slovakia1.xml.gz,https://www.open-epg.com/files/poland1.xml.gz"
-#EXTM3U url-tvg="https://www.open-epg.com/files/czech3.xml.gz,https://www.open-epg.com/files/slovakia1.xml.gz,https://www.open-epg.com/files/poland1.xml.gz"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/czech3.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz, https://www.open-epg.com/files/slovakia1.xml.gz, https://www.open-epg.com/files/poland1.xml.gz"
+#EXTM3U url-tvg="https://www.open-epg.com/files/czech3.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz, https://www.open-epg.com/files/slovakia1.xml.gz, https://www.open-epg.com/files/poland1.xml.gz"
 
 #EXTINF:-1 tvg-id="Jednotka.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Jednotka_logo.svg/1280px-Jednotka_logo.svg.png" group-title="Všeobecné",Jednotka
 http://212.102.38.45/live/test_jednotka_25p/playlist.m3u8
@@ -408,11 +408,9 @@ http://185.112.249.46:9981/stream/channelid/1716506983?profile=pass
 http://185.112.249.46:9981/stream/channelid/1597775099?profile=pass
 #EXTINF:-1 tvg-id="Premier Sport 1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://oneplaysport.cz/assets/front/img/channels/ps_1.png" group-title="Sport",PREMIER SPORT 1
 http://185.112.249.46:9981/stream/channelid/2020429400?profile=pass
+http://185.188.188.237:5000/live/premiersport/playlist.m3u8
 #EXTINF:-1 tvg-id="Premier Sport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://oneplaysport.cz/assets/front/img/channels/ps_2.png" group-title="Sport",PREMIER SPORT 2
 http://185.112.249.46:9981/stream/channelid/877537711?profile=pass
-#EXTINF:-1,Premier Sport 1.cz
-http://185.188.188.237:5000/live/premiersport/playlist.m3u8
-#EXTINF:-1,Premier Sport 2.cz
 http://185.188.188.237:5000/live/premiersport2/playlist.m3u8
 #EXTINF:-1 tvg-id="M4 Sport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/M4_Sport_log%C3%B3_2025.png/960px-M4_Sport_log%C3%B3_2025.png" group-title="Sport",M4 Sport
 http://88.212.15.19/live/m4_hun/index.m3u8
