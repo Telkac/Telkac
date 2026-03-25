@@ -820,6 +820,9 @@ https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
 #EXTINF:-1 tvg-id="4K" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Živé kamery",Aquarium 4K
 http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
 
+#EXTINF:-1 tvg-id="PolsatSport1.cz",Polsat Sport 1 🇵🇱
+http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd
+
 #EXTINF:0,BEIN SPORTS 1 HD
 http://99.27.51.147:8080/BeinSport/index.m3u8
 #EXTINF:0,Bein Sport 2 HD
