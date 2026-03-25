@@ -252,11 +252,13 @@ https://dash2.antik.sk/live/test_rebel/playlist.m3u8
 #EXTINF:-1 tvg-id="Retro Music.cz" tvg-country="CZ;SK" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/retro.jpg" group-title="Hudobné",RetroMusicTV
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MagicTV.bg" group-title="Hudobné",Magic TV BG 🇧🇬 
+#EXTINF:-1 tvg-id="MagicTV.cz" group-title="Hudobné",Magic TV BG 🇧🇬 
 https://bss1.neterra.tv/magictv/magictv.m3u8
 http://78.108.251.7/MagicTV/mono.m3u8
-#EXTINF:-1 tvg-id="CityTV.bg" group-title="Hudobné",City TV BG 🇧🇬 
+#EXTINF:-1 tvg-id="CityTV.cz" group-title="Hudobné",City TV BG 🇧🇬 
 https://tv.city.bg/play/tshls/citytv/3.m3u8
+#EXTINF:-1 tvg-id="TheVoice.cz",The Voice TV 🇧🇬
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
 #EXTINF:-1 tvg-id="Deluxe Music.cz" group-title="Hudobné",Deluxe Music DE 🇩🇪
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="Deluxe Music.cz" group-title="Hudobné",Deluxe Dance Music DE 🇩🇪
