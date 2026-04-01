@@ -101,9 +101,9 @@ http://212.102.38.45/live/test_film_boxextra_hd_hevc/playlist.m3u8
 http://212.102.38.45/live/test_filmbox_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmbox Family.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmboxfamily.png" group-title="Všeobecné",Filmbox Family
 http://212.102.38.45/live/test_filmbox_family_atk_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="Cinemax.cz" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/2560px-Cinemax_%28Yellow%29.svg.png" group-title="Všeobecné",Cinemax
+#EXTINF:-1 tvg-id="Cinemax.cz" tvg-name="Cinemax" tvg-logo="https://i.imgur.com/NzROY7r.png" group-title="Všeobecné",Cinemax
 http://212.102.38.45/live/test_cinemax_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Cinemax 2.cz" tvg-name="Cinemax 2" tvg-logo="https://dreamlogos.fandom.com/wiki/Cinemax_2_(Pawston)?file=Cinemax_2_Coldland.svg" group-title="Všeobecné",Cinemax 2
+#EXTINF:-1 tvg-id="Cinemax 2.cz" tvg-name="Cinemax 2" tvg-logo="https://i.imgur.com/NzROY7r.png" group-title="Všeobecné",Cinemax 2
 http://212.102.38.45/live/test_cinemax2_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/amc.png" group-title="Všeobecné",AMC
 http://212.102.38.45/live/test_amc_25p/playlist.m3u8
@@ -153,7 +153,7 @@ http://212.102.38.45/live/test_discovery_hd_hevc/playlist.m3u8
 http://212.102.38.45/live/test_travel_channel_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Love Nature.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/lovenature.png" group-title="Dokumentárne",Love Nature
 http://212.102.38.45/live/test_lovenature/playlist.m3u8
-#EXTINF:-1 tvg-id="Animal Planet.cz" tvg-name="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png/2560px-2018_Animal_Planet_logo.svg.png" group-title="Dokumentárne",Animal Planet
+#EXTINF:-1 tvg-id="Animal Planet.cz" tvg-name="Discovery" tvg-logo="http://www.fontedecanais.tv/logos/canais/animalplanet.png" group-title="Dokumentárne",Animal Planet
 http://212.102.38.45/live/test_animal_planet_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="National Geographic HD.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/nationalgeographic.png" group-title="Dokumentárne",National Geographic
 http://212.102.38.45/live/test_ngc/playlist.m3u8
