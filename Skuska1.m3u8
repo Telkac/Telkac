@@ -179,6 +179,8 @@ http://212.102.38.45/live/test_cs_mystery_avc_25p/playlist.m3u8
 http://212.102.38.45/live/test_fishing_hunting/playlist.m3u8
 #EXTINF:-1 tvg-id="Hunt Fish TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Dokumentárne",Hunt Fish TV
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/master.m3u8
+#EXTINF:-1 tvg-id="Sports Fishing.cz" tvg-name="" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/4f11d7b4-99e6-447e-b517-10dbb827a67c" tvg-chno="", Sports Fishing
+https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/playlist.m3u8
 #EXTINF:-1 tvg-id="Crime and Investigation.cz" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Dokumentárne",Crime and Investigation
 http://212.102.38.45/live/test_cai_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="ID.cz" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png/438px-ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="Dokumentárne",ID
@@ -402,6 +404,7 @@ http://185.188.188.237:5000/live/eurosport2/playlist.m3u8
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
 
 #EXTINF:-1 tvg-id="Oneplay Sport 1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://oneplaysport.cz/assets/front/img/channels/ops_1.png" group-title="Sport",Oneplay Sport 1
+http://185.112.249.46:9981/stream/channelid/177253733?profile=pass
 http://185.112.249.46:9981/stream/channelid/177253733?profile=pass
 #EXTINF:-1 tvg-id="Oneplay Sport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://oneplaysport.cz/assets/front/img/channels/ops_2.png" group-title="Sport",Oneplay Sport 2
 http://185.112.249.46:9981/stream/channelid/1716506983?profile=pass
