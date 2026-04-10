@@ -831,6 +831,8 @@ http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
 http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd
 #EXTINF:-1 tvg-id="TVPSport.cz",TVP Sport 🇵🇱
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+#EXTINF:-1,TVP Sport
+http://91.246.72.88:8000/play/a00p/index.m3u8
 #EXTINF:-1,Polsat  Sport 1 🇵🇱
 http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd
 #EXTINF:-1,Polsat Sport 3 🇵🇱
@@ -839,6 +841,47 @@ http://81.15.109.89:8001/play/PolsatSport3
 http://81.15.109.89:8001/play/Eurosport1Poland
 #EXTINF:-1,Eurosport 2 Poland HD 🇵🇱
 http://81.15.109.89:8001/play/Eurosport2Poland
+
+#EXTINF:-1,DIGI SPORT 1 HD
+http://51.158.22.26:8000/play/a07l/index.m3u8
+#EXTINF:-1,DIGI SPORT 1 HD (SAT)
+http://51.158.22.26:8000/play/a0bf/index.m3u8
+#EXTINF:-1,DIGI SPORT 1 HD UDP
+http://51.158.22.26:8000/play/a08i/index.m3u8
+#EXTINF:-1,DIGI SPORT 2 HD (SAT)
+http://51.158.22.26:8000/play/a0bg/index.m3u8
+#EXTINF:-1,DIGI SPORT 2 HD UDP
+http://51.158.22.26:8000/play/a08j/index.m3u8
+#EXTINF:-1,DIGI SPORT 3 HD UDP
+http://51.158.22.26:8000/play/a08k/index.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://51.158.22.26:8000/play/a0ae/index.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://51.158.22.26:8000/play/a0ad/index.m3u8
+#EXTINF:-1,PRIMA SPORT 1
+http://51.158.22.26:8000/play/a0c0/index.m3u8
+#EXTINF:-1,PRIMA SPORT 2 HD
+http://51.158.22.26:8000/play/a08e/index.m3u8
+#EXTINF:-1,PRIMA SPORT 3 HD
+http://51.158.22.26:8000/play/a0b9/index.m3u8
+
+#EXTINF:-1 group-title="-",Diema Sport 2 HD
+http://45.9.44.143:5020/play/a03a/index.m3u8
+#EXTINF:-1 group-title="-",Diema Sport HD
+http://45.9.44.143:5020/play/a038/index.m3u8
+#EXTINF:-1 group-title="-",MAX Sport 1 HD
+http://45.9.44.143:5020/play/1f0a/index.m3u8
+#EXTINF:-1 group-title="-",MAX Sport 2 HD
+http://45.9.44.143:5020/play/rvgu/index.m3u8
+#EXTINF:-1 group-title="-",MAX Sport 3 HD
+http://45.9.44.143:5020/play/yuk1/index.m3u8
+#EXTINF:-1 group-title="-",MAX Sport 4 HD
+http://45.9.44.143:5020/play/a04a/index.m3u8
+#EXTINF:-1 group-title="-",Polsat Sport Premium 1
+http://45.9.44.143:5020/play/a08x/index.m3u8
+#EXTINF:-1 group-title="-",Polsat Sport Premium 2
+http://45.9.44.143:5020/play/a08y/index.m3u8
+
 
 #EXTINF:-1 group-title="BG - BG Test ",Diema Sport 3
 http://87.246.54.249:8080/DiemaSport3/index.m3u8
