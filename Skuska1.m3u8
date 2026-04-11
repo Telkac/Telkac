@@ -325,7 +325,7 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1 tvg-id="4Fun.TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://img.favpng.com/10/21/14/4fun-tv-television-channel-8tv-4fun-gold-png-favpng-sUTP416a5K3zrwftEYqTcMSW1.jpg" group-title="Hudobné",4Fun.TV PL 🇵🇱
 https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1 tvg-id="4Fun Dance.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://seeklogo.com/images/1/4fun-dance-logo-6DBBB0A530-seeklogo.com.png" group-title="Hudobné",4Fun Dance PL 🇵🇱
-
+http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/278633
 #EXTINF:-1 tvg-id="MusicBoxPolska.cz",Music Box Polska 🇵🇱
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc027/musicboxpolskahdraw/musicboxpolskahdraw.m3u8
 #EXTINF:-1 tvg-id="VantageRock",VantageRock
