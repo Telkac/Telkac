@@ -1019,6 +1019,43 @@ http://185.98.209.11:81/penthouse2/index.m3u8?token=test
 #EXTINF:40,🔞 XXX-Leo
 http://185.98.209.11:81/leo/index.m3u8?token=test
 
+#EXTINF:-1 tvg-id="HustlerHD.nl@HD",Hustler HD (1080p)
+http://78.130.250.2:8023/play/a03f/index.m3u8
+#EXTINF:-1 tvg-id="RedlightHD.nl@HD",Redlight HD (1080p)
+http://78.130.250.2:8023/play/a05q/index.m3u8
+#EXTINF:-1 tvg-id="RedlightHD.nl@HD",Redlight HD (1080p)
+https://pl.online24.pm/play/594/623939143BE8A4B/video.m3u8
+#EXTINF:-1 tvg-id="RedlightHD.nl@HD",Redlight HD (1080p)
+http://ua002.online24.pm:8222/594/video.m3u8?token=623939143BE8A4B
+#EXTINF:-1 tvg-id="PrivateTV.nl@HD",Private TV (1080p)
+http://78.130.250.2:8023/play/a03h/index.m3u8
+#EXTINF:-1 tvg-id="VividRed.nl@SD",Vivid Red (1080p)
+http://ua002.online24.pm:8222/1766/video.m3u8?token=623939143BE8A4B
+#EXTINF:-1 tvg-id="DorcelTV.nl@HD",Dorcel TV (1080p)
+http://78.130.250.2:8023/play/a069/index.m3u8
+#EXTINF:-1 tvg-id="DorcelTV.nl@HD",Dorcel TV (1080p)
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="DorcelXXX.nl@HD",Dorcel XXX (1080p)
+http://88.212.7.11/live/test_dorcel_xxx_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="BrazzersTV.nl@HD",Brazzers TV (1080p)
+http://78.130.250.2:8023/play/a06f/index.m3u8
+#EXTINF:-1 tvg-id="BrazzersTV.nl@HD",Brazzers TV (1080p)
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="BlueHustler.nl@SD",Blue Hustler (576p)
+http://78.130.250.2:8023/play/a03g/index.m3u8
+#EXTINF:-1 tvg-id="BlueHustler.nl@SD",Blue Hustler (576p)
+http://ua002.online24.pm:8222/107/video.m3u8?token=623939143BE8A4B
+#EXTINF:-1 tvg-id="HustlerTV.nl@SD",Hustler TV (576p)
+https://ru.iptv.monster/play/592/manifest.m3u8?token=623939143BE8A4B
+#EXTINF:-1 tvg-id="HustlerTV.nl@SD",Hustler TV (576p)
+http://ua002.online24.pm:8222/592/video.m3u8?token=623939143BE8A4B
+#EXTINF:-1 tvg-id="EroxHD.nl@HD",Erox HD (1080p)
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="EroxHD.nl@HD",Erox HD (1080p)
+http://ua002.online24.pm:8222/596/video.m3u8?token=623939143BE8A4B
+#EXTINF:-1 tvg-id="EroxxxHD.nl@HD",Eroxxx HD (1080p)
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+
 #EXTINF:-1,FENTV
 http://188.214.144.230:5555/FENTV
 #EXTINF:-1,PLANETAHD
