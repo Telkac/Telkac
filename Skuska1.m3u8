@@ -1113,5 +1113,239 @@ https://dash2.antik.sk/live/test_cgtn_doc/playlist.m3u8
 #EXTINF:-1 tvg-id="Tom&Jerry" tvg-logo="https://m.media-amazon.com/images/M/MV5BODY2YWI1OTAtY2FhZS00MGI1LTk0YjUtYmE3MDk0OGFkMWUyXkEyXkFqcGc@._V1_.jpg" group-title="Kids",Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fit Family Radio
-https://www.allradio.net/radio/31886
+#EXTINF:-1,S Sport 1 HD
+http://lb.wisp.cat/lb0/TR_S_Sport_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,S Sport 2 HD
+http://lb.wisp.cat/lb0/TR_S_Sport_2_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Tivibu Spor 1 HD
+http://lb.wisp.cat/lb0/TR_Tivibuspor1HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Tivibu Spor 2 HD
+http://lb.wisp.cat/lb0/TR_Tivibuspor2HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Tivibu Spor 3 HD
+http://lb.wisp.cat/lb0/TR_Tivibuspor3HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Arena Sport 1 HR 🇭🇷
+http://lb.wisp.cat/lb0/ArenaSport1_HR/video.m3u8?token=AUSnMTD
+##EXTINF:-1,Arena Sport 2 HR 🇭🇷
+http://lb.wisp.cat/lb0/ArenaSport2_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Arena Sport 3 HR 🇭🇷
+http://lb.wisp.cat/lb0/ArenaSport3_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Arena Sport 4 HR 🇭🇷
+http://lb.wisp.cat/lb0/ArenaSport4_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Arena Sport 5 HR 🇭🇷
+http://lb.wisp.cat/lb0/ArenaSport5_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Arena Sport 6 HD 🇭🇷
+http://lb.wisp.cat/lb0/ArenaSport6_HR/video.m3u8?token=AUSnMTD
+##EXTINF:-1,Arena Sport 1 HR 🇭🇷
+https://hls8.ua3.wisp.cat/ArenaSport1_HR/video.m3u8?token=AUSnMTD
+##EXTINF:-1,Arena Sport 2 HR 🇭🇷
+https://hls8.ua3.wisp.cat/ArenaSport2_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Arena Sport 3 HR 🇭🇷
+https://hls8.ua3.wisp.cat/ArenaSport3_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Arena Sport 4 HR 🇭🇷
+https://hls8.ua3.wisp.cat/ArenaSport4_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Arena Sport 5 HR 🇭🇷
+https://hls8.ua3.wisp.cat/ArenaSport5_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Arena Sport 6 HR 🇭🇷
+https://hls8.ua3.wisp.cat/ArenaSport6_HR/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Arena 1 Premium
+https://hls8.ua3.wisp.cat/Arena_Sport_Premium_1/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Arena 2 Premium
+https://hls8.ua3.wisp.cat/Arena_Sport_Premium_2/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Arena 3 Premium
+https://hls8.ua3.wisp.cat/Arena_Sport_Premium_3/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Polsat Sport 1 HD
+http://lb.wisp.cat/lb0/PL_POLSAT_SPORT_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Polsat Canal 3 Sport HD
+http://lb.wisp.cat/lb0/PL_CANAL_SPORT3HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Polsat Canal 4 Sport HD
+http://lb.wisp.cat/lb0/PL_CANAL_SPORT4HDPL/video.m3u8?token=AUSnMTD
+#EXTINF:-1,CANAL+ Sport 5 HD
+http://lb.wisp.cat/lb0/PL_nSportPlusPL/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Sportklub HD
+http://lb.wisp.cat/lb0/PL_Sport_Klub_HD_Polska/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Polsat Sport Premium 1
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_1/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Polsat Sport Premium 2
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_2/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Polsat Sport Premium 3
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_3/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Polsat Sport Premium PPV 3
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_3/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Polsat Sport Premium PPV 5
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_PPV5/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Polsat Sport Premium PPV 4
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_PPV4/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Polsat Sport Premium PPV 6
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_PPV6/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Polsat Sport Fight_HD
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Fight_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Polsat Sport News_HD
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_News_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Eleven Sports 1 HD
+http://lb.wisp.cat/lb0/PL_Eleven_Sports_1_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Eleven Sports 2 HD
+http://lb.wisp.cat/lb0/PL_Eleven_Sports_2_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Eleven Sports 3 HD
+http://lb.wisp.cat/lb0/PL_Eleven_Sports_3_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Eleven Sports 4 HD
+http://lb.wisp.cat/lb0/PL_ELEVEN_SPORTS_4_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,JOJ Sport HD CZ
+http://lb.wisp.cat/lb0/CZ_JOJ_SPORT_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Canal+ Sport 2 CZ
+http://lb.wisp.cat/lb0/Canal_plus_Sport_2_HD_CZ/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Canal+ Sport 3 CZ
+http://lb.wisp.cat/lb0/Canal_plus_Sport_3_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Canal+ Sport 4 CZ
+http://lb.wisp.cat/lb0/Canal_plus_Sport_4_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Canal+ Sport 5 CZ
+http://lb.wisp.cat/lb0/Canal_plus_Sport_5_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Premier Sport 1 HD CZ
+http://lb.wisp.cat/lb0/CZ_Premier_sport_1_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Premier Sport 2 HD CZ
+http://lb.wisp.cat/lb0/CZ_Premier_sport_2_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Premier Sport 3 HD CZ
+http://lb.wisp.cat/lb0/CZ_Premier_sport_3_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Nova Sport HD BG
+http://lb.wisp.cat/lb0/BG_Nova_Sport/index.m3u8?token=AUSnMTD
+#EXTINF:-1,Nova Sport 1 HD CZ
+http://lb.wisp.cat/lb0/CZ_NOVA_SPORT1_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Nova Sport 2 HD CZ
+http://lb.wisp.cat/lb0/CZ_NOVA_SPORT2_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Nova Sport 4 HD CZ
+http://lb.wisp.cat/lb0/CZ_NOVA_SPORT4_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Nova Sport 5 HD CZ
+http://lb.wisp.cat/lb0/CZ_NOVA_SPORT5_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Nova Sport 6 HD CZ
+http://lb.wisp.cat/lb0/CZ_NOVA_SPORT6_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Sport 1 HD CZ
+http://lb.wisp.cat/lb0/CZ_SPORT1_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Sport 2 HD CZ
+http://lb.wisp.cat/lb0/CZ_SPORT2_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Arena Sport 1 HD
+http://lb.wisp.cat/lb0/SVK_ARENA_SPORT1_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Arena Sport 2 HD
+http://lb.wisp.cat/lb0/SVK_ARENA_SPORT2_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,M4 Sport HD Hu
+http://lb.wisp.cat/lb0/M4_Sport_HD_HU/video.m3u8?token=AUSnMTD
+#EXTINF:-1,RTSV Sport HD CZ
+http://lb.wisp.cat/lb0/CZ_RTSV_Sport_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Oneplay Sport 1 HD
+http://lb.wisp.cat/lb0/Oneplay_Sport_1_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Oneplay Sport 2 HD
+http://lb.wisp.cat/lb0/Oneplay_Sport_2_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Oneplay Sport 3 HD
+http://lb.wisp.cat/lb0/Oneplay_Sport_3_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Oneplay Sport 4 HD
+http://lb.wisp.cat/lb0/Oneplay_Sport_4_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Eurosport 1 HD CEE
+http://lb.wisp.cat/lb0/Eurosport_1_HD_CEE/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Eurosport 2 HD CEE
+http://lb.wisp.cat/lb0/Eurosport_2_HD_CEE/video.m3u8?token=AUSnMTD
+#EXTINF:-1,PRIME FIGHT HD
+http://lb.wisp.cat/lb0/PRIME_FIGHT_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,NBA TV HD
+http://lb.wisp.cat/lb0/NBATV_US/video.m3u8?token=AUSnMTD
+#EXTINF:-1,SPORT", DIGI SPORT 1 HD
+http://lb.wisp.cat/lb0/DigiSport_1_HD_RO/mpegts?token=AUSnMTD
+#EXTINF:-1,SPORT", DIGI SPORT 2 HD
+http://lb.wisp.cat/lb0/DigiSport_2_HD_RO/mpegts?token=AUSnMTD
+#EXTINF:-1,SPORT", DIGI SPORT 3 HD
+http://lb.wisp.cat/lb0/DigiSport3FHDRO/mpegts?token=AUSnMTD
+#EXTINF:-1,SPORT", DIGI SPORT 4 HD
+http://lb.wisp.cat/lb0/DigiSport4FHDRO/mpegts?token=AUSnMTD
+#EXTINF:-1,MAX SPORT 1 HD
+http://lb.wisp.cat/lb0/MAX_SPORT_1_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,MAX SPORT 2 HD
+http://lb.wisp.cat/lb0/MAX_SPORT_2_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,MAX SPORT 3 HD
+http://lb.wisp.cat/lb0/MAX_SPORT_3_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,MAX SPORT 4 HD
+http://lb.wisp.cat/lb0/MAX_SPORT_4_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,RING HD
+http://lb.wisp.cat/lb0/RING_TV_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,EUROSPORT 1
+http://lb.wisp.cat/lb0/Eurosport_1_HD/mpegts?token=AUSnMTD
+#EXTINF:-1,EUROSPORT 2
+http://lb.wisp.cat/lb0/CH_EUROSPORT2/mpegts?token=AUSnMTD
+#EXTINF:-1,Fight Club HD
+http://lb.wisp.cat/lb0/Fight_Club_HD_SM/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Prima Sport 1 HD
+http://lb.wisp.cat/lb0/TelekomSport1HDRO/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Prima Sport 2 HD
+http://lb.wisp.cat/lb0/TelekomSport2HDRO/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Prima Sport 3 HD
+http://lb.wisp.cat/lb0/TelekomSport3HDRO/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Prima Sport 4 HD
+http://lb.wisp.cat/lb0/TelekomSport4HDRO/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Digi Sport 1 HD
+http://lb.wisp.cat/lb0/DigiSport_1_HD_RO/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Digi Sport 2 HD
+http://lb.wisp.cat/lb0/DigiSport_2_HD_RO/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Digi Sport 3 HD
+http://lb.wisp.cat/lb0/DigiSport3FHDRO/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Digi Sport 4 HD
+http://lb.wisp.cat/lb0/DigiSport4FHDRO/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Canal Motor (720p)
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1,Sport+ Qazaqstan
+http://lb.wisp.cat/lb0/84416/video.m3u8?token=AUSnMTD
+#EXTINF:-1,V Sport Golf HD
+http://lb.wisp.cat/lb0/Viasat_Sport_Premium/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Матч! Футбол 1 HD
+http://lb.wisp.cat/lb0/MATCH_FUTBOLL_1_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Матч! Футбол 2 HD
+http://lb.wisp.cat/lb0/MATCH_FUTBOLL_2_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Матч! Футбол 3 HD
+http://lb.wisp.cat/lb0/MATCH_FUTBOLL_3_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Матч! Премьер HD
+http://lb.wisp.cat/lb0/MATCH_PREMIER_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Окко Футбол
+http://lb.wisp.cat/lb0/Okko_futbol/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Canal+ Extra 1
+http://lb.wisp.cat/lb0/Canal_plua_Extra_1/video.m3u8?token=AUSnMTD
+#EXTINF:-1,RAI Sport+ HD
+http://lb.wisp.cat/lb0/RAI_SPORTplus_HD_IT/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Ziggo Sport 2
+http://lb.wisp.cat/lb0/Ziggo_sport_2/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Sportdigital Fussball HD
+http://lb.wisp.cat/lb0/DE_SPORTDIGITAL_HD/index.m3u8?token=AUSnMTD
+#EXTINF:-1,Sky Sport Premier League HD
+http://lb.wisp.cat/lb0/DE_Sky_Sport_Premier_League/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Sky Sport Top Event DE
+http://lb.wisp.cat/lb0/DE_Sky_Sport_Top_Event/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Sky Sport UHD DE
+http://lb.wisp.cat/lb0/SKY_Sport_UHD_DE/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Sky Sport Tennis HD
+http://lb.wisp.cat/lb0/DE_Sky_Sport_Tennis_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Sky Sport F1
+http://lb.wisp.cat/lb0/DE_Sky_Sport_F1/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Sky Sports 1 UHD
+http://lb.wisp.cat/lb0/Sky_Sport_1_UHD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Sky Sports 2 UHD
+http://lb.wisp.cat/lb0/Sky_Sport_2_UHD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Sky Sports F1 HD UK
+http://lb.wisp.cat/lb0/Sky_Sport_F1_HD_UK/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Sport1 UA 1 HD
+http://lb.wisp.cat/lb0/Sport1_UA_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,DAZN 1 HD
+http://lb.wisp.cat/lb0/DAZN_1_ES/video.m3u8?token=AUSnMTD
+#EXTINF:-1,DAZN 2 HD
+http://lb.wisp.cat/lb0/DAZN_2_ES/video.m3u8?token=AUSnMTD
+#EXTINF:-1,TNT Sport 1 UK TEST
+http://lb.wisp.cat/lb0/BT_sport1/video.m3u8?token=AUSnMTD
+#EXTINF:-1,TNT Sport 2 UK TEST
+http://lb.wisp.cat/lb0/BT_sport2/video.m3u8?token=AUSnMTD
+#EXTINF:-1,TNT Sport 3 UK TEST
+http://lb.wisp.cat/lb0/BT_sport3/video.m3u8?token=AUSnMTD
+#EXTINF:-1,TNT Sport 4 UK TEST
+http://lb.wisp.cat/lb0/BT_sport4/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Suspilne Sport HD
+http://lb.wisp.cat/lb0/Suspilne_Sport_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Sportivny HD
+http://lb.wisp.cat/lb0/eurosportgoldhd/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Xsport
+http://lb.wisp.cat/lb0/XSPORT/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Xsport HD
+http://lb.wisp.cat/lb0/XsportHD/video.m3u8?token=AUSnMTD
+#EXTINF:-1,Extreme Sports
+http://lb.wisp.cat/lb0/Extreme_Sports/video.m3u8?token=AUSnMTD
