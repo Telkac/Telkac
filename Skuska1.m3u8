@@ -164,17 +164,17 @@ http://212.102.38.45/live/test_ngw/playlist.m3u8
 http://212.102.38.45/live/test_spektrum/playlist.m3u8
 #EXTINF:-1 tvg-id="Spektrum Home.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/spektrumhome.png" group-title="Dokumentárne",Spektrum Home
 http://212.102.38.45/live/test_home_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Viasat Nature.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Dokumentárne",Viasat Nature
+#EXTINF:-1 tvg-id="Viasat Nature.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/ousRqqD.png" group-title="Dokumentárne",Viasat Nature
 http://185.188.188.237:5000/live/viasatnature/playlist.m3u8
-#EXTINF:-1 tvg-id="Viasat Explore.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Viasat_Explore-logo.svg/1428px-Viasat_Explore-logo.svg.png" group-title="Dokumentárne",Viasat Explore
+#EXTINF:-1 tvg-id="Viasat Explore.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/DyT5pKB.png" group-title="Dokumentárne",Viasat Explore
 http://185.188.188.237:5000/live/viasatexplore/playlist.m3u8
-#EXTINF:-1 tvg-id="Viasat History.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Viasat_History-logo.svg/1426px-Viasat_History-logo.svg.png" group-title="Dokumentárne",Viasat History
+#EXTINF:-1 tvg-id="Viasat History.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/wRP9XA7.png" group-title="Dokumentárne",Viasat History
 http://185.188.188.237:5000/live/viasathistory/playlist.m3u8
 #EXTINF:-1 tvg-id="History Channel.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="Dokumentárne",History
 http://212.102.38.45/live/test_history/playlist.m3u8
 #EXTINF:-1 tvg-id="CS History.cz" tvg-name="CShistory " tvg-logo="https://www.jojgroup.sk/wp-content/uploads/CS-history-2.png" group-title="Dokumentárne",CS History
 http://212.102.38.45/live/test_cs_history_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="CS Mystery.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/CS_Mystery.png/800px-CS_Mystery.png" group-title="Dokumentárne",CS Mystery
+#EXTINF:-1 tvg-id="CS Mystery.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/czech-republic/cs-mystery-cz.png" group-title="Dokumentárne",CS Mystery
 http://212.102.38.45/live/test_cs_mystery_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Fishing and Hunting.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Fishing-and-hunting-logo.png" group-title="Dokumentárne",Fishing and Hunting
 http://212.102.38.45/live/test_fishing_hunting/playlist.m3u8
