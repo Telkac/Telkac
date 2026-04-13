@@ -1127,6 +1127,15 @@ https://dash2.antik.sk/live/test_cgtn_doc/playlist.m3u8
 #EXTINF:-1 tvg-id="Tom&Jerry" tvg-logo="https://m.media-amazon.com/images/M/MV5BODY2YWI1OTAtY2FhZS00MGI1LTk0YjUtYmE3MDk0OGFkMWUyXkEyXkFqcGc@._V1_.jpg" group-title="Kids",Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",NL Ziggo Sport 1
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/47845.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",NL Ziggo Sport 2
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/47844.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",NL Ziggo Sport 3
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/47843.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",M4 Sport 🇭🇺
+http://46.149.191.217:9010/play/a017
+
 #EXTINF:-1,S Sport 1 HD
 http://lb.wisp.cat/lb0/TR_S_Sport_HD/video.m3u8?token=AUSnMTD
 #EXTINF:-1,S Sport 2 HD
