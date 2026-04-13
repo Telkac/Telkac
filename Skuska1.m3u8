@@ -132,7 +132,7 @@ http://185.188.188.237:5000/live/canalaction/playlist.m3u8
 
 #EXTINF:-1 tvg-id="story4.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Všeobecné",Story 4
 
-#EXTINF:-1 tvg-id="Markiza International.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Všeobecné",Markiza International
+#EXTINF:-1 tvg-id="Markiza International.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/HHdDWOS.png" group-title="Všeobecné",Markiza International
 http://46.149.191.217:9016/play/a023
 #EXTINF:-1 tvg-id="Nova International.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1-nova-international-hd.png" group-title="Všeobecné",Nova International
 
@@ -170,7 +170,7 @@ http://185.188.188.237:5000/live/viasatnature/playlist.m3u8
 http://185.188.188.237:5000/live/viasatexplore/playlist.m3u8
 #EXTINF:-1 tvg-id="Viasat History.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/wRP9XA7.png" group-title="Dokumentárne",Viasat History
 http://185.188.188.237:5000/live/viasathistory/playlist.m3u8
-#EXTINF:-1 tvg-id="History Channel.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="Dokumentárne",History
+#EXTINF:-1 tvg-id="History Channel.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Dokumentárne",History
 http://212.102.38.45/live/test_history/playlist.m3u8
 #EXTINF:-1 tvg-id="CS History.cz" tvg-name="CShistory " tvg-logo="https://www.jojgroup.sk/wp-content/uploads/CS-history-2.png" group-title="Dokumentárne",CS History
 http://212.102.38.45/live/test_cs_history_avc_25p/playlist.m3u8
@@ -184,9 +184,9 @@ https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/master.m3u8
 https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/playlist.m3u8
 #EXTINF:-1 tvg-id="Crime and Investigation.cz" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Dokumentárne",Crime and Investigation
 http://212.102.38.45/live/test_cai_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="ID.cz" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png/438px-ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="Dokumentárne",ID
+#EXTINF:-1 tvg-id="ID.cz" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="Dokumentárne",ID
 http://212.102.38.45/live/test_id_hevc_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="TLC.cz" tvg-name="Sat crime invest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Dokumentárne",TLC
+#EXTINF:-1 tvg-id="TLC.cz" tvg-name="Sat crime invest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="Dokumentárne",TLC
 http://212.102.38.45/live/test_tlc_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC Earth.cz" tvg-logo="http://sms.cz/kategorie/televize/bmp/loga/velka/bbcearth.png",BBC Earth
 
@@ -236,7 +236,7 @@ https://dash4.antik.sk/live/test_cartoon_network_tizen/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="Mr Bean" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB900003KR_20250107T031153SQUARE.png" tvg-chno="4823" group-title="Detské",Mr Bean (24 hodín vkuse)
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="Baby Shark TV" tvg-logo="https://en.wikipedia.org/wiki/Baby_Shark%27s_Big_Show!#/media/File%3ABaby_Shark's_Big_Show_Logo.png" tvg-chno="" group-title="Detské",Baby Shark TV (24 hodín vkuse)
+#EXTINF:-1 tvg-id="Baby Shark TV" tvg-logo="https://i.imgur.com/SbBKr8L.png" tvg-chno="" group-title="Detské",Baby Shark TV (24 hodín vkuse)
 https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3619&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=8b26dccc-5135-41b7-8b34-4c9fd5d336c7&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=696
 
 #EXTINF:-1 tvg-id="Óčko.cz" tvg-country="CZ;SK" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ocko.png" group-title="Hudobné",Óčko
@@ -349,17 +349,17 @@ https://stream-17.mazana.tv/slagrpremium.m3u
 http://212.102.38.45/live/test_slager_premium_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="360TuneBox.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/346-360-tunebox-hd.png" group-title="Hudobné",360 TuneBox
 https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="Folklorika.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Logo_TV_Folklorika.svg/1132px-Logo_TV_Folklorika.svg.png" group-title="Hudobné",Folklorika Tv
+#EXTINF:-1 tvg-id="Folklorika.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/Mxk1nWM.png" group-title="Hudobné",Folklorika Tv
 http://212.102.38.45/live/test_folklorika_atktv/playlist.m3u8
 
 #EXTINF:0,group-title="Hudobné",Concert Channel 🇺🇸
 https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
 
-#EXTINF:-1 tvg-id="RTVS Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/%C5%A0port_logo.svg/2560px-%C5%A0port_logo.svg.png" group-title="Sport",RTVS Šport
+#EXTINF:-1 tvg-id="RTVS Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/oAtcxNZ.png" group-title="Sport",RTVS Šport
 http://212.102.38.45/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/QWEY2a5.png" group-title="Sport",JOJ Šport
 http://212.102.38.45/live/test_joj_sport_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="JOJ Šport 2.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://img.joj.sk/rx/c6a89774-505a-48a4-8ce5-3f26d902e00c.png" group-title="Sport",JOJ Šport 2
+#EXTINF:-1 tvg-id="JOJ Šport 2.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/JOJ_%C5%A0port_2.svg" group-title="Sport",JOJ Šport 2
 http://dvr3.kablova.tv/JOJ_Sport_2/index.m3u8
 #EXTINF:-1 tvg-id="ČT sport.cz" tvg-url="ctsport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/I2dltZW.png" group-title="Sport",ČT sport
 http://212.102.38.45/live/test_ctsport_25p/playlist.m3u8
@@ -368,7 +368,7 @@ http://212.102.38.45/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png" group-title="Sport",Sport 1
 http://212.102.38.45/live/test_sport1_25p/playlist.m3u8
 http://185.188.188.237:5000/live/sport1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/sport2.png" group-title="Sport",Sport 2
+#EXTINF:-1 tvg-id="Sport2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/UxflVoU.png" group-title="Sport",Sport 2
 http://212.102.38.45/live/test_sport_2/playlist.m3u8
 http://185.188.188.237:5000/live/sport2/playlist.m3u8
 
@@ -399,9 +399,9 @@ http://212.102.38.45/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 tvg-id="Arena Sport 2.cz" tvg-name="Arena Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Logo_Arena_Sport_TV_2.png" group-title="Sport",Arena Sport 2
 http://212.102.38.45/live/test_arenasport_dva/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport 1.cz" tvg-name="Eurosport 1.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title="Sport",Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport 1.cz" tvg-name="Eurosport 1.cz" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sport",Eurosport 1
 http://185.188.188.237:5000/live/eurosport/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport 2.cz" tvg-name="Eurosport 2.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="Sport",Eurosport 2
+#EXTINF:-1 tvg-id="Eurosport 2.cz" tvg-name="Eurosport 2.cz" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sport",Eurosport 2
 http://185.188.188.237:5000/live/eurosport2/playlist.m3u8
 #EXTINF:-1 tvg-id="Sporty TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/SportyTVSD.png" group-title="Sport",Sporty TV
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
@@ -447,15 +447,15 @@ http://212.102.38.45/live/tanecnesutaze/index.m3u8
 https://dash3.antik.sk/live/test_central/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",TV Piánko
 https://dash2.antik.sk/live/test_pianko/playlist.m3u8
-#EXTINF:-1 tvg-id="TV Reduta.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",TV Reduta
+#EXTINF:-1 tvg-id="TV Reduta.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/smizIrT.png" group-title="Všeobecné",TV Reduta
 https://dash3.antik.sk/live/tv_reduta/playlist.m3u8
-#EXTINF:-1 tvg-id="TV Poprad.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",TV Poprad
+#EXTINF:-1 tvg-id="TV Poprad.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/x6ZvOp6.png" group-title="Všeobecné",TV Poprad
 https://dash3.antik.sk/live/test_poprad/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Mestská TV Košice
+#EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/vtUxh0n.jpg" group-title="Všeobecné",Mestská TV Košice
 https://dash2.antik.sk/live/test_mtv_kosice/playlist.m3u8
-#EXTINF:-1 tvg-id="TV Bratislava.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TV_Bratislava.png" group-title="Všeobecné",TV Bratislava
+#EXTINF:-1 tvg-id="TV Bratislava.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/sQvMpo6.png" group-title="Všeobecné",TV Bratislava
 https://dash2.antik.sk/live/test_batv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",RVTV
+#EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/r9PYEpi.png" group-title="Všeobecné",RVTV
 https://dash2.antik.sk/live/test_roznava/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Miestna TV Trebišov
 https://dash3.antik.sk/live/test_trebisov/playlist.m3u8
@@ -475,7 +475,7 @@ https://dash2.antik.sk/live/test_csrtv/playlist.m3u8
 https://dash3.antik.sk/live/test_tv_sen_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Ružinov.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",TV Ružinov
 https://dash2.antik.sk/live/test_ruzinov/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",TV Kežmarok
+#EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/KKctME8.jpeg" group-title="Všeobecné",TV Kežmarok
 https://dash2.antik.sk/live/test_severka/playlist.m3u8
 #EXTINF:-1 tvg-id="Romana.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",TV Romana
 https://dash3.antik.sk/live/test_romana/playlist.m3u8
@@ -487,7 +487,7 @@ https://dash2.antik.sk/live/test_vega/playlist.m3u8
 https://dash2.antik.sk/live/test_panorama/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",ATV Žiar
 https://dash3.antik.sk/live/test_atv_ziar/playlist.m3u8
-#EXTINF:-1 tvg-id="Zemplín.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",TV Zemplín
+#EXTINF:-1 tvg-id="Zemplín.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/pWLs7YI.png" group-title="Všeobecné",TV Zemplín
 https://dash2.antik.sk/live/test_zemplin/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Mestská Televízia Partizánske
 https://dash2.antik.sk/live/test_partizanske/playlist.m3u8
@@ -499,7 +499,7 @@ https://dash3.antik.sk/live/test_trnava/playlist.m3u8
 https://dash2.antik.sk/live/test_mistral_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",TV Nitrička
 https://dash2.antik.sk/live/test_nitricka/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",TV Nové Zámky
+#EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/jGZlnzT.png" group-title="Všeobecné",TV Nové Zámky
 https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
 #EXTINF:-1 tvg-id="Západoslovenská televízia.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Západoslovenská TV
 https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8
