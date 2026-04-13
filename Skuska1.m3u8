@@ -489,11 +489,11 @@ https://dash2.antik.sk/live/test_panorama/playlist.m3u8
 https://dash3.antik.sk/live/test_atv_ziar/playlist.m3u8
 #EXTINF:-1 tvg-id="Zemplín.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/pWLs7YI.png" group-title="Všeobecné",TV Zemplín
 https://dash2.antik.sk/live/test_zemplin/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Mestská Televízia Partizánske
+#EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/wYxlcgl.png" group-title="Všeobecné",Mestská Televízia Partizánske
 https://dash2.antik.sk/live/test_partizanske/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/JRD9YIY.png" group-title="Všeobecné",TV Považie
 https://dash3.antik.sk/live/test_povazie/playlist.m3u8
-#EXTINF:-1 tvg-id="Mestská televize Trnava.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Mestská Televízia Trnava
+#EXTINF:-1 tvg-id="Mestská televize Trnava.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/FF9iBCO.png" group-title="Všeobecné",Mestská Televízia Trnava
 https://dash3.antik.sk/live/test_trnava/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/IOJ6rcb.jpeg" group-title="Všeobecné",TV Mistral
 https://dash2.antik.sk/live/test_mistral_atktv/playlist.m3u8
@@ -507,7 +507,7 @@ https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8
 https://dash2.antik.sk/live/test_vita/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLiptov.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/CkvB3af.png" group-title="Všeobecné",TV Liptov
 http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVLocAll.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",TV LocAll
+#EXTINF:-1 tvg-id="TVLocAll.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/xN1CJol.png" group-title="Všeobecné",TV LocAll
 http://tv.geniusnet.sk:8081/localltv/pl.m3u8
 #EXTINF:-1 tvg-id="Severka.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Severka
 
@@ -530,7 +530,7 @@ https://stream.polar.cz/polar/polarlive-1/manifest.m3u8
 https://stream.polar.cz/polar2/polarlive2-1/manifest.m3u8
 #EXTINF:-1 tvg-id="PRAHA TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/prahatv.png" group-title="Všeobecné",Praha TV
 
-#EXTINF:-1 tvg-id="TV Brno 1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/tvloga/f578709d7d5086d1a4a09b024dbc3cd5a7c36b28/1024/brno1.png" group-title="Všeobecné",TV BRNO 1 HD
+#EXTINF:-1 tvg-id="TV Brno 1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/8Xm3WSn.png" group-title="Všeobecné",TV BRNO 1 HD
 https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
 #EXTINF:-1 tvg-id="VychodoceskaTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/v1.png" group-title="Všeobecné",Východočeská televize V1
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
@@ -542,11 +542,11 @@ https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 https://stream.jc1.cz/hls/jc1.m3u8
 #EXTINF:-1 tvg-id="tvgimi.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/kuryrtv.png" group-title="Všeobecné",TV gimi
 https://stream-18.mazana.tv/kuryrtv.m3u8s
-#EXTINF:-1 tvg-id="jihoceskatv.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/tvloga/f578709d7d5086d1a4a09b024dbc3cd5a7c36b28/1024/jtv.png" group-title="Všeobecné",Jihočeská TV HD
+#EXTINF:-1 tvg-id="jihoceskatv.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/Hi8hZzl.png" group-title="Všeobecné",Jihočeská TV HD
 https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
 #EXTINF:-1 tvg-id="UTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/utvHD.png" group-title="Všeobecné",ÚTV
 http://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
-#EXTINF:-1 tvg-id="OIKTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/tvloga/f578709d7d5086d1a4a09b024dbc3cd5a7c36b28/1024/oiktv.png" group-title="Všeobecné",OIK TV HD
+#EXTINF:-1 tvg-id="OIKTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/1mXxQ02.png" group-title="Všeobecné",OIK TV HD
 https://streamer05.low-latency.cz/oiktv/index.m3u8
 #EXTINF:-1 tvg-id="PlzenTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/zakplzen.png" group-title="Všeobecné",Plzeň TV
 https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
