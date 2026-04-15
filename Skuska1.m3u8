@@ -1374,3 +1374,6 @@ http://lb.wisp.cat/lb0/XSPORT/video.m3u8?token=AUSnMTD
 http://lb.wisp.cat/lb0/XsportHD/video.m3u8?token=AUSnMTD
 #EXTINF:-1,Extreme Sports
 http://lb.wisp.cat/lb0/Extreme_Sports/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Doma.cz" tvg-name="Doma skuska" tvg-language="Slovak" group-title="SK" custom-attribute="info nova tv",skuska
+http://212.102.38.45/live/test_doma_hd_hevc/playlist.m3u8
