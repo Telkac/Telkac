@@ -32,7 +32,7 @@ http://212.102.38.45/live/test_ta3_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ 24.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/owEVXRE.png" group-title="Všeobecné",JOJ 24
 #EXTVLCOPT:http-referrer=https://media.joj.sk/
 https://live.cdn.joj.sk/live/andromeda/joj_news-720.m3u8
-#EXTINF:-1 tvg-id="RTVS 艩port.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_logo.svg/1280px-24_logo.svg.png" group-title="Všeobecné",RTVS:24
+#EXTINF:-1 tvg-id="RTVS 24.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_logo.svg/1280px-24_logo.svg.png" group-title="Všeobecné",RTVS:24
 http://212.102.38.45/live/test_trojka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT24.cz" tvg-url="ct24.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/pUMRFs1.png" group-title="Všeobecné",ČT24
 http://212.102.38.45/live/test_ct24_hevc/playlist.m3u8
@@ -132,7 +132,7 @@ http://185.188.188.237:5000/live/canalaction/playlist.m3u8
 
 #EXTINF:-1 tvg-id="story4.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Všeobecné",Story 4
 
-#EXTINF:-1 tvg-id="Markiza International.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/HHdDWOS.png" group-title="Všeobecné",Markiza International
+#EXTINF:-1 tvg-id="Markíza International.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/HHdDWOS.png" group-title="Všeobecné",Markiza International
 http://46.149.191.217:9016/play/a023
 #EXTINF:-1 tvg-id="Nova International.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1-nova-international-hd.png" group-title="Všeobecné",Nova International
 
@@ -431,7 +431,7 @@ https://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 https://lifetv.mpks.sk/s.m3u8
 #EXTINF:-1 tvg-id="TV RAJ.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/CGckMyx.png" group-title="Všeobecné",TV Raj
 https://dash2.antik.sk/live/test_raj/playlist.m3u8
-#EXTINF:-1 tvg-id="Skvele TV.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Skvelé TV
+#EXTINF:-1 tvg-id="Severka.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Skvelé TV
 https://dash3.antik.sk/live/test_skvele_tv_fhd/playlist.m3u8
 #EXTINF:-1 tvg-id="Park TV.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1583-park-tv-hd.png" group-title="Všeobecné",Park TV
 https://dash2.antik.sk/live/test_park_tv/playlist.m3u8
@@ -491,7 +491,7 @@ https://dash3.antik.sk/live/test_atv_ziar/playlist.m3u8
 https://dash2.antik.sk/live/test_zemplin/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/wYxlcgl.png" group-title="Všeobecné",Mestská Televízia Partizánske
 https://dash2.antik.sk/live/test_partizanske/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/JRD9YIY.png" group-title="Všeobecné",TV Považie
+#EXTINF:-1 tvg-id="TV Považie.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/JRD9YIY.png" group-title="Všeobecné",TV Považie
 https://dash3.antik.sk/live/test_povazie/playlist.m3u8
 #EXTINF:-1 tvg-id="Mestská televize Trnava.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/FF9iBCO.png" group-title="Všeobecné",Mestská Televízia Trnava
 https://dash3.antik.sk/live/test_trnava/playlist.m3u8
