@@ -388,7 +388,7 @@ http://185.188.188.237:5000/live/novasport4/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Sport 5.cz" tvg-name="Nova Sport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Nova_Sport_5_2024.png" group-title="Sport",Nova Sport 5
 http://185.188.188.237:5000/live/novasport5/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Sport 6.cz" tvg-name="Nova Sport 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Nova_Sport_6_2024.png" group-title="Sport",Nova Sport 6
-http://185.112.249.46:9981/stream/channelid/1940136002?profile=pass
+http://lb.wisp.cat/lb0/CZ_NOVA_SPORT6_HD/video.m3u8?token=AUSnMTD
 #EXTINF:0 tvg-id="" tvg-name="CANAL+ Sport (CZ)" tvg-logo="https://ip-tv.dev/images/ico/9305.png" , CANAL+ Sport (CZ)
 #EXTGRP:SkyLink
 
@@ -1030,6 +1030,9 @@ http://31.148.48.15/KHL_TV_HD/index.m3u8
 #EXTINF:-1,Tenis Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 
+#EXTINF:-1,digi4k
+http://188.214.144.230:5555/digi4k
+
 #EXTINF:22,🔞 XXX-Penthouse Gold
 http://185.98.209.11:81/penthouse1/index.m3u8?token=test
 #EXTINF:20,🔞XXX-Penthouse Reality TV
@@ -1069,6 +1072,69 @@ http://169.150.255.53/PinkErotic6/index.m3u8
 http://169.150.255.53/PinkErotic7/index.m3u8
 #EXTINF:-1,Pink Erotic 8
 http://169.150.255.53/PinkErotic8/index.m3u8
+
+#EXTINF:-1 group-title="-",babestv
+http://212.86.120.82:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="-",bluehustler
+http://212.86.120.82:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="-",cinemanxxxhd
+http://212.86.120.82:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="-",discoverysciencehd
+http://212.86.120.82:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="-",dorceltv
+http://212.86.120.82:8000/play/a01d/index.m3u8
+
+#EXTINF:-1 group-title="-",Blue Hustler
+http://5.57.74.130:8000/play/a0c3/index.m3u8
+#EXTINF:-1 group-title="-",Dorcel XXX HD
+http://5.57.74.130:8000/play/a0c9/index.m3u8
+#EXTINF:-1 group-title="-",Hustler TV
+http://5.57.74.130:8000/play/a0df/index.m3u8
+#EXTINF:-1 group-title="-",Playboy TV HD
+http://5.57.74.130:8000/play/a0c8/index.m3u8
+
+#EXTINF:-1,PINK ROMANCE
+http://143.244.63.87:80/pinkromance/playlist.m3u8
+#EXTINF:-1,PINK WESTERN
+http://143.244.63.87:80/pinkwestern/playlist.m3u8
+#EXTINF:-1,PINK EROTIC 3
+http://143.244.63.87/pinkerotic3/playlist.m3u8
+#EXTINF:-1,PINK EROTIC 2
+http://143.244.63.87/pinkerotic2/playlist.m3u8
+#EXTINF:-1,PINK FOLK
+http://143.244.63.87:80/pinkfolk/playlist.m3u8
+#EXTINF:-1,PINK MUSIC 2
+http://143.244.63.87:80/pinkmusic2/playlist.m3u8
+#EXTINF:-1,PINK MUSIC
+http://143.244.63.87:80/pinkmusic/playlist.m3u8
+#EXTINF:-1,PINK FILM
+http://143.244.63.87/pinkfilm/playlist.m3u8
+#EXTINF:-1,PINK EXTRA
+http://143.244.63.87/pinkextra/playlist.m3u8
+#EXTINF:-1,EROXXX
+http://143.244.63.87/eroxxx/playlist.m3u8
+#EXTINF:-1,PENTHOUSE GOLD
+http://185.98.209.11:81/penthouse1/index.m3u8?token=test
+#EXTINF:-1,PENTHOUSE REALITY
+http://185.98.209.11:81/penthouse2/index.m3u8?token=test
+#EXTINF:-1,PLAYBOY TV
+http://31.148.48.15:80/Playboy_TV/playlist.m3u8
+
+#EXTINF:-1,adult1
+http://143.244.63.87/adult1/index.m3u8
+#EXTINF:-1,adult2
+http://143.244.63.87/adult2/index.m3u8
+#EXTINF:-1,adult6
+http://143.244.63.87/adult6/playlist.m3u8
+#EXTINF:-1,eroxxx HD
+http://143.244.63.87/eroxxx/playlist.m3u8
+#EXTINF:-1,pink erotic 2
+http://143.244.63.87/pinkerotic2/playlist.m3u8
+#EXTINF:-1,pink erotic 3
+http://143.244.63.87/pinkerotic3/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="HustlerHD.nl@HD",Hustler HD (1080p)
 http://78.130.250.2:8023/play/a03f/index.m3u8
@@ -1770,3 +1836,8 @@ http://212.86.120.82:8000/play/a00b/index.m3u8
 http://212.86.120.82:8000/play/a00c/index.m3u8
 #EXTINF:-1 group-title="-",Nova-Sport-5-HD
 http://212.86.120.82:8000/play/a00a/index.m3u8
+
+#EXTINF:-1 group-title="-",Quadro-4K
+http://212.86.120.82:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="-",HOME-4K
+http://212.86.120.82:8000/play/a00r/index.m3u8
