@@ -1,3 +1,4 @@
+#EXTM3U
 #PLAYLIST:Luky IPTV
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/czech3.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz, https://www.open-epg.com/files/slovakia1.xml.gz, https://www.open-epg.com/files/poland1.xml.gz"
 #EXTM3U url-tvg="https://www.open-epg.com/files/czech3.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz, https://www.open-epg.com/files/slovakia1.xml.gz, https://www.open-epg.com/files/poland1.xml.gz"
