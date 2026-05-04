@@ -427,7 +427,6 @@ https://dash2.antik.sk/live/sporty_tv/index.m3u8
 
 #EXTINF:-1 tvg-id="Premier Sport 1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://oneplaysport.cz/assets/front/img/channels/ps_1.png" group-title="Sport",PREMIER SPORT 1
 http://185.188.188.237:5000/live/premiersport/playlist.m3u8
-http://lb.wisp.cat/lb0/CZ_Premier_sport_1_HD/video.m3u8?token=AUSnMTD
 #EXTINF:-1 tvg-id="Premier Sport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://oneplaysport.cz/assets/front/img/channels/ps_2.png" group-title="Sport",PREMIER SPORT 2
 http://185.188.188.237:5000/live/premiersport2/playlist.m3u8
 #EXTINF:-1 tvg-id="Premier Sport 3.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://oneplaysport.cz/assets/front/img/channels/ps_3.png" group-title="Sport",PREMIER SPORT 3
