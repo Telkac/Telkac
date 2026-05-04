@@ -365,6 +365,12 @@ http://212.102.38.45/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/QWEY2a5.png" group-title="Sport",JOJ Šport
 http://212.102.38.45/live/test_joj_sport_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ Šport 2.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/JOJ_%C5%A0port_2.svg" group-title="Sport",JOJ Šport 2
+
+#EXTINF:-1 tvg-id="JOJ Šport 2.cz" group-title="Sport" tvg-logo="https://mimipipi22.github.io/logo/antik/jojsport2.jpg",JOJ Šport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd
+
+
 #EXTINF:-1 tvg-id="ČT sport.cz" tvg-url="ctsport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/I2dltZW.png" group-title="Sport",ČT sport
 http://212.102.38.45/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport 1.cz" tvg-name="Eurosport 1.cz" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sport",Eurosport 1
@@ -1258,7 +1264,7 @@ http://151.80.18.177:86/Infosport+_HD/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://mimipipi22.github.io/logo/antik/jojsport2.jpg",JOJ SPORT 2 🇸🇰
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://mimipipi22.github.io/logo/antik/jojsport2.jpg",JOJ SPORT 2 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd
 #EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao",JOJ Sport HD CZ
