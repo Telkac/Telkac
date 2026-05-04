@@ -366,7 +366,7 @@ http://212.102.38.45/live/test_rtvs_sport_hevc/playlist.m3u8
 http://212.102.38.45/live/test_joj_sport_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ Šport 2.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/JOJ_%C5%A0port_2.svg" group-title="Sport",JOJ Šport 2
 
-#EXTINF:-1 tvg-id="JOJ Šport 2.cz" group-title="Sport" tvg-logo="https://mimipipi22.github.io/logo/antik/jojsport2.jpg",JOJ Šport 2
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://mimipipi22.github.io/logo/antik/jojsport2.jpg",JOJ SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd
 
