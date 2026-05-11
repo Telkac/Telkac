@@ -433,7 +433,7 @@ http://185.188.188.237:5000/live/premiersport2/playlist.m3u8
 http://lb.wisp.cat/lb0/CZ_Premier_sport_3_HD/video.m3u8?token=AUSnMTD
 #EXTINF:-1 tvg-id="M4 Sport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/M4_Sport_log%C3%B3_2025.png/960px-M4_Sport_log%C3%B3_2025.png" group-title="Sport",M4 Sport
 http://lb.wisp.cat/lb0/M4_Sport_HD_HU/video.m3u8?token=AUSnMTD
-
+http://worker.pte.hu:4025/udp/239.1.2.96:1234
 
 #EXTINF:-1 tvg-id="TV Reduta.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/smizIrT.png" group-title="Všeobecné",TV Reduta
 https://dash3.antik.sk/live/tv_reduta/playlist.m3u8
@@ -1206,6 +1206,48 @@ http://143.244.62.109:80/adult6/tracks-v1a1/mono.m3u8
 http://143.244.62.109:80/adult7/tracks-v1a1/mono.m3u8
 #EXTINF:-1,erox
 http://143.244.62.109:80/erox/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Private HD
+https://srv1.adriatelekom.com/Private/index.m3u8
+#EXTINF:-1,Hustler HD
+https://srv1.adriatelekom.com/Hustler/index.m3u8
+#EXTINF:-1,Dorcel HD
+https://srv1.adriatelekom.com/DorcelHD/index.m3u8
+#EXTINF:-1,FrenchLover HD
+https://srv1.adriatelekom.com/FrenchLover/index.m3u8
+#EXTINF:-1,Babes TV
+https://srv1.adriatelekom.com/BabesTV/index.m3u8
+#EXTINF:-1,Reality Kings
+https://srv1.adriatelekom.com/RealityKings/index.m3u8
+#EXTINF:-1,BangU
+https://srv1.adriatelekom.com/BangU/index.m3u8
+#EXTINF:-1,Playboy TV HD
+https://srv1.adriatelekom.com/PlayboyHD/index.m3u8
+#EXTINF:-1,Pink Erotic 1
+https://srv1.adriatelekom.com/PinkErotic1/index.m3u8
+#EXTINF:-1,Pink Erotic 2
+https://srv1.adriatelekom.com/PinkErotic2/index.m3u8
+#EXTINF:-1,Pink Erotic 3
+https://srv1.adriatelekom.com/PinkErotic3/index.m3u8
+#EXTINF:-1,Pink Erotic 4
+https://srv1.adriatelekom.com/PinkErotic4/index.m3u8
+#EXTINF:-1,Pink Erotic 5
+https://srv1.adriatelekom.com/PinkErotic5/index.m3u8
+#EXTINF:-1,Pink Erotic 6
+https://srv1.adriatelekom.com/PinkErotic6/index.m3u8
+
+#EXTINF:-1,XY Plus
+http://94.156.59.233:8899/udp/239.10.3.18:30000
+#EXTINF:-1,XYplus
+http://94.156.59.233:8899/udp/239.10.3.17:30000
+#EXTINF:-1,PassionXXX
+http://94.156.59.233:8899/udp/239.10.2.180:30000
+#EXTINF:-1,PassionXXX
+http://94.156.59.233:8899/udp/239.10.2.181:30000
+#EXTINF:-1,Pink O TV
+http://94.156.59.233:8899/udp/239.10.2.198:30000
+#EXTINF:-1,Pink O 2
+http://94.156.59.233:8899/udp/239.10.2.199:30000
 
 #EXTINF:-1 group-title="Antik TV SK", TVP World
 https://dash3.antik.sk/live/test_tvp_world/playlist.m3u8
