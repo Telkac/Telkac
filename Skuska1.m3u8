@@ -509,6 +509,9 @@ https://dash2.antik.sk/live/test_relax/playlist.m3u8
 https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Vio TV
 
+#EXTINF:49,Antik Info TV
+https://dash3.antik.sk/live/test_infokanal_tizen/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CETV.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://www.cetv.sk/wp-content/uploads/2019/10/TV-Central-logo-zellow-bolt.png" group-title="Všeobecné",Central TV
 https://dash3.antik.sk/live/test_central/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",TV Piánko
