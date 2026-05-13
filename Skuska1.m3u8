@@ -1213,4 +1213,13 @@ https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
 
+MAX SPORT 1
+http://77.46.130.252:99/maxsport1
+MAX SPORT 2
+http://77.46.130.252:99/maxsport2
+MAX SPORT 3
+http://77.46.130.252:99/maxsport3
+MAX SPORT 4
+http://77.46.130.252:99/maxsport4
+
 
