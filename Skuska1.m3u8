@@ -852,21 +852,6 @@ http://81.15.109.89:8001/play/Eurosport1Poland
 #EXTINF:-1,Eurosport 2 Poland HD 🇵🇱
 http://81.15.109.89:8001/play/Eurosport2Poland
 
-#EXTINF:-1 group-title="-",Diema Sport 2 HD
-http://45.9.44.143:5020/play/a03a/index.m3u8
-#EXTINF:-1 group-title="-",Diema Sport HD
-http://45.9.44.143:5020/play/a038/index.m3u8
-#EXTINF:-1 group-title="-",MAX Sport 1 HD
-http://45.9.44.143:5020/play/1f0a/index.m3u8
-#EXTINF:-1 group-title="-",MAX Sport 2 HD
-http://45.9.44.143:5020/play/rvgu/index.m3u8
-#EXTINF:-1 group-title="-",MAX Sport 3 HD
-http://45.9.44.143:5020/play/yuk1/index.m3u8
-#EXTINF:-1 group-title="-",MAX Sport 4 HD
-http://45.9.44.143:5020/play/a04a/index.m3u8
-#EXTINF:-1 group-title="-",Polsat Sport Premium 1
-http://45.9.44.143:5020/play/a08x/index.m3u8
-
 
 #EXTINF:0,BEIN SPORTS 1 HD
 http://99.27.51.147:8080/BeinSport/index.m3u8
@@ -918,16 +903,6 @@ http://185.188.188.237:5000/live/eurosport2/playlist.m3u8
 #EXTINF:-1,golf channel HD
 http://185.188.188.237:5000/live/golfchannel/playlist.m3u8
 
-#EXTINF:-1,J Sports 1
-https://nl.utako.moe/js1/index.m3u8
-#EXTINF:-1,J SportsJ Sports 2
-https://nl.utako.moe/js2/index.m3u8
-#EXTINF:-1,J SportsJ Sports 3
-https://nl.utako.moe/js3/index.m3u8
-#EXTINF:-1,J SportsJ Sports 4
-https://nl.utako.moe/js4/index.m3u8
-#EXTINF:-1,J NHK
-https://nl.utako.moe/NHK_G/index.m3u8
 
 #EXTINF:-1,Art Sport 1 HD
 http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
