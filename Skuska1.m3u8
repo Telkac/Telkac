@@ -351,6 +351,11 @@ http://46.149.191.217:9011/play/a01d
 #EXTINF:0,Music Channel
 http://46.149.191.217:9014/play/a01e
 
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2556.png",Power Dance
+https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2559.png",Power Love
+https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SENZI.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1410-senzi-hd.png" group-title="Hudobné",SENZI HD
 http://212.102.38.45/live/test_senzi_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Šlágr Originál.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/%C5%A0lagr-logo.png" group-title="Hudobné",Šlágr 1
@@ -422,13 +427,12 @@ http://212.102.38.45/live/test_arenasport_dva/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Oneplay Sport 1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://oneplaysport.cz/assets/front/img/channels/ops_1.png" group-title="Sport",Oneplay Sport 1
-http://lb.wisp.cat/lb0/Oneplay_Sport_1_HD/video.m3u8?token=AUSnMTD
+
 #EXTINF:-1 tvg-id="Oneplay Sport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://oneplaysport.cz/assets/front/img/channels/ops_2.png" group-title="Sport",Oneplay Sport 2
-http://lb.wisp.cat/lb0/Oneplay_Sport_2_HD/video.m3u8?token=AUSnMTD
+
 #EXTINF:-1 tvg-id="Oneplay Sport 3.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://oneplaysport.cz/assets/front/img/channels/ops_3.png" group-title="Sport",Oneplay Sport 3
-http://lb.wisp.cat/lb0/Oneplay_Sport_3_HD/video.m3u8?token=AUSnMTD
+
 #EXTINF:-1 tvg-id="Oneplay Sport 4.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://oneplaysport.cz/assets/front/img/channels/ops_4.png" group-title="Sport",Oneplay Sport 4
-http://lb.wisp.cat/lb0/Oneplay_Sport_4_HD/video.m3u8?token=AUSnMTD
 
 #EXTINF:-1 tvg-id="Sporty TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/SportyTVSD.png" group-title="Sport",Sporty TV
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
@@ -438,9 +442,8 @@ http://185.188.188.237:5000/live/premiersport/playlist.m3u8
 #EXTINF:-1 tvg-id="Premier Sport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://oneplaysport.cz/assets/front/img/channels/ps_2.png" group-title="Sport",PREMIER SPORT 2
 http://185.188.188.237:5000/live/premiersport2/playlist.m3u8
 #EXTINF:-1 tvg-id="Premier Sport 3.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://oneplaysport.cz/assets/front/img/channels/ps_3.png" group-title="Sport",PREMIER SPORT 3
-http://lb.wisp.cat/lb0/CZ_Premier_sport_3_HD/video.m3u8?token=AUSnMTD
+
 #EXTINF:-1 tvg-id="M4 Sport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/M4_Sport_log%C3%B3_2025.png/960px-M4_Sport_log%C3%B3_2025.png" group-title="Sport",M4 Sport
-http://lb.wisp.cat/lb0/M4_Sport_HD_HU/video.m3u8?token=AUSnMTD
 http://worker.pte.hu:4025/udp/239.1.2.96:1234
 
 #EXTINF:-1 tvg-id="TV Reduta.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/smizIrT.png" group-title="Všeobecné",TV Reduta
@@ -504,7 +507,7 @@ https://dash3.antik.sk/live/test_nrsr/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Doktor.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkirhR_sc03jo4uwX6AIOzNENW75vGH-DVdA&s" group-title="Všeobecné",TV Doktor
 https://live.tvdoktor.sk/high/index.m3u8
 #EXTINF:-1 tvg-id="FashionTV HD.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/2560px-Fashion_TV_logo.svg.png" group-title="Všeobecné",Fashion TV
-https://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TV RAJ.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/CGckMyx.png" group-title="Všeobecné",TV Raj
 https://dash2.antik.sk/live/test_raj/playlist.m3u8
 #EXTINF:-1 tvg-id="Severka.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Skvelé TV
@@ -528,8 +531,8 @@ https://dash2.antik.sk/live/test_pianko/playlist.m3u8
 #EXTINF:-1 tvg-id="Romana.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/r7avFBX.png" group-title="Všeobecné",TV Romana
 https://dash3.antik.sk/live/test_romana/playlist.m3u8
 #EXTINF:-1 tvg-id="LifeTV.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Logo_Life_TV.png" group-title="Všeobecné",Life TV
-https://lifetv.mpks.sk/s.m3u8
 https://dash2.antik.sk/live/test_life/playlist.m3u8
+https://lifetv.mpks.sk/s.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/0YtCG4Y.png" group-title="Všeobecné",TV Panorama
 https://dash2.antik.sk/live/test_panorama/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLocAll.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/xN1CJol.png" group-title="Všeobecné",TV LocAll
@@ -539,7 +542,7 @@ http://tv.geniusnet.sk:8081/localltv/pl.m3u8
 #EXTINF:-1 tvg-id="Regio tv.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/WlF6tlZ.png" group-title="Všeobecné",Regio TV
 https://dash3.antik.sk/live/test_regio_tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.maxim.iptv.antik.sk/app/assets/upload/channels/60a2b0c04cbc73c131beb0eaf490ed26.svg" group-title="Športové",Tanečné súťaže HD
+#EXTINF:-1 tvg-id="Tanečné súťaže HD.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.maxim.iptv.antik.sk/app/assets/upload/channels/60a2b0c04cbc73c131beb0eaf490ed26.svg" group-title="Športové",Tanečné súťaže HD
 http://212.102.38.45/live/tanecnesutaze/index.m3u8
 #EXTINF:-1 tvg-id="Mňau TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/mnau.png" group-title="Všeobecné",Mnau TV HD
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
@@ -840,7 +843,7 @@ https://stream.profi-net.sk/tmr/STREAM3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Live kamera New York (Times Square)
 https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
 
-#EXTINF:-1 tvg-id="4K" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Živé kamery",Aquarium 4K
+#EXTINF:-1 tvg-id="Aquarium 4K" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Živé kamery",Aquarium 4K
 http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
 
 #EXTINF:-1 tvg-id="PolsatSport1.cz",Polsat Sport 1 🇵🇱
@@ -1278,5 +1281,77 @@ http://46.149.191.217:9000/play/a04e
 http://46.149.191.217:9008/play/a01f
 #EXTINF:0,MATCH4 HD
 http://46.149.191.217:9010/play/a019
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00307.jpg",Relaxon
+http://iptv.prosto.tv:7000/ch317/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00310.png",Камин
+http://iptv.prosto.tv:7000/ch318/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00522.jpg",Пейзаж
+http://iptv.prosto.tv:7000/ch343/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00297.png",Space Stream
+http://iptv.prosto.tv:7000/ch314/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00301.png",Про Факт
+http://iptv.prosto.tv:7000/ch315/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00314.png",Зоо
+http://iptv.prosto.tv:7000/ch319/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00598.jpg",Свет вокруг
+http://iptv.prosto.tv:7000/ch351/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00509.jpg",Терраса
+http://iptv.prosto.tv:7000/ch336/video.m3u8
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00564.jpg",Горная долина
+http://iptv.prosto.tv:7000/ch302/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00563.jpg",Просто Украина
+http://iptv.prosto.tv:7000/ch303/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00562.jpg",Дожди
+http://iptv.prosto.tv:7000/ch304/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00561.jpg",Подводный мир
+http://iptv.prosto.tv:7000/ch305/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00549.jpg",Avia Stream
+http://iptv.prosto.tv:7000/ch306/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00295.jpg",Катастрофы
+http://iptv.prosto.tv:7000/ch312/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00302.png",ЭКО система
+http://iptv.prosto.tv:7000/ch316/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00318.png",Stream City
+http://iptv.prosto.tv:7000/ch321/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00348.png",Аквариум
+http://iptv.prosto.tv:7000/ch325/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00492.jpg",Комната релакс
+http://iptv.prosto.tv:7000/ch328/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00491.jpg",Зима
+http://iptv.prosto.tv:7000/ch327/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00555.jpg",Ночь
+http://iptv.prosto.tv:7000/ch349/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00500.jpg",Водопад
+http://iptv.prosto.tv:7000/ch329/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00503.jpg",Лес
+http://iptv.prosto.tv:7000/ch330/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00504.jpg",Огонь
+http://iptv.prosto.tv:7000/ch331/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00505.jpg",Пляж
+http://iptv.prosto.tv:7000/ch332/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00508.jpg",Тропики
+http://iptv.prosto.tv:7000/ch335/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00512.jpg",Река
+http://iptv.prosto.tv:7000/ch338/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00513.jpg",Джунгли
+http://iptv.prosto.tv:7000/ch339/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00514.jpg",Горы
+http://iptv.prosto.tv:7000/ch340/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00515.jpg",Озеро
+http://iptv.prosto.tv:7000/ch341/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00532.jpg",Рыбалка
+http://iptv.prosto.tv:7000/ch344/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00533.jpg",Бассейн
+http://iptv.prosto.tv:7000/ch345/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00536.jpg",Флора
+http://iptv.prosto.tv:7000/ch346/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00537.jpg",Сад
+http://iptv.prosto.tv:7000/ch347/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00544.jpg",Железная дорога
+http://iptv.prosto.tv:7000/ch348/video.m3u8
+#EXTINF:-1 tvg-logo="../Channel/logo/ZooПарк.png",Парк
+http://iptv.prosto.tv:7000/ch350/video.m3u8
+
 
 
