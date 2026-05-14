@@ -130,7 +130,7 @@ http://185.188.188.237:5000/live/canalaction/playlist.m3u8
 #EXTINF:-1 tvg-id="Paramount Network.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/2056px-Paramount_Network.svg.png" group-title="Všeobecné",Paramount Network
 
 #EXTINF:-1 tvg-id="Epic Drama.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/ab/Epic_Drama_logo.png" group-title="Všeobecné",Epic Drama
-
+http://46.149.191.217:9017/play/a00w
 #EXTINF:-1 tvg-id="story4.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Všeobecné",Story 4
 
 #EXTINF:-1 tvg-id="Markíza International.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/HHdDWOS.png" group-title="Všeobecné",Markiza International
@@ -190,7 +190,7 @@ http://212.102.38.45/live/test_id_hevc_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC.cz" tvg-name="Sat crime invest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="Dokumentárne",TLC
 http://212.102.38.45/live/test_tlc_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC Earth.cz" tvg-logo="http://sms.cz/kategorie/televize/bmp/loga/velka/bbcearth.png",BBC Earth
-
+http://46.149.191.217:9019/play/a01w
 #EXTINF:-1 tvg-id="HGTV.cz" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1024px-HGTV_logo.png" group-title="Dokumentárne",HGTV
 
 #EXTINF:-1 tvg-id="Hobbytv.cz" tvg-name="" tvg-logo="" group-title="Dokumentárne",HobbyTV
@@ -342,6 +342,11 @@ https://live.obslivestream.com/hielmusic/index.m3u8
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 tvg-name="Dance TV" tvg-logo="" tvg-id="" tvg-chno="4" tvg-country="HU" group-title="Hungary",Dance TV
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+
+#EXTINF:0,MTV Europe
+http://46.149.191.217:9011/play/a01d
+#EXTINF:0,Music Channel
+http://46.149.191.217:9014/play/a01e
 
 #EXTINF:-1 tvg-id="SENZI.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1410-senzi-hd.png" group-title="Hudobné",SENZI HD
 http://212.102.38.45/live/test_senzi_hevc/playlist.m3u8
@@ -508,7 +513,8 @@ https://dash2.antik.sk/live/test_relax/playlist.m3u8
 #EXTINF:-1 tvg-id="A11.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/A11.png" group-title="Všeobecné",A11
 https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Vio TV
-
+#EXTINF:0,TV LUX
+http://46.149.191.217:9016/play/a01k
 #EXTINF:49,Antik Info TV
 https://dash3.antik.sk/live/test_infokanal_tizen/playlist.m3u8
 
@@ -1224,5 +1230,50 @@ MAX SPORT 3
 http://77.46.130.252:99/maxsport3
 MAX SPORT 4
 http://77.46.130.252:99/maxsport4
+
+#EXTINF:0,Spiler 1
+http://46.149.191.217:9008/play/a01w
+#EXTINF:0,Spiler2 TV
+http://46.149.191.217:9000/play/a04v
+#EXTINF:0,Spiler2 TV.
+http://46.149.191.217:9000/play/a04w
+#EXTINF:0,SPORT 1
+http://46.149.191.217:9018/play/a01d
+#EXTINF:0,Sport 1 HD
+http://46.149.191.217:9005/play/a017
+#EXTINF:0,Sport 1 SK HD
+http://46.149.191.217:9001/play/a02f
+#EXTINF:0,SPORT 2
+http://46.149.191.217:9018/play/a01e
+#EXTINF:0,Sport 2 HD
+http://46.149.191.217:9001/play/a024
+#EXTINF:0,Sport 2 HD HU
+http://46.149.191.217:9016/play/a02l
+#EXTINF:0,Sport2 HD
+http://46.149.191.217:9010/play/a015
+#EXTINF:0,M4 Sport
+http://46.149.191.217:9010/play/a017
+#EXTINF:0,M4 Sport HD
+http://46.149.191.217:9001/play/a02h
+#EXTINF:0,m5
+http://46.149.191.217:9007/play/a00w
+#EXTINF:0,m5 HD
+http://46.149.191.217:9005/play/a01i
+#EXTINF:0,Eurosport 1 HD
+http://46.149.191.217:9017/play/a00q
+#EXTINF:0,Eurosport 2 HD
+http://46.149.191.217:9017/play/a00r
+#EXTINF:0,Eurosport 2 HU
+http://46.149.191.217:9018/play/a01o
+#EXTINF:0,Eurosport HU
+http://46.149.191.217:9008/play/a01d
+#EXTINF:0,DIGI Sport 1 HD RO
+http://46.149.191.217:9000/play/a04d
+#EXTINF:0,DIGI Sport 2 HD RO
+http://46.149.191.217:9000/play/a04e
+#EXTINF:0,MATCH4
+http://46.149.191.217:9008/play/a01f
+#EXTINF:0,MATCH4 HD
+http://46.149.191.217:9010/play/a019
 
 
