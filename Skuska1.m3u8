@@ -334,6 +334,8 @@ http://89.218.32.179:18000/play/a016
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc027/musicboxpolskahdraw/musicboxpolskahdraw.m3u8
 #EXTINF:-1 tvg-id="VantageRock",VantageRock
 https://hls.vantagetv.ee/vrock_stream/index.m3u8
+#EXTINF:-1,Vox Music TV HD
+http://81.15.109.89:8001/play/VoxMusicTV
 
 #EXTINF:0,group-title="Hudobné",VH1 🇺🇸
 http://23.237.104.106:8080/USA_VH1/index.m3u8
@@ -524,6 +526,8 @@ http://46.149.191.217:9016/play/a01k
 #EXTINF:49,Antik Info TV
 https://dash3.antik.sk/live/test_infokanal_tizen/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TN Live.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Všeobecné",TN Live CZ
+https://santovic-test.6f.sk/sktv-forwarders/get.php?x=NovaTNLive
 #EXTINF:-1 tvg-id="CETV.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://www.cetv.sk/wp-content/uploads/2019/10/TV-Central-logo-zellow-bolt.png" group-title="Všeobecné",Central TV
 https://dash3.antik.sk/live/test_central/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",TV Piánko
