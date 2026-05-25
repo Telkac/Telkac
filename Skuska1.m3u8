@@ -363,6 +363,19 @@ https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2559.png",Power Love
 https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="-",BRIDGE CLASSIC
+http://89.218.32.179:18000/play/a02g
+#EXTINF:-1 group-title="-",BRIDGE DELUXE
+http://89.218.32.179:18000/play/a02m
+#EXTINF:-1 group-title="-",BRIDGE ETHNO
+http://89.218.32.179:18000/play/a02n
+#EXTINF:-1 group-title="-",BRIDGE FRESH
+http://89.218.32.179:18000/play/a02j
+#EXTINF:-1 group-title="-",BRIDGE HITS
+http://89.218.32.179:18000/play/a02f
+#EXTINF:-1 group-title="-",BRIDGE ROCK
+http://89.218.32.179:18000/play/a02i
+
 #EXTINF:-1 tvg-id="SENZI.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1410-senzi-hd.png" group-title="Hudobné",SENZI HD
 http://212.102.38.45/live/test_senzi_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Šlágr Originál.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/%C5%A0lagr-logo.png" group-title="Hudobné",Šlágr 1
