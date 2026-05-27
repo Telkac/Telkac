@@ -1385,5 +1385,7 @@ http://iptv.prosto.tv:7000/ch348/video.m3u8
 #EXTINF:-1 tvg-logo="../Channel/logo/ZooПарк.png",Парк
 http://iptv.prosto.tv:7000/ch350/video.m3u8
 
+#EXTINF:-1,Planeta 4K UHD
+http://85.14.32.26:8800/udp/239.100.10.229:5000
 
 
