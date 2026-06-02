@@ -432,7 +432,7 @@ http://185.188.188.237:5000/live/novasport4/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Sport 5.cz" tvg-name="Nova Sport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Nova_Sport_5_2024.png" group-title="Sport",Nova Sport 5
 http://185.188.188.237:5000/live/novasport5/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Sport 6.cz" tvg-name="Nova Sport 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Nova_Sport_6_2024.png" group-title="Sport",Nova Sport 6
-http://lb.wisp.cat/lb0/CZ_NOVA_SPORT6_HD/video.m3u8?token=AUSnMTD
+http://46.149.191.219:9109/play/a038
 
 #EXTINF:0 tvg-id="Canal+ Sport.cz" tvg-name="CANAL+ Sport (SK)" tvg-logo="https://ip-tv.dev/images/ico/9305.png" , CANAL+ Sport 1
 http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:B6:4E:F2&stream=961122&extension=ts&play_token=Y5J5iDnv3a
