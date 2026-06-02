@@ -1314,6 +1314,66 @@ http://46.149.191.217:9008/play/a01f
 #EXTINF:0,MATCH4 HD
 http://46.149.191.217:9010/play/a019
 
+#EXTINF:-1,МАТЧ! HD
+http://91.201.172.14:35001
+#EXTINF:-1,Матч!Футбол 1 HD
+http://91.201.172.14:35002
+#EXTINF:-1,Digi Sport 1 HD
+http://91.201.172.14:35005
+#EXTINF:-1,Digi Sport 2 HD
+http://91.201.172.14:35006
+
+RTVS SPORT HD
+http://46.149.191.219:9114/play/a01v
+JOJ Sport 2 HD
+http://46.149.191.219:9109/play/a03p
+Nova Sport 2 HD
+http://46.149.191.219:9106/play/a003
+Nova Sport 5 HD
+http://46.149.191.219:9106/play/a01l
+Nova Sport 5 HD (SK)
+http://46.149.191.219:9101/play/a02z
+Nova Sport 6 HD
+http://46.149.191.219:9109/play/a038
+CANAL+ Sport (CZ)
+http://46.149.191.219:9106/play/a010
+CANAL+ Sport 2 (CZ)
+http://46.149.191.219:9104/play/a012
+CANAL+ Sport (SK)
+http://46.149.191.219:9106/play/a011
+CANAL+ Sport 2 (SK)
+http://46.149.191.219:9114/play/a026
+Sport 1 HD CZ
+http://46.149.191.219:9114/play/a00a
+Sport 1 HD
+http://46.149.191.219:9112/play/a01n
+Sport 2 HD
+http://46.149.191.219:9109/play/a00k
+SPORT 1
+http://46.149.191.217:9018/play/a01d
+SPORT 2
+http://46.149.191.217:9018/play/a01e
+Arena Sport 1 HD
+http://46.149.191.219:9114/play/a003
+Arena Sport 2 HD
+http://46.149.191.219:9106/play/a01i
+Ziggo Sport
+http://46.149.191.219:9101/play/a02d
+Ziggo Sport 2
+http://46.149.191.219:9101/play/a027
+Ziggo Sport 6
+http://46.149.191.219:9101/play/a028
+Ziggo Sport Golf
+http://46.149.191.219:9101/play/a007
+Ziggo Sport Select HD
+http://46.149.191.219:9101/play/a00c
+Ziggo Sport Voetbal
+http://46.149.191.219:9101/play/a006
+Eurosport 1 HD
+http://46.149.191.217:9017/play/a00q
+Eurosport 2 HD
+http://46.149.191.217:9017/play/a00r
+
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00307.jpg",Relaxon
 http://iptv.prosto.tv:7000/ch317/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00310.png",Камин
