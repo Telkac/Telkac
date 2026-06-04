@@ -16,7 +16,7 @@ http://212.102.38.45/live/test_markiza_25p/playlist.m3u8
 http://212.102.38.45/live/test_joj_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="TV DAJTO.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Mark%C3%ADza_Dajto_%282022%29.svg/1280px-Mark%C3%ADza_Dajto_%282022%29.svg.png" group-title="Všeobecné",Dajto
 http://212.102.38.45/live/test_dajto_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Doma.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mark%C3%ADza_Doma_%282022%29.svg/1280px-Mark%C3%ADza_Doma_%282022%29.svg.png" group-title="Všeobecné",Doma
+#EXTINF:-1 tvg-id="Doma.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/doma.png" group-title="Všeobecné",Doma
 http://212.102.38.45/live/test_doma_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Markíza KRIMI.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/markizakrimi.png" group-title="Všeobecné",Markiza Krimi
 http://212.102.38.45/live/test_markiza_krimi_hevc/playlist.m3u8
@@ -28,7 +28,7 @@ http://212.102.38.45/live/test_pluska_25p/playlist.m3u8
 http://212.102.38.45/live/test_wau_25p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="TA3.cz" tvg-logo="ta3.png" tvg-id="TA3.sk" group-title="Všeobecné",TA3
+#EXTINF:-1 tvg-name="TA3.cz" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/ta3.png" tvg-id="TA3.sk" group-title="Všeobecné",TA3
 http://212.102.38.45/live/test_ta3_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ 24.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/owEVXRE.png" group-title="Všeobecné",JOJ 24
 #EXTVLCOPT:http-referrer=https://media.joj.sk/
@@ -37,7 +37,7 @@ https://live.cdn.joj.sk/live/andromeda/joj_news-720.m3u8
 http://212.102.38.45/live/test_trojka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT24.cz" tvg-url="ct24.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/pUMRFs1.png" group-title="Všeobecné",ČT24
 http://212.102.38.45/live/test_ct24_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="CNN Prima News.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/CNN-PRIMA-NEWS-OF-PICONS-ICONS-2020.png/500px-CNN-PRIMA-NEWS-OF-PICONS-ICONS-2020.png" group-title="Všeobecné",CNN Prima News
+#EXTINF:-1 tvg-id="CNN Prima News.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/cnnprimanews.png" group-title="Všeobecné",CNN Prima News
 http://212.102.38.45/live/test_cnn_pirma_news/playlist.m3u8
 
 
@@ -45,7 +45,7 @@ http://212.102.38.45/live/test_cnn_pirma_news/playlist.m3u8
 http://212.102.38.45/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT2.cz" tvg-url="ct2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/HpnGC6A.png" group-title="Všeobecné",ČT2
 http://212.102.38.45/live/test_ct2_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Nova.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/TV_Nova_Logo_2024.svg/1280px-TV_Nova_Logo_2024.svg.png" group-title="Všeobecné",Nova
+#EXTINF:-1 tvg-id="Nova.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/nova.png" group-title="Všeobecné",Nova
 http://212.102.38.45/live/nova_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Prima_TV_logo.svg/1280px-Prima_TV_logo.svg.png" group-title="Všeobecné",Prima
 http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
