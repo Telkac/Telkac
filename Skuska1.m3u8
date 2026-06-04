@@ -12,9 +12,9 @@ http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
 http://212.102.38.45/live/test_dvojka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Markíza.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/markiza.png" group-title="Všeobecné",Markiza
 http://212.102.38.45/live/test_markiza_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="JOJ.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://www.absolventi.stuba.sk/dokumenty/firmy/loga_web/joj-logo_horizontal_a.png" group-title="Všeobecné",JOJ
+#EXTINF:-1 tvg-id="JOJ.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/joj.png" group-title="Všeobecné",JOJ
 http://212.102.38.45/live/test_joj_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="TV DAJTO.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Mark%C3%ADza_Dajto_%282022%29.svg/1280px-Mark%C3%ADza_Dajto_%282022%29.svg.png" group-title="Všeobecné",Dajto
+#EXTINF:-1 tvg-id="TV DAJTO.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/dajto.png" group-title="Všeobecné",Dajto
 http://212.102.38.45/live/test_dajto_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Doma.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/doma.png" group-title="Všeobecné",Doma
 http://212.102.38.45/live/test_doma_hd_hevc/playlist.m3u8
