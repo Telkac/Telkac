@@ -91,7 +91,7 @@ http://212.102.38.45/live/test_hbo_hd_hevc/playlist.m3u8
 http://212.102.38.45/live/test_hbo2_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO3.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/hbo3.png" group-title="Všeobecné",HBO 3
 http://212.102.38.45/live/test_hbo3_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Film+.cz" tvg-name="Film+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILM%2B_logo_2014_Hungary.png" group-title="Všeobecné",Film+
+#EXTINF:-1 tvg-id="Film+.cz" tvg-name="Film+" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/filmplus.png" group-title="Všeobecné",Film+
 http://212.102.38.45/live/test_film_plus_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmbox.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmbox.png" group-title="Všeobecné",Filmbox
 http://212.102.38.45/live/test_filmbox/playlist.m3u8
@@ -131,7 +131,7 @@ http://185.188.188.237:5000/live/canalaction/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Epic Drama.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/ab/Epic_Drama_logo.png" group-title="Všeobecné",Epic Drama
 http://46.149.191.217:9017/play/a00w
-#EXTINF:-1 tvg-id="story4.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Všeobecné",Story 4
+#EXTINF:-1 tvg-id="story4.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/story4.png" group-title="Všeobecné",Story 4
 http://46.149.191.219:9115/play/a014
 #EXTINF:-1 tvg-id="Markíza International.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/HHdDWOS.png" group-title="Všeobecné",Markiza International
 http://46.149.191.217:9016/play/a023
@@ -236,6 +236,7 @@ http://212.102.38.45/live/test_disney/playlist.m3u8
 http://212.102.38.45/live/test_disney_junior/playlist.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/500px-Cartoon_Network_2010_logo.svg.png" group-title="Detské",Cartoon Network
 https://dash4.antik.sk/live/test_cartoon_network_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/cartoonito.png" group-title="Detské",Cartoonito
 #EXTINF:0,Cartoonito.cz
 http://46.149.191.217:9019/play/a01l
 
