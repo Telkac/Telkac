@@ -866,7 +866,7 @@ https://stream.profi-net.sk/tmr/STREAM3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Live kamery" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Camera_video.PNG" group-title="Živé kamery",Live kamera New York (Times Square)
 https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
 
-#EXTINF:-1 tvg-id="Aquarium 4K" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Živé kamery",Aquarium 4K
+#EXTINF:-1 tvg-id="Aquarium 4K" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/aquarium.png" group-title="Živé kamery",Aquarium 4K
 http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
 
 #EXTINF:-1 tvg-id="PolsatSport1.cz",Polsat Sport 1 🇵🇱
