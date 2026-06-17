@@ -74,11 +74,11 @@ http://212.102.38.45/live/prima_krimi_avc_25p/playlist.m3u8
 http://212.102.38.45/live/test_prima_star_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima Show.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primashow.png" group-title="Všeobecné",Prima Show
 http://212.102.38.45/live/test_prima_show_hevc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Barrandov.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvbarrandov.png" group-title="Všeobecné",TV Barrandov
+#EXTINF:-1 tvg-id="Barrandov.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/barrandovtv.png" group-title="Všeobecné",TV Barrandov
 http://212.102.38.45/live/test_barrandov/playlist.m3u8
-#EXTINF:-1 tvg-id="Kino Barrandov HD.sk" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvbarrandov.png" group-title="Všeobecné",Kino Barrandov Kino Barrandov.cz
+#EXTINF:-1 tvg-id="Kino Barrandov HD.sk" tvg-country="CZ" tvg-language="Czech" tvg-logo=https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/kinobarrandov.png" group-title="Všeobecné",Kino Barrandov Kino Barrandov.cz
 http://212.102.38.45/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
-#EXTINF:-1 tvg-id="Krimi Barrandov.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvbarrandov.png" group-title="Všeobecné",Krimi Barrandov
+#EXTINF:-1 tvg-id="Krimi Barrandov.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/barrandovkrimi.png" group-title="Všeobecné",Krimi Barrandov
 http://212.102.38.45/live/test_barrandov_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="CS Film.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/csfilm.png" group-title="Všeobecné",CS Film-CS Horror
 http://185.188.188.237:5000/live/csfilm/playlist.m3u8
@@ -111,9 +111,9 @@ http://212.102.38.45/live/test_cinemax2_hd_hevc/playlist.m3u8
 http://212.102.38.45/live/test_amc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/axn.png" group-title="Všeobecné",AXN
 http://212.102.38.45/live/test_axn/playlist.m3u8
-#EXTINF:-1 tvg-id="AXN Black.cz" tvg-name="AXN Black" tvg-logo="https://a0.anyrgb.com/pngimg/1782/1196/ir-logo-axn-black-axn-white-axn-sci-fi-firstone-tv-sony-television-eurosport-2-axn-sony-national-geo.png" group-title="Všeobecné",AXN Black
+#EXTINF:-1 tvg-id="AXN Black.cz" tvg-name="AXN Black" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/axnblack.png" group-title="Všeobecné",AXN Black
 http://212.102.38.45/live/test_black/playlist.m3u8
-#EXTINF:-1 tvg-id="AXN White.cz" tvg-name="AXN White" tvg-logo="https://a0.anyrgb.com/pngimg/1486/102/axn-beyond-axn-spin-axn-black-axn-white-axn-sci-fi-ncis-los-angeles-sony-television-axn-sony-television-channel.png" group-title="Všeobecné",AXN White
+#EXTINF:-1 tvg-id="AXN White.cz" tvg-name="AXN White" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/axnwhite.png" group-title="Všeobecné",AXN White
 http://212.102.38.45/live/test_white/playlist.m3u8
 #EXTINF:-1 tvg-id="Film Europe.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmeurope.png" group-title="Všeobecné",Film Europe
 http://185.188.188.237:5000/live/filmeurope/playlist.m3u8
