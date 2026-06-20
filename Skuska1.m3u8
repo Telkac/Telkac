@@ -1502,3 +1502,62 @@ http://45.129.141.180:9981/stream/channelid/1363722412?profile=pass
 #EXTINF:-1 tvg-id="69e43f3f6491c0c559876e7a0f8d1fca" tvg-chno="10",YU: ARENA TENIS ali3
 http://45.129.141.180:9981/stream/channelid/1061151849?profile=pass
 
+#EXTINF:-1,FoxSports 1
+http://185.246.209.113:80/FoxSports1HD/index.m3u8
+#EXTINF:-1,FoxSports 2
+http://185.246.209.113:80/FoxSports2HD/index.m3u8
+#EXTINF:-1,SkySports PremierLeague
+http://185.246.209.113/SkySportsPremierLeague/index.m3u8
+#EXTINF:-1,SkySports Cricket
+http://185.246.209.113/SkySportsCricket/index.m3u8
+#EXTINF:-1,SkySports Golf
+http://185.246.209.113/SkySportsGolf/index.m3u8
+#EXTINF:-1,SkySports Action
+http://185.246.209.113/SkySportsAction/index.m3u8
+#EXTINF:-1,Sky Sports Football
+http://185.246.209.113/SkySportsFootballHD/index.m3u8
+#EXTINF:-1,Sky Sports Mix
+http://185.246.209.113/SkySportsMixHD/index.m3u8
+#EXTINF:-1,SkySports F1 HD
+http://185.246.209.113/SkySportsF1HD/index.m3u8
+#EXTINF:-1,Tennis HD
+http://185.246.209.113/TennisHD/index.m3u8
+#EXTINF:-1,Racing UK
+http://185.246.209.113/RacingUK/index.m3u8
+#EXTINF:-1,LFC TV
+http://185.246.209.113:80/LFCTVHD/index.m3u8
+#EXTINF:-1,Fight Network
+http://185.246.209.113/FightNetwork/index.m3u8
+#EXTINF:-1,ESPN Deportes
+http://185.246.209.113:80/ESPNDeportesHD/index.m3u8
+#EXTINF:-1,ESPNU
+http://185.246.209.113/ESPNU/index.m3u8
+#EXTINF:-1,NBA HD
+http://185.246.209.113/NBAHD/index.m3u8
+#EXTINF:-1,SkySports News HD
+http://185.246.209.113/SkySportsNews/index.m3u8
+#EXTINF:-1,Willow
+http://185.246.209.113:80/WillowHD/index.m3u8
+#EXTINF:-1,Premier Sports 1
+http://185.246.209.113:80/PremierSports1HD/index.m3u8
+#EXTINF:-1,Premier Sports 2
+http://185.246.209.113:80/PremierSports2HD/index.m3u8
+#EXTINF:-1,TNT Sports 1
+http://185.246.209.113/BTSport1/index.m3u8
+#EXTINF:-1,TNT Sports 2
+http://185.246.209.113/BTSport2/index.m3u8
+#EXTINF:-1,TNT Sports 3
+http://185.246.209.113/BTSport3/index.m3u8
+#EXTINF:-1,TNT Sports 4
+http://185.246.209.113/BTSport4/index.m3u8
+#EXTINF:-1,TSN Sport 1
+http://185.246.209.113:80/TSN1HD/index.m3u8
+#EXTINF:-1,TSN Sport 2
+http://185.246.209.113:80/TSN2HD/index.m3u8
+#EXTINF:-1,TSN Sport 3
+http://185.246.209.113:80/TSN3HD/index.m3u8
+#EXTINF:-1,TSN Sport 4
+http://185.246.209.113:80/TSN4HD/index.m3u8
+#EXTINF:-1,TSN Sport 5
+http://185.246.209.113:80/TSN5HD/index.m3u8
+
