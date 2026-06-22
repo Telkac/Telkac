@@ -626,8 +626,8 @@ http://stream.funradio.sk:8000/fun128.mp3
 http://stream.ecce.sk:8000/radiokosice-128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="Rádio Vlna.cz" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Vlna
 http://stream.radiovlna.sk/vlna-hi.mp3
-#EXTINF:0,BEST FM
-http://46.150.204.76:4022/udp/239.1.77.51:1234
+#EXTINF:0,Radio Jemne V
+http://46.150.204.76:4022/udp/239.1.77.67:1234
 #EXTINF:0,Radio_FM
 http://46.150.204.76:4022/udp/239.1.77.39:1234
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun Rádio 80 - 90s
