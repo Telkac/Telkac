@@ -616,16 +616,24 @@ https://dash3.antik.sk/live/test_superyacht/playlist.m3u8
 https://dash2.antik.sk/live/test_park_tv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="Expres.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png" group-title="Slovenské rádia",Expres
+http://46.150.204.76:4022/udp/239.1.77.50:1234
+#EXTINF:-1 tvg-id="Europa 2.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png" group-title="Slovenské rádia",Europa 2
+http://46.150.204.76:4022/udp/239.1.77.53:1234
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun Radio
+http://stream.funradio.sk:8000/fun128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio Kosice
 http://stream.ecce.sk:8000/radiokosice-128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="Rádio Vlna.cz" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Vlna
 http://stream.radiovlna.sk/vlna-hi.mp3
+#EXTINF:0,BEST FM
+http://46.150.204.76:4022/udp/239.1.77.51:1234
+#EXTINF:0,Radio_FM
+http://46.150.204.76:4022/udp/239.1.77.39:1234
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun Rádio 80 - 90s
 http://stream.funradio.sk:8000/80-90-128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun Radio CZ-SK
 http://stream.funradio.sk:8000/cs128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun Radio
-http://stream.funradio.sk:8000/fun128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun Radio Dance
 http://stream.funradio.sk:8000/dance128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio Slovensko
