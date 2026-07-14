@@ -399,8 +399,6 @@ http://88.212.15.19/live/mb_hits/index.m3u8
 Music Box Sexy
 http://88.212.15.19/live/mb_sexy/index.m3u8
 
-#EXTINF:0,group-title="Hudobné",Concert Channel 🇺🇸
-https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
 
 #EXTINF:-1 tvg-id="RTVS Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/rtvssport.png" group-title="Sport",RTVS Šport
 http://212.102.38.45/live/test_rtvs_sport_hevc/playlist.m3u8
@@ -418,6 +416,8 @@ https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="ČT sport.cz" tvg-url="ctsport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/ctsport.png" group-title="Sport",ČT sport
 http://212.102.38.45/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-name="ČT sport Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png" tvg-id="" tvg-chno="7" tvg-country="CZ" group-title="Czech Republic",ČT sport Plus
+https://sktv.mxnticek.eu/new/stream.php?ch=%C4%8CT%20sport%20Plus
 #EXTINF:-1 tvg-id="Eurosport 1.cz" tvg-name="Eurosport 1.cz" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sport",Eurosport 1
 http://185.188.188.237:5000/live/eurosport/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport 2.cz" tvg-name="Eurosport 2.cz" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sport",Eurosport 2
