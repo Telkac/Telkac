@@ -201,8 +201,8 @@ http://212.102.38.45/live/test_fishing_hunting/playlist.m3u8
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/master.m3u8
 #EXTINF:-1 tvg-id="Sports Fishing.cz" tvg-name="" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/4f11d7b4-99e6-447e-b517-10dbb827a67c" tvg-chno="", Sports Fishing
 https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/playlist.m3u8
-#EXTINF:-1,LoviRibolov
-http://79.127.207.193:80/LoviRibolov/playlist.m3u8
+#EXTINF:-1 tvg-id="",Just.fishing
+https://jmp2.uk/plu-61b33085897b9d000702b72e.m3u8
 
 
 #EXTINF:-1 tvg-id="Jojko.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/815-jojko-hd.png" group-title="Detské",Jojko
@@ -237,8 +237,6 @@ http://212.102.38.45/live/test_disney_junior/playlist.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/500px-Cartoon_Network_2010_logo.svg.png" group-title="Detské",Cartoon Network
 https://dash4.antik.sk/live/test_cartoon_network_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Cartoonito.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/cartoonito.png" group-title="Detské",Cartoonito
-#EXTINF:0,Cartoonito.cz
-http://46.149.191.217:9019/play/a01l
 
 #EXTINF:-1 tvg-id="Tom&Jerry" tvg-logo="https://m.media-amazon.com/images/M/MV5BODY2YWI1OTAtY2FhZS00MGI1LTk0YjUtYmE3MDk0OGFkMWUyXkEyXkFqcGc@._V1_.jpg" group-title="Detské",Tom & Jerry (24 hodín vkuse)
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
@@ -246,6 +244,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 #EXTINF:-1 tvg-id="Baby Shark TV" tvg-logo="https://i.imgur.com/SbBKr8L.png" tvg-chno="" group-title="Detské",Baby Shark TV (24 hodín vkuse)
 https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3619&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=8b26dccc-5135-41b7-8b34-4c9fd5d336c7&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=696
+
 
 #EXTINF:-1 tvg-id="Óčko.cz" tvg-country="CZ;SK" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/ocko.png" group-title="Hudobné",Óčko
 http://212.102.38.45/live/test_ocko/playlist.m3u8
@@ -263,6 +262,15 @@ https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
 https://dash2.antik.sk/live/test_rebel/playlist.m3u8
 #EXTINF:-1 tvg-id="Retro Music.cz" tvg-country="CZ;SK" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/retro.jpg" group-title="Hudobné",RetroMusicTV
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MusicBoxClassic.cz",Music Box Classic
+http://88.212.15.19/live/mb_classic/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxDance.cz",Music Box Dance
+http://88.212.15.19/live/mb_dance/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxHits.cz",Music Box Hits
+http://88.212.15.19/live/mb_hits/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxSexy.cz",Music Box Sexy
+http://88.212.15.19/live/mb_sexy/index.m3u8
 
 #EXTINF:-1 tvg-id="MagicTV.cz" group-title="Hudobné",Magic TV BG 🇧🇬 
 https://bss1.neterra.tv/magictv/magictv.m3u8
@@ -392,13 +400,6 @@ https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="Folklorika.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/Mxk1nWM.png" group-title="Hudobné",Folklorika Tv
 http://212.102.38.45/live/test_folklorika_atktv/playlist.m3u8
 
-Music Box Dance
-http://88.212.15.19/live/mb_dance/index.m3u8
-Music Box Hits
-http://88.212.15.19/live/mb_hits/index.m3u8
-Music Box Sexy
-http://88.212.15.19/live/mb_sexy/index.m3u8
-
 
 #EXTINF:-1 tvg-id="RTVS Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/rtvssport.png" group-title="Sport",RTVS Šport
 http://212.102.38.45/live/test_rtvs_sport_hevc/playlist.m3u8
@@ -455,11 +456,11 @@ http://212.102.38.45/live/test_arenasport_dva/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Oneplay Sport 1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://oneplaysport.cz/assets/front/img/channels/ops_1.png" group-title="Sport",Oneplay Sport 1
-
+http://45.129.141.180:9981/stream/channelid/177253733?profile=pass
 #EXTINF:-1 tvg-id="Oneplay Sport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://oneplaysport.cz/assets/front/img/channels/ops_2.png" group-title="Sport",Oneplay Sport 2
-
+http://45.129.141.180:9981/stream/channelid/1716506983?profile=pass
 #EXTINF:-1 tvg-id="Oneplay Sport 3.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://oneplaysport.cz/assets/front/img/channels/ops_3.png" group-title="Sport",Oneplay Sport 3
-
+http://45.129.141.180:9981/stream/channelid/1597775099?profile=pass
 #EXTINF:-1 tvg-id="Oneplay Sport 4.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://oneplaysport.cz/assets/front/img/channels/ops_4.png" group-title="Sport",Oneplay Sport 4
 
 #EXTINF:-1 tvg-id="Sporty TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/SportyTVSD.png" group-title="Sport",Sporty TV
@@ -1560,240 +1561,3 @@ http://45.129.141.180:9981/stream/channelid/1363722412?profile=pass
 #EXTINF:-1 tvg-id="69e43f3f6491c0c559876e7a0f8d1fca" tvg-chno="10",YU: ARENA TENIS ali3
 http://45.129.141.180:9981/stream/channelid/1061151849?profile=pass
 
-#EXTINF:-1,FoxSports 1
-http://185.246.209.113:80/FoxSports1HD/index.m3u8
-#EXTINF:-1,FoxSports 2
-http://185.246.209.113:80/FoxSports2HD/index.m3u8
-#EXTINF:-1,SkySports PremierLeague
-http://185.246.209.113/SkySportsPremierLeague/index.m3u8
-#EXTINF:-1,SkySports Cricket
-http://185.246.209.113/SkySportsCricket/index.m3u8
-#EXTINF:-1,SkySports Golf
-http://185.246.209.113/SkySportsGolf/index.m3u8
-#EXTINF:-1,SkySports Action
-http://185.246.209.113/SkySportsAction/index.m3u8
-#EXTINF:-1,Sky Sports Football
-http://185.246.209.113/SkySportsFootballHD/index.m3u8
-#EXTINF:-1,Sky Sports Mix
-http://185.246.209.113/SkySportsMixHD/index.m3u8
-#EXTINF:-1,SkySports F1 HD
-http://185.246.209.113/SkySportsF1HD/index.m3u8
-#EXTINF:-1,Tennis HD
-http://185.246.209.113/TennisHD/index.m3u8
-#EXTINF:-1,Racing UK
-http://185.246.209.113/RacingUK/index.m3u8
-#EXTINF:-1,LFC TV
-http://185.246.209.113:80/LFCTVHD/index.m3u8
-#EXTINF:-1,Fight Network
-http://185.246.209.113/FightNetwork/index.m3u8
-#EXTINF:-1,ESPN Deportes
-http://185.246.209.113:80/ESPNDeportesHD/index.m3u8
-#EXTINF:-1,ESPNU
-http://185.246.209.113/ESPNU/index.m3u8
-#EXTINF:-1,NBA HD
-http://185.246.209.113/NBAHD/index.m3u8
-#EXTINF:-1,SkySports News HD
-http://185.246.209.113/SkySportsNews/index.m3u8
-#EXTINF:-1,Willow
-http://185.246.209.113:80/WillowHD/index.m3u8
-#EXTINF:-1,Premier Sports 1
-http://185.246.209.113:80/PremierSports1HD/index.m3u8
-#EXTINF:-1,Premier Sports 2
-http://185.246.209.113:80/PremierSports2HD/index.m3u8
-#EXTINF:-1,TNT Sports 1
-http://185.246.209.113/BTSport1/index.m3u8
-#EXTINF:-1,TNT Sports 2
-http://185.246.209.113/BTSport2/index.m3u8
-#EXTINF:-1,TNT Sports 3
-http://185.246.209.113/BTSport3/index.m3u8
-#EXTINF:-1,TNT Sports 4
-http://185.246.209.113/BTSport4/index.m3u8
-#EXTINF:-1,TSN Sport 1
-http://185.246.209.113:80/TSN1HD/index.m3u8
-#EXTINF:-1,TSN Sport 2
-http://185.246.209.113:80/TSN2HD/index.m3u8
-#EXTINF:-1,TSN Sport 3
-http://185.246.209.113:80/TSN3HD/index.m3u8
-#EXTINF:-1,TSN Sport 4
-http://185.246.209.113:80/TSN4HD/index.m3u8
-#EXTINF:-1,TSN Sport 5
-http://185.246.209.113:80/TSN5HD/index.m3u8
-
-#EXTINF:-1,FoxSports 1
-http://185.246.209.113:80/FoxSports1HD/index.m3u8
-#EXTINF:-1,FoxSports 2
-http://185.246.209.113:80/FoxSports2HD/index.m3u8
-#EXTINF:-1,SkySports PremierLeague
-http://185.246.209.113/SkySportsPremierLeague/index.m3u8
-#EXTINF:-1,SkySports Cricket
-http://185.246.209.113/SkySportsCricket/index.m3u8
-#EXTINF:-1,SkySports Golf
-http://185.246.209.113/SkySportsGolf/index.m3u8
-#EXTINF:-1,SkySports Action
-http://185.246.209.113/SkySportsAction/index.m3u8
-#EXTINF:-1,Sky Sports Football
-http://185.246.209.113/SkySportsFootballHD/index.m3u8
-#EXTINF:-1,Sky Sports Mix
-http://185.246.209.113/SkySportsMixHD/index.m3u8
-#EXTINF:-1,SkySports F1 HD
-http://185.246.209.113/SkySportsF1HD/index.m3u8
-#EXTINF:-1,WWE HD
-http://185.246.209.113/WWEHD/index.m3u8
-#EXTINF:-1,Tennis HD
-http://185.246.209.113/TennisHD/index.m3u8
-#EXTINF:-1,Racing UK
-http://185.246.209.113/RacingUK/index.m3u8
-#EXTINF:-1,LFC TV
-http://185.246.209.113:80/LFCTVHD/index.m3u8
-#EXTINF:-1,Fight Network
-http://185.246.209.113/FightNetwork/index.m3u8
-#EXTINF:-1,ESPN Deportes
-http://185.246.209.113:80/ESPNDeportesHD/index.m3u8
-#EXTINF:-1,ESPNU
-http://185.246.209.113/ESPNU/index.m3u8
-#EXTINF:-1,NBA HD
-http://185.246.209.113/NBAHD/index.m3u8
-#EXTINF:-1,ESPN News
-http://185.246.209.113/ESPNNews/index.m3u8
-#EXTINF:-1,SkySports News HD
-http://185.246.209.113/SkySportsNews/index.m3u8
-#EXTINF:-1,Willow
-http://185.246.209.113:80/WillowHD/index.m3u8
-#EXTINF:-1,Premier Sports 1
-http://185.246.209.113:80/PremierSports1HD/index.m3u8
-#EXTINF:-1,Premier Sports 1
-http://185.246.209.113:80/PremierSports2HD/index.m3u8
-#EXTINF:-1,TNT Sports 1
-http://185.246.209.113/BTSport1/index.m3u8
-#EXTINF:-1,TNT Sports 2
-http://185.246.209.113/BTSport2/index.m3u8
-#EXTINF:-1,TNT Sports 3
-http://185.246.209.113/BTSport3/index.m3u8
-#EXTINF:-1,TNT Sports 4
-http://185.246.209.113/BTSport4/index.m3u8
-#EXTINF:-1,TSN Sport 1
-http://185.246.209.113:80/TSN1HD/index.m3u8
-#EXTINF:-1,TSN Sport 2
-http://185.246.209.113:80/TSN2HD/index.m3u8
-#EXTINF:-1,TSN Sport 3
-http://185.246.209.113:80/TSN3HD/index.m3u8
-#EXTINF:-1,TSN Sport 4
-http://185.246.209.113:80/TSN4HD/index.m3u8
-#EXTINF:-1,TSN Sport 5
-http://185.246.209.113:80/TSN5HD/index.m3u8
-
-#EXTINF:-1,Arena Sport 1 HD
-http://143.244.62.109:80/as1hr/index.m3u8
-#EXTINF:-1,Arena Sport 2 HD
-http://143.244.62.109:80/as2hr/index.m3u8
-#EXTINF:-1,Arena Sport 3 HD
-http://143.244.62.109:80/as3hr/index.m3u8
-#EXTINF:-1,Arena Sport 4 HD
-http://143.244.62.109:80/as4hr/index.m3u8
-#EXTINF:-1,Arena Sport 5 HD
-http://143.244.62.109:80/as5hr/index.m3u8
-#EXTINF:-1,Arena Sport 6 HD
-http://143.244.62.109:80/as6hr/index.m3u8
-#EXTINF:-1,Arena Sport 1 HD
-http://143.244.62.109:80/as1/index.m3u8
-#EXTINF:-1,Arena Sport 2 HD
-http://143.244.62.109:80/as2/index.m3u8
-#EXTINF:-1,Arena Sport 3 HD
-http://143.244.62.109:80/as3/index.m3u8
-#EXTINF:-1,Arena Sport 4 HD
-http://143.244.62.109:80/as4/index.m3u8
-#EXTINF:-1,Arena Sport 5 HD
-http://143.244.62.109:80/as5/index.m3u8
-#EXTINF:-1,Arena Sport 6 HD
-http://143.244.62.109:80/as6/index.m3u8
-#EXTINF:-1,Arena Sport 7 HD
-http://143.244.62.109:80/as7/index.m3u8
-#EXTINF:-1,Arena Sport 8 HD
-http://143.244.62.109:80/as8/index.m3u8
-#EXTINF:-1,Arena Sport 9 HD
-http://143.244.62.109:80/as9/index.m3u8
-#EXTINF:-1,Arena Sport 10 HD
-http://143.244.62.109:80/as10/index.m3u8
-#EXTINF:-1,Arena Sport 1 HD
-http://143.244.62.109:80/as1bh/index.m3u8
-#EXTINF:-1,Arena Sport 2 HD
-http://143.244.62.109:80/as2bh/index.m3u8
-#EXTINF:-1,Arena Sport 3 HD
-http://143.244.62.109:80/as3bh/index.m3u8
-#EXTINF:-1,Arena Sport 4 HD
-http://143.244.62.109:80/as4bh/index.m3u8
-#EXTINF:-1,fightnetwork
-http://143.244.62.109:80/fightnetwork/index.m3u8
-
-#EXTINF:-1,DIGI Sport 1 HD
-http://82.78.243.219:45739/play/a01o/index.m3u8
-#EXTINF:-1,DIGI Sport 2 HD
-http://82.78.243.219:45739/play/a00r/index.m3u8
-#EXTINF:-1,DIGI Sport 3 HD
-http://82.78.243.219:45739/play/a01m/index.m3u8
-#EXTINF:-1,DIGI Sport 4 HD
-http://82.78.243.219:45739/play/a00v/index.m3u8
-#EXTINF:-1,PRIMA SPORT 1 HD
-http://82.78.243.219:45739/play/a011/index.m3u8
-#EXTINF:-1,PRIMA SPORT 2 HD
-http://82.78.243.219:45739/play/a02b/index.m3u8
-#EXTINF:-1,PRIMA SPORT 3 HD
-http://82.78.243.219:45739/play/a012/index.m3u8
-#EXTINF:-1,FoxSports 1
-http://185.246.209.113:80/FoxSports1HD/index.m3u8
-#EXTINF:-1,FoxSports 2
-http://185.246.209.113:80/FoxSports2HD/index.m3u8
-#EXTINF:-1,SkySports PremierLeague
-http://185.246.209.113/SkySportsPremierLeague/index.m3u8
-#EXTINF:-1,SkySports Cricket
-http://185.246.209.113/SkySportsCricket/index.m3u8
-#EXTINF:-1,SkySports Golf
-http://185.246.209.113/SkySportsGolf/index.m3u8
-#EXTINF:-1,SkySports Action
-http://185.246.209.113/SkySportsAction/index.m3u8
-#EXTINF:-1,Sky Sports Football
-http://185.246.209.113/SkySportsFootballHD/index.m3u8
-#EXTINF:-1,Sky Sports Mix
-http://185.246.209.113/SkySportsMixHD/index.m3u8
-#EXTINF:-1,SkySports F1 HD
-http://185.246.209.113/SkySportsF1HD/index.m3u8
-#EXTINF:-1,Tennis HD
-http://185.246.209.113/TennisHD/index.m3u8
-#EXTINF:-1,Racing UK
-http://185.246.209.113/RacingUK/index.m3u8
-#EXTINF:-1,LFC TV
-http://185.246.209.113:80/LFCTVHD/index.m3u8
-#EXTINF:-1,Fight Network
-http://185.246.209.113/FightNetwork/index.m3u8
-#EXTINF:-1,ESPN Deportes
-http://185.246.209.113:80/ESPNDeportesHD/index.m3u8
-#EXTINF:-1,ESPNU
-http://185.246.209.113/ESPNU/index.m3u8
-#EXTINF:-1,NBA HD
-http://185.246.209.113/NBAHD/index.m3u8
-#EXTINF:-1,SkySports News HD
-http://185.246.209.113/SkySportsNews/index.m3u8
-#EXTINF:-1,Willow
-http://185.246.209.113:80/WillowHD/index.m3u8
-#EXTINF:-1,Premier Sports 1
-http://185.246.209.113:80/PremierSports1HD/index.m3u8
-#EXTINF:-1,Premier Sports 2
-http://185.246.209.113:80/PremierSports2HD/index.m3u8
-#EXTINF:-1,TNT Sports 1
-http://185.246.209.113/BTSport1/index.m3u8
-#EXTINF:-1,TNT Sports 2
-http://185.246.209.113/BTSport2/index.m3u8
-#EXTINF:-1,TNT Sports 3
-http://185.246.209.113/BTSport3/index.m3u8
-#EXTINF:-1,TNT Sports 4
-http://185.246.209.113/BTSport4/index.m3u8
-#EXTINF:-1,TSN Sport 1
-http://185.246.209.113:80/TSN1HD/index.m3u8
-#EXTINF:-1,TSN Sport 2
-http://185.246.209.113:80/TSN2HD/index.m3u8
-#EXTINF:-1,TSN Sport 3
-http://185.246.209.113:80/TSN3HD/index.m3u8
-#EXTINF:-1,TSN Sport 4
-http://185.246.209.113:80/TSN4HD/index.m3u8
-#EXTINF:-1,TSN Sport 5
-http://185.246.209.113:80/TSN5HD/index.m3u8
