@@ -188,9 +188,9 @@ http://212.102.38.45/live/test_id_hevc_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC.cz" tvg-name="Sat crime invest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="Dokumentárne",TLC
 http://212.102.38.45/live/test_tlc_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC Earth.cz" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/bbcearth.png",BBC Earth
-http://46.149.191.217:9019/play/a01w
+
 #EXTINF:-1 tvg-id="HGTV.cz" tvg-name="" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/hgtv.png" group-title="Dokumentárne",HGTV
-http://46.149.191.217:9023/play/a014
+
 #EXTINF:-1 tvg-id="Viasat True Crime.cz" tvg-name="Viasat True Crime" tvg-logo="" group-title="Dokumentárne",Viasat True Crime
 http://46.149.191.219:9105/play/a03d
 
