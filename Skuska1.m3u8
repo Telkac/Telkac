@@ -21,7 +21,9 @@ http://212.102.38.45/live/test_doma_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Markíza KRIMI.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/markizakrimi.png" group-title="Všeobecné",Markiza Krimi
 http://212.102.38.45/live/test_markiza_krimi_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Markíza KLASIK.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/markizaklasik.png" group-title="Všeobecné",Markiza Klasik
+http://88.212.15.19/live/markiza_klasik_hevc/index.m3u8
 http://46.149.191.219:9114/play/a02c
+http://88.212.15.19/live/markiza_klasik_hevc/index.m3u8
 #EXTINF:-1 tvg-id="JOJ Plus.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo=https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/jojplus.png" group-title="Všeobecné",JOJ Plus
 http://212.102.38.45/live/test_pluska_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ Krimi.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/jojkrimi.png" group-title="Všeobecné",JOJ Krimi
