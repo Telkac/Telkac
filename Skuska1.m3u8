@@ -93,8 +93,21 @@ http://212.102.38.45/live/test_hbo_hd_hevc/playlist.m3u8
 http://212.102.38.45/live/test_hbo2_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO3.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/hbo3.png" group-title="Všeobecné",HBO 3
 http://212.102.38.45/live/test_hbo3_hd_hevc/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Film+.cz" tvg-name="Film+" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/filmplus.png" group-title="Všeobecné",Film+
 http://212.102.38.45/live/test_film_plus_25p/playlist.m3u8
+
+FILMBOX+ Comedy Czechia
+http://88.212.15.19/live/test_filmbox_family_atk_1200/playlist.m3u8
+FILMBOX+ Emotion Czechia
+http://88.212.15.19/live/test_film_boxextra_hd_hevc/playlist.m3u8
+FILMBOX+ Hits Czechia
+http://88.212.15.19/live/test_film_boxpremium_hd_hevc/playlist.m3u8
+FILMBOX+ Love & Crime
+http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8
+FILMBOX+ One Czechia
+http://88.212.15.19/live/test_filmbox/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Filmbox.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmbox.png" group-title="Všeobecné",Filmbox
 http://212.102.38.45/live/test_filmbox/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmbox Premium.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmboxpremium.png" group-title="Všeobecné",Filmbox Premium
