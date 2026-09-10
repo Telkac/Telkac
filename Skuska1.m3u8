@@ -1024,6 +1024,26 @@ http://31.148.48.15/KHL_TV_HD/index.m3u8
 #EXTINF:-1,Tenis Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RK TV.us" tvg-name="RK " tvg-logo="http://46.36.40.22/7511/realitykings.png" group-title="Erotické",RK TV
+http://88.212.15.19/live/test_realitykings_sd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="LeoTV.cz" tvg-name="Leo TV" tvg-logo="http://46.36.40.22/7511/leotv.png" group-title="Erotické",Leo TV
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Brazzers TV" tvg-name="Brazzers" tvg-logo="http://46.36.40.22/7511/brazzerstv.png" group-title="Erotické",Brazzers
+http://88.212.15.19/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Desire TV" tvg-name="Brazzers" tvg-logo="http://46.36.40.22/7511/Desiretv.png" group-title="Erotické",Desire
+http://88.212.15.19/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="hustsler TV" tvg-name="Hustsler" tvg-logo="http://46.36.40.22/7511/hustslertv.png" group-title="Erotické",Hustsler
+http://88.212.15.19/live/test_hustsler_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Extasy TV 4k" tvg-name="Extasy 4K" tvg-logo="http://46.36.40.22/7511/extasy4k.png" group-title="Erotické",Extasy 4K
+http://88.212.15.19/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Dorcel" tvg-name="Dorcel TV" tvg-logo="http://46.36.40.22/7511/dorceltv.png" group-title="Erotické",Dorcel TV
+http://88.212.15.19/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Eroxxx" tvg-name="Eroxxx " tvg-logo="http://46.36.40.22/7511/eroxxx.png" group-title="Erotické",Eroxxx
+http://88.212.15.19/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Erox" tvg-name="Erox" tvg-logo="http://46.36.40.22/7511/erox.png" group-title="Erotické",Erox
+http://88.212.15.19/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Babes TV" tvg-name="Babes TV" tvg-logo="http://46.36.40.22/7511/Babes.png" group-title="Erotické",Babes TV
+http://88.212.15.19/live/test_basbes_hd_hevc/playlist.m3u8
 
 #EXTINF:22,🔞 XXX-Penthouse Gold 🔞 
 http://185.98.209.11:81/penthouse1/index.m3u8?token=test
@@ -1031,38 +1051,6 @@ http://185.98.209.11:81/penthouse1/index.m3u8?token=test
 http://185.98.209.11:81/penthouse2/index.m3u8?token=test
 #EXTINF:40,🔞 XXX-Leo 🔞 
 http://185.98.209.11:81/leo/index.m3u8?token=test
-
-#EXTINF:-1,🔞 Private HD 🔞 
-http://169.150.255.53/Private/index.m3u8
-#EXTINF:-1,🔞 Dorcel HD 🔞 
-http://169.150.255.53/DorcelHD/index.m3u8
-#EXTINF:-1,🔞 Hustler HD 🔞 
-http://169.150.255.53/Hustler/index.m3u8
-#EXTINF:-1,🔞 FrenchLover HD 🔞 
-http://169.150.255.53/FrenchLover/index.m3u8
-#EXTINF:-1,🔞 Babes TV 🔞 
-http://169.150.255.53/BabesTV/index.m3u8
-#EXTINF:-1,🔞 Reality Kings 🔞 
-http://169.150.255.53/RealityKings/index.m3u8
-#EXTINF:-1,🔞 BangU 🔞 
-http://169.150.255.53/BangU/index.m3u8
-#EXTINF:-1,🔞 Playboy TV HD 🔞 
-http://169.150.255.53/PlayboyHD/index.m3u8
-#EXTINF:-1,🔞 Pink Erotic 1 🔞 
-http://169.150.255.53/PinkErotic1/index.m3u8
-#EXTINF:-1,🔞 Pink Erotic 2 🔞 
-http://169.150.255.53/PinkErotic2/index.m3u8
-#EXTINF:-1,🔞 Pink Erotic 3 🔞 
-http://169.150.255.53/PinkErotic3/index.m3u8
-#EXTINF:-1, 🔞 Pink Erotic 4 🔞 
-http://169.150.255.53/PinkErotic4/index.m3u8
-#EXTINF:-1, 🔞 Pink Erotic 5 🔞 
-http://169.150.255.53/PinkErotic5/index.m3u8
-#EXTINF:-1, 🔞 Pink Erotic 6 🔞 
-http://169.150.255.53/PinkErotic6/index.m3u8
-#EXTINF:-1, 🔞 Pink Erotic 7 🔞 
-http://169.150.255.53/PinkErotic7/index.m3u8
-
 
 #EXTINF:-1 group-title="-", 🔞 Blue Hustler 🔞 
 http://5.57.74.130:8000/play/a0c3/index.m3u8
@@ -1073,12 +1061,6 @@ http://5.57.74.130:8000/play/a0df/index.m3u8
 #EXTINF:-1 group-title="-", 🔞 Playboy TV HD 🔞 
 http://5.57.74.130:8000/play/a0c8/index.m3u8
 
-#EXTINF:-1, 🔞 PINK EROTIC 3 🔞 
-http://143.244.63.87/pinkerotic3/playlist.m3u8
-#EXTINF:-1, 🔞 PINK EROTIC 2 🔞 
-http://143.244.63.87/pinkerotic2/playlist.m3u8
-#EXTINF:-1, 🔞 EROXXX 🔞 
-http://143.244.63.87/eroxxx/playlist.m3u8
 #EXTINF:-1, 🔞 PENTHOUSE GOLD 🔞 
 http://185.98.209.11:81/penthouse1/index.m3u8?token=test
 #EXTINF:-1, 🔞 PENTHOUSE REALITY 🔞 
@@ -1086,42 +1068,6 @@ http://185.98.209.11:81/penthouse2/index.m3u8?token=test
 #EXTINF:-1, 🔞 PLAYBOY TV 🔞 
 http://31.148.48.15:80/Playboy_TV/playlist.m3u8
 
-#EXTINF:-1, 🔞 adult1 🔞 
-http://143.244.63.87/adult1/index.m3u8
-#EXTINF:-1, 🔞 adult2 🔞 
-http://143.244.63.87/adult2/index.m3u8
-#EXTINF:-1, 🔞 adult6 🔞 
-http://143.244.63.87/adult6/playlist.m3u8
-#EXTINF:-1, 🔞 eroxxx HD 🔞 
-http://143.244.63.87/eroxxx/playlist.m3u8
-#EXTINF:-1, 🔞 pink erotic 2 🔞 
-http://143.244.63.87/pinkerotic2/playlist.m3u8
-#EXTINF:-1, 🔞 pink erotic 3 🔞 
-http://143.244.63.87/pinkerotic3/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="HustlerHD.nl@HD", 🔞 Hustler HD (1080p) 🔞 
-http://78.130.250.2:8023/play/a03f/index.m3u8
-#EXTINF:-1 tvg-id="PrivateTV.nl@HD", 🔞 Private TV (1080p) 🔞 
-http://78.130.250.2:8023/play/a03h/index.m3u8
-#EXTINF:-1 tvg-id="DorcelTV.nl@HD", 🔞 Dorcel TV (1080p)
-http://78.130.250.2:8023/play/a069/index.m3u8 🔞 
-#EXTINF:-1 tvg-id="DorcelTV.nl@HD", 🔞 Dorcel TV (1080p) 🔞 
-http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="DorcelXXX.nl@HD", 🔞 Dorcel XXX (1080p) 🔞 
-http://88.212.7.11/live/test_dorcel_xxx_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="BrazzersTV.nl@HD", 🔞 Brazzers TV (1080p) 🔞 
-http://78.130.250.2:8023/play/a06f/index.m3u8
-#EXTINF:-1 tvg-id="BrazzersTV.nl@HD", 🔞 Brazzers TV (1080p) 🔞 
-http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="BlueHustler.nl@SD", 🔞 Blue Hustler (576p) 🔞 
-http://78.130.250.2:8023/play/a03g/index.m3u8
-l#EXTINF:-1 tvg-id="HustlerTV.nl@SD", 🔞 Hustler TV (576p) 🔞 
-https://ru.iptv.monster/play/592/manifest.m3u8?token=623939143BE8A4B
-#EXTINF:-1 tvg-id="EroxHD.nl@HD", 🔞 Erox HD (1080p) 🔞 
-http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="EroxxxHD.nl@HD", 🔞 Eroxxx HD (1080p) 🔞 
-http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 
 #EXTINF:-0,Sex Factor TV 🔞 
 https://host1.momentotv.live:29443/sexfactor/sexfactor/playlist.m3u8
@@ -1138,130 +1084,6 @@ http://94.130.17.197:80/stream/5/index.m3u8?username=Ji6Rs0GQ4v&password=W0paNLA
 #EXTINF:-1,Alba XXX 8 HD 🔞 
 http://94.130.17.197:80/stream/6/index.m3u8?username=Ji6Rs0GQ4v&password=W0paNLA5la
 
-#EXTINF:-1,Private HD 🔞 
-http://79.127.207.193:80/Private/index.m3u8
-#EXTINF:-1,Hustler HD 🔞 
-http://79.127.207.193:80/Hustler/index.m3u8
-#EXTINF:-1,Dorcel HD 🔞 
-http://79.127.207.193:80/DorcelHD/index.m3u8
-#EXTINF:-1,FrenchLover HD 🔞 
-http://79.127.207.193:80/FrenchLover/index.m3u8
-#EXTINF:-1,Babes TV 🔞 
-http://79.127.207.193:80/BabesTV/index.m3u8
-#EXTINF:-1,Reality Kings 🔞 
-http://79.127.207.193:80/RealityKings/index.m3u8
-#EXTINF:-1,BangU 🔞 
-http://79.127.207.193:80/BangU/index.m3u8
-#EXTINF:-1,Playboy TV HD 🔞 
-http://79.127.207.193:80/PlayboyHD/index.m3u8
-#EXTINF:-1,Pink Erotic 1 🔞 
-http://79.127.207.193:80/PinkErotic1/index.m3u8
-#EXTINF:-1,Pink Erotic 2 🔞 
-http://79.127.207.193:80/PinkErotic2/index.m3u8
-#EXTINF:-1,Pink Erotic 3 🔞 
-http://79.127.207.193:80/PinkErotic3/index.m3u8
-#EXTINF:-1,Pink Erotic 4 🔞 
-http://79.127.207.193:80/PinkErotic4/index.m3u8
-#EXTINF:-1,Pink Erotic 5
-http://79.127.207.193:80/PinkErotic5/index.m3u8
-#EXTINF:-1,Pink Erotic 6 🔞 
-http://79.127.207.193:80/PinkErotic6/index.m3u8
-#EXTINF:-1,Pink Erotic 7 🔞 
-http://79.127.207.193:80/PinkErotic7/index.m3u8
-
-#EXTINF:-1,adult1 🔞 
-http://143.244.62.109:80/adult1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,adult2 🔞 
-http://143.244.62.109:80/adult2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,adult3 🔞 
-http://143.244.62.109:80/adult3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,adult4 🔞 
-http://143.244.62.109:80/adult4/tracks-v1a1/mono.m3u8
-#EXTINF:-1,adult5 🔞 
-http://143.244.62.109:80/adult5/tracks-v1a1/mono.m3u8
-#EXTINF:-1,adult6 🔞 
-http://143.244.62.109:80/adult6/tracks-v1a1/mono.m3u8
-#EXTINF:-1,adult7 🔞 
-http://143.244.62.109:80/adult7/tracks-v1a1/mono.m3u8
-#EXTINF:-1,erox 🔞 
-http://143.244.62.109:80/erox/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Private HD 🔞 
-https://srv1.adriatelekom.com/Private/index.m3u8
-#EXTINF:-1,Hustler HD 🔞 
-https://srv1.adriatelekom.com/Hustler/index.m3u8
-#EXTINF:-1,Dorcel HD 🔞 
-https://srv1.adriatelekom.com/DorcelHD/index.m3u8
-#EXTINF:-1,FrenchLover HD 🔞 
-https://srv1.adriatelekom.com/FrenchLover/index.m3u8
-#EXTINF:-1,Babes TV 🔞 
-https://srv1.adriatelekom.com/BabesTV/index.m3u8
-#EXTINF:-1,Reality Kings 🔞 
-https://srv1.adriatelekom.com/RealityKings/index.m3u8
-#EXTINF:-1,BangU 🔞 
-https://srv1.adriatelekom.com/BangU/index.m3u8
-#EXTINF:-1,Playboy TV HD
-https://srv1.adriatelekom.com/PlayboyHD/index.m3u8
-#EXTINF:-1,Pink Erotic 1 🔞 
-https://srv1.adriatelekom.com/PinkErotic1/index.m3u8
-#EXTINF:-1,Pink Erotic 2 🔞 
-https://srv1.adriatelekom.com/PinkErotic2/index.m3u8
-#EXTINF:-1,Pink Erotic 3 🔞 
-https://srv1.adriatelekom.com/PinkErotic3/index.m3u8
-#EXTINF:-1,Pink Erotic 4 🔞 
-https://srv1.adriatelekom.com/PinkErotic4/index.m3u8
-#EXTINF:-1,Pink Erotic 5 🔞 
-https://srv1.adriatelekom.com/PinkErotic5/index.m3u8
-#EXTINF:-1,Pink Erotic 6 🔞 
-https://srv1.adriatelekom.com/PinkErotic6/index.m3u8
-
-#EXTINF:-1,XY Plus 🔞 
-http://94.156.59.233:8899/udp/239.10.3.18:30000
-#EXTINF:-1,XYplus 🔞 
-http://94.156.59.233:8899/udp/239.10.3.17:30000
-#EXTINF:-1,PassionXXX 🔞 
-http://94.156.59.233:8899/udp/239.10.2.180:30000
-#EXTINF:-1,PassionXXX
-http://94.156.59.233:8899/udp/239.10.2.181:30000
-#EXTINF:-1,Pink O TV 🔞 
-http://94.156.59.233:8899/udp/239.10.2.198:30000
-#EXTINF:-1,Pink O 2 🔞 
-http://94.156.59.233:8899/udp/239.10.2.199:30000
-
-#EXTINF:-1,pinkerotic1
-http://143.244.62.109:80/pinkerotic1/index.m3u8
-#EXTINF:-1,pinkerotic2
-http://143.244.62.109:80/pinkerotic2/index.m3u8
-#EXTINF:-1,pinkerotic3
-http://143.244.62.109:80/pinkerotic3/index.m3u8
-#EXTINF:-1,pinkerotic4
-http://143.244.62.109:80/pinkerotic4/index.m3u8
-#EXTINF:-1,pinkerotic5
-http://143.244.62.109:80/pinkerotic5/index.m3u8
-#EXTINF:-1,pinkerotic6
-http://143.244.62.109:80/pinkerotic6/index.m3u8
-#EXTINF:-1,pinkerotic7
-http://143.244.62.109:80/pinkerotic7/index.m3u8
-#EXTINF:-1,pinkerotic8
-http://143.244.62.109:80/pinkerotic8/index.m3u8
-#EXTINF:-1,adult1
-http://143.244.62.109:80/adult1/index.m3u8
-#EXTINF:-1,adult2
-http://143.244.62.109:80/adult2/index.m3u8
-#EXTINF:-1,adult3
-http://143.244.62.109:80/adult3/index.m3u8
-#EXTINF:-1,adult4
-http://143.244.62.109:80/adult4/index.m3u8
-#EXTINF:-1,adult5
-http://143.244.62.109:80/adult5/index.m3u8
-#EXTINF:-1,adult6
-http://143.244.62.109:80/adult6/index.m3u8
-#EXTINF:-1,adult7
-http://143.244.62.109:80/adult7/index.m3u8
-#EXTINF:-1,eroxxx
-http://143.244.62.109:80/eroxxx/index.m3u8
-#EXTINF:-1,erox
-http://143.244.62.109:80/erox/index.m3u
 
 #EXTINF:-1 group-title="Antik TV SK", TVP World
 https://dash3.antik.sk/live/test_tvp_world/playlist.m3u8
