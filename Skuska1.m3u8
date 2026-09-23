@@ -1418,6 +1418,26 @@ http://88.212.15.19/live/story_4_cze_atk/index.m3u8
 #EXTINF:-1,M4 Sport Hungary
 http://88.212.15.19/live/uatlmvixrr/index.m3u8
 
+#EXTINF:-1,NOVA sports 1
+http://88.99.57.248:8080/s1/index.m3u8
+#EXTINF:-1,NOVA sports 2
+http://88.99.57.248:8080/s2/index.m3u8
+#EXTINF:-1,NOVA sports 3
+http://88.99.57.248:8080/s3/index.m3u8
+
+#EXTINF:-1,Match_Football_1_HD
+http://31.148.5.241:80/Match_Football_1_HD/index.m3u8
+#EXTINF:-1,Match_Football_2_HD
+http://31.148.5.241:80/Match_Football_2_HD/index.m3u8
+#EXTINF:-1,Match_Football_3_HD
+http://31.148.5.241:80/Match_Football_3_HD/index.m3u8
+#EXTINF:-1,Viasat_Sport
+http://31.148.5.241:80/Viasat_Sport/index.m3u8
+#EXTINF:-1,Eurosport_1_HD
+http://31.148.5.241:80/Eurosport_1_HD/index.m3u8
+#EXTINF:-1,Eurosport_2_HD
+http://31.148.5.241:80/Eurosport_2_HD/index.m3u8
+
 #EXTINF:0,Record Big Hits
 https://bl.rutube.ru/livestream/c7b8a6f89c95f9d224d7811d4489d5f7/index.m3u8?s=fPKyHOAra-VizfRR4V8IYw&e=2077662115&scheme=https
 #EXTINF:0,Record Chill House
