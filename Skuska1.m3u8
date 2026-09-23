@@ -467,11 +467,10 @@ http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:B6:4E:F2&stream=961122&ex
 http://46.149.191.219:9114/play/a026
 #EXTINF:-1 tvg-id="Canal+ Sport 3.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",CANAL+ Sport 3
 
-#EXTINF:-1 tvg-id="Arena Sport 1.cz" tvg-name="Arena Sport 1 " tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/kanal1sport.png" group-title="Sport",Kanal Sport 1
+#EXTINF:-1 tvg-id="Kanal 1 sport.cz" tvg-name="Kanal 1 sport" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/kanal1sport.png" group-title="Sport",Kanal 1 sport
 http://212.102.38.45/live/test_arenasport/playlist.m3u8
-#EXTINF:-1 tvg-id="Arena Sport 2.cz" tvg-name="Arena Sport 2" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/kanal1xtra.png" group-title="Sport",Kanal 1 xtra
+#EXTINF:-1 tvg-id="Kanal 1 xtra.cz" tvg-name="Kanal 1 xtra" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/kanal1xtra.png" group-title="Sport",Kanal 1 xtra
 http://212.102.38.45/live/test_arenasport_dva/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="Oneplay Sport 1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://oneplaysport.cz/assets/front/img/channels/ops_1.png" group-title="Sport",Oneplay Sport 1
 http://45.129.141.180:9981/stream/channelid/177253733?profile=pass
@@ -492,6 +491,7 @@ http://185.188.188.237:5000/live/premiersport2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="M4 Sport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/m4sport.png" group-title="Sport",M4 Sport
 http://worker.pte.hu:4025/udp/239.1.2.96:1234
+
 
 #EXTINF:-1 tvg-id="TV Reduta.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/smizIrT.png" group-title="Všeobecné",TV Reduta
 https://dash3.antik.sk/live/tv_reduta/playlist.m3u8
