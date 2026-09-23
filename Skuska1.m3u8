@@ -467,9 +467,9 @@ http://line.tivi-ott.net:80/play/live.php?mac=00:1A:79:B6:4E:F2&stream=961122&ex
 http://46.149.191.219:9114/play/a026
 #EXTINF:-1 tvg-id="Canal+ Sport 3.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",CANAL+ Sport 3
 
-#EXTINF:-1 tvg-id="Arena Sport 1.cz" tvg-name="Arena Sport 1 " tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/arenasport1.png" group-title="Sport",Arena Sport 1
+#EXTINF:-1 tvg-id="Arena Sport 1.cz" tvg-name="Arena Sport 1 " tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/kanal1sport.png" group-title="Sport",Kanal Sport 1
 http://212.102.38.45/live/test_arenasport/playlist.m3u8
-#EXTINF:-1 tvg-id="Arena Sport 2.cz" tvg-name="Arena Sport 2" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/arenasport2.png" group-title="Sport",Arena Sport 2
+#EXTINF:-1 tvg-id="Arena Sport 2.cz" tvg-name="Arena Sport 2" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/kanal1xtra.png" group-title="Sport",Kanal 1 xtra
 http://212.102.38.45/live/test_arenasport_dva/playlist.m3u8
 
 
