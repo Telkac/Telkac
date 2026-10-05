@@ -1429,3 +1429,34 @@ https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=2l
 #EXTINF:0,Record Супердискотека 90хᴴᴰ
 https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=meuE-vlQdfRMdA3WeExxHQ&e=2066519858&scheme=https
 
+
+#EXTINF:-1 group-title="Spor",CANAL+ SPORT HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd
+#EXTINF:-1 group-title="Spor",CANAL+ SPORT 2 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd
+#EXTINF:-1 group-title="Spor",CANAL+ SPORT 3 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd
+#EXTINF:-1 group-title="Spor",CANAL+ SPORT 4 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd
+#EXTINF:-1 group-title="Spor",CANAL+ SPORT 5 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd
+#EXTINF:-1 group-title="Spor",CANAL+ Sport 6 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd
+#EXTINF:-1 group-title="Спорт",CANAL+ Sport 7 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd
+#EXTINF:-1 group-title="Спорт",CANAL+ Sport 8 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd
+#EXTINF:-1 group-title="Спорт",NOVA SPORT 1 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport1/live_fullhd
+#EXTINF:-1 group-title="Спорт",NOVA SPORT 2 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport2/live_fullhd
+#EXTINF:-1 group-title="Спорт",NOVA SPORT 3 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport3/live_fullhd
+#EXTINF:-1 group-title="Спорт",NOVA SPORT 4 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport4/live_fullhd
+#EXTINF:-1 group-title="Спорт",NOVA SPORT 5 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport5/live_fullhd
+#EXTINF:-1 group-title="Спорт",NOVA SPORT 6 HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport6/live_fullhd
+
+
