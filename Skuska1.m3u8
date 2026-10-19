@@ -377,9 +377,9 @@ http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:0,group-title="Hudobné",Hiel Music
 https://live.obslivestream.com/hielmusic/index.m3u8
 
-#EXTINF:-1 tvg-name="Oxygen Music" tvg-logo="" tvg-id="" tvg-country="HU" group-title="Hungary",Oxygen Music
+#EXTINF:-1 tvg-name="Oxygen Music" tvg-logo="" ,Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
-#EXTINF:-1 tvg-name="Dance TV" tvg-logo="" tvg-id="" tvg-country="HU" group-title="Hungary",Dance TV
+#EXTINF:-1 tvg-name="Dance TV" tvg-logo="" ,Dance TV
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
 #EXTINF:0,MTV Europe
