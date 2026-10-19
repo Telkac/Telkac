@@ -260,7 +260,7 @@ https://dash4.antik.sk/live/test_cartoon_network_tizen/playlist.m3u8
 http://46.149.191.219:9109/play/a024
 #EXTINF:-1 tvg-id="Tom&Jerry" tvg-logo="https://m.media-amazon.com/images/M/MV5BODY2YWI1OTAtY2FhZS00MGI1LTk0YjUtYmE3MDk0OGFkMWUyXkEyXkFqcGc@._V1_.jpg" group-title="Detské",Tom & Jerry (24 hodín vkuse)
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1 tvg-id="Mr Bean" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB900003KR_20250107T031153SQUARE.png" tvg-chno="4823" group-title="Detské",Mr Bean (24 hodín vkuse)
+#EXTINF:-1 tvg-id="Mr Bean" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB900003KR_20250107T031153SQUARE.png" group-title="Detské",Mr Bean (24 hodín vkuse)
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 #EXTINF:-1 tvg-id="Baby Shark TV" tvg-logo="https://i.imgur.com/SbBKr8L.png" tvg-chno="" group-title="Detské",Baby Shark TV (24 hodín vkuse)
 https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3619&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=8b26dccc-5135-41b7-8b34-4c9fd5d336c7&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=696
@@ -1312,25 +1312,25 @@ http://iptv.prosto.tv:7000/ch350/video.m3u8
 #EXTINF:-1,Planeta 4K UHD
 http://85.14.32.26:8800/udp/239.100.10.229:5000
 
-#EXTINF:-1 tvg-id="65ad908ad1eaca54984564e90aa54a14" tvg-chno="1",CZ: ONEPLAY1-kolo
+#EXTINF:-1 tvg-id="65ad908ad1eaca54984564e90aa54a14",CZ: ONEPLAY1-kolo
 http://45.129.141.180:9981/stream/channelid/177253733?profile=pass
-#EXTINF:-1 tvg-id="67d14f66fce0256c46b842802204a5e3" tvg-chno="2",CZ: ONEPLAY2-kolo
+#EXTINF:-1 tvg-id="67d14f66fce0256c46b842802204a5e3",CZ: ONEPLAY2-kolo
 http://45.129.141.180:9981/stream/channelid/1716506983?profile=pass
-#EXTINF:-1 tvg-id="fb1c3cdfdd05ed24d8a459fe46a62a10" tvg-chno="3",CZ: ONEPLAY3-kolo
+#EXTINF:-1 tvg-id="fb1c3cdfdd05ed24d8a459fe46a62a10",CZ: ONEPLAY3-kolo
 http://45.129.141.180:9981/stream/channelid/1597775099?profile=pass
-#EXTINF:-1 tvg-id="be33d52a2037d5a1afc981819e605de3" tvg-chno="4",CZ: EUROSPORT1-s2
+#EXTINF:-1 tvg-id="be33d52a2037d5a1afc981819e605de3",CZ: EUROSPORT1-s2
 http://45.129.141.180:9981/stream/channelid/718615486?profile=pass
-#EXTINF:-1 tvg-id="82e3fcab219bfeaaff332e60e63801e5" tvg-chno="5",CZ: EUROSPORT2-ali3
+#EXTINF:-1 tvg-id="82e3fcab219bfeaaff332e60e63801e5",CZ: EUROSPORT2-ali3
 http://45.129.141.180:9981/stream/channelid/737993602?profile=pass
-#EXTINF:-1 tvg-id="584e6d781e08d1eb35bf2ad1bd4b220c" tvg-chno="6",CZ: PREMIER SPORT1
+#EXTINF:-1 tvg-id="584e6d781e08d1eb35bf2ad1bd4b220c",CZ: PREMIER SPORT1
 http://45.129.141.180:9981/stream/channelid/2020429400?profile=pass
-#EXTINF:-1 tvg-id="af294e348a70d668c0ac1a9fcd983d18" tvg-chno="7",CZ: PREMIER SPORT2
+#EXTINF:-1 tvg-id="af294e348a70d668c0ac1a9fcd983d18",CZ: PREMIER SPORT2
 http://45.129.141.180:9981/stream/channelid/877537711?profile=pass
-#EXTINF:-1 tvg-id="4220a473f87bf4f0d160565a805ac543" tvg-chno="8",CZ: SPORTY TV-kolo
+#EXTINF:-1 tvg-id="4220a473f87bf4f0d160565a805ac543",CZ: SPORTY TV-kolo
 http://45.129.141.180:9981/stream/channelid/1940136002?profile=pass
-#EXTINF:-1 tvg-id="acc04851a2b485f7ce41ecd72b244a22" tvg-chno="9",IT: SKY TENIS IT aliex2
+#EXTINF:-1 tvg-id="acc04851a2b485f7ce41ecd72b244a22",IT: SKY TENIS IT aliex2
 http://45.129.141.180:9981/stream/channelid/1363722412?profile=pass
-#EXTINF:-1 tvg-id="69e43f3f6491c0c559876e7a0f8d1fca" tvg-chno="10",YU: ARENA TENIS ali3
+#EXTINF:-1 tvg-id="69e43f3f6491c0c559876e7a0f8d1fca",YU: ARENA TENIS ali3
 http://45.129.141.180:9981/stream/channelid/1061151849?profile=pass
 
 #EXTINF:-1,KVIFF.TV
