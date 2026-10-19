@@ -377,9 +377,9 @@ http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:0,group-title="Hudobné",Hiel Music
 https://live.obslivestream.com/hielmusic/index.m3u8
 
-#EXTINF:-1 tvg-name="Oxygen Music" tvg-logo="" tvg-id="" tvg-chno="3" tvg-country="HU" group-title="Hungary",Oxygen Music
+#EXTINF:-1 tvg-name="Oxygen Music" tvg-logo="" tvg-id="" tvg-country="HU" group-title="Hungary",Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
-#EXTINF:-1 tvg-name="Dance TV" tvg-logo="" tvg-id="" tvg-chno="4" tvg-country="HU" group-title="Hungary",Dance TV
+#EXTINF:-1 tvg-name="Dance TV" tvg-logo="" tvg-id="" tvg-country="HU" group-title="Hungary",Dance TV
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
 #EXTINF:0,MTV Europe
@@ -1070,9 +1070,9 @@ http://46.149.191.217:9010/play/a017
 http://86.87.15.10:8005/play/a00v/index.m3u8
 
 
-#EXTINF:-1 tvg-id="36ef0fbd97eff0b6cf8d95b70b72602b" tvg-chno="311",Eurosport 1
+#EXTINF:-1 tvg-id="36ef0fbd97eff0b6cf8d95b70b72602b" ,Eurosport 1
 http://212.186.45.34:9981/stream/channelid/1024454454?profile=pass
-#EXTINF:-1 tvg-id="6f0892f7e009e21864af50efc8d24ce7" tvg-chno="312",Sport 1
+#EXTINF:-1 tvg-id="6f0892f7e009e21864af50efc8d24ce7" ,Sport 1
 http://212.186.45.34:9981/stream/channelid/2006059119?profile=pass
 
 
