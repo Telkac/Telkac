@@ -439,7 +439,7 @@ https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd
 http://212.102.38.45/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-name="ČT sport Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png" tvg-id="" tvg-chno="7" tvg-country="CZ" group-title="Czech Republic",ČT sport Plus
 
-#EXTINF:-1 tvg-id="Eurosport 1.cz" tvg-name="Eurosport 1.cz" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sport",Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport 1.cz" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sport",Eurosport 1
 http://185.188.188.237:5000/live/eurosport/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport 2.cz" tvg-name="Eurosport 2.cz" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sport",Eurosport 2
 http://185.188.188.237:5000/live/eurosport2/playlist.m3u8
@@ -1070,9 +1070,9 @@ http://46.149.191.217:9010/play/a017
 http://86.87.15.10:8005/play/a00v/index.m3u8
 
 
-#EXTINF:-1 tvg-id="36ef0fbd97eff0b6cf8d95b70b72602b" ,Eurosport 1
+#EXTINF:-1 tvg-id="" ,Eurosport 1
 http://212.186.45.34:9981/stream/channelid/1024454454?profile=pass
-#EXTINF:-1 tvg-id="6f0892f7e009e21864af50efc8d24ce7" ,Sport 1
+#EXTINF:-1 tvg-id="" ,Sport 1
 http://212.186.45.34:9981/stream/channelid/2006059119?profile=pass
 
 
