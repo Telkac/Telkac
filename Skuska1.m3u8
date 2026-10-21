@@ -100,15 +100,14 @@ http://212.102.38.45/live/test_hbo3_hd_hevc/playlist.m3u8
 http://212.102.38.45/live/test_film_plus_25p/playlist.m3u8
 
 #EXTINF:0,FILMBOX+ Comedy.cz
-http://88.212.15.19/live/test_filmbox_family_atk_1200/playlist.m3u8
+
 #EXTINF:0,FILMBOX+ Emotion.cz
-http://88.212.15.19/live/test_film_boxextra_hd_hevc/playlist.m3u8
+
 #EXTINF:0,FILMBOX+ Hits.cz
-http://88.212.15.19/live/test_film_boxpremium_hd_hevc/playlist.m3u8
+
 #EXTINF:0,FILMBOX+ Love & Crime.cz
-http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8
+
 #EXTINF:0,FILMBOX+ One.cz
-http://88.212.15.19/live/test_filmbox/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Filmbox.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmbox.png" group-title="Všeobecné",Filmbox
 http://212.102.38.45/live/test_filmbox/playlist.m3u8
@@ -147,15 +146,15 @@ http://185.188.188.237:5000/live/canalaction/playlist.m3u8
 #EXTINF:-1 tvg-id="Paramount Network.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/2056px-Paramount_Network.svg.png" group-title="Všeobecné",Paramount Network
 
 #EXTINF:-1 tvg-id="Epic Drama.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/epicdrama.png" group-title="Všeobecné",Epic Drama
-http://46.149.191.219:9105/play/a01g
+
 #EXTINF:-1 tvg-id="Story4 (cz).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/story4.png" group-title="Všeobecné",Story 4
-http://46.149.191.219:9115/play/a014
+
 #EXTINF:-1 tvg-id="Markíza International.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/markizainternational.png" group-title="Všeobecné",Markiza International
-http://46.149.191.219:9106/play/a005
+
 #EXTINF:-1 tvg-id="Nova International.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1-nova-international-hd.png" group-title="Všeobecné",Nova International
-http://46.149.191.219:9103/play/a00d
+
 #EXTINF:-1 tvg-id="Prima SK.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primahd.png" group-title="Všeobecné",Prima SK
-http://46.149.191.219:9104/play/a00b
+
 #EXTINF:-1 tvg-id="Prima COOL SK.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://staticeu.sweet.tv/images/icons/channels/v2/863-prima-cool-hd.png" group-title="Všeobecné",Prima COOL SK
 http://212.102.38.45/live/prima_cool_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ Family.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/jojfamilyhd.png" group-title="Všeobecné",JOJ Family SK
