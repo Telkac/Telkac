@@ -1461,4 +1461,7 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport5/live_fullhd
 #EXTINF:-1 group-title="Спорт",NOVA SPORT 6 HD
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport6/live_fullhd
 
+#EXTINF:-1,Voyo Sport 1 RO 🇷🇴
+https://vid.hls.protv.ro/liveibu5/liveibu5_highw/index.m3u8?1
+
 
