@@ -1467,3 +1467,9 @@ https://vid.hls.protv.ro/liveibu5/liveibu5_highw/index.m3u8?1
 
 #EXTINF:-1,Prima Sport CZ
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_sport/live_mq?offsetSeconds=0
+
+#EXTINF:-1,ORF Sport+ 
+https://test02.mdn.ors.at/orf/orfs/qxa/manifest.m3u8
+
+#EXTINF:-1,Russian Relax 
+http://88.212.7.14/live/test_home_uhd_tizen/playlist.m3u8
