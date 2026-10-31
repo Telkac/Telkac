@@ -1474,3 +1474,6 @@ https://test02.mdn.ors.at/orf/orfs/qxa/manifest.m3u8
 
 #EXTINF:-1,Russian Relax 
 http://88.212.7.14/live/test_home_uhd_tizen/playlist.m3u8
+
+#EXTINF:-1,MEGOGO Sport ua 
+http://5.188.159.128:8070/megogo_sport/index.m3u8
