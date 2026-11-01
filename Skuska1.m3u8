@@ -1472,8 +1472,22 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_sport/live_mq?offsetSeconds=0
 #EXTINF:-1,ORF Sport+ 
 https://test02.mdn.ors.at/orf/orfs/qxa/manifest.m3u8
 
-#EXTINF:-1,Russian Relax 
+#EXTINF:-1,HOME 4K
 http://88.212.7.14/live/test_home_uhd_tizen/playlist.m3u8
+#EXTINF:-1,Love Nature 4K CZ
+http://88.212.7.14/live/test_love_nature_uhd_atktv/playlist.m3u8
+#EXTINF:-1,Markiza +1
+http://88.212.7.14/live/test_mpjedna_hevc/playlist.m3u8
+#EXTINF:-1,RIC.today 
+http://88.212.7.14/live/test_ric_international_avc_25p/playlist.m3u8
+#EXTINF:-1,Slager Original (Slagr 1)
+http://88.212.7.14/live/test_slagr_atk_1200/playlist.m3u8
+#EXTINF:-1,Eurosport 1🇨🇿
+http://88.212.7.14/live/test_esp1_hevc_tizen/playlist.m3u8
+#EXTINF:-1,Eurosport 2🇨🇿
+http://88.212.7.14/live/test_esp2_hevc_tizen/playlist.m3u8
+#EXTINF:-1,Kechnec TV
+http://88.212.7.14/live/test_kechnec_avc_25p/playlist.m3u8
 
 #EXTINF:-1,MEGOGO Sport ua 
 http://5.188.159.128:8070/megogo_sport/index.m3u8
