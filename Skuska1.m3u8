@@ -444,6 +444,9 @@ http://212.102.38.45/live/test_ctsport_25p/playlist.m3u8
 http://185.188.188.237:5000/live/eurosport/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Sport",Eurosport 2
 http://185.188.188.237:5000/live/eurosport2/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport4KCzechia.cz@UHD",Eurosport 4K Czechia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Sport1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png" group-title="Sport",Sport 1
