@@ -1504,13 +1504,13 @@ http://5.188.159.128:8070/megogo_sport/index.m3u8
 #EXTINF:-1,Sky Sports 1 
 http://45.228.234.9:8000/play/a06b/index.m3u8
 
-EXTINF:-1,Claro Sports 
+#EXTINF:-1,Claro Sports 
 http://45.228.234.9:8000/play/a06i/index.m3u8
 
-EXTINF:-1,Match Premier.ru 
+#EXTINF:-1,Match Premier.ru 
 http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 
-EXTINF:-1,Formula 1 AntenaPlay
+#EXTINF:-1,Formula 1 AntenaPlay
 https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8
 
 #EXTINF:-1 tvg-id="MaxSport1.bg@SD",Max Sport 1 (720p)
