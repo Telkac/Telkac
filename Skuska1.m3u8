@@ -552,6 +552,8 @@ https://dash2.antik.sk/live/test_park_tv/playlist.m3u8
 https://dash2.antik.sk/live/test_relax/playlist.m3u8
 #EXTINF:-1 tvg-id="A11.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/A11.png" group-title="Všeobecné",A11
 https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VIATV.sk@SD",VIA TV
+http://88.212.15.50/live/via_tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Všeobecné",Vio TV
 
 #EXTINF:-1 tvg-id="TVNoe.cz",TV Noe
@@ -580,6 +582,9 @@ https://dash2.antik.sk/live/test_panorama/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Regio tv.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/WlF6tlZ.png" group-title="Všeobecné",Regio TV
 https://dash3.antik.sk/live/test_regio_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVLux.cz",TV Lux
+https://stream.tvlux.sk/luxtv/luxtv-livestream/chunklist_w617812057.m3u8
 
 #EXTINF:-1 tvg-id="Tanečné súťaže HD.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.maxim.iptv.antik.sk/app/assets/upload/channels/60a2b0c04cbc73c131beb0eaf490ed26.svg" group-title="Športové",Tanečné súťaže HD
 http://212.102.38.45/live/tanecnesutaze/index.m3u8
