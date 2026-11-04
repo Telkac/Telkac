@@ -141,7 +141,7 @@ http://212.102.38.45/live/test_upnetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal+ Action.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/canalplusaction.png" group-title="Všeobecné",Canal Plus Action 
 http://185.188.188.237:5000/live/canalaction/playlist.m3u8
 #EXTINF:-1 tvg-id="Warner TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/526px-Warner2018LA.png" group-title="Všeobecné",Warner TV
-
+http://88.212.15.50/live/warner_tv/index.m3u8
 #EXTINF:-1 tvg-id="Paramount Network.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/2056px-Paramount_Network.svg.png" group-title="Všeobecné",Paramount Network
 
 #EXTINF:-1 tvg-id="Epic Drama.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/epicdrama.png" group-title="Všeobecné",Epic Drama
@@ -166,6 +166,8 @@ http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8
 http://212.102.38.45/live/test_joj_svet/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel.cz" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/discoverychannel.png" group-title="Dokumentárne",Discovery
 http://212.102.38.45/live/test_discovery_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.cz",Investigation Discovery
+http://88.212.15.50/live/test_id_hevc_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="Travel Channel.cz" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/travelchannel.png" group-title="Dokumentárne",Travel Channel
 http://212.102.38.45/live/test_travel_channel_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Love Nature.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/lovenature.png" group-title="Dokumentárne",Love Nature
@@ -204,13 +206,13 @@ http://212.102.38.45/live/test_tlc_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC Earth.cz" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/bbcearth.png",BBC Earth
 
 #EXTINF:-1 tvg-id="HGTV.cz" tvg-name="" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/hgtv.png" group-title="Dokumentárne",HGTV
-
+http://88.212.15.50/live/test_hgtv_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Viasat True Crime.cz" tvg-name="Viasat True Crime" tvg-logo="" group-title="Dokumentárne",Viasat True Crime
 
 #EXTINF:-1 tvg-id="Paprika.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvpaprika.png" group-title="Dokumentárne",TV Paprika
 http://212.102.38.45/live/test_parpika_tv_sd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Food Network.cz" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/2048px-Food_Network_logo.svg.png" group-title="Dokumentárne",Food Network
-
+http://88.212.15.50/live/test_food_network_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Mňam TV.cz" tvg-name="" tvg-logo="https://imnam.cz/wp-content/uploads/2024/11/Logo_Mnam_2022-2.png" group-title="Dokumentárne",Mňam TV
 
 #EXTINF:-1 tvg-id="Fishing and Hunting.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/fishingandhunting.png" group-title="Dokumentárne",Fishing and Hunting
@@ -281,13 +283,13 @@ https://dash2.antik.sk/live/test_rebel/playlist.m3u8
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MusicBoxClassic.cz",Music Box Classic
-
+http://88.212.15.50/live/mb_classic/index.m3u8
 #EXTINF:-1 tvg-id="MusicBoxDance.cz",Music Box Dance
-
+http://88.212.15.50/live/mb_dance/index.m3u8
 #EXTINF:-1 tvg-id="MusicBoxHits.cz",Music Box Hits
-
+http://88.212.15.50/live/mb_hits/index.m3u8
 #EXTINF:-1 tvg-id="MusicBoxSexy.cz",Music Box Sexy
-
+http://88.212.15.50/live/mb_sexy/index.m3u8
 
 #EXTINF:-1 tvg-id="MagicTV.cz" group-title="Hudobné",Magic TV BG 🇧🇬 
 https://bss1.neterra.tv/magictv/magictv.m3u8
@@ -600,9 +602,9 @@ https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
 #EXTINF:-1 tvg-id="VychodoceskaTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/v1.png" group-title="Všeobecné",Východočeská televize V1
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 #EXTINF:-1 tvg-id="Noe.cz.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/tvnoehd.png" group-title="Všeobecné",TV Noe
-
+https://n105.quickmedia.tv/noetv/live/noetv/Ifd4_1_4/chunks_dvr_timeshift-0-7200.m3u8
 #EXTINF:-1 tvg-id="Noe+.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.cC9jrOpq4VTv9_u2Rldv1wHaE-&pid=Api&P=0&h=180" group-title="Všeobecné",TV Noe +
-
+https://n105.quickmedia.tv/noetvplus/live/noetvplus/Shz3_1_1/chunks_dvr_timeshift-0-7200.m3u8
 #EXTINF:-1 tvg-id="JC1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/jc1.png" group-title="Všeobecné",JČ1 regionální televize
 https://stream.jc1.cz/hls/jc1.m3u8
 #EXTINF:-1 tvg-id="tvgimi.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/kuryrtv.png" group-title="Všeobecné",TV gimi
