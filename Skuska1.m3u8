@@ -1132,8 +1132,25 @@ http://iptv.prosto.tv:7000/ch348/video.m3u8
 #EXTINF:-1 tvg-logo="../Channel/logo/ZooПарк.png",Парк
 http://iptv.prosto.tv:7000/ch350/video.m3u8
 
-#EXTINF:-1,Planeta 4K UHD
-http://85.14.32.26:8800/udp/239.100.10.229:5000
+#EXTINF:0,Relax14K
+#EXTVLCOPT:network-caching=1000
+http://57.128.33.103:8080/live/relax14k.ts
+#EXTINF:0,Relax24K
+#EXTVLCOPT:network-caching=1000
+http://57.128.33.103:8080/live/relax24k.ts
+#EXTINF:0,Relax34K
+#EXTVLCOPT:network-caching=1000
+http://57.128.33.103:8080/live/relax34k.ts
+#EXTINF:0,Relax44K
+#EXTVLCOPT:network-caching=1000
+http://57.128.33.103:8080/live/relax44k.ts
+#EXTINF:0,Somine
+#EXTVLCOPT:network-caching=1000
+http://57.128.33.103:8080/live/somine.ts
+#EXTINF:0,YazKeyfi
+#EXTVLCOPT:network-caching=1000
+http://57.128.33.103:8080/live/yazkeyfi.ts
+
 
 #EXTINF:-1,KVIFF.TV
 http://antik.streaming.tivio.studio/channels/HC7JIqyyvQMl0mnqbbnI/index.m3u8
