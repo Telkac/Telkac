@@ -1290,7 +1290,12 @@ http://88.212.7.14/live/sport1_hun/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/sport2_hun/index.m3u8
 
-
+#EXTINF:30,super tennis
+#EXTVLCOPT:network-caching=1000
+http://57.128.225.206:80/stream/7/index.m3u8
+#EXTINF:30,tennis plus
+#EXTVLCOPT:network-caching=1000
+http://57.128.225.206:80/stream/8/index.m3u8
 
 
 
