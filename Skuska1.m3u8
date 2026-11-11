@@ -175,6 +175,8 @@ http://212.102.38.45/live/test_discovery_hd_hevc/playlist.m3u8
 http://88.212.15.50/live/test_id_hevc_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="Travel Channel.cz" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/travelchannel.png" group-title="Dokumentárne",Travel Channel
 http://212.102.38.45/live/test_travel_channel_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Travel XP.cz" tvg-name="" tvg-logo="" group-title="Dokumentárne",Travel Channel XP
+http://88.212.7.14/live/travel_xp/index.m3u8
 #EXTINF:-1 tvg-id="Love Nature.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/lovenature.png" group-title="Dokumentárne",Love Nature
 http://212.102.38.45/live/test_lovenature/playlist.m3u8
 #EXTINF:-1 tvg-id="Animal Planet.cz" tvg-name="Discovery" tvg-logo="http://www.fontedecanais.tv/logos/canais/animalplanet.png" group-title="Dokumentárne",Animal Planet
