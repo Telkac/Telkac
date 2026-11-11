@@ -147,9 +147,9 @@ http://88.212.15.50/live/warner_tv/index.m3u8
 #EXTINF:-1 tvg-id="Paramount Network.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/2056px-Paramount_Network.svg.png" group-title="Všeobecné",Paramount Network
 
 #EXTINF:-1 tvg-id="Epic Drama.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/epicdrama.png" group-title="Všeobecné",Epic Drama
-
+http://88.212.7.14/live/test_epic_drama_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Story4 (cz).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/story4.png" group-title="Všeobecné",Story 4
-
+http://88.212.7.14/live/story_4_cze_atk/index.m3u8
 #EXTINF:-1 tvg-id="MarkizaPlus1.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/sleduj-tv/transparent-logos/refs/heads/main/picons/markiza.png" group-title="Všeobecné",Markiza +1 (hodina dozadu)
 http://88.212.7.14/live/test_mpjedna_hevc/playlist.m3u8
 
