@@ -224,9 +224,9 @@ https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/playli
 #EXTINF:-1 tvg-id="",Just.fishing
 https://jmp2.uk/plu-61b33085897b9d000702b72e.m3u8
 
-#EXTINF:-1 tvg-id="Travel XP 4K.cz" tvg-name="Travel XP 4K" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/travelchannel.png" group-title="Dokumentárne",Travel XP 4K
+#EXTINF:-1 tvg-id="Travel XP 4K.cz" tvg-name="Travel XP 4K" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/travelchannel.png" group-title="Dokumentárne",Travel XP 【4K】
 http://88.212.7.14/live/travel_xp_4k/index.m3u8
-#EXTINF:-1 tvg-id="Love Nature.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/lovenature.png" group-title="Dokumentárne",Love Nature 4K
+#EXTINF:-1 tvg-id="Love Nature.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/lovenature.png" group-title="Dokumentárne",Love Nature 【4K】
 http://88.212.15.50/live/test_love_nature_uhd_atktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Jojko.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/815-jojko-hd.png" group-title="Detské",Jojko
@@ -409,7 +409,7 @@ http://212.102.38.45/live/test_ctsport_25p/playlist.m3u8
 http://185.188.188.237:5000/live/eurosport/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Sport",Eurosport 2
 http://185.188.188.237:5000/live/eurosport2/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport 4K.cz",Eurosport 4K Czech
+#EXTINF:-1 tvg-id="Eurosport 4K.cz",Eurosport 【4K】
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
 
@@ -1132,16 +1132,16 @@ http://iptv.prosto.tv:7000/ch348/video.m3u8
 #EXTINF:-1 tvg-logo="../Channel/logo/ZooПарк.png",Парк
 http://iptv.prosto.tv:7000/ch350/video.m3u8
 
-#EXTINF:0,Relax14K
+#EXTINF:0,Relax1【4K】
 #EXTVLCOPT:network-caching=1000
 http://57.128.33.103:8080/live/relax14k.ts
-#EXTINF:0,Relax24K
+#EXTINF:0,Relax2【4K】
 #EXTVLCOPT:network-caching=1000
 http://57.128.33.103:8080/live/relax24k.ts
-#EXTINF:0,Relax34K
+#EXTINF:0,Relax3【4K】
 #EXTVLCOPT:network-caching=1000
 http://57.128.33.103:8080/live/relax34k.ts
-#EXTINF:0,Relax44K
+#EXTINF:0,Relax4【4K】
 #EXTVLCOPT:network-caching=1000
 http://57.128.33.103:8080/live/relax44k.ts
 #EXTINF:0,Somine
@@ -1307,12 +1307,12 @@ http://88.212.7.14/live/sport1_hun/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/sport2_hun/index.m3u8
 
-#EXTINF:30,super tennis
+#EXTINF:30,Super tennis 【4K】
 #EXTVLCOPT:network-caching=1000
 http://57.128.225.206:80/stream/7/index.m3u8
-#EXTINF:30,tennis plus
+#EXTINF:30,Tennis plus 【4K】
 #EXTVLCOPT:network-caching=1000
 http://57.128.225.206:80/stream/8/index.m3u8
-
-
+#EXTINF:30,Prima sport 【4K】 
+http://92.180.26.103/stream/80/index.m3u8
 
