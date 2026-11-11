@@ -20,7 +20,7 @@ http://212.102.38.45/live/test_joj_25p/playlist.m3u8
 http://212.102.38.45/live/test_dajto_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Doma.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/doma.png" group-title="Všeobecné",Doma
 http://212.102.38.45/live/test_doma_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Markíza KRIMI.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/markizakrimi.png" group-title="Všeobecné",Markiza Krimi
+#EXTINF:-1 tvg-id="Markíza KRIMI.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/markizakrimi.png" group-title="Všeobecné",Markiza Krimi
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-markiza-krimi-tn/live_hq?offsetSeconds=0
 http://212.102.38.45/live/test_markiza_krimi_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Markíza KLASIK.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/markizaklasik.png" group-title="Všeobecné",Markiza Klasik
@@ -39,7 +39,7 @@ http://212.102.38.45/live/test_ta3_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ 24.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/owEVXRE.png" group-title="Všeobecné",JOJ 24
 #EXTVLCOPT:http-referrer=https://media.joj.sk/
 https://live.cdn.joj.sk/live/andromeda/joj_news-720.m3u8
-#EXTINF:-1 tvg-id="RTVS 24.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/rtvs24.png" group-title="Všeobecné",RTVS 24.cz
+#EXTINF:-1 tvg-id="RTVS 24.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/rtvs24.png" group-title="Všeobecné",RTVS 24
 http://212.102.38.45/live/test_trojka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT24.cz" tvg-url="ct24.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/pUMRFs1.png" group-title="Všeobecné",ČT24
 http://212.102.38.45/live/test_ct24_hevc/playlist.m3u8
@@ -392,11 +392,11 @@ https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 http://212.102.38.45/live/test_folklorika_atktv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="RTVS Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/rtvssport.png" group-title="Sport",RTVS Šport
+#EXTINF:-1 tvg-id="RTVS Šport.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/rtvssport.png" group-title="Sport",RTVS Šport
 http://212.102.38.45/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/jojsport.png" group-title="Sport",JOJ Šport
 http://212.102.38.45/live/test_joj_sport_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="JOJ Šport 2.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/jojsport2.png" group-title="Sport",JOJ Šport 2
+#EXTINF:-1 tvg-id="JOJ Šport 2.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/jojsport2.png" group-title="Sport",JOJ Šport 2
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
