@@ -224,9 +224,9 @@ https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/playli
 #EXTINF:-1 tvg-id="",Just.fishing
 https://jmp2.uk/plu-61b33085897b9d000702b72e.m3u8
 
-#EXTINF:-1 tvg-id="Travel XP 4K.cz" tvg-name="Travel XP 4K" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/travelchannel.png" group-title="Dokumentárne",Travel XP 【4K】
+#EXTINF:-1 tvg-id="Travel XP 4K.cz" tvg-name="Travel XP 4K" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/travelchannel.png" group-title="Dokumentárne",Travel XP    【4K】
 http://88.212.7.14/live/travel_xp_4k/index.m3u8
-#EXTINF:-1 tvg-id="Love Nature.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/lovenature.png" group-title="Dokumentárne",Love Nature 【4K】
+#EXTINF:-1 tvg-id="Love Nature.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/lovenature.png" group-title="Dokumentárne",Love Nature    【4K】
 http://88.212.15.50/live/test_love_nature_uhd_atktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Jojko.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/815-jojko-hd.png" group-title="Detské",Jojko
@@ -1307,17 +1307,17 @@ http://88.212.7.14/live/sport1_hun/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/sport2_hun/index.m3u8
 
-#EXTINF:30,Super tennis 【4K】
+#EXTINF:30,Super tennis    【4K】
 #EXTVLCOPT:network-caching=1000
 http://57.128.225.206:80/stream/7/index.m3u8
-#EXTINF:30,Tennis plus 【4K】
+#EXTINF:30,Tennis plus    【4K】
 #EXTVLCOPT:network-caching=1000
 http://57.128.225.206:80/stream/8/index.m3u8
-#EXTINF:30,Prima sport 【4K】 
+#EXTINF:30,Prima sport    【4K】 
 http://92.180.26.103/stream/80/index.m3u8
 
 
-
+4K ikona     【4K】
 Česko 🇨🇿 
 Rumunsko 🇷🇴
 Poľsko 🇵🇱
