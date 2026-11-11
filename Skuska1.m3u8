@@ -1347,6 +1347,7 @@ window.open(playerUrl, '_blank', 'noopener');
 #EXTINF:30,swedish
 https://youtu.be/xBbOVxfFuMc?is=SYCXFsj1jY4s3x0B
 
+#EXTINF:30,swedish
 def grab(url):https://youtu.be/QTzNV_aD0p8?is=-74JApwjP9NiWEaX
     response = requests.get(url, timeout=15).text
     if '.m3u8' not in response:
