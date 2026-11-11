@@ -1327,7 +1327,7 @@ https://m3u8-player.com/#url=https%3A%2F%2Fyoutu.be%2FxBbOVxfFuMc%3Fis%3DSYCXFsj
 https://armin-van-buuren-everlasting.mp3uk.net/load/e0f889a023c36ff4.mp4
 #EXTINF:30,Armin van Buuren - Everlasting.mp3
 https://armin-van-buuren-everlasting.mp3uk.net/load/e0f889a023c36ff4.m3u8
-#EXTINF:-1,Armin
+#EXTINF:30,Armin van Buuren
 const params = new URLSearchParams({
   "url": "https://youtu.be/xBbOVxfFuMc?is=SYCXFsj1jY4s3x0B",
   "title": "Armin",
