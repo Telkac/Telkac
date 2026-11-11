@@ -1344,6 +1344,8 @@ const params = new URLSearchParams({
 });
 const playerUrl = 'https://m3u8-player.com/#' + params;
 window.open(playerUrl, '_blank', 'noopener');
+#EXTINF:30,swedish
+https://youtu.be/xBbOVxfFuMc?is=SYCXFsj1jY4s3x0B
 
 4K ikona     【4K】
 Česko 🇨🇿 
