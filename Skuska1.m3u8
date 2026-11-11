@@ -148,6 +148,9 @@ http://88.212.15.50/live/warner_tv/index.m3u8
 
 #EXTINF:-1 tvg-id="Story4 (cz).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/story4.png" group-title="Všeobecné",Story 4
 
+#EXTINF:-1 tvg-id="MarkizaPlus1.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://raw.githubusercontent.com/sleduj-tv/transparent-logos/refs/heads/main/picons/markiza.png" group-title="Všeobecné",Markiza +1 (hodina dozadu)
+http://88.212.7.14/live/test_mpjedna_hevc/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Markíza International.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/markizainternational.png" group-title="Všeobecné",Markiza International
 
 #EXTINF:-1 tvg-id="Nova International.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1-nova-international-hd.png" group-title="Všeobecné",Nova International
