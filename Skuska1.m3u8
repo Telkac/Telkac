@@ -154,11 +154,11 @@ http://88.212.7.14/live/story_4_cze_atk/index.m3u8
 http://88.212.7.14/live/test_mpjedna_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Markíza International.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/markizainternational.png" group-title="Všeobecné",Markiza International
-
+http://88.212.7.14/live/markiza_int_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova International.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1-nova-international-hd.png" group-title="Všeobecné",Nova International
 http://88.212.7.14/live/test_nova_int_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima SK.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/primahd.png" group-title="Všeobecné",Prima SK
-
+http://88.212.7.14/live/test_prima_plus_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima COOL SK.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://staticeu.sweet.tv/images/icons/channels/v2/863-prima-cool-hd.png" group-title="Všeobecné",Prima COOL SK
 http://212.102.38.45/live/prima_cool_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ Family.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/jojfamilyhd.png" group-title="Všeobecné",JOJ Family SK
@@ -211,7 +211,7 @@ http://212.102.38.45/live/test_id_hevc_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC.cz" tvg-name="Sat crime invest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="Dokumentárne",TLC
 http://212.102.38.45/live/test_tlc_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC Earth.cz" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/bbcearth.png",BBC Earth
-
+http://88.212.7.14/live/test_bbc_eartch_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="HGTV.cz" tvg-name="" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/hgtv.png" group-title="Dokumentárne",HGTV
 http://88.212.15.50/live/test_hgtv_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Viasat True Crime.cz" tvg-name="Viasat True Crime" tvg-logo="" group-title="Dokumentárne",Viasat True Crime
@@ -490,6 +490,7 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_sport/live_mq?offsetSeconds=0
 https://test02.mdn.ors.at/orf/orfs/qxa/manifest.m3u8
 
 #EXTINF:-1 tvg-id="M4 Sport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/m4sport.png" group-title="Sport",M4 Sport
+http://88.212.7.14/live/uatlmvixrr/index.m3u8
 
 #EXTINF:-1 tvg-id="TV Reduta.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/smizIrT.png" group-title="Všeobecné",TV Reduta
 https://dash3.antik.sk/live/tv_reduta/playlist.m3u8
