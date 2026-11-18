@@ -458,7 +458,7 @@ http://45.129.141.180:9981/stream/channelid/1597775099?profile=pass
 #EXTINF:-1 tvg-id="Oneplay Sport 4.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://oneplaysport.cz/assets/front/img/channels/ops_4.png" group-title="Sport",Oneplay Sport 4
 
 #EXTINF:-1 tvg-id="Sporty TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/znelkytv/Icons/main/SportyTVSD.png" group-title="Sport",Sporty TV
-https://88.212.7.14/live/sporty_tv/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Premier Sport 1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://oneplaysport.cz/assets/front/img/channels/ps_1.png" group-title="Sport",PREMIER SPORT 1
 http://185.188.188.237:5000/live/premiersport/playlist.m3u8
@@ -953,12 +953,6 @@ http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
 http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd
 #EXTINF:-1,Polsat Sport 1 🇵🇱
 http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd
-#EXTINF:-1,Polsat Sport 1 🇵🇱
-http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7296/index.m3u8
-#EXTINF:-1,Polsat Sport 2 🇵🇱
-http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7310/index.m3u8
-#EXTINF:-1,Polsat Sport 3 🇵🇱
-http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7303/index.m3u8
 
 #EXTINF:-1 tvg-id="Real.Madrid.TV.es" tvg-name="" group-title="Sport" tvg-logo="https://www.realmadrid.com/apple-icon-120x120.png",Real Madrid Tv 🇬🇧
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
@@ -1050,21 +1044,6 @@ https://dash3.antik.sk/live/test_cgtn/playlist.m3u8
 #EXTINF:-1 group-title="Antik TV SK", CGTN Documentary
 https://dash2.antik.sk/live/test_cgtn_doc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tom&Jerry" tvg-logo="https://m.media-amazon.com/images/M/MV5BODY2YWI1OTAtY2FhZS00MGI1LTk0YjUtYmE3MDk0OGFkMWUyXkEyXkFqcGc@._V1_.jpg" group-title="Kids",Tom & Jerry
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://mimipipi22.github.io/logo/antik/jojsport2.jpg",JOJ SPORT 2 🇸🇰
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://mimipipi22.github.io/logo/antik/jojsport.jpg",JOJ SPORT 🇸🇰
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
-
-
 #EXTINF:-1,МАТЧ! HD
 http://91.201.172.14:35001
 #EXTINF:-1,Матч!Футбол 1 HD
@@ -1095,9 +1074,6 @@ http://45.129.141.180:9981/stream/channelid/2020429400?profile=pass
 #EXTINF:0,CZ: PREMIER SPORT2
 #EXTVLCOPT:network-caching=1000
 http://45.129.141.180:9981/stream/channelid/877537711?profile=pass
-#EXTINF:0,CZ: SPORTY TV-kolo
-#EXTVLCOPT:network-caching=1000
-http://45.129.141.180:9981/stream/channelid/1940136002?profile=pass
 #EXTINF:0,IT: SKY TENIS IT aliex2
 #EXTVLCOPT:network-caching=1000
 http://45.129.141.180:9981/stream/channelid/1363722412?profile=pass
@@ -1202,19 +1178,6 @@ http://antik.streaming.tivio.studio/channels/HC7JIqyyvQMl0mnqbbnI/index.m3u8
 #EXTINF:-1,Ballcasterz
 http://antik.streaming.tivio.studio/channels/yXDwkH0CbFfkhU7ZnHlT/index.m3u8
 
-#EXTINF:-1,Match_Football_1_HD
-http://31.148.5.241:80/Match_Football_1_HD/index.m3u8
-#EXTINF:-1,Match_Football_2_HD
-http://31.148.5.241:80/Match_Football_2_HD/index.m3u8
-#EXTINF:-1,Match_Football_3_HD
-http://31.148.5.241:80/Match_Football_3_HD/index.m3u8
-#EXTINF:-1,Viasat_Sport
-http://31.148.5.241:80/Viasat_Sport/index.m3u8
-#EXTINF:-1,Eurosport_1_HD
-http://31.148.5.241:80/Eurosport_1_HD/index.m3u8
-#EXTINF:-1,Eurosport_2_HD
-http://31.148.5.241:80/Eurosport_2_HD/index.m3u8
-
 #EXTINF:0,Record Big Hits
 https://bl.rutube.ru/livestream/c7b8a6f89c95f9d224d7811d4489d5f7/index.m3u8?s=fPKyHOAra-VizfRR4V8IYw&e=2077662115&scheme=https
 #EXTINF:0,Record Chill House
@@ -1311,9 +1274,6 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-nova-sport6/live_fullhd
 #EXTINF:-1,Russian Relax 
 http://88.212.7.14/live/test_home_uhd_tizen/playlist.m3u8
 
-#EXTINF:-1,MEGOGO Sport ua 
-http://5.188.159.128:8070/megogo_sport/index.m3u8
-
 #EXTINF:-1,Sky Sports 1 
 http://45.228.234.9:8000/play/a06b/index.m3u8
 
@@ -1322,9 +1282,6 @@ http://45.228.234.9:8000/play/a06i/index.m3u8
 
 #EXTINF:-1,Match Premier.ru 
 http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
-
-#EXTINF:-1,Formula 1 AntenaPlay
-https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8
 
 #EXTINF:-1 tvg-id="MaxSport1.bg@SD",Max Sport 1 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36x
@@ -1359,7 +1316,7 @@ http://57.128.225.206:80/stream/7/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://57.128.225.206:80/stream/8/index.m3u8
 #EXTINF:30,Prima sport    【4K】 
-http://92.180.26.103/stream/80/index.m3u8
+
 
 #EXTINF:30,Armin van Buuren - Everlasting.mp3
 https://armin-van-buuren-everlasting.mp3uk.net/load/e0f889a023c36ff4.mp3
